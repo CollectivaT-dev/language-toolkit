@@ -33,3 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- readthedocs gettext confs
+gettext_uuid = True
+gettext_compact = False
