@@ -1,4 +1,4 @@
-Toolkit for minority/low-resoure languages
+Toolkit for minority/low-resource languages
 ==========================================
 
 Welcome to lorem ipsum.
