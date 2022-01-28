@@ -25,13 +25,6 @@ how to :ref:`Tools` the project.
 
    This project is under active development.
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
 
 Indices and tables
 ==================
