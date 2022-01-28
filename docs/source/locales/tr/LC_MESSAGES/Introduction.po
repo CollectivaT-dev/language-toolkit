@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Col·lectivaT SCCL
+# This file is distributed under the same license as the Language Toolkit
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Language Toolkit 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-28 16:58+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../Introduction.rst:4 0f81662fb4a0413ab9e9ec1267508316
+msgid "How to Train a Language Model"
+msgstr ""
+
+#: ../../Introduction.rst:7 ed0e6b8129604f3fb4f65c987f158610
+msgid "Introduction"
+msgstr ""
+
+#: ../../Introduction.rst:9 abc5cc55c7ee43a584c552b30feee8bf
+msgid ""
+"This document explains how to train and package a language model for "
+"deployment."
+msgstr ""
+
+#: ../../Introduction.rst:11 39125ef0a1cf4852b3095cef03ca6d54
+msgid ""
+"You will usually want to deploy a language model in production. A good "
+"language model will improve transcription accuracy by correcting "
+"predictable spelling and grammatical mistakes. If you can predict what "
+"kind of speech your 🐸STT will encounter, you can make great gains in "
+"accuracy with a custom language model."
+msgstr ""
+
+#: ../../Introduction.rst:13 1f1bd073c6db44d49cd30625f0ebbcd2
+msgid ""
+"For example, if you want to transcribe university lectures on biology, "
+"you should train a language model on text related to biology. With this "
+"biology-specific language model, 🐸STT will be able to better recognize "
+"rare, hard to spell words like \"cytokinesis\"."
+msgstr ""
+
+#: ../../Introduction.rst:16 6b3346c89cd64d099419c3c770d73f0f
+msgid "How to train a model"
+msgstr ""
+
+#: ../../Introduction.rst:18 5faf98fa37234585a0d56fca4fc5cd9c
+msgid "There are three steps to deploying a new language model for 🐸STT:"
+msgstr ""
+
+#: ../../Introduction.rst:20 4fd5d017a7454cf78b82fe821050965c
+msgid "Identify and format text data for training"
+msgstr ""
+
+#: ../../Introduction.rst:21 1a4cbee854f54263b2edada5734ec471
+msgid ""
+"Train a `KenLM <https://github.com/kpu/kenlm>`_ language model using "
+"``data/lm/generate_lm.py``"
+msgstr ""
+
+#: ../../Introduction.rst:22 7121625604724d8cb772ab95da86241e
+msgid "Package the model for deployment with ``generate_scorer_package``"
+msgstr ""
+

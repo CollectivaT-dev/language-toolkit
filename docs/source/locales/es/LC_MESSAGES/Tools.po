@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Col·lectivaT SCCL
+# This file is distributed under the same license as the Language Toolkit
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Language Toolkit 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-28 16:58+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../Tools.rst:4 48a600195a7a45d184ca324575eaaa54
+msgid "Tools"
+msgstr ""
+
+#: ../../Tools.rst:6 a04d2b9841db494cb508f7ba6b60dcd8
+msgid ""
+"Est cum distinctio laborum sed tempore ad nisi. Harum voluptatum "
+"doloremque quam occaecati eos sint. Animi error ea et eius. Temporibus "
+"aperiam voluptatem fugit cupiditate nam at. Perferendis quas id molestiae"
+" asperiores consequatur debitis a repellendus."
+msgstr ""
+
