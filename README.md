@@ -52,7 +52,7 @@ sphinx-build -b html -D language=tr . _build/html/tr
 sphinx-build -b html -D language=es . _build/html/es
 ```
 
-Pushing the `.po` files will create the new versions of the readthedocs translated pages [Spanish here](https://language-toolkit.readthedocs.io/es/latest/), [Turkish here](https://language-toolkit.readthedocs.io/tr/latest/). The different languages are also accesible from the footer menu. 
+Pushing the `.po` files will create the new versions of the readthedocs translated pages [Spanish here](https://language-toolkit.readthedocs.io/es/latest/), [Turkish here](https://language-toolkit.readthedocs.io/tr/latest/). The different languages are also accesible from the footer menu. They are setup according to [this guide](https://docs.readthedocs.io/en/stable/localization.html)
 
 ![footer](assets/images/footer.png)
 
