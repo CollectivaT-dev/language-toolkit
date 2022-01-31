@@ -45,14 +45,14 @@ The first command builds the templates `.pot` files and the second one updates t
 
 # Build the translated pages
 
-Before pushing the translated to the repository it might be a good idea to build the translated pages. For more information check the (official tutorial)[https://docs.readthedocs.io/en/stable/guides/manage-translations-sphinx.html].
+Before pushing the translated to the repository it might be a good idea to build the translated pages. For more information check the [official tutorial](https://docs.readthedocs.io/en/stable/guides/manage-translations-sphinx.html).
 
 ```
 sphinx-build -b html -D language=tr . _build/html/tr
 sphinx-build -b html -D language=es . _build/html/es
 ```
 
-Pushing the `.po` files will create the new versions of the readthedocs translated pages Spanish here, Turkish here. The different languages are also accesible from the footer menu. 
+Pushing the `.po` files will create the new versions of the readthedocs translated pages [Spanish here](https://language-toolkit.readthedocs.io/es/latest/), [Turkish here](https://language-toolkit.readthedocs.io/tr/latest/). The different languages are also accesible from the footer menu. 
 
 ![footer](assets/images/footer.png)
 
