@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Col·lectivaT SCCL
+# This file is distributed under the same license as the Language Toolkit
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Language Toolkit 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-31 11:42+0100\n"
+"PO-Revision-Date: 2022-01-31 12:15+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"X-Generator: Poedit 2.3\n"
+
+#: ../../Conclusion.rst:4 928281e73a9f42858613cdebde87e9ba
+msgid "Conclusion"
+msgstr "Kapanış"
+
+#: ../../Conclusion.rst:6 a0cea1cec2a54b39b306c49f20dd66f9
+msgid ""
+"Vel in voluptas fugiat. Doloribus qui facilis modi quia vitae illo. "
+"Perferendis est dolores placeat porro aut est eveniet. Ratione labore "
+"maxime doloribus est."
+msgstr ""
+
+#: ../../Conclusion.rst:8 d0864752a90c4bb8810c9a50d6500f23
+msgid ""
+"Est veritatis est unde est sit architecto. Totam est enim ut non est. "
+"Impedit saepe cumque rerum magni quia commodi deleniti sed. Veniam culpa "
+"voluptatem quasi. Officiis minus consequatur dolor nemo voluptas ducimus "
+"molestiae totam."
+msgstr ""
+
+#: ../../Conclusion.rst:10 3441c9869a35459886416652365c0078
+msgid ""
+"Qui iste omnis cum est id sed. Optio voluptatem harum laudantium "
+"provident dolores expedita. Provident aut nemo iure dicta ab inventore "
+"sapiente blanditiis. Consectetur placeat ducimus consequuntur "
+"consectetur quam ipsa alias."
+msgstr ""
+
+#: ../../Conclusion.rst:12 a894740f82884f9babb39d3c14c8d2c1
+msgid ""
+"Quo unde provident voluptas amet nesciunt. Natus eligendi nisi mollitia. "
+"Minus aspernatur qui rerum illo odit velit. Architecto cumque natus "
+"laborum voluptas nisi. Nostrum ut quam et sint eum. Deserunt qui non "
+"expedita est quia."
+msgstr ""
+
+#: ../../Conclusion.rst:14 6253ca6ce4604c85875ee3dc46eef88c
+msgid ""
+"Ipsa qui reprehenderit qui nihil minima repudiandae aspernatur. Quia a "
+"recusandae architecto neque nesciunt officiis placeat. Quo quod "
+"laboriosam ut error quia ut doloribus earum. Doloremque accusantium "
+"velit explicabo distinctio quia."
+msgstr ""

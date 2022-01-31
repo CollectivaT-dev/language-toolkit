@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-28 16:58+0100\n"
+"POT-Creation-Date: 2022-01-31 11:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,5 +49,41 @@ msgid ""
 " quo non laboriosam. Voluptatum non nulla omnis sed modi consequatur "
 "dolor voluptas. Iusto blanditiis et quisquam qui repellat est minus. "
 "Facilis voluptas provident et excepturi voluptatem."
+msgstr ""
+
+#: ../../Obstacles.rst:15 e3298f56f2374f98b592e66abd5cc87e
+msgid "The social"
+msgstr ""
+
+#: ../../Obstacles.rst:17 b2b1c1f4757440b39f93e598be98b623
+msgid ""
+"Target group who speaks the language and their demographic distrubution: "
+"Age, gender, economic access"
+msgstr ""
+
+#: ../../Obstacles.rst:20 d8f69336e8484287947e68c3e862be17
+msgid "Access to tech"
+msgstr ""
+
+#: ../../Obstacles.rst:22 ae8b18c0d3194b9ab75f99c533e7175a
+msgid "People need to have and use mobile phones, computers, internet"
+msgstr ""
+
+#: ../../Obstacles.rst:25 bf5be014530c4b11b0d14c430b8aff9f
+msgid "Knowledge barrier"
+msgstr ""
+
+#: ../../Obstacles.rst:27 6c2de91872f446dca349183b3a5d2b2c
+msgid ""
+"Some engineering will always be needed, and even engineers might not be "
+"versed on language technologies"
+msgstr ""
+
+#: ../../Obstacles.rst:30 a3692564524a465bbd23b703f918d08a
+msgid "Standardization"
+msgstr ""
+
+#: ../../Obstacles.rst:32 50efe9d842f342b1bf2380a2666d6b79
+msgid "Lack of standardization of orthography, grammar even pronunciation."
 msgstr ""
 

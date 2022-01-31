@@ -4,50 +4,94 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-28 16:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-01-31 11:42+0100\n"
+"PO-Revision-Date: 2022-01-31 12:11+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"X-Generator: Poedit 2.3\n"
 
 #: ../../Resources.rst:4 9532e8294e09419b99330cc1c80a8882
 msgid "Resources"
-msgstr ""
+msgstr "Los recursos"
 
-#: ../../Resources.rst:6 fb7f49cd0df64d4ea5def6d4cd11cd8c
+#: ../../Resources.rst:7 a1987b4e363643cbb501b96ae3e91476
+msgid "What are digital resources?"
+msgstr "¿Qué son los recursos digitales?"
+
+#: ../../Resources.rst:8 fb7f49cd0df64d4ea5def6d4cd11cd8c
 msgid ""
 "Sint mollitia fugit doloribus ut iste rerum. Et quo deserunt eos esse "
 "dolorem in debitis ex. Optio iste sit minima. Amet modi illum maxime "
 "molestias nemo eum. Repudiandae nostrum placeat similique dolorem."
 msgstr ""
 
-#: ../../Resources.rst:8 140ce21084ff4a5d910b6e6a4ab350ed
+#: ../../Resources.rst:10 140ce21084ff4a5d910b6e6a4ab350ed
 msgid ""
 "Dolores amet natus ab rerum ipsam sint. Fugit et numquam voluptatem "
 "aperiam quis sed. Iste consequuntur aliquid consequuntur. Enim nihil ad "
 "ut rem omnis."
 msgstr ""
 
-#: ../../Resources.rst:10 970575ed165c43ed8b50c086298fec40
+#: ../../Resources.rst:12 970575ed165c43ed8b50c086298fec40
 msgid ""
-"Consequatur earum omnis doloremque a quibusdam. Dolorum molestias dolorem"
-" quo non laboriosam. Voluptatum non nulla omnis sed modi consequatur "
-"dolor voluptas. Iusto blanditiis et quisquam qui repellat est minus. "
-"Facilis voluptas provident et excepturi voluptatem."
+"Consequatur earum omnis doloremque a quibusdam. Dolorum molestias "
+"dolorem quo non laboriosam. Voluptatum non nulla omnis sed modi "
+"consequatur dolor voluptas. Iusto blanditiis et quisquam qui repellat "
+"est minus. Facilis voluptas provident et excepturi voluptatem."
 msgstr ""
 
-#: ../../Resources.rst:12 78e0103b0e7e4957bcd025818296fe69
+#: ../../Resources.rst:14 78e0103b0e7e4957bcd025818296fe69
 msgid ""
 "Officia enim laudantium qui veritatis dolorum saepe corrupti dolorem. "
-"Voluptatum et minima odio rerum ut et. Voluptatem dolor delectus ipsa aut"
-" assumenda omnis et et. Voluptatum aut et fugit."
+"Voluptatum et minima odio rerum ut et. Voluptatem dolor delectus ipsa "
+"aut assumenda omnis et et. Voluptatum aut et fugit."
 msgstr ""
 
+#: ../../Resources.rst:17 67cceb175647425c8359fea24d035111
+msgid "Data"
+msgstr "Datos"
+
+#: ../../Resources.rst:20 535197f9f6ba423c898c17813fa0e749
+msgid "Text corpus"
+msgstr "Corpus de texto"
+
+#: ../../Resources.rst:23 c22880b3e35e488d86a308b09ecdf382
+msgid "Speech corpus"
+msgstr "Corpus del habla"
+
+#: ../../Resources.rst:26 1ba4ab494a1d4f53bef2513a3cb63b80
+msgid "Bi-text"
+msgstr ""
+
+#: ../../Resources.rst:29 b3a8419601364e7ca9cb0bb06d8100a8
+msgid "Technology"
+msgstr "Tecnología"
+
+#: ../../Resources.rst:32 666b3f77b50c409193612d8fdbf2ee74
+msgid "Ortography corrector"
+msgstr "Corrector de ortografía"
+
+#: ../../Resources.rst:35 811cda5565bb4f1d8477f13e5b4e643d
+msgid "Phonemizer"
+msgstr ""
+
+#: ../../Resources.rst:38 510be20ef8af4c7c952c0581e521cbc0
+msgid "Machine translation"
+msgstr "Traducción automática"
+
+#: ../../Resources.rst:41 b856bbf5e7c547b287785aac85f77fa1
+msgid "Speech recognition"
+msgstr ""
+
+#: ../../Resources.rst:44 ea054b4ad16d40039e5d942446964375
+msgid "Speech Synthesis"
+msgstr ""

@@ -4,29 +4,91 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-28 16:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-01-31 11:42+0100\n"
+"PO-Revision-Date: 2022-01-31 12:15+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"X-Generator: Poedit 2.3\n"
 
 #: ../../Tools.rst:4 48a600195a7a45d184ca324575eaaa54
 msgid "Tools"
+msgstr "Edevatlar"
+
+#: ../../Tools.rst:6 896aeaf11bb14b70bec2b65c7e767a31
+msgid ""
+"An outline of tools which can be used to speed up the process of data "
+"collection."
 msgstr ""
 
-#: ../../Tools.rst:6 a04d2b9841db494cb508f7ba6b60dcd8
+#: ../../Tools.rst:8 a04d2b9841db494cb508f7ba6b60dcd8
 msgid ""
 "Est cum distinctio laborum sed tempore ad nisi. Harum voluptatum "
 "doloremque quam occaecati eos sint. Animi error ea et eius. Temporibus "
-"aperiam voluptatem fugit cupiditate nam at. Perferendis quas id molestiae"
-" asperiores consequatur debitis a repellendus."
+"aperiam voluptatem fugit cupiditate nam at. Perferendis quas id "
+"molestiae asperiores consequatur debitis a repellendus."
 msgstr ""
 
+#: ../../Tools.rst:11 d6b5a46414cf4cc2ac27a81639d05a2f
+msgid "Text collection"
+msgstr "Metin toplama"
+
+#: ../../Tools.rst:13 65cecbdf231840c193e655aeac50c176
+msgid "Wikipedia"
+msgstr ""
+
+#: ../../Tools.rst:14 e8c4208c202a4ff598c381f067b357a6
+msgid "Digitized Books"
+msgstr ""
+
+#: ../../Tools.rst:15 e33551c96bc549348244f1fd6b2bcb8c
+msgid "Online publications"
+msgstr ""
+
+#: ../../Tools.rst:16 aec684c00181495d8e42fc53a3a420bb
+msgid "Crowdsourcing"
+msgstr ""
+
+#: ../../Tools.rst:19 8c70b5284b5c4f8f9fe0e8fbfa8a619f
+msgid "Speech collection"
+msgstr "Ses toplama"
+
+#: ../../Tools.rst:21 f867298012f24ef49d70941a3b665af6
+msgid "Common Voice"
+msgstr ""
+
+#: ../../Tools.rst:22 22d0749b225141b4a2c8bc5dcc06ba20
+msgid "Labelstudio"
+msgstr ""
+
+#: ../../Tools.rst:23 31779474aa6440c2a660f1c1f3995b66
+msgid "Mimic studio"
+msgstr ""
+
+#: ../../Tools.rst:24 cd9ed9ba72fa4fbe94762c70c717b992
+msgid "Offline tools (ELAN etc)"
+msgstr ""
+
+#: ../../Tools.rst:27 2e8355c2406448f995100d84f5e09217
+msgid "Translation resources"
+msgstr ""
+
+#: ../../Tools.rst:29 168c829605b1489ab031deeef376d02d
+msgid "Translated documents"
+msgstr ""
+
+#: ../../Tools.rst:30 219147b2bd034cec82cb11ab8b0b2286
+msgid "Translated webpages"
+msgstr ""
+
+#: ../../Tools.rst:31 8a9598a3427d4eb2b4862e0f344844e2
+msgid "Crowdsourced data from Tatoeba"
+msgstr ""

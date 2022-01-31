@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-28 16:59+0100\n"
-"PO-Revision-Date: 2022-01-28 17:21+0100\n"
+"PO-Revision-Date: 2022-01-31 12:13+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,12 +21,12 @@ msgstr ""
 
 #: ../../index.rst:6 64d6099c4cf54def8886fc62861346b2
 msgid "Contents:"
-msgstr "Contenido: "
+msgstr "Contenido:"
 
 #: ../../index.rst:2 e779f96be5c54e3194b329dd6de570d0
 msgid "Toolkit for minority/low-resource languages"
 msgstr ""
-"Kit de herramientas para lenguas minoritarias/de bajos recursos "
+"Kit de herramientas para lenguas minoritarias/de bajos recursos"
 
 #: ../../index.rst:4 7ceec3e28ea94b598f666b5fa58609ec
 msgid "Welcome to lorem ipsum."
@@ -42,7 +42,7 @@ msgid ""
 "including how to :ref:`Tools` the project."
 msgstr ""
 "Consulte la sección :doc:`Introduction` para obtener más "
-"información, incluido cómo :ref:`Tools` del proyecto. "
+"información, incluido cómo :ref:`Tools` del proyecto."
 
 #: ../../index.rst:26 13560ffceb4d4e898493ad0bff26ec96
 msgid "This project is under active development."
@@ -50,7 +50,7 @@ msgstr "Esté en desarrollo."
 
 #: ../../index.rst:30 589d1b199d3c4df98c8acd383f576c38
 msgid "Indices and tables"
-msgstr "índices y tablas"
+msgstr "Índices y tablas"
 
 #: ../../index.rst:32 b2bf7735ece74eb3867ebaa7492ec48a
 msgid ":ref:`genindex`"

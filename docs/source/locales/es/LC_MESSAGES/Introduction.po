@@ -8,73 +8,110 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-28 16:58+0100\n"
-"PO-Revision-Date: 2022-01-28 17:20+0100\n"
+"POT-Creation-Date: 2022-01-31 11:42+0100\n"
+"PO-Revision-Date: 2022-01-31 12:09+0100\n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: es\n"
 "X-Generator: Poedit 2.3\n"
 
-#: ../../Introduction.rst:4 0f81662fb4a0413ab9e9ec1267508316
-msgid "How to Train a Language Model"
-msgstr "Cómo entrenar un modelo de lenguaje"
-
-#: ../../Introduction.rst:7 ed0e6b8129604f3fb4f65c987f158610
+#: ../../Introduction.rst:4 ed0e6b8129604f3fb4f65c987f158610
 msgid "Introduction"
 msgstr "Introducción"
 
-#: ../../Introduction.rst:9 abc5cc55c7ee43a584c552b30feee8bf
+#: ../../Introduction.rst:7 a33b169437974787ad2fa1e266eed87d
+msgid "The motivation"
+msgstr "La motivacion"
+
+#: ../../Introduction.rst:9 3eaf11cb12874350b33e31dd774000b5
 msgid ""
-"This document explains how to train and package a language model for "
-"deployment."
+"Nisi molestias tempora totam aut. Eos sint aut saepe eveniet error "
+"voluptatem ipsam aut. Velit ab est necessitatibus deserunt. Eveniet "
+"accusantium animi autem placeat."
 msgstr ""
-"Este documento explica cómo entrenar y empaquetar un modelo de lenguaje "
-"para su implementación."
 
-#: ../../Introduction.rst:11 39125ef0a1cf4852b3095cef03ca6d54
+#: ../../Introduction.rst:11 237aab8c6db647f59ad2a850b33236da
 msgid ""
-"You will usually want to deploy a language model in production. A good "
-"language model will improve transcription accuracy by correcting "
-"predictable spelling and grammatical mistakes. If you can predict what "
-"kind of speech your 🐸STT will encounter, you can make great gains in "
-"accuracy with a custom language model."
+"Labore delectus qui culpa ea et quis harum. Iure itaque doloremque totam "
+"et. Dolores qui et sed architecto qui qui. Commodi molestiae enim sit "
+"repudiandae voluptas."
 msgstr ""
-"Por lo general, querrá implementar un modelo de lenguaje en producción. "
-"Un buen modelo de lenguaje mejorará la precisión de la transcripción al "
-"corregir errores ortográficos y gramaticales predecibles. Si puede "
-"predecir qué tipo de discurso encontrará su 🐸STT, puede obtener grandes "
-"ganancias en precisión con un modelo de lenguaje personalizado. "
 
-#: ../../Introduction.rst:13 1f1bd073c6db44d49cd30625f0ebbcd2
+#: ../../Introduction.rst:14 476855dd3f344ca0a5efffe51bb52874
+msgid "Who is this document for?"
+msgstr "¿Para quién es este documento? "
+
+#: ../../Introduction.rst:16 72b9da5834b0449ca37ea082e2b5b1f3
 msgid ""
-"For example, if you want to transcribe university lectures on biology, "
-"you should train a language model on text related to biology. With this "
-"biology-specific language model, 🐸STT will be able to better recognize "
-"rare, hard to spell words like \"cytokinesis\"."
+"Facilis rem recusandae nihil ex ipsum necessitatibus minima. Rem aut in "
+"incidunt non enim ex debitis. Exercitationem quos atque laborum."
 msgstr ""
 
-#: ../../Introduction.rst:16 6b3346c89cd64d099419c3c770d73f0f
-msgid "How to train a model"
-msgstr ""
-
-#: ../../Introduction.rst:18 5faf98fa37234585a0d56fca4fc5cd9c
-msgid "There are three steps to deploying a new language model for 🐸STT:"
-msgstr ""
-
-#: ../../Introduction.rst:20 4fd5d017a7454cf78b82fe821050965c
-msgid "Identify and format text data for training"
-msgstr ""
-
-#: ../../Introduction.rst:21 1a4cbee854f54263b2edada5734ec471
+#: ../../Introduction.rst:18 960d940c203947dcb4d627d2b24d0e3f
 msgid ""
-"Train a `KenLM <https://github.com/kpu/kenlm>`_ language model using "
-"``data/lm/generate_lm.py``"
+"Voluptatibus doloribus consequatur eum nihil ullam incidunt. Quia dolorum "
+"nihil illo voluptatem. Quia dolor officia qui doloremque aliquid pariatur "
+"eligendi. Ut et vel est voluptatem voluptates maxime commodi vero."
 msgstr ""
 
-#: ../../Introduction.rst:22 7121625604724d8cb772ab95da86241e
-msgid "Package the model for deployment with ``generate_scorer_package``"
+#: ../../Introduction.rst:20 9fc9f979967f4b1db6ee5196ffccf943
+msgid ""
+"Et assumenda labore soluta sit. Assumenda non consequatur id non. "
+"Reiciendis tempore reprehenderit ex perferendis quia qui maxime. Sit et "
+"id atque sed."
 msgstr ""
+
+#: ../../Introduction.rst:23 77ade4d42533472db2d32b4137e296cf
+msgid "Outline"
+msgstr "El contorno"
+
+#: ../../Introduction.rst:25 239fed4f750d43b3ba9a3cc49e1c0486
+msgid ""
+"Sit molestiae qui distinctio officia dolorem. Optio ea laborum "
+"reprehenderit. Sit dolores et fugiat. Assumenda ratione dolor quisquam et "
+"saepe ut omnis. Voluptas accusamus quasi amet. Similique est quia fugiat "
+"tempore explicabo voluptatem dolore."
+msgstr ""
+
+#: ../../Introduction.rst:27 d155109aec624ff995ffe637529313a4
+msgid ""
+"Tempora officiis fuga dolorem dolores. Qui doloribus distinctio "
+"cupiditate odit voluptatem beatae. Qui corrupti nihil officiis autem quo "
+"exercitationem est. Consequatur temporibus nemo autem ipsum distinctio "
+"magni deserunt mollitia."
+msgstr ""
+
+#: ../../Introduction.rst:29 569ed3d226214f6781d4e25d36b74e09
+msgid ""
+"Quos quasi inventore unde. Commodi sint consectetur et neque et. Aut quas "
+"veritatis sit. Minima nobis ad qui aut aut aut aut."
+msgstr ""
+
+#~ msgid "How to Train a Language Model"
+#~ msgstr "Cómo entrenar un modelo de lenguaje"
+
+#~ msgid ""
+#~ "This document explains how to train and package a language model for "
+#~ "deployment."
+#~ msgstr ""
+#~ "Este documento explica cómo entrenar y empaquetar un modelo de "
+#~ "lenguaje para su implementación."
+
+#~ msgid ""
+#~ "You will usually want to deploy a language model in production. A good "
+#~ "language model will improve transcription accuracy by correcting "
+#~ "predictable spelling and grammatical mistakes. If you can predict what "
+#~ "kind of speech your 🐸STT will encounter, you can make great gains in "
+#~ "accuracy with a custom language model."
+#~ msgstr ""
+#~ "Por lo general, querrá implementar un modelo de lenguaje en "
+#~ "producción. Un buen modelo de lenguaje mejorará la precisión de la "
+#~ "transcripción al corregir errores ortográficos y gramaticales "
+#~ "predecibles. Si puede predecir qué tipo de discurso encontrará su 🐸"
+#~ "STT, puede obtener grandes ganancias en precisión con un modelo de "
+#~ "lenguaje personalizado. "
