@@ -9,11 +9,16 @@ Welcome to lorem ipsum.
 
    Introduction
 
+   Languages
+
    Resources
 
    Tools
 
    Obstacles
+
+   Conclusion
+
 
 Quickstart
 ^^^^^^^^^^

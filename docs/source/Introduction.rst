@@ -1,22 +1,29 @@
 .. _introduction:
 
-How to Train a Language Model
-=============================
-
 Introduction
-------------
+============
 
-This document explains how to train and package a language model for deployment.
+The motivation
+--------------
 
-You will usually want to deploy a language model in production. A good language model will improve transcription accuracy by correcting predictable spelling and grammatical mistakes. If you can predict what kind of speech your 🐸STT will encounter, you can make great gains in accuracy with a custom language model.
+Nisi molestias tempora totam aut. Eos sint aut saepe eveniet error voluptatem ipsam aut. Velit ab est necessitatibus deserunt. Eveniet accusantium animi autem placeat.
 
-For example, if you want to transcribe university lectures on biology, you should train a language model on text related to biology. With this biology-specific language model, 🐸STT will be able to better recognize rare, hard to spell words like "cytokinesis".
+Labore delectus qui culpa ea et quis harum. Iure itaque doloremque totam et. Dolores qui et sed architecto qui qui. Commodi molestiae enim sit repudiandae voluptas.
 
-How to train a model
---------------------
+Who is this document for?
+-------------------------
 
-There are three steps to deploying a new language model for 🐸STT:
+Facilis rem recusandae nihil ex ipsum necessitatibus minima. Rem aut in incidunt non enim ex debitis. Exercitationem quos atque laborum.
 
-1. Identify and format text data for training
-2. Train a `KenLM <https://github.com/kpu/kenlm>`_ language model using ``data/lm/generate_lm.py``
-3. Package the model for deployment with ``generate_scorer_package``
+Voluptatibus doloribus consequatur eum nihil ullam incidunt. Quia dolorum nihil illo voluptatem. Quia dolor officia qui doloremque aliquid pariatur eligendi. Ut et vel est voluptatem voluptates maxime commodi vero.
+
+Et assumenda labore soluta sit. Assumenda non consequatur id non. Reiciendis tempore reprehenderit ex perferendis quia qui maxime. Sit et id atque sed.
+
+Outline
+-------
+
+Sit molestiae qui distinctio officia dolorem. Optio ea laborum reprehenderit. Sit dolores et fugiat. Assumenda ratione dolor quisquam et saepe ut omnis. Voluptas accusamus quasi amet. Similique est quia fugiat tempore explicabo voluptatem dolore.
+
+Tempora officiis fuga dolorem dolores. Qui doloribus distinctio cupiditate odit voluptatem beatae. Qui corrupti nihil officiis autem quo exercitationem est. Consequatur temporibus nemo autem ipsum distinctio magni deserunt mollitia.
+
+Quos quasi inventore unde. Commodi sint consectetur et neque et. Aut quas veritatis sit. Minima nobis ad qui aut aut aut aut.
