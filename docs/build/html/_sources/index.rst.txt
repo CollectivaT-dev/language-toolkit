@@ -7,28 +7,25 @@ Welcome to lorem ipsum.
    :maxdepth: 2
    :caption: Contents:
 
-   Introduction
+   1-Introduction
 
-   Languages
+   2-Digital age
 
-   Resources
+   3-Language data
 
-   Tools
+   4-Case studies
 
-   Obstacles
+   5-Good practices
 
-   Conclusion
+.. Quickstart
+.. ^^^^^^^^^^
 
-
-Quickstart
-^^^^^^^^^^
-
-Check out the :doc:`Introduction` section for further information, including
-how to :ref:`Tools` the project.
+.. Check out the :doc:`Introduction` section for further information, including
+.. how to :ref:`Tools` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. 
 
 
 Indices and tables

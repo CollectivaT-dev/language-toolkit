@@ -4,7 +4,7 @@
 
 project = 'Language Toolkit'
 copyright = '2022, Col·lectivaT SCCL'
-author = 'Baybars Külebi'
+author = 'Alp Öktem'
 
 release = '0.1'
 version = '0.1.0'

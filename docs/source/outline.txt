@@ -1,0 +1,52 @@
+Outline
+
+Introduction
+
+	motivation
+	who is this document for
+	outline
+
+Languages and the digital age
+
+	online presence
+		complements/makes possible physical 
+		learning material 
+		blogs
+		translations
+		software
+		ladino
+
+	Non-AI based tech
+		keyboard, corrector, phonemizer?
+
+	AI-based Technologies
+		contrast to formal language documentation
+		MT
+		ASR
+		TTS
+
+Language data
+	Text corpus
+		Wikipedia, digitized books, online publications
+	Speech corpus
+	Bi-text
+
+	Crowdsourced collection
+
+	Found data (restructure pre-existing)
+		blogs, videos, 
+
+Case studies
+
+	Kurdish crowdsource, masakhane, turkic nlp, kabyle, catalan, BibleTTS initiative, Ladino
+
+Good practices
+	create content with AI in mind
+	how to introduce a language to common voice
+	community motivation
+		datathons!, social media groups, competitions, one-to-ones with elderly
+
+
+
+--- 
+

@@ -1,0 +1,444 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Col·lectivaT SCCL
+# This file is distributed under the same license as the Language Toolkit
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Language Toolkit 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-08 20:09+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../2-Digital age.rst:4 c01fd75fa8424657b1d9e5b1c1f7305d
+msgid "Languages and the digital age"
+msgstr ""
+
+#: ../../2-Digital 8ddf60845a234b0fb26cd8b8be090a94 age.rst:6
+msgid ""
+"Digital age has brought many new opportunities and advantages. It has "
+"undoubtedly connected the humankind in unimaginable ways in a short "
+"amount of time. Although, no innovation comes with its challenges and "
+"threats. World wide web is a resource accessible (almost) to all but it "
+"is dominated by a handful of power languages."
+msgstr ""
+
+#: ../../2-Digital 0cb8b191b2d64cf1a6555dc099bcd217 age.rst:8
+#, python-format
+msgid ""
+"English for example is spoken by 15% of the world but it currently holds "
+"54% of all the content in the web. On the other hand, languages like "
+"Russian, Chinese, Spanish each represent around %5-6 of the content in "
+"web, in spite of their geopolitical dominance."
+msgstr ""
+
+#: ../../2-Digital 4ca58aa5094e49f0b2cb9589366b773d age.rst:10
+msgid ""
+"Where does this leave world's many endangered and dying languages? Sadly,"
+" on the very margins of this picture."
+msgstr ""
+
+#: ../../2-Digital age.rst:12 b07d3aba41a744b7b3496971619a1265
+msgid ""
+"Languages thrive in communities and passed onto generations with day-to-"
+"day usage. The more our lives are connected through digital mediums, we "
+"are less and less exposed to our mothertongues which are not represented "
+"online. This eventually leads to a decline of their usage by younger "
+"generations."
+msgstr ""
+
+#: ../../2-Digital age.rst:16 c6c07f03f03144ad9021bdc10ae6b636
+msgid ""
+"How? To illustrate, a Kurdish speaker in Turkey, accesses their "
+"government health services website and sees that everything is in "
+"Turkish, or goes to check the latest online social media platform and "
+"sees that it's by default available in English. These kind of small "
+"encounters lead to thinking that in order to find their way and address "
+"their needs, speaking their mothertongue is not enough. You have to know "
+"the nearest majority language and many times even more."
+msgstr ""
+
+#: ../../2-Digital 19467e249bdf4a7d95cb06c1b1b2b4c7 age.rst:19
+msgid "Digital extinction"
+msgstr ""
+
+#: ../../2-Digital 0433838c5ba64fb486210a0a2bbb05f8 age.rst:21
+msgid ""
+"According to UNESCO, around 3,500 languages are expected to be extinct by"
+" the end of this century and we cannot deny the role of technology in "
+"this."
+msgstr ""
+
+#: ../../2-Digital age.rst:23 f149d72f79294a129b6d902c36f7cd9e
+msgid ""
+"We shouldn't of course fall into the trap of making technology the "
+"culprit of language loss. It is merely a representation of already "
+"existing power dynamics in the society. States which depriotize or even "
+"oppress certain languages start their digital transformation by excluding"
+" all these languages in their digital infrastructure. North American and "
+"Eurocentric big technology companies follow a English-first approach by "
+"default."
+msgstr ""
+
+#: ../../2-Digital 2153dae7d9d444ba93cd8731a279da0c age.rst:25
+msgid ""
+"Although internet and technology can come to the rescue as well. Instead "
+"of a defranchising, technology can be rethought to form communities "
+"around language preservation, knowledge sharing, language documentation."
+msgstr ""
+
+#: ../../2-Digital 4c1dd50e597c4514a9af2aca1e845723 age.rst:28
+msgid "Online presence of a language"
+msgstr ""
+
+#: ../../2-Digital 9fec738727084890815dd737c4626863 age.rst:30
+msgid ""
+"Traditionally, the responsabilities of a language activist has been "
+"actively speaking the language, passing it to younger generations, "
+"forming language learning and speaking communities, negotiating with "
+"public institutions for the inclusion of their language, collaborating "
+"with linguists for the documentation of their language and so on."
+msgstr ""
+
+#: ../../2-Digital 0be3b6c91a35456e926c411c2188d9e7 age.rst:32
+msgid ""
+"Nowadays, the challenge is not just making the language alive in the "
+"physical world but also online. It is related in three ways for the "
+"survival of a language:"
+msgstr ""
+
+#: ../../2-Digital 2ccc23df15b0454e927d7bac89bfef4d age.rst:34
+msgid ""
+"Exchanges and visibility online strikes interest and helps engage "
+"existing and new language learners."
+msgstr ""
+
+#: ../../2-Digital ad035223940b498c811a4c4bb84b36a9 age.rst:35
+msgid ""
+"What's stored online in turn is a digital record for language which helps"
+" documentation and technology development."
+msgstr ""
+
+#: ../../2-Digital 43a0afb0d2da4d4594d15991561efe5e age.rst:37
+msgid ""
+"Below, we will describe some ways internet is becoming multilingual and "
+"plural while helping reviving them."
+msgstr ""
+
+#: ../../2-Digital 984dcd997efa4fb6ad6967cc5dcb3274 age.rst:40
+msgid "Access to knowledge"
+msgstr ""
+
+#: ../../2-Digital 49d6eeb8dcda400ab16ceff90d199f71 age.rst:42
+msgid ""
+"One of the most popular initiatives on bringing languages online is "
+"Wikipedia. Wikipedia is open an online encyclopedia written and "
+"maintained by a community of volunteers through an open collaboration and"
+" reviewing system."
+msgstr ""
+
+#: ../../2-Digital age.rst:44 f05b590c8bda4e618e7dde2a0e8f2288
+msgid ""
+"Wikipedia's broad aim is to democratize access to knowledge. Naturally, "
+"the culture built around this ethos goes hand in hand with "
+"multilinguality. Although it has started only with English, it quickly "
+"expanded to world's many languages."
+msgstr ""
+
+#: ../../2-Digital a8e5066f711c489e93065aa2170e5089 age.rst:48
+msgid ""
+"The first edit on a non-English Wikipedia was made in Catalan on March "
+"16, 2001. Today, it is most notable for its large number of quality "
+"articles (20th largest wikipedia), which illustrates Catalan language's "
+"important online presence despite being a minority language. "
+"(https://en.wikipedia.org/wiki/Catalan_Wikipedia)"
+msgstr ""
+
+#: ../../2-Digital age.rst:50 e1efc0b20e07458bb688bcabd5b83c67
+msgid ""
+"We can probably say that it's the most language diverse platform on the "
+"internet with 326 languages (as of 03.05.22) and counting up. For the "
+"latest list of wikipedias: "
+"https://meta.wikimedia.org/wiki/List_of_Wikipedias"
+msgstr ""
+
+#: ../../2-Digital 01b624de600e4ac4adc58704ef746b73 age.rst:52
+msgid "<<<<IMAGE OF LANGUAGES OF WIKIPEDIA>>>>>"
+msgstr ""
+
+#: ../../2-Digital 64519c18c7274db99613afb54e7e3b43 age.rst:54
+msgid ""
+"Making a new language available in Wikipedia is no easy task (see "
+"https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia), but "
+"it is definitely a great way to make knowledge accessible online and "
+"build a virtual community around it."
+msgstr ""
+
+#: ../../2-Digital 3fd137c60d12475abd3a9e733c4f92d1 age.rst:57
+msgid "Immersion into language"
+msgstr ""
+
+#: ../../2-Digital a6c3dd8f64704bbf883169f77e45ab6f age.rst:59
+msgid ""
+"One great example of a language reviving with the help of technology is "
+"Yiddish. The number of Yiddish speakers decreased drastically from around"
+" 10 million speakers due to the Holocaust. Whoever survived were forced "
+"to assimilate the language of their new lands to avoid persecution. In "
+"the last century, the use of Yiddish had almost disappeared except for "
+"small and disperse Hasidic communities."
+msgstr ""
+
+#: ../../2-Digital 8bad5b5d321c42e5af7ca301a7987879 age.rst:61
+msgid ""
+"With the rise of internet and popularity of online forums, Yiddish "
+"speakers used these platforms to converse in their language. Over time, "
+"the virtual world became the primary meeting point for Yiddish speakers "
+"in forums like The Idishe Velt (The Jewish World) and Kave Shtiebel (The "
+"Coffee House)."
+msgstr ""
+
+#: ../../2-Digital 3402a42eb42a46d2acc311800d47921d age.rst:64
+msgid "Language documentation projects"
+msgstr ""
+
+#: ../../2-Digital age.rst:66 d96e90ef0b054e3cae322885f782f7e6
+msgid ""
+"The rapid loss of languages in the last century has powered many "
+"initiatives for language documentation and revitalization. One of these "
+"initiatives is The Endangered Languages Project "
+"(https://www.endangeredlanguages.com/) which is a web-based platform that"
+" acts as a collaborative hub of language enthusiasts, linguists and "
+"industry partners to help strengthen endangered languages. Users of the "
+"website act as contributors by uploading language samples in text, audio,"
+" link or video format using a unique geotagging system that allows for "
+"easy searchability."
+msgstr ""
+
+#: ../../2-Digital 7d27d0df66eb4a14bebc6e11f0062041 age.rst:68
+msgid "<<<MAP SHOWING LADINO ON TURKEY>>>"
+msgstr ""
+
+#: ../../2-Digital 2663149482cf4ed096cc7c053a466621 age.rst:70
+msgid "<<<Optional: LADINO RESOURCES>>>"
+msgstr ""
+
+#: ../../2-Digital age.rst:72 f1af2bc52c6d42a0a5f69e03ee60683d
+msgid ""
+"Similarly, Wikitongues (https://wikitongues.org/), which started in 2014,"
+" collects recordings and resources of world's languages. Currently it "
+"holds videos in over 700 languages, lexicons in 200 languages and links "
+"to hundreds of external resources."
+msgstr ""
+
+#: ../../2-Digital age.rst:74 b736b1e2d35f49adb068f9ad40ac94f1
+msgid "<<<IMG LADINO VIDEOS IN WIKITONGUES>>>"
+msgstr ""
+
+#: ../../2-Digital 6904c59ec04a4a178f9f816a89919938 age.rst:77
+msgid "\"Traditional\" technology"
+msgstr ""
+
+#: ../../2-Digital 4135969c70c44976a57cb2bf54c2dbaf age.rst:79
+msgid ""
+"Saving a language isn’t just a matter of recording words or phrases and "
+"digitising them to be held in an online vault. Language is inherently "
+"about people, culture and identity. In order to keep a language alive, it"
+" needs to be spoken by many, immersed in everyday culture and actively "
+"passed on to future generations. These days, internet, social media, "
+"software, platforms occupy a large space in our everyday lives. In this "
+"section, we will list some of the core tools needed for a technology to "
+"thrive digitally."
+msgstr ""
+
+#: ../../2-Digital 5215ef47e5f0450ca12c16c250aa8153 age.rst:82
+msgid "Unicode-supported font"
+msgstr ""
+
+#: ../../2-Digital 501257b021084a57bc766648640253df age.rst:84
+msgid ""
+"A digital font is the way computers know how to display the characters in"
+" your language. Unicode, formally the Unicode Standard, is an information"
+" technology standard for the consistent encoding, representation, and "
+"handling of text expressed in most of the world's writing systems. The "
+"standard, which is maintained by the Unicode Consortium, defines 144,697 "
+"characters covering 159 modern and historic scripts, as well as symbols, "
+"emoji, and non-visual control and formatting codes. (Wikipedia, "
+"https://en.wikipedia.org/wiki/Unicode)."
+msgstr ""
+
+#: ../../2-Digital 711efacd21464d33ad864add62580fb5 age.rst:86
+msgid ""
+"You can check if your language is supported by a font by going to Google "
+"Noto (https://fonts.google.com/noto/) and searching among fonts that "
+"represent more than 500 writing systems. If it is not there, you can "
+"create your own with the help from a font designer and install it "
+"manually on your computer."
+msgstr ""
+
+#: ../../2-Digital aed83d453bf84e0cb368282371c58ffb age.rst:88
+msgid "<<<GOOGLE FONTS CAPTURE amazight TIFINAGH>>>"
+msgstr ""
+
+#: ../../2-Digital 2b5e61dfae6048d7b410237cda933057 age.rst:91
+msgid "Keyboard"
+msgstr ""
+
+#: ../../2-Digital age.rst:93 dc8942e7ef05447ea312a81273d9ef78
+msgid ""
+"Until the day we will be speaking naturally with computers, the most "
+"basic interface for interacting with them will be the keyboard. It is a "
+"technology easily taken for granted for world's many languages but "
+"unfortunately it is not available in all of world's writing systems. If a"
+" keyboard is not present or not developed enough for a language, its "
+"speakers tend to prefer other alphabets or even languages to communicate."
+" For example, speakers of Ethiopian languages like Amharic, Tigrinya and "
+"Oromo switch to using English as Ge'ez script is not pre-installed in "
+"their smartphones. Young arabic speakers in many countries have invented "
+"their own chat-alphabet "
+"Arabizi(https://en.wikipedia.org/wiki/Arabic_chat_alphabet) consisting of"
+" latin characters and numerals to account for the lack of Arabic script "
+"support in early mobile and web technology."
+msgstr ""
+
+#: ../../2-Digital 358dcbd9eb254f38bab6190efc493b1d age.rst:95
+msgid ""
+"If a keyboard is not available, let's say in your phone or computer, "
+"here's some resources to search or help create your own keyboard:"
+msgstr ""
+
+#: ../../2-Digital age.rst:97 f28f39c9d07a4af895952c3e52679583
+msgid ""
+"Google's mobile keyboard, Gboard "
+"(https://support.google.com/gboard/answer/6380730?hl=en&ref_topic=9023832&co=GENIE.Platform%3DAndroid&oco=0)"
+msgstr ""
+
+#: ../../2-Digital 52dace1353084adeac0485d3b65222e1 age.rst:98
+msgid "Keyman supports 2000 languages (https://keyman.com/)"
+msgstr ""
+
+#: ../../2-Digital 1800928145164a36938c0e2b306f570c age.rst:99
+msgid ""
+"Microsoft Keyboard Layout Creator (https://www.microsoft.com/en-"
+"us/download/details.aspx?id=102134)"
+msgstr ""
+
+#: ../../2-Digital 528bdcc1484547e2b97cb565d7a0453e age.rst:100
+msgid ""
+"Ukelele is a Unicode Keyboard Layout Editor for the macOS "
+"(https://software.sil.org/ukelele/)"
+msgstr ""
+
+#: ../../2-Digital age.rst:104 d993d5765464497682d231d7d6333367
+msgid "Online dictionary"
+msgstr ""
+
+#: ../../2-Digital age.rst:106 b56af63210214d2ebab38a3314ef6c64
+msgid ""
+"A dictionary (lexicon) is a solid way of documenting a language since it "
+"acts as a reference of words and their meanings. An online dictionary "
+"never goes out-of-print as it is accessible from any device with an "
+"internet connection. Also, open-source dictionaries can live and grow "
+"collaboratively as a community effort involving both speakers of the "
+"language, linguists and technologists."
+msgstr ""
+
+#: ../../2-Digital 78413f0709da4a6194856cdacbac9561 age.rst:108
+msgid ""
+"Living Dictionaries (https://livingdictionaries.app/) is an online "
+"dictionary-builder platform created by Living Tongues Institute for "
+"Endangered Languages. It provides comprehensive, free online tech tools "
+"that assist language communities in conservation and revitalization "
+"efforts. It also allows recording of words and phrases. As of May 2022, "
+"it support 237 languages. To initiate your language in Living "
+"Dictionaries, you can get use of their \"Elicitation lists\" "
+"(https://livingtongues.org/the-master-elicitation-list/) and watch "
+"tutorials their YouTube channel "
+"(https://www.youtube.com/channel/UCiYtwIJ6yAgO2_IeLMgrirA)."
+msgstr ""
+
+#: ../../2-Digital 47bab4c707c94e53bc15a0c1d6a3876a age.rst:111
+msgid "Learning apps and videos"
+msgstr ""
+
+#: ../../2-Digital 61e53205612a40ebad9fe62d9c02f2ca age.rst:113
+msgid "Last years gave a rise in"
+msgstr ""
+
+#: ../../2-Digital 7d7ae479724b4ec2ad99d18d89856024 age.rst:116
+msgid "Duolingo, social media (Marwan, SKAD)"
+msgstr ""
+
+#: ../../2-Digital 9bc61a6d2b4348789e444f18ad8cd17c age.rst:118
+msgid "Memrise"
+msgstr ""
+
+#: ../../2-Digital 22d911bc3f3f4ab6a96e489594330ec3 age.rst:120
+msgid "https://languagedrops.com/languages"
+msgstr ""
+
+#: ../../2-Digital 71e7e93e35654020ac371e74b7d363c6 age.rst:122
+msgid "https://www.masteranylanguage.com/"
+msgstr ""
+
+#: ../../2-Digital age.rst:124 f43ca4fa619049359e4ab4dfcfa72ee5
+msgid ""
+"duolingo is a for-profit company but it’s based on unpaid work from "
+"language communities not adapted to needs of minorized languages"
+msgstr ""
+
+#: ../../2-Digital age.rst:133 b4d6da6ea9a948d0aae3b9bf76a5f48a
+msgid "Data-driven language technologies"
+msgstr ""
+
+#: ../../2-Digital 0e9ddedc304f49b39e453da94852531e age.rst:135
+msgid ""
+"The digital revolution is here with us and Artificial Intelligence (AI) "
+"is a key technological enabler as it offers a range of new opportunities "
+"to break down existing barriers to human development and social "
+"inclusion."
+msgstr ""
+
+#: ../../2-Digital age.rst:137 eb73d5fb026e4650ab81adadf5b03aff
+msgid "contrast to formal language documentation"
+msgstr ""
+
+#: ../../2-Digital 667b57230b214cb8b2de84013bc6f7b6 age.rst:140
+msgid "Machine translation"
+msgstr ""
+
+#: ../../2-Digital age.rst:143 cff82726431f41ff8545234285da9f9c
+msgid "Automatic speech recognition"
+msgstr ""
+
+#: ../../2-Digital 368c98b53c4645eda5c676875fd89bb0 age.rst:144
+msgid ""
+"In September 2017, Microsoft announced a speech recognition system that "
+"could achieve better-than-human performance in speech transcription "
+"(Xiong et al., 2017), which used 200M transcribed words from "
+"conversational speech."
+msgstr ""
+
+#: ../../2-Digital 796e1e268c004d429e05e5e33f96e5b3 age.rst:147
+msgid "Text-to-speech"
+msgstr ""
+
+#: ../../2-Digital 17b2d852f7dc42bfae2d8c33738dec79 age.rst:150
+msgid "Low-resource technologies"
+msgstr ""
+
+#: ../../2-Digital 945ec41a98a74190b418590c07179a62 age.rst:153
+msgid "Sources:"
+msgstr ""
+
+#: ../../2-Digital 3a62ce6964934b5c9e3f6523f2aa2537 age.rst:155
+msgid "Language sustainability toolkit: https://wikitongues.org/toolkit/"
+msgstr ""
+
