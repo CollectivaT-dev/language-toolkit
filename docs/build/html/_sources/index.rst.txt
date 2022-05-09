@@ -11,11 +11,13 @@ Welcome to lorem ipsum.
 
    2-Digital age
 
-   3-Language data
+   3-Datadriven language tech
 
-   4-Case studies
+   4-Language data
 
-   5-Good practices
+   5-Case studies
+
+   6-Good practices
 
 .. Quickstart
 .. ^^^^^^^^^^

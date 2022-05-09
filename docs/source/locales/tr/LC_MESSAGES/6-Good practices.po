@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Col·lectivaT SCCL
+# This file is distributed under the same license as the Language Toolkit
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Language Toolkit 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-09 18:50+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../6-Good c3d77012d074426aa04d61813632caa8 practices.rst:4
+msgid "Good practices"
+msgstr ""
+
+#: ../../6-Good b17d6a2d7fe74a00b753ec1a043ebd66 practices.rst:6
+msgid ""
+"create content with AI in mind how to introduce a language to common "
+"voice community motivation datathons, social media groups, competitions, "
+"one-to-ones with elderly"
+msgstr ""
+

@@ -14,7 +14,7 @@ The motivation
 
 There is currently a growing digital divide between languages with sufficient resources and languages with fewer resources, further exacerbating the danger of digital extinction for them. For the majority languages, the process of generating useful tools and resources is much easier due to their large web-presence. However, many minority languages do not have sufficient material and human resources to power the creation of such tools. Lack of state support, public visibility, societal and institutional oppression are direct causes of these languages being deprioritized in the digital spaces of today.
 
-Efforts on preservation of languages focus mainly on language documentation, teaching, physical community building. One area that is overlooked is creation of tools based on artificial intelligence. Tools like machine translation, speech synthesis, speech recognition are now important counterparts in creating human-machine interfaces. Also, these tools can help model the knowledge of dying languages and store them for future generations. 
+Efforts on preservation of languages focus mainly on language documentation, teaching, and physical community building. One area that is overlooked is creation of tools based on artificial intelligence. Tools like machine translation, speech synthesis, and speech recognition are now important counterparts in creating human-machine interfaces. Also, these tools can help model the knowledge of dying languages and store them for future generations.
 
 Who is this document for?
 -------------------------
@@ -29,4 +29,9 @@ This document is for you if you are:
 Can I contribute?
 -----------------
 
-This is a living document with an open license (CC-BY). It's source file is shared publicly in https://github.com/CollectivaT-dev/language-toolkit where you can pull a version to work on your own and then submit your contribution. It can range from correcting typos, adding a translation, detailing a section, explaining your case study. If you have doubts please feel free to write to us at info@collectivat.cat. 
+This is a living document with an open license (CC-BY). Its source file is shared publicly in https://github.com/CollectivaT-dev/language-toolkit where you can pull a version to work on your own and then submit your contribution. It can range from correcting typos, adding a translation, detailing a section, explaining your case study. If you have doubts please feel free to write to us at info@collectivat.cat. 
+
+Authors
+-------
+
+- Alp Öktem - (Web: http://alpoktem.github.io, Twitter: http://www.twitter.com/OktemAlp)

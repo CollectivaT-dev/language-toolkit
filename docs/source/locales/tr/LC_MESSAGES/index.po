@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-08 20:21+0300\n"
+"POT-Creation-Date: 2022-05-09 18:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,35 +18,47 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: ../../index.rst:6 b2876a2febe54e13b36c59f76e980b0c
+#: ../../index.rst:10 3aa8fbc3b8394d6db3658ad69e772653
 msgid "Contents:"
 msgstr ""
 
-#: ../../index.rst:2 e779f96be5c54e3194b329dd6de570d0
+#: ../../index.rst:2 7c2686dcd349440aa4f5068f501bfe1e
 msgid "Toolkit for minority/low-resource languages"
 msgstr ""
 
-#: ../../index.rst:4 7ceec3e28ea94b598f666b5fa58609ec
-msgid "Welcome to lorem ipsum."
+#: ../../index.rst:4 ee50af9718a142ffbcf41f4684e57269
+msgid ""
+"In this document we cover the role of technology, especially artificial "
+"intelligence-based technology, on the preservation of endangered "
+"languages. This is a living document that was created as part of the "
+"project \"Judeo-Spanish: Connecting the two ends of the Mediterranean\" "
+"carried out by Col·lectivaT and Sephardic Center of Istanbul (SKAD) "
+"within the framework of the \"Grant Scheme for Common Cultural Heritage: "
+"Preservation and Dialogue between Turkey and the EU–II (CCH-II)\" "
+"implemented by the Ministry of Culture and Tourism of the Republic of "
+"Turkey with the financial support of the European Union."
 msgstr ""
 
-#: ../../index.rst:28 13560ffceb4d4e898493ad0bff26ec96
-msgid "This project is under active development."
+#: ../../index.rst:8 da7395ce2c694ad28fc4b25e78c4f422
+msgid ""
+"The content of this website is the sole responsibility of Col·lectivaT "
+"and SKAD and does not necessarily reflect the views of the European "
+"Union."
 msgstr ""
 
-#: ../../index.rst:32 589d1b199d3c4df98c8acd383f576c38
+#: ../../index.rst:33 0239a6934cc0417c99d158704a5c75a9
 msgid "Indices and tables"
 msgstr ""
 
-#: ../../index.rst:34 b2bf7735ece74eb3867ebaa7492ec48a
+#: ../../index.rst:35 c60f9f92a9574850a480d6aa3f24197b
 msgid ":ref:`genindex`"
 msgstr ""
 
-#: ../../index.rst:35 2ca82f9fa5c749a5bfa7d8ee650533cd
+#: ../../index.rst:36 3bd038a9184c4fa0938df349fa1acf33
 msgid ":ref:`modindex`"
 msgstr ""
 
-#: ../../index.rst:36 207ffc27285b406ea8023ba9cc41b311
+#: ../../index.rst:37 cf9e1393d339466c9d385f39ff896e5c
 msgid ":ref:`search`"
 msgstr ""
 

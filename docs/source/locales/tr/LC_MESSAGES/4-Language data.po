@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Col·lectivaT SCCL
+# This file is distributed under the same license as the Language Toolkit
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Language Toolkit 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-09 18:50+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../4-Language 99067e9e761149c9bb3cfcc70254b67c data.rst:4
+msgid "Language data"
+msgstr ""
+
+#: ../../4-Language aba629fb0a18462e9e026645f4730e25 data.rst:6
+msgid "AI opens up a new area for language resource creation."
+msgstr ""
+
+#: ../../4-Language 71ab5a05b0b645519dd19704ce3f72b2 data.rst:8
+msgid ""
+"Labelled vs unlabelled data Text corpus: Wikipedia, digitized books, "
+"online publications Speech corpus https://www.openslr.org/resources.php "
+"Bi-text"
+msgstr ""
+
+#: ../../4-Language 22709888aac34fd5bfee1f150439b7c9 data.rst:13
+msgid "Crowdsourced collection tatooeba, common voice"
+msgstr ""
+
+#: ../../4-Language 56a0d56879b44153bc9b0732cf90ef1d data.rst:15
+msgid "Found data (restructure pre-existing): blogs, videos"
+msgstr ""
+
+#: ../../4-Language 084c58cb231444a8a14693a7c28acc03 data.rst:17
+msgid "how to open common voice for your language?"
+msgstr ""
+
+#: ../../4-Language 843263aa3d6f409591ea833e1de7772a data.rst:19
+msgid "https://tts.readthedocs.io/en/latest/what_makes_a_good_dataset.html"
+msgstr ""
+
+#: ../../4-Language 2ff17b31b6d74106a7f4baacea4e3944 data.rst:21
+msgid "transfer learning"
+msgstr ""
+
+#: ../../4-Language data.rst:23 e513b7d471304a19b050d460075e2f42
+msgid "https://www.wired.co.uk/article/maori-language-tech"
+msgstr ""
+

@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Col·lectivaT SCCL
+# This file is distributed under the same license as the Language Toolkit
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Language Toolkit 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-09 18:50+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../5-Case 0280835a7d3f4f70b3865d2a72a3b47b studies.rst:4
+msgid "Case studies"
+msgstr ""
+
+#: ../../5-Case d368d10493f74d5fb17ee4d5e64362b2 studies.rst:6
+msgid ""
+"Intiatives: Kurdish crowdsource, masakhane, turkic nlp, kabyle, catalan, "
+"BibleTTS initiative, Ladino"
+msgstr ""
+
+#: ../../5-Case 70fba87d8275449d8e3c80e7059c2a85 studies.rst:9
+msgid ""
+"Cebuano wikipedia (2nd biggest wiki with 6,1M articles) LSJbot, which "
+"machine-translated huge numbers of articles "
+"https://www.babbel.com/en/magazine/wikipedia-languages"
+msgstr ""
+
+#: ../../5-Case 03e406c73c974be8a76ba4546cb96b76 studies.rst:13
+msgid "Catalan speech data 1. Collectivat found data, 2. common voice initietiva"
+msgstr ""
+
+#: ../../5-Case ee8d16dd0a0e41849cb43d46b4ba8cfc studies.rst:15
+msgid "Ladino -> this project, EURALI paper"
+msgstr ""
+
