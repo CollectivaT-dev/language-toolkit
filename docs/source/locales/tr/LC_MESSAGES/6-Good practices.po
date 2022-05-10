@@ -4,28 +4,131 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-09 18:50+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-05-10 13:29+0300\n"
+"PO-Revision-Date: 2022-05-10 14:07+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../6-Good c3d77012d074426aa04d61813632caa8 practices.rst:4
 msgid "Good practices"
-msgstr ""
+msgstr "İyi uygulamalar"
 
-#: ../../6-Good b17d6a2d7fe74a00b753ec1a043ebd66 practices.rst:6
+#: ../../6-Good 3f918f6b391f445489527c470707dc97 practices.rst:7
 msgid ""
-"create content with AI in mind how to introduce a language to common "
-"voice community motivation datathons, social media groups, competitions, "
-"one-to-ones with elderly"
+"This section will be finalized with the feedback collected in the workshops "
+"organized during the project."
 msgstr ""
+"Bu bölüm, proje süresince düzenlenen çalıştaylarda toplanan geri bildirimlerle "
+"tamamlanacaktır."
 
+#: ../../6-Good dfc29906c00440eaa0dad4f6fdbaa991 practices.rst:9
+msgid ""
+"While it is clear that a large number of languages in the world require "
+"intensive investment in resource creation for technology enablement, it seems "
+"highly unlikely that such an investment can be delivered readily and easily in "
+"a short span of time. Given these limited resources, language communities "
+"should be empowered to determine the future of their languages. In this "
+"document, we have presented how digital representation is part of this process."
+msgstr ""
+"Dünyada çok sayıda dilin teknolojiyi etkinleştirmek için kaynak yaratmaya yoğun "
+"yatırım gerektirdiği açık olsa da, böyle bir yatırımın kısa sürede kolayca ve "
+"kolayca teslim edilmesi pek olası görünmüyor. Bu sınırlı kaynaklar göz önüne "
+"alındığında, dil topluluklarına dillerinin geleceğini belirleme yetkisi "
+"verilmelidir. Bu belgede, dijital temsilin bu sürecin nasıl bir parçası "
+"olduğunu sunduk."
+
+#: ../../6-Good 776e64577e6a4db3803463b3d88955f6 practices.rst:11
+msgid ""
+"For deciding where to start, we suggest adopting the methodology of 4-D design "
+"thinking of Discover, Design, Develop and Deploy as introduced by Bali et al in "
+"their ELLORA initiative. This user-centric approach is as follows:"
+msgstr ""
+"Nereden başlayacağınıza karar vermek için, Bali ve diğerlerinin ELLORA "
+"girişimlerinde tanıtıldığı gibi Keşfet, Tasarla, Geliştir ve Dağıt’ın 4 boyutlu "
+"tasarım düşüncesi metodolojisini benimsemenizi öneririz. Bu kullanıcı merkezli "
+"yaklaşım aşağıdaki gibidir:"
+
+#: ../../6-Good aa65d8abe96f4a38a30b6c3f37f0f836 practices.rst:13
+msgid "Discover what is most needed by the language community"
+msgstr "Dil topluluğu tarafından en çok neye ihtiyaç duyulduğunu keşfedin"
+
+#: ../../6-Good 5c1474a92713439f9d78c25a845f70d2 practices.rst:14
+msgid ""
+"Design for the users and their language giving attention to diversity of the "
+"language and avoiding an approach parting from a majority language."
+msgstr ""
+"Dilin çeşitliliğine dikkat ederek ve çoğunluk dilinden ayrılan bir yaklaşımdan "
+"kaçınarak, kullanıcılar ve dilleri için tasarım."
+
+#: ../../6-Good 58bb32c5e6134952aa0da2d181765a77 practices.rst:15
+msgid ""
+"Develop and deploy frequently in an interative manner constantly improving and "
+"detecting failures from the beginning."
+msgstr ""
+"Hataları baştan itibaren sürekli iyileştirerek ve tespit ederek etkileşimli bir "
+"şekilde sık sık geliştirin ve devreye alın."
+
+#: ../../6-Good a2e550d0079744c5a133719bd6e6b966 practices.rst:17
+msgid ""
+"Even when the community hasn't developed a perspective of language technology "
+"development, it is good practice to keep the value of data in mind when doing "
+"language preservation activities. Some examples of these are:"
+msgstr ""
+"Topluluk, dil teknolojisi geliştirme perspektifi geliştirmemiş olsa bile, dil "
+"koruma etkinlikleri yaparken verilerin değerini akılda tutmak iyi bir "
+"uygulamadır. Bunlardan bazı örnekler:"
+
+#: ../../6-Good 54035d66f69a4ac485e7f35e266bbe62 practices.rst:19
+msgid ""
+"Organize events and create content to raise data-awareness in the language "
+"community,"
+msgstr ""
+"Dil topluluğunda veri farkındalığını artırmak için etkinlikler düzenlemek ve "
+"içerik oluşturmak,"
+
+#: ../../6-Good ee0d060e461d4913942dd205c1656daa practices.rst:20
+msgid "Introduce languages to crowdsourcing platforms,"
+msgstr "Introduce languages to crowdsourcing platforms,"
+
+#: ../../6-Good cef2c71b2c194955ab7bc6b92c50d33e practices.rst:21
+msgid "Organize datathons for language data collection,"
+msgstr "Dil verilerinin toplanması için veri topları düzenleyin,"
+
+#: ../../6-Good 1d1ec49fc7ef4c11849f460b8a4e6609 practices.rst:22
+msgid "Translate folk tales and children's stories which fall into public domain,"
+msgstr ""
+"Kamuya açık hale gelen halk hikâyelerini ve çocuk hikâyelerini tercüme etmek,"
+
+#: ../../6-Good 17fbc2633dd44ec79ef0c6e31b0cc284 practices.rst:23
+msgid ""
+"Store plain text or document versions of published material in order to create "
+"text corpora,"
+msgstr ""
+"Metin derlemi oluşturmak için düz metin veya yayınlanmış materyalin belge "
+"versiyonlarını saklayın,"
+
+#: ../../6-Good 0afc67b81cdb420985294f6e2a09f747 practices.rst:24
+msgid ""
+"Store recordings of broadcast material (e.g. radioshows) and transcribe if "
+"possible so that they can be converted into speech data,"
+msgstr ""
+"Yayın materyallerinin (örneğin radyo programları) kayıtlarını saklayın ve "
+"mümkünse konuşma verilerine dönüştürülebilmeleri için kopyalayın,"
+
+#: ../../6-Good 92ef1f0c1ec34328acf8a374775c006c practices.rst:25
+msgid ""
+"Save content published in social media to a permanent resource so that they "
+"don't get lost in timelines..."
+msgstr ""
+"Sosyal medyada yayınlanan içerikleri, zaman tünellerinde kaybolmamaları için "
+"kalıcı bir kaynağa kaydedin…"

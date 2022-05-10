@@ -46,7 +46,25 @@
 <li class="toctree-l1"><a class="reference internal" href="1-Introduction.html">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="2-Digital%20age.html">Languages and the digital age</a></li>
 <li class="toctree-l1"><a class="reference internal" href="3-Datadriven%20language%20tech.html">Data-driven language technologies</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Language data</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Language data</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#text-corpus">Text corpus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#sourcing-text-corpora">Sourcing text corpora</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#parallel-data-bitext">Parallel data (bitext)</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#sourcing-parallel-data">Sourcing parallel data</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#crowdsourcing-parallel-data-with-tatoeba">Crowdsourcing parallel data with Tatoeba</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#speech-corpus">Speech corpus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#common-voice">Common Voice</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#adding-a-language-to-common-voice">Adding a language to Common Voice</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#found-data">Found data</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#sources">Sources</a></li>
+</ul>
+</li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="5-Case%20studies.html">Case studies</a></li>
 <li class="toctree-l1"><a class="reference internal" href="6-Good%20practices.html">Good practices</a></li>
 </ul>
@@ -77,17 +95,101 @@
              
   <section id="language-data">
 <span id="data"></span><h1>Language data<a class="headerlink" href="#language-data" title="Enlazar permanentemente con este título"></a></h1>
-<p>AI opens up a new area for language resource creation.</p>
-<p>Labelled vs unlabelled data
-Text corpus: Wikipedia, digitized books, online publications
-Speech corpus <a class="reference external" href="https://www.openslr.org/resources.php">https://www.openslr.org/resources.php</a>
-Bi-text</p>
-<p>Crowdsourced collection tatooeba, common voice</p>
-<p>Found data (restructure pre-existing): blogs, videos</p>
-<p>how to open common voice for your language?</p>
-<p><a class="reference external" href="https://tts.readthedocs.io/en/latest/what_makes_a_good_dataset.html">https://tts.readthedocs.io/en/latest/what_makes_a_good_dataset.html</a></p>
-<p>transfer learning</p>
-<p><a class="reference external" href="https://www.wired.co.uk/article/maori-language-tech">https://www.wired.co.uk/article/maori-language-tech</a></p>
+<p>Artificial intelligence tools opens up a new area for language resource creation for endangered and minority languages. Compared to the «classic» language resources created to preserve languages like lexica, grammar documentation, language maps etc., these require less linguistic expertise but are usually only useful in large volumes.</p>
+<p>In this section we will explain the types of data that power the creation of artificial intelligence-based language technology explained in the previous chapter. Also, we will cover some ways to collect them and get the most out of them even if they are not of large volumes usually required by these applications.</p>
+<section id="text-corpus">
+<h2>Text corpus<a class="headerlink" href="#text-corpus" title="Enlazar permanentemente con este título"></a></h2>
+<p>In linguistics, a corpus (plural corpora) or text corpus is a language resource consisting of a large and structured set of texts in a language in digital format. They are useful in corpus linguistics for doing statistical analysis and hypothesis testing, checking occurrences or validating linguistic rules within a specific language territory. For language technology, they are an essential part in creating statistical language models that are used in applications such as optical character recognition, handwriting recognition, machine translation, spelling correction, assisted writing.</p>
+<p>Text corpora by themselves are of the type <em>unlabeled data</em>. That is, they are a mere collection of data (in this case text) without any annotation. Language models store the probabilities of sequences words in order to get an «understanding» for the language. Also, text corpora can be annotated with following information in order to create <em>labeled data</em> for different NLP tasks:</p>
+<ul class="simple">
+<li><p><strong>Part-of-speech</strong> (Noun, verb, Adjective etc.)</p></li>
+<li><p><strong>Named entities</strong> (Person, location, personally identifiable information, organization, time etc.)</p></li>
+<li><p><strong>Lemmas</strong> (roots of the words e.g. break for broken)</p></li>
+<li><p><strong>Dependency and phrase structure</strong> (syntactic tree)</p></li>
+</ul>
+<section id="sourcing-text-corpora">
+<h3>Sourcing text corpora<a class="headerlink" href="#sourcing-text-corpora" title="Enlazar permanentemente con este título"></a></h3>
+<p>The most common way of sourcing text corpora is through <em>crawling</em> the world wide web. This technique parses the whole web for collecting text in a certain language or many languages at once. Wikipedia <a class="reference external" href="https://en.wikipedia.org/wiki/Wikipedia:Database_download">publishes its content</a> in different languages which can be used to create text corpora. <a class="reference external" href="https://commoncrawl.org/">Common Crawl</a> initiative collects web site data and freely provides petabytes of data to the public. OSCAR distributes this data with language classifications available in 166 languages.</p>
+<p>Another common resource used by resourceful languages are books. <a class="reference external" href="https://yknzhu.wixsite.com/mbweb">BookCorpus</a> consists of 11,038 books from the web containing 74 Million sentences and 984 Million words and is known to have powered many influential language models by big tech companies.</p>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p>Language models that are created from data in the wild represent what they see, and nothing else. Language in the web and books contain as well biases, toxic language which eventually gets replicated in these models. For an analysis of potential risks of building language models out of big language corpora, refer to <a class="reference external" href="https://dl.acm.org/doi/abs/10.1145/3442188.3445922">this paper by Bender et al</a></p>
+</div>
+</section>
+</section>
+<section id="parallel-data-bitext">
+<h2>Parallel data (bitext)<a class="headerlink" href="#parallel-data-bitext" title="Enlazar permanentemente con este título"></a></h2>
+<p>The type of data that is needed to build a machine translation system is parallel data, which consists of a collection of sentences in a language together with their translations. Historically parallel data were sourced from tranaslations in multilingual parliaments like United Nations, European Parliament. Now, the greatest resource of parallel text is the multilingual web.</p>
+<p>In order to train machine translation models it is not enough just to have translated documents. The texts need to be segmented to sentences and aligned. Parallel text alignment is the identification of the corresponding sentences in both halves of the parallel text. The resulting documents either have to correspond line by line or contain the original sentences and their translations in the same line. <a class="reference external" href="https://github.com/danielvarga/hunalign">Hunalign</a> helps in creating sentence alignments from translated documents.</p>
+<section id="sourcing-parallel-data">
+<h3>Sourcing parallel data<a class="headerlink" href="#sourcing-parallel-data" title="Enlazar permanentemente con este título"></a></h3>
+<p><a class="reference external" href="https://opus.nlpl.eu/">OPUS</a> is a collection of almost all publicly available parallel data. It is the go-to point for many researchers to publish their parallel data or source data for development of MT models.</p>
+<p>Some common sources for parallel data are:
+- Multilingual web sites (e.g. international news outlets),
+- Movie subtitles (see <a class="reference external" href="https://opus.nlpl.eu/OpenSubtitles.php">OpenSubtitles</a>),
+- Holy texts,
+- Parliament proceedings,
+- Software localization data.</p>
+</section>
+<section id="crowdsourcing-parallel-data-with-tatoeba">
+<h3>Crowdsourcing parallel data with Tatoeba<a class="headerlink" href="#crowdsourcing-parallel-data-with-tatoeba" title="Enlazar permanentemente con este título"></a></h3>
+<p>Tatoeba is a free collection of example sentences with translations geared towards foreign language learners. It is written and maintained by a community of volunteers through a model of open collaboration. It is hosted by Association Tatoeba, a French non-profit organization funded through donations. It currently holds 10,397,308 sentences in 412 supported languages.</p>
+<figure class="align-center" id="id2">
+<img alt="A sentence and its translations from Tatoeba" src="_images/tatoeba.png" />
+<figcaption>
+<p><span class="caption-text">A sentence and its translations from Tatoeba</span><a class="headerlink" href="#id2" title="Enlace permanente a esta imagen"></a></p>
+</figcaption>
+</figure>
+<p>Users can search for words in any language to retrieve sentences that use them. Each sentence in the Tatoeba database is displayed next to its likely translations in other languages; direct and indirect translations are differentiated. Sentences are tagged for content such as subject matter, dialect, or vulgarity; they also each have individual comment threads to facilitate feedback and corrections from other users and cultural notes. Sentences can be browsed by language, tag, and other criteria.</p>
+<p>Registered users can add new sentences or translate or proofread existing ones, even if their target language is not their native tongue. However, users are encouraged to add original sentences or translations in their native or strongest language.</p>
+<p>The entire Tatoeba database is published under a Creative Commons Attribution 2.0 license. It is also very easy to download parts of corpora in monolingual or parallel format from its <a class="reference external" href="https://tatoeba.org/en/downloads">downloads page</a>.</p>
+</section>
+</section>
+<section id="speech-corpus">
+<h2>Speech corpus<a class="headerlink" href="#speech-corpus" title="Enlazar permanentemente con este título"></a></h2>
+<p>A speech corpus is a collection of speech audio files and their text transcriptions. In speech technology, speech corpora are used to create acoustic models for tasks like automatic speech recognition, text-to-speech synthesis and also speaker identification.</p>
+<p>Speech corpora can contain read (e.g. audiobooks, news, read numbers and words) or spontaneous speech (dialogues). Corpora adequeate for training ASR models contain samples from as many speakers as possible and in various acoustic settings (e.g. noisy, from far) in order to generalize. In contrast, training data for TTS contains usually recordings from one speaker in an acoustically optimal setting.</p>
+<p><a class="reference external" href="https://www.openslr.org/resources.php">OpenSLR</a> lists many publicly available speech corpora.</p>
+<section id="common-voice">
+<h3>Common Voice<a class="headerlink" href="#common-voice" title="Enlazar permanentemente con este título"></a></h3>
+<p><a class="reference external" href="https://commonvoice.mozilla.org/">Common Voice</a> is a crowdsourcing project started by Mozilla to create a free database for making speech recognition accessible to everyone. The project is supported by volunteers who record sample sentences with a microphone and review recordings of other users. The voiced samples are released in regular intervals under the public domain license CC0 (<a class="reference external" href="https://en.wikipedia.org/wiki/Public_domain">public domain</a>). This license ensures that developers can use the database for voice-to-text applications without restrictions or costs.</p>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p>As of May 2022, Common Voice supports 63 languages with 68 new on the way. See here the current list of languages: <a class="reference external" href="https://commonvoice.mozilla.org/en/languages">https://commonvoice.mozilla.org/en/languages</a>.</p>
+</div>
+<figure class="align-center" id="id3">
+<img alt="Recording a Kurmanji Kurdish sentence on Common Voice" src="_images/cv_kurmanji.png" />
+<figcaption>
+<p><span class="caption-text">Recording a Kurmanji Kurdish sentence on Common Voice</span><a class="headerlink" href="#id3" title="Enlace permanente a esta imagen"></a></p>
+</figcaption>
+</figure>
+</section>
+<section id="adding-a-language-to-common-voice">
+<h3>Adding a language to Common Voice<a class="headerlink" href="#adding-a-language-to-common-voice" title="Enlazar permanentemente con este título"></a></h3>
+<p>Common Voice works as a community platform where each language has their own community. The procedure for a new language to be added into Common Voice is as follows:</p>
+<ol class="arabic simple">
+<li><p>Finding a community manager for the language (<a class="reference external" href="https://mozilla-l10n.github.io/localizer-documentation/community/l10n_community_roles.html">Information on roles</a>)</p></li>
+<li><p>Localization request to Mozilla. This is done using <a class="reference external" href="https://github.com/common-voice/common-voice/issues/new?assignees=phirework&amp;labels=&amp;template=language_request.md&amp;title=LOCALIZATION+REQUEST%3A+">this template</a> on their github page. This will start the localization process of Common Voice to the desired language by placing it on Pontoon.</p></li>
+<li><p>Localization on Pontoon (<a class="reference external" href="https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/index.html">user manual</a>). Every string on Common Voice platform needs to be translated to the language respecting the style guide. In total there are 663 strings. Translations can be made by any speaker who registers to the platform, but they need to be reviewed by the community manager.</p></li>
+<li><p>Sentence collection. A minimum of 5000 public domain sentences needs to be collected and entered to <a class="reference external" href="https://commonvoice.mozilla.org/sentence-collector">Common Voice sentence collector</a>.</p></li>
+<li><p>Reviewing sentences. Each collected sentence needs to be reviewed manually by at least two users on sentence collector.</p></li>
+<li><p>Wait for next CV release. Once localization is complete and there are 5000 reviewed sentences, next CV release should contain your language. Releases are done done twice a month with schedules listed on <a class="reference external" href="https://github.com/common-voice/common-voice">their github repository</a>.</p></li>
+</ol>
+</section>
+<section id="found-data">
+<h3>Found data<a class="headerlink" href="#found-data" title="Enlazar permanentemente con este título"></a></h3>
+<p>It is also possible to source voice data from broadcase radio shows, movies and recorded material like interviews etc. This type of data is called «found data» as it is not originally intended to serve for builing voice technology but it is <em>repurposed</em> to do so. Found data requires to be processed in order to obtain short audio segments and their transcriptions.</p>
+</section>
+<section id="sources">
+<h3>Sources<a class="headerlink" href="#sources" title="Enlazar permanentemente con este título"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://en.wikipedia.org/wiki/Text_corpus">Text corpus in Wikipedia</a></p></li>
+<li><p><a class="reference external" href="https://en.wikipedia.org/wiki/Tatoeba">Tatoeba in Wikipedia</a></p></li>
+<li><p><a class="reference external" href="https://en.wikipedia.org/wiki/Speech_corpus">Speech corpus in Wikipedia</a></p></li>
+<li><p><a class="reference external" href="https://en.wikipedia.org/wiki/Common_Voice">Common Voice in Wikipedia</a></p></li>
+</ul>
+</section>
+</section>
 </section>
 
 

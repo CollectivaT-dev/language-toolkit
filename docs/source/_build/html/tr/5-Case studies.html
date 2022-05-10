@@ -4,7 +4,7 @@
   <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Case studies &mdash; Language Toolkit 0.1 belgelendirmesi</title>
+  <title>Örnek çalışmalar &mdash; Language Toolkit 0.1 belgelendirmesi</title>
       <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
   <!--[if lt IE 9]>
@@ -19,8 +19,8 @@
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Dizin" href="genindex.html" />
     <link rel="search" title="Ara" href="search.html" />
-    <link rel="next" title="Good practices" href="6-Good%20practices.html" />
-    <link rel="prev" title="Language data" href="4-Language%20data.html" /> 
+    <link rel="next" title="İyi uygulamalar" href="6-Good%20practices.html" />
+    <link rel="prev" title="Dil verileri" href="4-Language%20data.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -43,12 +43,23 @@
         </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
               <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
 <ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="1-Introduction.html">Introduction</a></li>
-<li class="toctree-l1"><a class="reference internal" href="2-Digital%20age.html">Languages and the digital age</a></li>
-<li class="toctree-l1"><a class="reference internal" href="3-Datadriven%20language%20tech.html">Data-driven language technologies</a></li>
-<li class="toctree-l1"><a class="reference internal" href="4-Language%20data.html">Language data</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Case studies</a></li>
-<li class="toctree-l1"><a class="reference internal" href="6-Good%20practices.html">Good practices</a></li>
+<li class="toctree-l1"><a class="reference internal" href="1-Introduction.html">Giriş</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2-Digital%20age.html">Diller ve dijital çağ</a></li>
+<li class="toctree-l1"><a class="reference internal" href="3-Datadriven%20language%20tech.html">Veriye dayalı dil teknolojileri</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4-Language%20data.html">Dil verileri</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Örnek çalışmalar</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#judeo-spanish-connecting-the-two-ends-of-the-mediterranean">Judeoespanyol: Akdeniz’in iki ucunu birbirine bağlayan dil</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#creation-of-audio-visual-content-for-social-media">Sosyal medya için görsel-işitsel içerik oluşturulması</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#ladino-data-hub-and-open-language-datasets">Ladino Data Hub ve açık dil veri kümeleri</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#web-application-for-machine-translation-and-speech-synthesis">Makine çevirisi ve konuşma sentezi için web uygulaması</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#grassroots-nlp-communities">Taban NLP toplulukları</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#common-voice-campaigns">Common Voice kampanyaları</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#other-initiatives">Diğer girişimler</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="6-Good%20practices.html">İyi uygulamalar</a></li>
 </ul>
 
         </div>
@@ -65,7 +76,7 @@
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
       <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
-      <li>Case studies</li>
+      <li>Örnek çalışmalar</li>
       <li class="wy-breadcrumbs-aside">
             <a href="_sources/5-Case studies.rst.txt" rel="nofollow"> Sayfa kaynağını görüntüle</a>
       </li>
@@ -76,23 +87,108 @@
            <div itemprop="articleBody">
              
   <section id="case-studies">
-<span id="case"></span><h1>Case studies<a class="headerlink" href="#case-studies" title="Bu başlık için kalıcı bağlantı"></a></h1>
-<p>Intiatives:
-Kurdish crowdsource, masakhane, turkic nlp, kabyle, catalan, BibleTTS initiative, Ladino</p>
-<p>Cebuano wikipedia (2nd biggest wiki with 6,1M articles)
-LSJbot, which machine-translated huge numbers of articles
-<a class="reference external" href="https://www.babbel.com/en/magazine/wikipedia-languages">https://www.babbel.com/en/magazine/wikipedia-languages</a></p>
-<p>Catalan speech data 1. Collectivat found data, 2. common voice initietiva</p>
-<p>Ladino
--&gt; this project, EURALI paper</p>
+<span id="case"></span><h1>Örnek çalışmalar<a class="headerlink" href="#case-studies" title="Bu başlık için kalıcı bağlantı"></a></h1>
+<p>Bu bölümde, nesli tükenmekte olan ve azınlık dilleri için örnek veya ilham verici olduğunu düşündüğümüz dil teknolojisi ile ilgili bazı girişimleri ve çalışmaları listeliyoruz. “Yahudi İspanyolcası: Akdeniz’in iki ucunu birbirine bağlamak” adlı bu belgeye meyve veren projeyi anlatarak başlayıp Anadolu, İber, Afrika dillerini içeren projelerle devam edeceğiz.</p>
+<section id="judeo-spanish-connecting-the-two-ends-of-the-mediterranean">
+<h2>Judeoespanyol: Akdeniz’in iki ucunu birbirine bağlayan dil<a class="headerlink" href="#judeo-spanish-connecting-the-two-ends-of-the-mediterranean" title="Bu başlık için kalıcı bağlantı"></a></h2>
+<p>Ladino veya Judezmo olarak da adlandırılan Judeoespanyol, 15. yüzyıldan kalma eski Kastilya İspanyolcasının bir çeşididir. İspanyol Engizisyonu (1492) tarafından evlerinden sürülen ve Osmanlı İmparatorluğu’nun yanı sıra Fransa, İtalya, Hollanda, Fas ve İngiltere’ye kabul edilen Sefarad Yahudilerinin tarihi ve baskın dilidir. İspanyol Yahudileri Osmanlı İmparatorluğu’na geldiğinde ortaya çıkan yeni dilin temeli olarak 15. yüzyılın tüm İber dilleri ile Kastilya İspanyolcasının bir karışımıdır. 530 yıl sonra, Yahudi-İspanyolca hala 30’dan fazla ülkede Osmanlı Sefarad Yahudilerinin bir dili olarak varlığını sürdürüyor ve çoğu konuşmacı İsrail’de yaşıyor. Yüzyıllar boyunca hayatta kalmasına ve gelişmesine rağmen, şu anda <a href="#id1"><span class="problematic" id="id2">`</span></a>UNESCO &lt;<a class="reference external" href="http://www.unesco.org/culture/en/endangeredlanguages/atlas">http://www.unesco.org/culture/en/endangeredlanguages/atlas</a>&gt;’ tarafından ciddi şekilde tehlike altındaki bir dil olarak sınıflandırılmaktadır.</p>
+<p>Col·lectivaT ve Sefarad Kültür Araştırma Merkezi (SKAD), sosyal medya içeriklerinin oluşturulmasından, Ladino’ya dijital çağa yardımcı olan ileri dil teknolojisinin geliştirilmesine kadar çok çeşitli faaliyetler gerçekleştirmek üzere bu proje için bir araya geldi. Ayrıca bu dilin Türkiye ile İspanya arasında ortak bir miras olduğu konusunda farkındalık oluşturmayı amaçlamıştır.</p>
+<section id="creation-of-audio-visual-content-for-social-media">
+<h3>Sosyal medya için görsel-işitsel içerik oluşturulması<a class="headerlink" href="#creation-of-audio-visual-content-for-social-media" title="Bu başlık için kalıcı bağlantı"></a></h3>
+<p>Proje, sosyal medya platformlarında görünürlük kazanmaya yardımcı olacak ve genç nesilleri Ladino öğrenmeye çekecek kısa dil öğrenme videoları oluşturdu. Bu kısa videolarda bir Judeo-İspanyolca deyimi Türkçe, İngilizce ve İspanyolca çevirisi ile telaffuzunu öğrenmenize yardımcı olacak sesli bir şekilde sunulmaktadır.</p>
+<figure class="align-center" id="id2">
+<img alt="SKAD’ın instagram sayfasından Fraza al diya segmentleri" src="_images/skadinsta.png" />
+<figcaption>
+<p><span class="caption-text">Una Fraza al diya (Günde bir cümle) videoları ile SKAD’ın instagram sayfasında Ladino’yu tanıtma</span><a class="headerlink" href="#id2" title="Bu resmin kalıcı bağlantısı"></a></p>
+</figcaption>
+</figure>
+</section>
+<section id="ladino-data-hub-and-open-language-datasets">
+<h3>Ladino Data Hub ve açık dil veri kümeleri<a class="headerlink" href="#ladino-data-hub-and-open-language-datasets" title="Bu başlık için kalıcı bağlantı"></a></h3>
+<p>Proje, Ladino dili verilerini ve Sefarad kültürünün belgelenmesine yardımcı olan diğer kaynakları barındırmaya ayrılmış merkezi bir web arşivi görevi görecek olan <a class="reference external" href="https://data.sefarad.com.tr/">Ladino Veri Merkezi’ni</a> başlattı. Dünyanın her yerinden araştırmacıların, gazetecilerin Ladino için araştırma ve geliştirmeyi artırmaya yardımcı olacak veri kümelerine erişmesini ve bunları paylaşmasını sağlamayı amaçlıyor.</p>
+<figure class="align-center" id="id3">
+<img alt="Ladino dili ile ilgili üç veri setini içeren Ladino veri merkezi giriş sayfası" src="_images/datahub.png" />
+<figcaption>
+<p><span class="caption-text">Ladino Data Hub, Ladino ve Sefarad kültürüyle ilgili verileri barındırır</span><a class="headerlink" href="#id3" title="Bu resmin kalıcı bağlantısı"></a></p>
+</figcaption>
+</figure>
+<p>Proje, halihazırda var olan veri kümelerini oluşturup yeniden paketledi ve bu portalda paylaştı. Bunlar:</p>
+<ul class="simple">
+<li><p>&lt;<a class="reference external" href="https://data.sefarad.com.tr/dataset/salom-ladino-articles-text-corpus">https://data.sefarad.com.tr/dataset/salom-ladino-articles-text-corpus</a>&gt;`_ <a class="reference external" href="https://www.salom.comtaranancümlelerdenoluşanbirmetinbütünü.tr">Şalom gazetesinden</a>.</p></li>
+<li><p><a class="reference external" href="https://data.sefarad.com.tr/dataset/una-fraza-al-diya-skad">Una Fraza al diya cümlelerini ve seslerini içeren</a> sesli paralel metin bütünü</p></li>
+<li><p><a class="reference external" href="https://data.sefarad.com.tr/dataset/ladino-speech">Ladino konuşma külliyatı</a> SKAD tarafından oluşturuldu</p></li>
+<li><p>Karen Şarhon tarafından okunan konuşma materyalinden oluşan <a class="reference external" href="https://data.sefarad.com.tr/dataset/tts-training-dataset">temiz konuşma sentezi eğitim veri seti</a></p></li>
+<li><p><a class="reference external" href="https://data.sefarad.com.tr/dataset/ladino-spanish-dictionary-files">İspanyolca Ladino sözlüğü</a> Güler’in sözlüğüne dayanan</p></li>
+<li><p><a class="reference external" href="https://data.sefarad.com.tr/dataset/skad-parallel">SKAD içinde yapılan çevirilerden `Ladino İngilizce ve Türkçe paralel metinler</a></p></li>
+<li><p>Temel MT modellerinin eğitimi için <a class="reference external" href="https://data.sefarad.com.tr/">sentetik olarak üretilmiş paralel derlem</a></p></li>
+</ul>
+</section>
+<section id="web-application-for-machine-translation-and-speech-synthesis">
+<h3>Makine çevirisi ve konuşma sentezi için web uygulaması<a class="headerlink" href="#web-application-for-machine-translation-and-speech-synthesis" title="Bu başlık için kalıcı bağlantı"></a></h3>
+<p>Projenin son ve en önemli çıktısı, Ladino ile ilgili üç dil Türkçe, İspanyolca ve İngilizce arasında çeviri yapabilen bir web uygulamasıdır. Amaç, Judeo-İspanyolca öğrenmek isteyen dil öğrenenlere, araştırmacılara ve dilbilimcilere yardımcı olmaktır. Makine çevirisi arka ucu, İspanyolca’dan Ladino’ya dönüştürebilen <a class="reference external" href="https://github.com/CollectivaT-dev/Espanyol-Ladino-Translation">kural tabanlı bir makine çeviri sistemi</a> yardımıyla oluşturuldu. diller arasındaki benzer sözdiziminin, ancak sözlüklerden ve dilbilgisi kitaplarından türetilen bir dizi kuralla değişen yazım ve kelime dağarcığı. Web uygulaması ayrıca <cite>TTS eğitim veri kümesi &lt;https://data.sefarad.com.tr/dataset/tts-training-dataset&gt;</cite> ile oluşturulmuş bir TTS uygulaması ile Ladino cümlelerini sentezleyebilir.</p>
+<figure class="align-center" id="id4">
+<img alt="Ladino çeviri web uygulaması konuşma sentezi ile “Sara yemek yemeyi sevmez. Her zaman yemeklerini yakar.” cümlesini çeviriyor. “A Sara no le plaze gizar. Siempre kema la komida.”" src="_images/translate.png" />
+<figcaption>
+<p><span class="caption-text">Konuşma sentezi ile Ladino çeviri web uygulaması</span><a class="headerlink" href="#id4" title="Bu resmin kalıcı bağlantısı"></a></p>
+</figcaption>
+</figure>
+<p>Web uygulaması ayrıca paralel verilerin katkısına da izin verir. Kullanıcılar, Ladino için paralel verileri genişletmek için rastgele bir cümle yükleyebilir ve düzeltilmiş çevirilerini gönderebilir.</p>
+<div class="admonition note">
+<p class="admonition-title">Not</p>
+<p>Bu projenin ayrıntılı bir teknik raporu için lütfen Avrasya’da Yerli, Tehlikedeki ve Az Kaynaklı Diller için Kaynaklar ve Teknolojiler Çalıştayında sunulan “Dijital Çağ için Tehlike Altındaki Bir Dil Hazırlamak: Yahudi-İspanyolca Örneği” başlıklı makaleye bakın ( <a class="reference external" href="https://sites.google.com/view/eurali/home?authuser=0">EURALI</a>): <em>Bağlantı yakında eklenecek</em></p>
+</div>
+</section>
+</section>
+<section id="grassroots-nlp-communities">
+<h2>Taban NLP toplulukları<a class="headerlink" href="#grassroots-nlp-communities" title="Bu başlık için kalıcı bağlantı"></a></h2>
+<p>Bir avuç dile odaklanan NLP araştırmasına karşı, taban araştırma toplulukları, dünya dillerini teknolojinin ön saflarına getirmek için bir araya geliyor. Bu girişimlere iki örnek <a class="reference external" href="https://www.masakhane.io/">Masakhane</a> ve <a class="reference external" href="https://turkicinterlingua.org/">Turkic Interlingua</a>.</p>
+<p>Web sayfalarında tanımlandığı gibi, “Masakhane, misyonu Afrikalılar için Afrikalılar için Afrika dillerinde NLP araştırmalarını güçlendirmek ve teşvik etmek olan bir taban örgütüdür.” Bu, adlarından da anlaşılacağı gibi “birlikte inşa etmek” için herkese açık bir girişimdir. Dil teknolojisi araştırmalarında Afrika’nın 2000 dilini temsil etmek amacıyla tüm dünyada Afrikalı ve Afrikalı olmayan araştırmacılar tarafından birçok eş zamanlı etkinlik gerçekleştirilmektedir. Masakhane’den öne çıkan bazı çalışmalar:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://translate.masakhane.io/">Masakhane tercümanı</a> 6 Afrika dilini destekliyor: Yoruba, Shona, Lingala, Swahili, Tshiluba</p></li>
+<li><p><a class="reference external" href="https://lanfrica.com/">Lanfrica</a> Afrika dili eserlerini keşfetmede karşılaşılan zorluklara karşı koymak için Afrika dili kaynaklarını katalogluyor</p></li>
+<li><p><a class="reference external" href="https://masakhane-io.github.io/bibleTTS/">BibleTTS</a> Sahra Altı Afrika’da konuşulan on dil için yüksek kaliteli Metin Okuma modellerinin geliştirilmesini sağlıyor: Ewe, Hausa, Kikuyu, Lingala , Luganda, Luo, Chichewa, Akuapem Twi, Asante Twi, Yoruba.</p></li>
+<li><p><a class="reference external" href="https://openreview.net/forum?id=BFbg59zVUZc">Oshiwambo dilini ve kültürünü korumak için makine çevirisi</a></p></li>
+<li><p><a class="reference external" href="https://www.masakhane.io/ongoing-projects/masakhaner-know-our-names">MasakhaNER İsimlerimizi bilin</a> çeşitli Afrika dilleri için el yapımı adlandırılmış varlık tanıma (NER) veri kümeleri oluşturma</p></li>
+</ul>
+<p>Masakhane ayrıca Afrika NLP ile ilgili araştırmaları yayınlamak için yıllık çalıştaylar düzenler ve <a class="reference external" href="https://lacunafund.org/">Lacuna</a> gibi veri toplama fonlarına katılır.</p>
+<p><strong>Turkic Interlingua (TIL)</strong> is a “community of researchers, engineers, language enthusiasts and community leaders whose mission is to develop language technologies (from spell checkers to translation models), collect diverse datasets, and explore linguistic phenomena through the lens of academic research for Turkic languages” like Altai, Azerbaijani, Bashkir, Shor, Crimean Tatar, Chuvash, Gagauz, Karakalpak, Khakas, Kazakh, Karachay-Balkar, Kumyk, Kirghiz, Sakha (Yakut), Salar, Turkmen, Turkish, Tatar, Tuvinian, Uighur, Urum, and Uzbek.</p>
+</section>
+<section id="common-voice-campaigns">
+<h2>Common Voice kampanyaları<a class="headerlink" href="#common-voice-campaigns" title="Bu başlık için kalıcı bağlantı"></a></h2>
+<p>Çeşitli dil toplulukları, Common Voice’a katılımı harekete geçirmeye başladı. Bu girişimler, tek tek bireylerden yerel yönetimlere kadar uzanan gruplar tarafından hazırlanmaktadır. Bazı örnekler:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://twitter.com/CVTurkce">Common Voice Türkçe</a></p></li>
+<li><p><a class="reference external" href="https://twitter.com/crowdsourckurdi">Kurdish crowdsource</a></p></li>
+<li><p><a class="reference external" href="https://www.igwebuikecommunity.org/">Igwebuike topluluğu</a> for Igbo.</p></li>
+</ul>
+<p>Common Voice’a katkılarından dolayı Katalan topluluğuna da özel bir söz vermek istiyoruz. İspanya’da vatansız bir azınlık dili olan bu dil, aktivistlerin inanılmaz katkıları ve ayrıca Katalan yerel yönetiminin <a class="reference external" href="https://www.projecteaina.cat/">AI girişiminin</a>.</p>
+<figure class="align-center" id="id5">
+<a class="reference internal image-reference" href="_images/aina-times.jpg"><img alt="New York Times Meydanı’nda “İnternetin Katalanca konuşma zamanı geldi” yazılı pano" src="_images/aina-times.jpg" style="width: 400px;" /></a>
+<figcaption>
+<p><span class="caption-text">New York Times Meydanı’nda “İnternet Katalanca konuşmanın zamanı geldi” yazan bir reklam panosu (fotoğraf Aina Martí tarafından)</span><a class="headerlink" href="#id5" title="Bu resmin kalıcı bağlantısı"></a></p>
+</figcaption>
+</figure>
+</section>
+<section id="other-initiatives">
+<h2>Diğer girişimler<a class="headerlink" href="#other-initiatives" title="Bu başlık için kalıcı bağlantı"></a></h2>
+<p>Bahsetmeye değer diğer bazı girişimler:</p>
+<ul class="simple">
+<li><p>Col·lectivaT, kamu televizyon yayınlarını ve parlamento işlemlerini kullanarak “Katalanca &lt;<a class="reference external" href="https://collectivat.cat/rap">https://collectivat.cat/rap</a>&gt;” için “açık konuşma verileri ve metin külliyatları” oluşturmuştur.</p></li>
+<li><p><a class="reference external" href="https://catotron.cat/">Catotron</a> Katalonya için Katalonya Kültür Departmanı’nın desteğiyle oluşturulmuş ilk açık kaynaklı, sinir ağı tabanlı konuşma sentez motorudur.</p></li>
+<li><p>Filipinler’in dilleri Cebuano ve Waray-Waray, makine çevirisinin rekabetçi kullanımı sayesinde en büyük Wikipedia sayfalarından birine sahiptir (<a class="reference external" href="https://www.babbel.com/en/magazine/wikipedia-languages">source</a>)</p></li>
+<li><p>Maori halkı, “kendi kaderini tayin hakkını korumak” için kendi dillerinde ses verileri toplamaya yönelik hem özel hem de açık kaynaklı girişimleri reddetti (<a class="reference external" href="https://www.wired.co.uk/article/maori-dilteknolojisi">source</a>)</p></li>
+<li><p><a class="reference external" href="https://openlt.org/">Açık Dil Teknolojisi Manifestosu</a></p></li>
+<li><p><a class="reference external" href="https://www.microsoft.com/en-us/research/project/ellora/">ELLORA Microsoft Research Hindistan Tarafından Düşük Kaynaklı Dilleri Etkinleştiriyor</a></p></li>
+</ul>
+</section>
 </section>
 
 
            </div>
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
-        <a href="4-Language%20data.html" class="btn btn-neutral float-left" title="Language data" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Önceki</a>
-        <a href="6-Good%20practices.html" class="btn btn-neutral float-right" title="Good practices" accesskey="n" rel="next">Sonraki <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="4-Language%20data.html" class="btn btn-neutral float-left" title="Dil verileri" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Önceki</a>
+        <a href="6-Good%20practices.html" class="btn btn-neutral float-right" title="İyi uygulamalar" accesskey="n" rel="next">Sonraki <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 
   <hr/>
