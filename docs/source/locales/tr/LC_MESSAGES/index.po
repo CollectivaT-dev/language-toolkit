@@ -4,27 +4,28 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-09 18:50+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-11 16:33+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../index.rst:10 3aa8fbc3b8394d6db3658ad69e772653
 msgid "Contents:"
-msgstr ""
+msgstr "İçindekiler:"
 
 #: ../../index.rst:2 7c2686dcd349440aa4f5068f501bfe1e
 msgid "Toolkit for minority/low-resource languages"
-msgstr ""
+msgstr "Azınlık/az kaynaklı diller için araç seti"
 
 #: ../../index.rst:4 ee50af9718a142ffbcf41f4684e57269
 msgid ""
@@ -38,6 +39,15 @@ msgid ""
 "implemented by the Ministry of Culture and Tourism of the Republic of "
 "Turkey with the financial support of the European Union."
 msgstr ""
+"Bu belgede, azınlık ve nesli tükenmekte olan dillerin korunmasında "
+"teknolojinin, özellikle yapay zeka tabanlı teknolojinin rolünü ele "
+"alıyoruz. Bu, Col·lectivaT ve İstanbul Sefarad Merkezi (SKAD) tarafından "
+"yürütülen “Judeoespanyol: Akdeniz’in iki ucunu birbirine bağlayan dil” "
+"projesinin bir parçası olarak oluşturulmuş yaşayan bir belgedir. Bu "
+"proje T.C. Kültür ve Turizm Bakanlığı tarafından Avrupa Birliği’nin mali "
+"desteği ile hayata geçirilen “Ortak Kültür Mirası: Türkiye ve AB "
+"Arasında Koruma ve Diyalog-II (CCH-II) Hibe Programı” kapsamında hibe "
+"desteği almıştır."
 
 #: ../../index.rst:8 da7395ce2c694ad28fc4b25e78c4f422
 msgid ""
@@ -45,10 +55,12 @@ msgid ""
 "and SKAD and does not necessarily reflect the views of the European "
 "Union."
 msgstr ""
+"Bu web sitesinin içeriği tamamıyla Col·lectivaT ve SKAD’ın sorumluluğu "
+"altındadır ve Avrupa Birliğinin görüşlerini yansıtmak zorunda değildir."
 
 #: ../../index.rst:33 0239a6934cc0417c99d158704a5c75a9
 msgid "Indices and tables"
-msgstr ""
+msgstr "Endeksler ve tablolar"
 
 #: ../../index.rst:35 c60f9f92a9574850a480d6aa3f24197b
 msgid ":ref:`genindex`"
@@ -61,4 +73,3 @@ msgstr ""
 #: ../../index.rst:37 cf9e1393d339466c9d385f39ff896e5c
 msgid ":ref:`search`"
 msgstr ""
-
