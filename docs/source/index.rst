@@ -18,7 +18,7 @@ This is a living document that was created as part of the project "Judeo-Spanish
    
    `Bu doküman Türkçe de erişilebilir. <https://language-toolkit.readthedocs.io/tr/latest/>`_
    
-   `Este documento esta disponible en castellano. <https://language-toolkit.readthedocs.io/es/latest/>`_
+   `Este documento también está disponible en español. <https://language-toolkit.readthedocs.io/es/latest/>`_
 
 .. toctree::
    :maxdepth: 2

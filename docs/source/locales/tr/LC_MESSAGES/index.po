@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-18 17:08+0200\n"
+"POT-Creation-Date: 2022-05-18 17:31+0200\n"
 "PO-Revision-Date: 2022-05-11 16:33+0300\n"
 "Last-Translator: \n"
 "Language: tr\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: ../../index.rst:23 a227e2ae642e4d7ab7b264d2d171cd05
+#: ../../index.rst:23 15a77b3775f14da184da07a138991a67
 #, fuzzy
 msgid "Contents"
 msgstr "İçindekiler:"
@@ -66,7 +66,7 @@ msgstr ""
 
 #: ../../index.rst:21 121eabe0f7db449eaff832087b8dbf6d
 msgid ""
-"`Este documento esta disponible en castellano. <https://language-"
+"`Este documento también está disponible en español. <https://language-"
 "toolkit.readthedocs.io/es/latest/>`_"
 msgstr ""
 
@@ -136,5 +136,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ":ref:`search`"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Este documento esta disponible en "
+#~ "castellano. <https://language-"
+#~ "toolkit.readthedocs.io/es/latest/>`_"
 #~ msgstr ""
 
