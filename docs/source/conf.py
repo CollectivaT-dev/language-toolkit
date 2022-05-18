@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Language Toolkit'
-copyright = '2022, Col·lectivaT SCCL'
-author = 'Alp Öktem'
+project = 'Low-resource Languages Toolkit'
+copyright = '2022, Col·lectivaT SCCL.'
+author = 'Alp Öktem, Col·lectivaT'
 
 release = '0.1'
 version = '0.1.0'

@@ -1,27 +1,31 @@
 .. _case:
 
+.. figure:: img/ab_tr_en_color.jpg
+   :alt: Turkey and European Union flags
+   :align: center
+
+   This project is funded by the European Union.
+
 Case studies
 ============
 
-In this section, we list some language technology-related initiatives and works that we deem exemplary or inspiring for endangered and minority languages. We will start with describing the project which gave fruit to this document "Judeo-Spanish: Connecting the two ends of the Mediterranean" and continue with projects that involve Anatolian, Iberian, African languages. 
+In this section, we list some language technology-related initiatives and works that we deem exemplary or inspiring for endangered and minority languages. We will start with describing the project which gave fruit to this document "Judeo-Spanish: Connecting the two ends of the Mediterranean" and continue with projects that involve Anatolian, Iberian and African languages. 
 
 Judeo-Spanish: Connecting the two ends of the Mediterranean
 -----------------------------------------------------------
 
-Judeo-Spanish, also referred to as Ladino or Judezmo, is a variant of old Castilian Spanish from the 15th century. It is the historical and predominant language of the Sephardic Jews, who were expelled from their homes by the Spanish Inquisition (1492) and welcomed into the Ottoman Empire, as well as France, Italy, the Netherlands, Morocco, and England. It is a blend of all the Iberian languages of the 15th century with Castilian Spanish as the basis for the new language that emerged when the Spanish Jews arrived in the Ottoman Empire. After 530 years, Judeo-Spanish still survives as a language of Ottoman Sephardic Jews in more than 30 countries, with most speakers residing in Israel. Although it has survived and evolved over the centuries, it is currently classified as a severely endangered language by `UNESCO <http://www.unesco.org/culture/en/endangeredlanguages/atlas>`_.
-
-Col·lectivaT and Sephardic Centre of Istanbul have come together for this project to carry out a diverse set of activities ranging from social media content creation to development of advanced language technology that assist Ladino to the digital age. It also aimed to form awareness on this language as a common heritage between Turkey and Spain.
+Col·lectivaT and Sephardic Centre of Istanbul have come together for this project to carry out a diverse set of activities ranging from social media content creation to development of advanced language technology that assist Judeo-Spanish (Ladino) to the digital age. It also aimed to form awareness on this language as a common heritage between Turkey and Spain.
 
 Creation of audio-visual content for social media
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The project created short language learning videos that would help gain visibility in social-media platforms and attract young generations to learn Ladino. In these short videos, a Judeo-Spanish phrase is presented with its translation in Turkish, English and Spanish with an audio helping learn its pronuciation. 
+The project created short language learning videos that would help gain visibility in social-media platforms and attract young generations to learn Ladino. In these short videos, a Judeo-Spanish phrase is presented with its translation in Turkish, English and Spanish with an audio helping to learn its pronuciation. 
 
 .. figure:: img/skadinsta.png
-	:alt: Fraza al diya segments from SKAD's instagram page
+	:alt: Fraza del diya segments from SKAD's instagram page
 	:align: center
 
-	Promoting Ladino on SKAD's instagram page with Fraza al diya (One sentence a day) videos
+	Promoting Ladino on SKAD's instagram page with Fraza del diya (One sentence a day) videos
 
 Ladino Data Hub and open language datasets
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,7 +69,7 @@ Grassroots NLP communities
 
 Against the NLP research focusing on a handful of languages, grassroots research communities organize together to bring the world's languages into the forefront of technology. Two examples of these initiatives are `Masakhane <https://www.masakhane.io/>`_ and `Turkic Interlingua <https://turkicinterlingua.org/>`_. 
 
-As defined in their web-page, "Masakhane is a grassroots organisation whose mission is to strengthen and spur NLP research in African languages, for Africans, by Africans." It's an open-for-all initiative for "building together" as the meaning of their name says. Many concurrent activities take place by African and non-African researchers all over the world with the objective of representing the 2000 languages of Africa in language technology research. Some highlighting work from Masakhane are:
+As defined in their web-page, "Masakhane is a grassroots organisation whose mission is to strengthen and spur NLP research in African languages, for Africans, by Africans." It's an open-for-all initiative for "building together" as the meaning of their name suggests. Many concurrent activities take place by African and non-African researchers all over the world with the objective of representing the 2000 languages of Africa in language technology research. Some highlighting work from Masakhane are:
 
 - `Masakhane translator <http://translate.masakhane.io/>`_ supporting 6 African languages: Yoruba, Shona, Lingala, Swahili, Tshiluba
 - `Lanfrica <https://lanfrica.com/>`_ cataloguing African language resources to counter difficulties encountered in discovering African language works
@@ -84,7 +88,8 @@ Various language communities have embarked on mobilizing participation into Comm
 
 - `Common Voice Türkçe <https://twitter.com/CVTurkce>`_
 - `Kurdish crowdsource <https://twitter.com/crowdsourckurdi>`_
-- `Igwebuike community <https://www.igwebuikecommunity.org/>`_ for Igbo. 
+- `Igwebuike community <https://www.igwebuikecommunity.org/>`_ for Igbo
+- `Projecte AINA <https://www.projecteaina.cat/>`_ for Catalan
 
 We also would like to give a special mention to the Catalan community for their contribution to Common Voice. Being a stateless minority language in Spain, it's the 4th largest language (as of May 2022) in Common Voice thanks to the amazing contributions by activists and also a mobilization campaign by the `AI initiative of Catalan local government <https://www.projecteaina.cat/>`_. 
 
@@ -106,3 +111,10 @@ Some other initiatives worth mentioning:
 - Maori people have rejected both private and open-source initiatives for collecting voice data in their language in order to "maintain the right to self-determination" (`source <https://www.wired.co.uk/article/maori-language-tech>`_)
 - `A Manifesto for Open Language Technology <https://openlt.org/>`_
 - `ELLORA Enabling Low Resource Languages by Microsoft Research India <https://www.microsoft.com/en-us/research/project/ellora/>`_
+
+--------
+
+.. figure:: img/logos.png
+   :align: center
+
+   This document was created with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union. 

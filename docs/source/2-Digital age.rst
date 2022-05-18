@@ -1,5 +1,11 @@
 .. _languages:
 
+.. figure:: img/ab_tr_en_color.jpg
+   :alt: Turkey and European Union flags
+   :align: center
+
+   This project is funded by the European Union.
+
 =============================
 Languages and the digital age
 =============================
@@ -21,7 +27,7 @@ Digital extinction
 
 According to UNESCO, around 3,500 languages are expected to be extinct by the end of this century and we cannot deny the role of technology in this. `Kornai <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056>`_ states that the vast majority (over 95%) of languages have already lost the capacity to ascend digitally. Digital ascent requires use in a broad variety of digital contexts ranging from maintaining a Wikipedia page, to making language classes available and creating language technology data.
 
-We shouldn't of course fall into the trap of making technology the culprit of language loss. It is merely a representation of already existing power dynamics in the society. States which depriotize or even oppress certain languages start their digital transformation by excluding all these languages in their digital infrastructure. North American and Eurocentric big technology companies follow a English-first approach by default.
+We shouldn't of course fall into the trap of making technology the culprit of language loss. It is merely a representation of already existing power dynamics in the society. States which depriotize or even oppress certain languages start their digital transformation by excluding all these languages in their digital infrastructure. Now, North American and Eurocentric big technology companies follow a English-first approach by default.
 
 Technology can also be utilized to form communities around language preservation, knowledge sharing, language documentation. 
 
@@ -35,34 +41,32 @@ Nowadays, the challenge is not just making the language alive in the physical wo
 1. Exchanges and visibility online strikes interest and helps engage existing and new language learners.
 2. What's stored online in turn is a digital record for language which helps documentation and technology development. 
 
-Below, we will describe some ways the internet is becoming multilingual and plural while helping revive them.
+Below, we will describe some ways the internet is becoming multilingual and plural while helping revive endangered languages.
 
 Access to knowledge
 ~~~~~~~~~~~~~~~~~~~
 
 One of the most popular initiatives on bringing languages online is Wikipedia. Wikipedia is open an online encyclopedia written and maintained by a community of volunteers through an open collaboration and reviewing system. 
 
-Wikipedia's broad aim is to democratize access to knowledge. Naturally, the culture built around this ethos goes hand in hand with multilinguality. Although it started only with English, it quickly expanded to the world's many languages.
+Wikipedia's broad aim is to democratize access to knowledge. Naturally, the culture built around this ethos goes hand in hand with multilinguality. Although it started only with English, it quickly expanded to the world's many languages. We can probably say that it's the most language diverse platform on the internet with 326 languages (as of 03.05.22) and counting up. 
 
 .. note::
 
-	The first edit on a non-English Wikipedia was made in Catalan on March 16, 2001. Today, it is most notable for its large number of quality articles (20th largest wikipedia), which illustrates Catalan language's important online presence despite being a minority language. (https://en.wikipedia.org/wiki/Catalan_Wikipedia)
-
-We can probably say that it's the most language diverse platform on the internet with 326 languages (as of 03.05.22) and counting up. For the latest list of wikipedias: https://meta.wikimedia.org/wiki/List_of_Wikipedias
+	The first edit on a non-English Wikipedia was made in Catalan on March 16, 2001. Today, it is most notable for its large number of quality articles, which illustrates Catalan language's important online presence despite being a minority language. Catalan wikipedia is currently the 20th largest Wikipedia.
 
 .. figure:: img/wikilang.png
 	:width: 400
 	:alt: Relative sizes of different wikipedias
 	:align: center
 
-	Relative sizes of different wikipedias
+	Relative sizes of different wikipedias (`source <https://meta.wikimedia.org/wiki/List_of_Wikipedias>`_)
 
-Making a new language available in Wikipedia is no easy task (see https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia), but it is definitely a great way to make knowledge accessible online and build a virtual community around it.
+Making a new language available in Wikipedia is no easy task (as explained `here <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_), but it is definitely a great way to make knowledge accessible online and build a virtual community around it.
 
 Immersion into language
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-One great example of a language reviving with the help of technology is Yiddish. The number of Yiddish speakers decreased drastically from around 10 million speakers due to the Holocaust. Whoever survived were forced to assimilate the language of their new lands to avoid persecution. In the last century, the use of Yiddish had almost disappeared except for small and dispersed Hasidic communities.
+One great example of a language revitalization with the help of technology is Yiddish. After the holocaust, the number of Yiddish speakers decreased drastically from around 10 million speakers. Whoever survived were forced to assimilate the language of their new lands to avoid persecution. In the last century, the use of Yiddish had almost disappeared except for small and dispersed Hasidic communities.
 
 With the rise of the internet and popularity of online forums, Yiddish speakers used these platforms to converse in their language. Over time, the virtual world became the primary meeting point for Yiddish speakers in forums like The Idishe Velt (The Jewish World) and Kave Shtiebel (The Coffee House).
 
@@ -77,7 +81,7 @@ The rapid loss of languages in the last century has powered many initiatives for
 
 	Ladino in Endangered Languages Project
 
-Similarly, Wikitongues (https://wikitongues.org/), which started in 2014, collects recordings and resources of the world's languages. Currently it holds videos in over 700 languages, lexicons in 200 languages and links to hundreds of external resources.
+Similarly, `Wikitongues <https://wikitongues.org/>`_, which started in 2014, collects recordings and resources of the world's languages. Currently it holds videos in over 700 languages, lexicons in 200 languages and links to hundreds of external resources.
 
 .. figure:: img/ladino-wikitongues.png
 	:alt: Ladino videos in Wikitongues
@@ -95,7 +99,7 @@ Unicode-supported font
 
 A digital font is the way computers know how to display the characters in your language. Unicode, formally the Unicode Standard, is an information technology standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The standard, which is maintained by the Unicode Consortium, defines 144,697 characters covering 159 modern and historic scripts, as well as symbols, emoji, and non-visual control and formatting codes.
 
-You can check if your language is supported by a font by going to Google Noto (https://fonts.google.com/noto/) and searching among fonts that represent more than 500 writing systems. If it is not there, you can create your own with the help from a font designer and install it manually on your computer. 
+You can check if your language is supported by a font by going to `Google Noto <https://fonts.google.com/noto/>`_ and searching among fonts that represent more than 500 writing systems. If it is not there, you can create your own with the help from a font designer and install it manually on your computer. 
 
 .. figure:: img/tifinagh-font.png
 	:width: 600
@@ -107,21 +111,21 @@ You can check if your language is supported by a font by going to Google Noto (h
 Keyboard
 ~~~~~~~~
 
-Until the day we will be speaking naturally with computers, the most basic interface for interacting with them will be the keyboard. It is a technology easily taken for granted for the world's many languages but unfortunately it is not available in all of the world's writing systems. If a keyboard is not present or not developed enough for a language, its speakers tend to prefer other alphabets or even languages to communicate. For example, speakers of Ethiopian languages like Amharic, Tigrinya and Oromo switch to using English as Ge'ez script is not pre-installed in their smartphones. Young arabic speakers in many countries have invented their own chat-alphabet `Arabizi <https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_ consisting of latin characters and numerals to account for the lack of Arabic script support in early mobile and web technology.
+Until the day we will be speaking naturally with computers, the most common interface for interacting with them will be the keyboard. It is a technology easily taken for granted for the world's many languages but unfortunately it is not available in all of the world's writing systems. If a keyboard is not present or not developed enough for a language, its speakers tend to prefer other alphabets or even languages to communicate. For example, speakers of Ethiopian languages like Amharic, Tigrinya and Oromo switch to using English as Ge'ez script is not pre-installed in their smartphones. Young arabic speakers in many countries have invented their own chat-alphabet `Arabizi <https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_ consisting of latin characters and numerals to account for the lack of Arabic script support in early mobile and web technology.
 
-If a keyboard is not available, let's say in your phone or computer, here's some resources to search or help create your own keyboard: 
+If a keyboard is not available, let's say in your phone or computer, here are some resources to search or help create your own keyboard: 
 
 - Google's mobile keyboard, `Gboard <https://support.google.com/gboard/answer/6380730?hl=en&ref_topic=9023832&co=GENIE.Platform%3DAndroid&oco=0>`_
 - `Keyman <https://keyman.com/>`_ supports 2000 languages
 - `Microsoft Keyboard Layout Creator <https://www.microsoft.com/en-us/download/details.aspx?id=102134>`_
-- `Ukelele <https://software.sil.org/ukelele/>`_ is a Unicode Keyboard Layout Editor for the macOS
+- `Ukelele <https://software.sil.org/ukelele/>`_ is a Unicode Keyboard Layout Editor for the MacOS
 
 Online dictionary
 ~~~~~~~~~~~~~~~~~
 
-A dictionary (lexicon) is a solid way of documenting a language since it acts as a reference of words and their meanings. An online dictionary never goes out-of-print as it is accessible from any device with an internet connection. Also, open-source dictionaries can live and grow collaboratively as a community effort involving both speakers of the language, linguists and technologists. 
+A dictionary, or lexicon, is a solid way of documenting a language since it acts as a reference of words and their meanings. An online dictionary never goes out-of-print as it is accessible from any device with an internet connection. Also, open-source dictionaries can live and grow collaboratively as a community effort involving both speakers of the language, linguists and technologists. 
 
-`Living Dictionaries <https://livingdictionaries.app/>`_ is an online dictionary-builder platform created by Living Tongues Institute for Endangered Languages. It provides comprehensive, free online tech tools that assist language communities in conservation and revitalization efforts. It also allows recording of words and phrases. As of May 2022, it support 237 languages. To initiate your language in Living Dictionaries, you can get use of their `Elicitation lists <https://livingtongues.org/the-master-elicitation-list/>`_ and watch tutorials their `YouTube channel <https://www.youtube.com/channel/UCiYtwIJ6yAgO2_IeLMgrirA>`_.
+`Living Dictionaries <https://livingdictionaries.app/>`_ is an online dictionary-builder platform created by Living Tongues Institute for Endangered Languages. It provides comprehensive, free online tech tools that assist language communities in conservation and revitalization efforts. It also allows recording of words and phrases. As of May 2022, it support 237 languages. To initiate your language in Living Dictionaries, you can get use of their `Elicitation lists <https://livingtongues.org/the-master-elicitation-list/>`_ and watch tutorials on their `YouTube channel <https://www.youtube.com/channel/UCiYtwIJ6yAgO2_IeLMgrirA>`_.
 
 `SIL Dictionary App Builder <https://software.sil.org/dictionaryappbuilder/>`_ “helps you to build customized dictionary apps for Android and iOS smartphones and tablets. You specify the lexicon data file to use, the app name, fonts, colors, the ‘about box’ information, the audio, illustrations and the icons. Dictionary App Builder will package everything together and build the customized app for you. You can then install it on your phone, send it to others by Bluetooth, share it on microSD memory cards and publish it to app stores on the Internet.”
 
@@ -130,8 +134,7 @@ A dictionary (lexicon) is a solid way of documenting a language since it acts as
 	:alt: A woman using bambara dictionary on her mobile phone
 	:align: center
 
-	A woman using bambara dictionary on her mobile phone (Source: software.sil.org)
-
+	A woman using Bambara dictionary on her mobile phone (image credit SIL International)
 
 Language learning applications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -142,7 +145,7 @@ Many of the world’s endangered, minority and under-resourced do not yet have a
 
 We can categorize these platforms in four ways: 
 
-- **Module-based:** Using these apps feels more or less like taking a class in a school or a college, where users follow a modular curriculum planned by educators. It allows learners to track their progress, receive notifications, and earn points. Some notable examples are: `Duolingo <https://www.duolingo.com/>`_ , `Babbel <https://www.babbel.com/>`_, `uTalk <https://utalk.com/en/store>`_ , `Master Any Language <https://www.masteranylanguage.com/>`_. Unfortunately, it is not possible for language communities themselves to decide and implement a new language in these platforms. However, it is possible to "lobby" and participate in the creation of new modules through the communities some of these platforms provide. Although it has to be noted that most of these platforms are in-profit platforms and the work by language communities remain uncompensated.
+- **Module-based:** Using these apps feels more or less like taking a class in a school or a college, where users follow a modular curriculum planned by educators. It allows learners to track their progress, receive notifications, and earn points. Some notable examples are: `Duolingo <https://www.duolingo.com/>`_ , `Babbel <https://www.babbel.com/>`_, `uTalk <https://utalk.com/en/store>`_ , `Master Any Language <https://www.masteranylanguage.com/>`_. Unfortunately, it is not possible for language communities themselves to decide and implement a new language in these platforms. However, it is possible to "lobby" and participate in the creation of new modules through the communities some of these platforms provide. Also, it has to be noted that most of these platforms are in-profit platforms and the work by language communities remain uncompensated.
 
 .. figure:: img/learn-cree.png
 	:alt: Content for learning Cree language in Master Any Language platform
@@ -171,7 +174,16 @@ We can categorize these platforms in four ways:
 Sources 
 ~~~~~~~
 
+- `Catalan wikipedia on Wikipedia <https://en.wikipedia.org/wiki/Catalan_Wikipedia>`_
+- `How Technology Can Save Rapidly Dying Languages <https://www.vocativ.com/news/360216/apps-dying-languages/index.html>`_
 - `Unicode on Wikipedia <https://en.wikipedia.org/wiki/Unicode>`_
 - `Language sustainability toolkit <https://wikitongues.org/toolkit/>`_
 - `Learn Language Online by Living Tongues <https://livingtongues.org/learn-languages-online/?fbclid=IwAR3JGjK1puDmB5dUkpOvmPHhx4_yVG2VFPL5wHwHUEm4IrTEmWkVZag0chk>`_
 - `Computer assisted language learning in Wikipedia <https://en.wikipedia.org/wiki/Computer-assisted_language_learning#Human_language_technologies>`_
+
+--------
+
+.. figure:: img/logos.png
+   :align: center
+
+   This document was created with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union. 

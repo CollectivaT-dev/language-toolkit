@@ -1,7 +1,15 @@
+.. _datadriven:
+
+.. figure:: img/ab_tr_en_color.jpg
+   :alt: Turkey and European Union flags
+   :align: center
+
+   This project is funded by the European Union.
+
 Data-driven language technologies
 =================================
 
-The digital revolution is here with us and Artificial Intelligence (AI) is a key technological enabler as it offers a range of new opportunities to break down existing barriers to human development and social inclusion. One are that is powered by AI is Language technology which makes it possible to interact with our phones through digital assistants, translate websites and documents with a few clicks, increase accessibility of videos with automatic captioning etc.
+The digital revolution is here with us and Artificial Intelligence (AI) is a key technological enabler. It offers a range of new opportunities to break down existing barriers to human development and social inclusion. One area that is powered by AI is language technology which makes it possible to interact with our phones through digital assistants, translate websites and documents with a few clicks, increase accessibility of videos with automatic captioning etc.
 
 The main motor behind these is the advancement of the field **Natural Language Processing (NLP)**. But what does NLP entail? Here's a list of core technologies that fall in the area of this field:
 
@@ -9,8 +17,8 @@ Text-based:
 
 - Machine translation
 - Information retrieval
-- Sentiment analysis
 - Information extraction
+- Sentiment analysis
 - Question answering
 - Text summarization
 - Named-entity recognition
@@ -22,7 +30,7 @@ Speech-based:
 
 The revolutionary aspect of these technologies is that they are *data-driven*, which means that the intelligence that is created with these tools are collected from large volumes of information--or simply *data*. For example, in the case of machine translation, the engine "models" translation from a language to the other by looking at a collection of human-translated documents and sentences. Similarly a *sentinment analyzer* learns how to label if a tweet says good or bad about a company from thousands of tweets labelled by humans as carrying a good or bad sentiment.
 
-This dependency on data is what makes these technologies accessible to some languages and not to the others. The available resources for a language directly influences the possibility of developing an application for a language. As the greatest resource of textual data is the internet, and it is dominated by a few languages, these technologies tend to focus on only a handful of *power languages* e.g. English, Spanish, Chinese, Arabic etc.
+This dependency on data is what makes these technologies accessible to some languages and not to the others. The available resources for a language directly influences the possibility of developing an application for a language. As the greatest resource of textual data is the internet, and it is dominated by a few languages, these technologies tend to focus on only a handful of *dominant languages* e.g. English, Spanish, Chinese, Arabic etc.
 
 The diagram below by `Microsoft Research Labs India <https://www.microsoft.com/en-us/research/publication/ellora-enabling-low-resource-languages-with-technology/>`_ illustrates the hierarchy created by this "power-law" among languages.
 
@@ -56,7 +64,7 @@ MT has also become an essential tool in language learning. `A recent work by Duk
 
 Finally, MT has also been proposed as a documentation and preservation tool for endangered languages by Bird and Chiang in their paper `Machine translation for language preservation <https://aclanthology.org/C12-2013/>`_. Directly quoting from their paper: "... when source texts are translated into a major world language, we guarantee that the language documentation will be interpretable even after the language has fallen out of use. Second, when a surviving speaker can identify errors in the output of an MT system, we have timely evidence of those areas of grammar and lexicon that need better coverage while there is still time to collect more. These tasks of producing and correcting translations can be performed by speakers of the language without depending on the intervention of outside linguists. Furthermore, we sidestep the need for linguistic resources like treebanks and wordnets, which are expensive to create and which depend on the existence of morphological, syntactic, and semantic analyses of the language."
 
-This innovative way of language documentation reduces the effort into mere translation collection since MT development relies on this type of data. 
+This innovative way of language documentation reduces the effort into translated sentence collection as MT development relies on this type of data. *(More on parallel data in the next section)*
 
 Automatic speech recognition
 ----------------------------
@@ -76,7 +84,7 @@ Developing an automatic speech recognition system for a language is dependant on
 	2. A large text corpus
 	3. Phonetic pronunciation dictionary (This is optional in more modern technologies)
 
-ASR has progressed significantly in the last decade again thanks to the advent of deep-learning. In September 2017, Microsoft announced `their results <https://www.microsoft.com/en-us/research/publication/toward-human-parity-conversational-speech-recognition/>`_ for an English speech recognition system that could achieve better-than-human performance in speech transcription. Their system was based on a dataset of 200M transcribed words from conversational speech. These developments have had great impact already as virtual assistants have become a cotidian application, voice search and automatic transcription of audio.
+ASR has progressed significantly in the last decade again thanks to the advent of deep-learning. In September 2017, Microsoft announced `their results <https://www.microsoft.com/en-us/research/publication/toward-human-parity-conversational-speech-recognition/>`_ for an English speech recognition system that could achieve better-than-human performance in speech transcription. Their system was based on a dataset of 200M transcribed words from conversational speech. These developments have had great impact already as virtual assistants have become a cotidian application, voice search and automatic audio transcription.
 		
 Text-to-speech
 --------------
@@ -91,3 +99,10 @@ In the case of endangered and minority languages, TTS can aid language learning 
 
 .. Low-resource technologies
 .. ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+--------
+
+.. figure:: img/logos.png
+   :align: center
+
+   This document was created with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union. 

@@ -8,29 +8,38 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-09 18:50+0300\n"
+"POT-Creation-Date: 2022-05-18 17:08+0200\n"
 "PO-Revision-Date: 2022-05-10 13:51+0300\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: tr\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.0.1\n"
 
-#: ../../3-Datadriven 89cfd111c6c34e2f94a57bc0d17f1afb language tech.rst:2
+#: ../../3-Datadriven 41f21645c48343efbba714ba4bf71551 language tech.rst:7
+msgid "Turkey and European Union flags"
+msgstr ""
+
+#: ../../3-Datadriven c7ce149455b0419b980fd85747b4e183 language tech.rst:7
+msgid "This project is funded by the European Union."
+msgstr ""
+
+#: ../../3-Datadriven 89cfd111c6c34e2f94a57bc0d17f1afb language tech.rst:10
 msgid "Data-driven language technologies"
 msgstr "Veriye dayalı dil teknolojileri"
 
-#: ../../3-Datadriven daa3532d04684774a5220980ded5a7cd language tech.rst:4
+#: ../../3-Datadriven daa3532d04684774a5220980ded5a7cd language tech.rst:12
+#, fuzzy
 msgid ""
 "The digital revolution is here with us and Artificial Intelligence (AI) "
-"is a key technological enabler as it offers a range of new opportunities "
-"to break down existing barriers to human development and social "
-"inclusion. One are that is powered by AI is Language technology which "
-"makes it possible to interact with our phones through digital "
-"assistants, translate websites and documents with a few clicks, increase "
+"is a key technological enabler. It offers a range of new opportunities to"
+" break down existing barriers to human development and social inclusion. "
+"One area that is powered by AI is language technology which makes it "
+"possible to interact with our phones through digital assistants, "
+"translate websites and documents with a few clicks, increase "
 "accessibility of videos with automatic captioning etc."
 msgstr ""
 "Dijital devrim burada bizimle ve Yapay Zeka (AI), insani gelişme ve "
@@ -41,7 +50,7 @@ msgstr ""
 "tıklamayla çevirmeyi, otomatik altyazı ile videoların erişilebilirliğini "
 "artırmayı mümkün kılan Dil teknolojisidir."
 
-#: ../../3-Datadriven 07da296098cb4775a55bd64affb1b56f language tech.rst:6
+#: ../../3-Datadriven 07da296098cb4775a55bd64affb1b56f language tech.rst:14
 msgid ""
 "The main motor behind these is the advancement of the field **Natural "
 "Language Processing (NLP)**. But what does NLP entail? Here's a list of "
@@ -51,53 +60,53 @@ msgstr ""
 "ilerlemesidir. Peki NLP ne içeriyor? İşte bu alanın alanına giren temel "
 "teknolojilerin bir listesi:"
 
-#: ../../3-Datadriven ddb0d2b51a864ef09f58afb770577287 language tech.rst:8
+#: ../../3-Datadriven ddb0d2b51a864ef09f58afb770577287 language tech.rst:16
 msgid "Text-based:"
 msgstr "Metin tabanlı:"
 
-#: ../../3-Datadriven 4186fd61e84a4d34a47bf1e12672d548
-#: 83dd2241e56c458a89f7581d10e88486 language tech.rst:10 tech.rst:36
+#: ../../3-Datadriven 4186fd61e84a4d34a47bf1e12672d548 language tech.rst:18
+#: tech.rst:44
 msgid "Machine translation"
 msgstr "Makine çevirisi"
 
-#: ../../3-Datadriven d68e3a29166b4a1dbc8e25f127169e17 language tech.rst:11
+#: ../../3-Datadriven d68e3a29166b4a1dbc8e25f127169e17 language tech.rst:19
 msgid "Information retrieval"
 msgstr "Bilgi alma"
 
-#: ../../3-Datadriven cde1728063974d7dac6c44ef41bd7082 language tech.rst:12
-msgid "Sentiment analysis"
-msgstr "Duygu analizi"
-
-#: ../../3-Datadriven 59dee0c1a3c24518acb192196c891e6d language tech.rst:13
+#: ../../3-Datadriven 59dee0c1a3c24518acb192196c891e6d language tech.rst:20
 msgid "Information extraction"
 msgstr "Bilgi çıkarma"
 
-#: ../../3-Datadriven 0e2bf5cabd41415aa1f8e567398eaae1 language tech.rst:14
+#: ../../3-Datadriven cde1728063974d7dac6c44ef41bd7082 language tech.rst:21
+msgid "Sentiment analysis"
+msgstr "Duygu analizi"
+
+#: ../../3-Datadriven 0e2bf5cabd41415aa1f8e567398eaae1 language tech.rst:22
 msgid "Question answering"
 msgstr "Soru cevaplama"
 
-#: ../../3-Datadriven 73a5421ef203464e8613e6536c22de67 language tech.rst:15
+#: ../../3-Datadriven 73a5421ef203464e8613e6536c22de67 language tech.rst:23
 msgid "Text summarization"
 msgstr "Metin özetleme"
 
-#: ../../3-Datadriven 16be7f6d88d344369cb15e883ce49737 language tech.rst:16
+#: ../../3-Datadriven 16be7f6d88d344369cb15e883ce49737 language tech.rst:24
 msgid "Named-entity recognition"
 msgstr "Adlandırılmış varlık tanıma"
 
-#: ../../3-Datadriven c13fcc6042344f04b5b2aef191a8e96b language tech.rst:18
+#: ../../3-Datadriven c13fcc6042344f04b5b2aef191a8e96b language tech.rst:26
 msgid "Speech-based:"
 msgstr "Konuşma tabanlı:"
 
-#: ../../3-Datadriven 231bd4be4144487186a1413889fdd830
-#: 62a41a348b5b4a58a06448dd2060ad6d language tech.rst:20 tech.rst:62
+#: ../../3-Datadriven 62a41a348b5b4a58a06448dd2060ad6d language tech.rst:28
+#: tech.rst:70
 msgid "Automatic speech recognition"
 msgstr "Otomatik konuşma tanıma"
 
-#: ../../3-Datadriven 74f778b555a9450e9d778f93aeedc2f8 language tech.rst:21
+#: ../../3-Datadriven 74f778b555a9450e9d778f93aeedc2f8 language tech.rst:29
 msgid "Text-to-speech synthesis"
 msgstr "Metin-konuşma sentezi"
 
-#: ../../3-Datadriven e03b644c3b294d26a4c9b69c46e05a58 language tech.rst:23
+#: ../../3-Datadriven e03b644c3b294d26a4c9b69c46e05a58 language tech.rst:31
 msgid ""
 "The revolutionary aspect of these technologies is that they are *data-"
 "driven*, which means that the intelligence that is created with these "
@@ -105,51 +114,53 @@ msgid ""
 "For example, in the case of machine translation, the engine \"models\" "
 "translation from a language to the other by looking at a collection of "
 "human-translated documents and sentences. Similarly a *sentinment "
-"analyzer* learns how to label if a tweet says good or bad about a "
-"company from thousands of tweets labelled by humans as carrying a good "
-"or bad sentiment."
+"analyzer* learns how to label if a tweet says good or bad about a company"
+" from thousands of tweets labelled by humans as carrying a good or bad "
+"sentiment."
 msgstr ""
 "Bu teknolojilerin devrim niteliğindeki yönü, *veri güdümlü* olmalarıdır; "
 "bu, bu araçlarla oluşturulan zekanın büyük hacimli bilgilerden veya "
-"yalnızca *verilerden* toplandığı anlamına gelir. Örneğin, makine "
-"çevirisi durumunda, motor, insan tarafından çevrilmiş belgeler ve "
-"cümleler koleksiyonuna bakarak bir dilden diğerine çeviriyi “modeller”. "
-"Benzer şekilde bir *duygu analizcisi*, insanlar tarafından iyi veya kötü "
-"bir duygu olarak etiketlenen binlerce tweet’ten bir tweet’in bir şirket "
+"yalnızca *verilerden* toplandığı anlamına gelir. Örneğin, makine çevirisi"
+" durumunda, motor, insan tarafından çevrilmiş belgeler ve cümleler "
+"koleksiyonuna bakarak bir dilden diğerine çeviriyi “modeller”. Benzer "
+"şekilde bir *duygu analizcisi*, insanlar tarafından iyi veya kötü bir "
+"duygu olarak etiketlenen binlerce tweet’ten bir tweet’in bir şirket "
 "hakkında iyi veya kötü olup olmadığını nasıl etiketleyeceğini öğrenir."
 
-#: ../../3-Datadriven a902d21c3b3f44f086a1c20fd0ef1f85 language tech.rst:25
+#: ../../3-Datadriven a902d21c3b3f44f086a1c20fd0ef1f85 language tech.rst:33
+#, fuzzy
 msgid ""
 "This dependency on data is what makes these technologies accessible to "
 "some languages and not to the others. The available resources for a "
-"language directly influences the possibility of developing an "
-"application for a language. As the greatest resource of textual data is "
-"the internet, and it is dominated by a few languages, these technologies "
-"tend to focus on only a handful of *power languages* e.g. English, "
+"language directly influences the possibility of developing an application"
+" for a language. As the greatest resource of textual data is the "
+"internet, and it is dominated by a few languages, these technologies tend"
+" to focus on only a handful of *dominant languages* e.g. English, "
 "Spanish, Chinese, Arabic etc."
 msgstr ""
 "Verilere olan bu bağımlılık, bu teknolojileri bazı diller için "
 "erişilebilir kılarken diğerleri için erişilebilir kılan şeydir. Bir dil "
 "için mevcut kaynaklar, bir dil için uygulama geliştirme olasılığını "
-"doğrudan etkiler. Metinsel verilerin en büyük kaynağı internet "
-"olduğundan ve birkaç dilin hakimiyetinde olduğundan, bu teknolojiler "
-"yalnızca bir avuç *güç diline* odaklanma eğilimindedir, ör. İngilizce, "
-"İspanyolca, Çince, Arapça vb."
+"doğrudan etkiler. Metinsel verilerin en büyük kaynağı internet olduğundan"
+" ve birkaç dilin hakimiyetinde olduğundan, bu teknolojiler yalnızca bir "
+"avuç *güç diline* odaklanma eğilimindedir, ör. İngilizce, İspanyolca, "
+"Çince, Arapça vb."
 
-#: ../../3-Datadriven 7055247b14094f58968f86785df28562 language tech.rst:27
+#: ../../3-Datadriven 7055247b14094f58968f86785df28562 language tech.rst:35
 msgid ""
-"The diagram below by `Microsoft Research Labs India <https://www."
-"microsoft.com/en-us/research/publication/ellora-enabling-low-resource-"
-"languages-with-technology/>`_ illustrates the hierarchy created by this "
-"\"power-law\" among languages."
+"The diagram below by `Microsoft Research Labs India "
+"<https://www.microsoft.com/en-us/research/publication/ellora-enabling-"
+"low-resource-languages-with-technology/>`_ illustrates the hierarchy "
+"created by this \"power-law\" among languages."
 msgstr ""
-"`Microsoft Research Labs India <https://www.microsoft.com/en-us/research/"
-"publication/ellora-enable-low-resource-languages-with-technology/>`_ "
-"tarafından hazırlanan aşağıdaki diyagram, tarafından oluşturulan "
-"hiyerarşiyi göstermektedir. diller arasındaki bu “güç yasası”."
+"`Microsoft Research Labs India <https://www.microsoft.com/en-"
+"us/research/publication/ellora-enable-low-resource-languages-with-"
+"technology/>`_ tarafından hazırlanan aşağıdaki diyagram, tarafından "
+"oluşturulan hiyerarşiyi göstermektedir. diller arasındaki bu “güç "
+"yasası”."
 
 #: ../../3-Datadriven ac9671caa70046bb8a87c14f725df037
-#: ebbd81f6cfc34295bc41b1fc4efcc0e3 language tech.rst:33
+#: ebbd81f6cfc34295bc41b1fc4efcc0e3 language tech.rst:41
 msgid ""
 "Classification of languages according to the availability of language "
 "technology, tools and resources"
@@ -157,7 +168,7 @@ msgstr ""
 "Dil teknolojisinin, araçlarının ve kaynaklarının mevcudiyetine göre "
 "dillerin sınıflandırılması"
 
-#: ../../3-Datadriven 114896caea5c4aa2b617b2de11acd332 language tech.rst:38
+#: ../../3-Datadriven 114896caea5c4aa2b617b2de11acd332 language tech.rst:46
 msgid ""
 "Machine Translation (MT) is defined as the automatic conversion of a "
 "sequence of symbols in one language to a sequence of symbols in another "
@@ -176,18 +187,17 @@ msgstr ""
 "olasılıklarını modelleyen kural tabanlı yaklaşımlardan istatistiksel "
 "yaklaşımlara doğru evrilmiştir. Bu olasılıklar, ilgili dillerde (kaynak "
 "ve hedef diller olarak adlandırılır) cümle hizalı çevirilerin mevcut "
-"olduğu paralel metinlerden istatistiksel bir şekilde öğrenilir. "
-"Aşağıdaki şema, BM Parlamentosu’nda yapılan çevirileri kullanarak "
-"İngilizce’deki “kesin” kelimesinin İspanyolca’ya çevrilmesinin "
-"modellenmesini göstermektedir."
+"olduğu paralel metinlerden istatistiksel bir şekilde öğrenilir. Aşağıdaki"
+" şema, BM Parlamentosu’nda yapılan çevirileri kullanarak İngilizce’deki "
+"“kesin” kelimesinin İspanyolca’ya çevrilmesinin modellenmesini "
+"göstermektedir."
 
 #: ../../3-Datadriven 41f21645c48343efbba714ba4bf71551
-#: 817782b1ad564aa88db08387ee353748 language tech.rst:44
+#: 817782b1ad564aa88db08387ee353748 language tech.rst:52
 msgid "Extracting statistics of translations from parallel data"
 msgstr "Paralel verilerden çeviri istatistiklerinin çıkarılması"
 
-#: ../../3-Datadriven 36d3c90fc892433186da268248451e08 language tech.rst:46
-#, python-format
+#: ../../3-Datadriven 36d3c90fc892433186da268248451e08 language tech.rst:54
 msgid ""
 "Machine translation services like Google Translate and DeepL have made "
 "their way into reliable tools for translators and also regular folk in "
@@ -198,11 +208,11 @@ msgid ""
 "compared to earlier models."
 msgstr ""
 
-#: ../../3-Datadriven 5e1f8e74ddc34cffb4acba7ac93e1164 language tech.rst:48
+#: ../../3-Datadriven 5e1f8e74ddc34cffb4acba7ac93e1164 language tech.rst:56
 msgid "The uses of machine translation are as follows:"
 msgstr "Makine çevirisinin kullanım alanları şunlardır:"
 
-#: ../../3-Datadriven bb70c0673fe64d0b95f5f6e47371bac3 language tech.rst:50
+#: ../../3-Datadriven bb70c0673fe64d0b95f5f6e47371bac3 language tech.rst:58
 msgid ""
 "**Assimilation**, emulating a certain document in another language. This "
 "use-case enables e.g. reading a news site or technical paper in a "
@@ -211,20 +221,19 @@ msgid ""
 msgstr ""
 "**Asimilasyon**, belirli bir belgeyi başka bir dilde taklit etme. Bu "
 "kullanım durumu, örn. Anlamadığımız bir dilde bir haber sitesini veya "
-"teknik makaleyi okumak. Bunun %100 doğru bir çeviri olmadığını "
-"biliyoruz, ancak daha fazlasını keşfetmenin özünü veriyor."
+"teknik makaleyi okumak. Bunun %100 doğru bir çeviri olmadığını biliyoruz,"
+" ancak daha fazlasını keşfetmenin özünü veriyor."
 
-#: ../../3-Datadriven 64208f7b46564584ae67d318ab45cf42 language tech.rst:51
+#: ../../3-Datadriven 64208f7b46564584ae67d318ab45cf42 language tech.rst:59
 msgid ""
 "**Communication**, enabling the communication between individuals and "
 "organizations e.g. in chat, tourism, e-commerce, lowering the need for a "
 "lingua franca."
 msgstr ""
-"**İletişim**, örneğin bireyler ve kuruluşlar arasındaki iletişimi "
-"sağlar. sohbette, turizmde, e-ticarette, lingua franca ihtiyacını "
-"azaltmak."
+"**İletişim**, örneğin bireyler ve kuruluşlar arasındaki iletişimi sağlar."
+" sohbette, turizmde, e-ticarette, lingua franca ihtiyacını azaltmak."
 
-#: ../../3-Datadriven 2286641e3ac94b1d8780cfe686b5a312 language tech.rst:52
+#: ../../3-Datadriven 2286641e3ac94b1d8780cfe686b5a312 language tech.rst:60
 msgid ""
 "**Monitoring**, enabling tracing of information in large-scale "
 "multilingual documents e.g. discovering international trends in Twitter."
@@ -232,7 +241,7 @@ msgstr ""
 "**İzleme**, büyük ölçekli çok dilli belgelerdeki bilgilerin izlenmesini "
 "sağlar, örn. Twitter’daki uluslararası trendleri keşfetmek."
 
-#: ../../3-Datadriven 39d04b3cee8c4e56830ba16cab6f483b language tech.rst:53
+#: ../../3-Datadriven 39d04b3cee8c4e56830ba16cab6f483b language tech.rst:61
 msgid ""
 "**Assistance**, improving translation workflows e.g. computer-assisted "
 "translation, post-editing."
@@ -240,65 +249,69 @@ msgstr ""
 "**Yardım**, çeviri iş akışlarını iyileştirme, ör. bilgisayar destekli "
 "çeviri, post-edit."
 
-#: ../../3-Datadriven 09acbc266dc1481197dd552c845640c2 language tech.rst:55
+#: ../../3-Datadriven 09acbc266dc1481197dd552c845640c2 language tech.rst:63
 #, python-format
 msgid ""
-"MT has also become an essential tool in language learning. `A recent "
-"work by Duke University <https://ojs.uv.es/index.php/attic/article/"
-"view/2228>`_ studies their usage among university level language "
-"learners beside other classic tools like dictionaries and thesauri. They "
-"report that 76% of the students enrolled in a Spanish class use web-"
-"based MT tools like Google Translate during their studies."
+"MT has also become an essential tool in language learning. `A recent work"
+" by Duke University "
+"<https://ojs.uv.es/index.php/attic/article/view/2228>`_ studies their "
+"usage among university level language learners beside other classic tools"
+" like dictionaries and thesauri. They report that 76% of the students "
+"enrolled in a Spanish class use web-based MT tools like Google Translate "
+"during their studies."
 msgstr ""
-"MT ayrıca dil öğreniminde önemli bir araç haline geldi. "
-"`Duke Üniversitesi'nin yakın tarihli bir çalışması <https://ojs.uv.es/index.php/attic/article/view/2228>`_"
-" sözlükler ve eş anlamlılar sözlüğü gibi diğer klasik araçların yanı sıra "
-"üniversite düzeyinde dil öğrenenler arasında kullanımlarını inceliyor. "
-"İspanyolca sınıfına kaydolan öğrencilerin %76'sının çalışmaları sırasında "
-"Google Translate gibi web tabanlı MT araçlarını kullandığını bildiriyorlar."
+"MT ayrıca dil öğreniminde önemli bir araç haline geldi. `Duke "
+"Üniversitesi'nin yakın tarihli bir çalışması "
+"<https://ojs.uv.es/index.php/attic/article/view/2228>`_ sözlükler ve eş "
+"anlamlılar sözlüğü gibi diğer klasik araçların yanı sıra üniversite "
+"düzeyinde dil öğrenenler arasında kullanımlarını inceliyor. İspanyolca "
+"sınıfına kaydolan öğrencilerin %76'sının çalışmaları sırasında Google "
+"Translate gibi web tabanlı MT araçlarını kullandığını bildiriyorlar."
 
-#: ../../3-Datadriven adc842944d774631820e286170660696 language tech.rst:57
+#: ../../3-Datadriven adc842944d774631820e286170660696 language tech.rst:65
 msgid ""
 "Finally, MT has also been proposed as a documentation and preservation "
 "tool for endangered languages by Bird and Chiang in their paper `Machine "
-"translation for language preservation <https://aclanthology.org/C12-2013/"
-">`_. Directly quoting from their paper: \"... when source texts are "
-"translated into a major world language, we guarantee that the language "
-"documentation will be interpretable even after the language has fallen "
-"out of use. Second, when a surviving speaker can identify errors in the "
-"output of an MT system, we have timely evidence of those areas of "
-"grammar and lexicon that need better coverage while there is still time "
-"to collect more. These tasks of producing and correcting translations "
-"can be performed by speakers of the language without depending on the "
-"intervention of outside linguists. Furthermore, we sidestep the need for "
-"linguistic resources like treebanks and wordnets, which are expensive to "
-"create and which depend on the existence of morphological, syntactic, "
-"and semantic analyses of the language.\""
+"translation for language preservation "
+"<https://aclanthology.org/C12-2013/>`_. Directly quoting from their "
+"paper: \"... when source texts are translated into a major world "
+"language, we guarantee that the language documentation will be "
+"interpretable even after the language has fallen out of use. Second, when"
+" a surviving speaker can identify errors in the output of an MT system, "
+"we have timely evidence of those areas of grammar and lexicon that need "
+"better coverage while there is still time to collect more. These tasks of"
+" producing and correcting translations can be performed by speakers of "
+"the language without depending on the intervention of outside linguists. "
+"Furthermore, we sidestep the need for linguistic resources like treebanks"
+" and wordnets, which are expensive to create and which depend on the "
+"existence of morphological, syntactic, and semantic analyses of the "
+"language.\""
 msgstr ""
 "Son olarak, MT ayrıca Bird ve Chiang tarafından `Dil koruma için makine "
 "çevirisi <https://aclanthology.org/C12-2013/>` adlı makalelerinde nesli "
 "tükenmekte olan diller için bir belgeleme ve koruma aracı olarak "
 "önerilmiştir. Doğrudan makalelerinden alıntı yaparak: “… kaynak metinler "
 "büyük bir dünya diline çevrildiğinde, dil belgelerinin dil kullanım dışı "
-"kaldıktan sonra bile yorumlanabilir olacağını garanti ediyoruz. "
-"İkincisi, hayatta kalan bir konuşmacı dildeki hataları "
-"tanımlayabildiğinde Bir MT sisteminin çıktısı olarak, daha fazlasını "
-"toplamak için hala zaman varken daha iyi kapsamaya ihtiyaç duyan "
-"dilbilgisi ve sözlük alanlarına dair zamanında kanıta sahibiz. Ayrıca, "
-"oluşturulması pahalı olan ve dilin morfolojik, sözdizimsel ve semantik "
-"analizlerinin varlığına bağlı olan ağaç kümeleri ve kelime ağları gibi "
-"dilsel kaynaklara duyulan ihtiyacın da önüne geçiyoruz.”"
+"kaldıktan sonra bile yorumlanabilir olacağını garanti ediyoruz. İkincisi,"
+" hayatta kalan bir konuşmacı dildeki hataları tanımlayabildiğinde Bir MT "
+"sisteminin çıktısı olarak, daha fazlasını toplamak için hala zaman varken"
+" daha iyi kapsamaya ihtiyaç duyan dilbilgisi ve sözlük alanlarına dair "
+"zamanında kanıta sahibiz. Ayrıca, oluşturulması pahalı olan ve dilin "
+"morfolojik, sözdizimsel ve semantik analizlerinin varlığına bağlı olan "
+"ağaç kümeleri ve kelime ağları gibi dilsel kaynaklara duyulan ihtiyacın "
+"da önüne geçiyoruz.”"
 
-#: ../../3-Datadriven b4b8ea42660048bdb0c975eeaeeae432 language tech.rst:59
+#: ../../3-Datadriven b4b8ea42660048bdb0c975eeaeeae432 language tech.rst:67
+#, fuzzy
 msgid ""
 "This innovative way of language documentation reduces the effort into "
-"mere translation collection since MT development relies on this type of "
-"data."
+"translated sentence collection as MT development relies on this type of "
+"data. *(More on parallel data in the next section)*"
 msgstr ""
 "MT geliştirme bu tür verilere dayandığından, bu yenilikçi dil belgeleme "
 "yöntemi, çabayı yalnızca çeviri toplamaya indirger."
 
-#: ../../3-Datadriven 30bbb313eece4d649951f6034c4e4bec language tech.rst:64
+#: ../../3-Datadriven 30bbb313eece4d649951f6034c4e4bec language tech.rst:72
 msgid ""
 "Automatic speech recognition (ASR) is the conversion of speech in its "
 "acoustic form into a symbolic form such as words or letters. It is the "
@@ -318,7 +331,7 @@ msgstr ""
 "özellik vektörlerinin kodu, konuşma sinyalinde bulunan dilsel bilgiyi "
 "temsil eden kelimelere çözülür."
 
-#: ../../3-Datadriven 841e2b222092495d959809dcc033c1a5 language tech.rst:71
+#: ../../3-Datadriven 841e2b222092495d959809dcc033c1a5 language tech.rst:79
 msgid ""
 "Automatic speech recognition is modelling the question ”What is the most "
 "probable word sequence among all possible word sequences given an "
@@ -328,11 +341,11 @@ msgstr ""
 "dizileri arasında en olası kelime dizisi nedir?” Sorusunu "
 "modellemektedir."
 
-#: ../../3-Datadriven 31eefada05fb402c888969b52431430e language tech.rst:71
+#: ../../3-Datadriven 31eefada05fb402c888969b52431430e language tech.rst:79
 msgid "A simple diagram of automatic speech recognition"
 msgstr "Otomatik konuşma tanımanın basit bir diyagramı"
 
-#: ../../3-Datadriven 6e09b6d620094cd6af067088aed2ead9 language tech.rst:73
+#: ../../3-Datadriven 6e09b6d620094cd6af067088aed2ead9 language tech.rst:81
 msgid ""
 "Developing an automatic speech recognition system for a language is "
 "dependant on the following type of data:"
@@ -340,7 +353,7 @@ msgstr ""
 "Bir dil için otomatik konuşma tanıma sistemi geliştirmek, aşağıdaki veri "
 "türlerine bağlıdır:"
 
-#: ../../3-Datadriven f3894c19875f414687afe692374410c8 language tech.rst:75
+#: ../../3-Datadriven f3894c19875f414687afe692374410c8 language tech.rst:83
 msgid ""
 "Collection of short speech audio recordings from many speakers and their "
 "text transcriptions"
@@ -348,18 +361,18 @@ msgstr ""
 "Birçok konuşmacıdan kısa konuşma ses kayıtlarının toplanması ve bunların "
 "metin transkripsiyonları"
 
-#: ../../3-Datadriven f4c0f8f59ed24463b020e1cd57d6ea77 language tech.rst:76
+#: ../../3-Datadriven f4c0f8f59ed24463b020e1cd57d6ea77 language tech.rst:84
 msgid "A large text corpus"
 msgstr "Büyük bir metin derlemi"
 
-#: ../../3-Datadriven fcf64ca286eb4990a5a34bb60121878d language tech.rst:77
+#: ../../3-Datadriven fcf64ca286eb4990a5a34bb60121878d language tech.rst:85
 msgid ""
 "Phonetic pronunciation dictionary (This is optional in more modern "
 "technologies)"
-msgstr ""
-"Fonetik telaffuz sözlüğü (Bu, daha modern teknolojilerde isteğe bağlıdır)"
+msgstr "Fonetik telaffuz sözlüğü (Bu, daha modern teknolojilerde isteğe bağlıdır)"
 
-#: ../../3-Datadriven 9209cbe89a874bd0b010ede3e8d457e2 language tech.rst:79
+#: ../../3-Datadriven 9209cbe89a874bd0b010ede3e8d457e2 language tech.rst:87
+#, fuzzy
 msgid ""
 "ASR has progressed significantly in the last decade again thanks to the "
 "advent of deep-learning. In September 2017, Microsoft announced `their "
@@ -367,40 +380,40 @@ msgid ""
 "human-parity-conversational-speech-recognition/>`_ for an English speech "
 "recognition system that could achieve better-than-human performance in "
 "speech transcription. Their system was based on a dataset of 200M "
-"transcribed words from conversational speech. These developments have "
-"had great impact already as virtual assistants have become a cotidian "
-"application, voice search and automatic transcription of audio."
+"transcribed words from conversational speech. These developments have had"
+" great impact already as virtual assistants have become a cotidian "
+"application, voice search and automatic audio transcription."
 msgstr ""
 "ASR, derin öğrenmenin ortaya çıkması sayesinde son on yılda yine önemli "
 "ölçüde ilerlemiştir. Eylül 2017’de Microsoft, İngilizce konuşma tanıma "
-"sistemi için “<https://www.microsoft.com/en-us/research/publication/"
-"toward-human-parity-conversational-speech-recognition/>”_ sonuçlarını "
+"sistemi için “<https://www.microsoft.com/en-us/research/publication"
+"/toward-human-parity-conversational-speech-recognition/>”_ sonuçlarını "
 "açıkladı. konuşma transkripsiyonunda insandan daha iyi performans elde "
 "edebilir. Sistemleri, konuşma konuşmalarından 200 milyon kopyalanmış "
 "kelimeden oluşan bir veri kümesine dayanıyordu. Bu gelişmeler, sanal "
 "asistanların bir cotidian uygulaması, sesli arama ve sesin otomatik "
 "transkripsiyonu haline gelmesiyle şimdiden büyük etki yarattı."
 
-#: ../../3-Datadriven 5815bdeb6334497a8f4f8efa716ea275 language tech.rst:82
+#: ../../3-Datadriven 5815bdeb6334497a8f4f8efa716ea275 language tech.rst:90
 msgid "Text-to-speech"
 msgstr "Metin-konuşma sentezi"
 
-#: ../../3-Datadriven 03bc4a36d3dc49c79ce75aea1ee1f926 language tech.rst:84
+#: ../../3-Datadriven 03bc4a36d3dc49c79ce75aea1ee1f926 language tech.rst:92
 msgid ""
 "Text-to-speech (or speech synthesis) involves production of a human-like "
 "speech given a text input with a computer. Before the advent of deep "
 "learning, there were two main approaches to text-to-speech (TTS) "
-"synthesis: concatenative TTS, and parametric TTS. Concatenative TTS, "
-"also called unit selection, combines short pre-recorded audio clips "
-"called units to synthesise the desired text. Concatenative TTS can "
-"provide a good performance in terms of speech quality but the cut and "
-"stitch procedure means a lack of naturalness. Parametric TTS relies on "
-"statistical methods by generating speech with a combination of "
-"parameters like F0 and energy, modelling the human speech production."
+"synthesis: concatenative TTS, and parametric TTS. Concatenative TTS, also"
+" called unit selection, combines short pre-recorded audio clips called "
+"units to synthesise the desired text. Concatenative TTS can provide a "
+"good performance in terms of speech quality but the cut and stitch "
+"procedure means a lack of naturalness. Parametric TTS relies on "
+"statistical methods by generating speech with a combination of parameters"
+" like F0 and energy, modelling the human speech production."
 msgstr ""
 "Konuşma sentezi, bir bilgisayarla metin girişi verilen insan benzeri bir "
-"konuşmanın üretilmesini içerir. Derin öğrenmenin ortaya çıkmasından "
-"önce, metinden konuşmaya (TTS) sentezine yönelik iki ana yaklaşım vardı: "
+"konuşmanın üretilmesini içerir. Derin öğrenmenin ortaya çıkmasından önce,"
+" metinden konuşmaya (TTS) sentezine yönelik iki ana yaklaşım vardı: "
 "sıralı TTS ve parametrik TTS. Birim seçimi olarak da adlandırılan "
 "birleştirici TTS, istenen metni sentezlemek için birimler adı verilen "
 "önceden kaydedilmiş kısa ses kliplerini birleştirir. Birleştirici TTS, "
@@ -409,13 +422,13 @@ msgstr ""
 "ve enerji gibi parametrelerin bir kombinasyonu ile konuşma üreterek, "
 "insan konuşma üretimini modelleyerek istatistiksel yöntemlere dayanır."
 
-#: ../../3-Datadriven f5eaf4ad037242e8b57a0fce1da879e6 language tech.rst:86
+#: ../../3-Datadriven f5eaf4ad037242e8b57a0fce1da879e6 language tech.rst:94
 msgid ""
 "Currently, most modern TTS systems rely on deep-learning methods. The "
 "deep neural networks are trained using a large amount of recorded speech "
-"and the associated text transcriptions. In contrast to ASR training "
-"data, they are usually collected from a single speaker. The resulting "
-"TTS system is able to replicate the voice of this particular speaker."
+"and the associated text transcriptions. In contrast to ASR training data,"
+" they are usually collected from a single speaker. The resulting TTS "
+"system is able to replicate the voice of this particular speaker."
 msgstr ""
 "Şu anda, çoğu modern TTS sistemi, derin öğrenme yöntemlerine "
 "dayanmaktadır. Derin sinir ağları, büyük miktarda kaydedilmiş konuşma ve "
@@ -423,7 +436,7 @@ msgstr ""
 "verilerinin aksine, genellikle tek bir konuşmacıdan toplanırlar. Ortaya "
 "çıkan TTS sistemi, bu özel konuşmacının sesini çoğaltabilir."
 
-#: ../../3-Datadriven c50c20a2cf5643ba84e026edeaedbab5 language tech.rst:88
+#: ../../3-Datadriven c50c20a2cf5643ba84e026edeaedbab5 language tech.rst:96
 msgid ""
 "TTS is important in making computers accessible to blind or partially "
 "sighted people as it enables them to \"read\" from the screen. TTS "
@@ -437,13 +450,13 @@ msgstr ""
 "e.g. automatic pronunciation of words from an online dictionary, reading "
 "aloud of a text, interface for a voice assistant etc."
 
-#: ../../3-Datadriven 4f93de5464854bb186b1644b249f1531 language tech.rst:90
+#: ../../3-Datadriven 4f93de5464854bb186b1644b249f1531 language tech.rst:98
 msgid ""
 "In the case of endangered and minority languages, TTS can aid language "
 "learning and language documentation. Students who don't have access to "
-"speakers can study how a sentence is pronounced without assistance from "
-"a tutor. It is a permanent record of the language as it will persist "
-"even after the moment there are no speakers left for the language."
+"speakers can study how a sentence is pronounced without assistance from a"
+" tutor. It is a permanent record of the language as it will persist even "
+"after the moment there are no speakers left for the language."
 msgstr ""
 "Nesli tükenmekte olan ve azınlık dilleri söz konusu olduğunda, TTS dil "
 "öğrenimine ve dil belgelerine yardımcı olabilir. Konuşmacılara erişimi "
@@ -451,3 +464,12 @@ msgstr ""
 "telaffuz edildiğini öğrenebilirler. Dilin kalıcı bir kaydıdır, çünkü o "
 "dil için hiç konuşmacı kalmadığı andan sonra bile varlığını "
 "sürdürecektir."
+
+#: ../../3-Datadriven 39636debb7e9494080a6d8f1c178da22 language tech.rst:108
+msgid ""
+"This document was created with the financial support of the European "
+"Union. The content of this website is the sole responsibility of "
+"Col·lectivaT and SKAD and does not necessarily reflect the views of the "
+"European Union."
+msgstr ""
+

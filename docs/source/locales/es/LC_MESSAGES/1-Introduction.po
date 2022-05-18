@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-09 18:50+0300\n"
+"POT-Creation-Date: 2022-05-18 17:08+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,35 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: ../../1-Introduction.rst:4 551a9a9aa7424976ad784e54974f51c6
+#: ../../1-Introduction.rst:7 1802aea5f18c406d9747c0648067b3ac
+msgid "Turkey and European Union flags"
+msgstr ""
+
+#: ../../1-Introduction.rst:7 e58dab1aedef457eaad12f3a4bcbd8db
+msgid "This project is funded by the European Union."
+msgstr ""
+
+#: ../../1-Introduction.rst:10 551a9a9aa7424976ad784e54974f51c6
 msgid "Introduction"
 msgstr ""
 
-#: ../../1-Introduction.rst:6 494001b42c8147cc9e5a93730d5412c8
-msgid ""
-"In this document we cover the role of technology, especially artificial "
-"intelligence-based technology, on the preservation of endangered "
-"languages. This is a living document that was created as part of the "
-"project \"Judeo-Spanish: Connecting the two ends of the Mediterranean\" "
-"carried out by Col·lectivaT and Sephardic Center of Istanbul (SKAD) "
-"within the framework of the \"Grant Scheme for Common Cultural Heritage: "
-"Preservation and Dialogue between Turkey and the EU–II (CCH-II)\" "
-"implemented by the Ministry of Culture and Tourism of the Republic of "
-"Turkey with the financial support of the European Union."
-msgstr ""
-
-#: ../../1-Introduction.rst:10 2ef4e767c2194188871b8579c9193b0c
-msgid ""
-"The content of this website is the sole responsibility of Col·lectivaT "
-"and SKAD and does not necessarily reflect the views of the European "
-"Union."
-msgstr ""
-
-#: ../../1-Introduction.rst:13 9b464c4d8d784759b8d83813e889959a
-msgid "The motivation"
-msgstr ""
-
-#: ../../1-Introduction.rst:15 46d29de4950347d483d06e99008f5c0e
+#: ../../1-Introduction.rst:21 46d29de4950347d483d06e99008f5c0e
 msgid ""
 "There is currently a growing digital divide between languages with "
 "sufficient resources and languages with fewer resources, further "
@@ -59,7 +43,7 @@ msgid ""
 "deprioritized in the digital spaces of today."
 msgstr ""
 
-#: ../../1-Introduction.rst:17 8ff5efc20ccc493e9463853b13529fd2
+#: ../../1-Introduction.rst:23 8ff5efc20ccc493e9463853b13529fd2
 msgid ""
 "Efforts on preservation of languages focus mainly on language "
 "documentation, teaching, and physical community building. One area that "
@@ -67,62 +51,160 @@ msgid ""
 "Tools like machine translation, speech synthesis, and speech recognition "
 "are now important counterparts in creating human-machine interfaces. "
 "Also, these tools can help model the knowledge of dying languages and "
-"store them for future generations."
+"preserve them for future generations."
 msgstr ""
 
-#: ../../1-Introduction.rst:20 e1202af4e5c44d6d95f24f9fbb5ff7bf
+#: ../../1-Introduction.rst:26 e1202af4e5c44d6d95f24f9fbb5ff7bf
 msgid "Who is this document for?"
 msgstr ""
 
-#: ../../1-Introduction.rst:22 90902623827a4bb983326b162d65da4b
+#: ../../1-Introduction.rst:28 90902623827a4bb983326b162d65da4b
 msgid "This document is for you if you are:"
 msgstr ""
 
-#: ../../1-Introduction.rst:24 9722f9771c834d4890fea8ebd6b901a3
+#: ../../1-Introduction.rst:30 9722f9771c834d4890fea8ebd6b901a3
 msgid ""
-"Language activist who's interested in extending tools and resources in "
+"*Language activist* who's interested in extending tools and resources in "
 "their language"
 msgstr ""
 
-#: ../../1-Introduction.rst:25 07d8e4f31a4f4b6ebed24ba66b609ac3
+#: ../../1-Introduction.rst:31 07d8e4f31a4f4b6ebed24ba66b609ac3
 msgid ""
-"Linguist who is interested in collecting data to power the creation of "
-"language technology"
+"*Linguist* who is interested in collecting data for research and building"
+" language technology"
 msgstr ""
 
-#: ../../1-Introduction.rst:26 791cbd5210a44d34990294dbcad43ca8
+#: ../../1-Introduction.rst:32 791cbd5210a44d34990294dbcad43ca8
 msgid ""
-"Natural language processing (NLP) researcher who is interested in "
+"*Natural language processing (NLP) researcher* who is interested in "
 "augmenting data for their language of interest"
 msgstr ""
 
-#: ../../1-Introduction.rst:27 a71c9796fdea4c068f972dfabca62203
+#: ../../1-Introduction.rst:33 a71c9796fdea4c068f972dfabca62203
 msgid ""
-"Language activist allies who want to support revitalization of local and "
-"global under-resourced languages"
+"*Language activist allies* who want to support the revitalization of "
+"under-resourced languages"
 msgstr ""
 
-#: ../../1-Introduction.rst:30 23e2e876eb2e479398bd25a9b4af47ea
+#: ../../1-Introduction.rst:36 23e2e876eb2e479398bd25a9b4af47ea
 msgid "Can I contribute?"
 msgstr ""
 
-#: ../../1-Introduction.rst:32 d10871ffbe714923b27186de15130468
+#: ../../1-Introduction.rst:38 d10871ffbe714923b27186de15130468
 msgid ""
 "This is a living document with an open license (CC-BY). Its source file "
 "is shared publicly in https://github.com/CollectivaT-dev/language-toolkit"
 " where you can pull a version to work on your own and then submit your "
-"contribution. It can range from correcting typos, adding a translation, "
-"detailing a section, explaining your case study. If you have doubts "
+"contribution. It can range from correcting typos to adding a translation,"
+" detailing a section and explaining your case study. If you have doubts "
 "please feel free to write to us at info@collectivat.cat."
 msgstr ""
 
-#: ../../1-Introduction.rst:35 2c34d2cabc1e400eb702111e921ffcb9
+#: ../../1-Introduction.rst:41 2c34d2cabc1e400eb702111e921ffcb9
 msgid "Authors"
 msgstr ""
 
-#: ../../1-Introduction.rst:37 50d4c7c5dd174327ab2b8e8e5f15f7da
+#: ../../1-Introduction.rst:43 50d4c7c5dd174327ab2b8e8e5f15f7da
 msgid ""
-"Alp Öktem - (Web: http://alpoktem.github.io, Twitter: "
-"http://www.twitter.com/OktemAlp)"
+"Alp Öktem - (`Web <http://alpoktem.github.io>`_, `Twitter "
+"<http://www.twitter.com/OktemAlp>`_)"
 msgstr ""
+
+#: ../../1-Introduction.rst:50 2ef4e767c2194188871b8579c9193b0c
+msgid ""
+"This document was created with the financial support of the European "
+"Union. The content of this website is the sole responsibility of "
+"Col·lectivaT and SKAD and does not necessarily reflect the views of the "
+"European Union."
+msgstr ""
+
+#~ msgid ""
+#~ "In this document we cover the role"
+#~ " of technology, especially artificial "
+#~ "intelligence-based technology, on the "
+#~ "preservation of endangered languages. This "
+#~ "is a living document that was "
+#~ "created as part of the project "
+#~ "\"Judeo-Spanish: Connecting the two ends"
+#~ " of the Mediterranean\" carried out "
+#~ "by Col·lectivaT and Sephardic Center of"
+#~ " Istanbul (SKAD) within the framework "
+#~ "of the \"Grant Scheme for Common "
+#~ "Cultural Heritage: Preservation and Dialogue"
+#~ " between Turkey and the EU–II "
+#~ "(CCH-II)\" implemented by the Ministry "
+#~ "of Culture and Tourism of the "
+#~ "Republic of Turkey with the financial"
+#~ " support of the European Union."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The content of this website is the"
+#~ " sole responsibility of Col·lectivaT and"
+#~ " SKAD and does not necessarily "
+#~ "reflect the views of the European "
+#~ "Union."
+#~ msgstr ""
+
+#~ msgid "The motivation"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Efforts on preservation of languages "
+#~ "focus mainly on language documentation, "
+#~ "teaching, and physical community building. "
+#~ "One area that is overlooked is "
+#~ "creation of tools based on artificial"
+#~ " intelligence. Tools like machine "
+#~ "translation, speech synthesis, and speech "
+#~ "recognition are now important counterparts "
+#~ "in creating human-machine interfaces. "
+#~ "Also, these tools can help model "
+#~ "the knowledge of dying languages and "
+#~ "store them for future generations."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Language activist who's interested in "
+#~ "extending tools and resources in their"
+#~ " language"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Linguist who is interested in collecting"
+#~ " data to power the creation of "
+#~ "language technology"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Natural language processing (NLP) researcher"
+#~ " who is interested in augmenting data"
+#~ " for their language of interest"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Language activist allies who want to "
+#~ "support revitalization of local and "
+#~ "global under-resourced languages"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This is a living document with an"
+#~ " open license (CC-BY). Its source "
+#~ "file is shared publicly in "
+#~ "https://github.com/CollectivaT-dev/language-toolkit "
+#~ "where you can pull a version to"
+#~ " work on your own and then "
+#~ "submit your contribution. It can range"
+#~ " from correcting typos, adding a "
+#~ "translation, detailing a section, explaining"
+#~ " your case study. If you have "
+#~ "doubts please feel free to write "
+#~ "to us at info@collectivat.cat."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Alp Öktem - (Web: http://alpoktem.github.io,"
+#~ " Twitter: http://www.twitter.com/OktemAlp)"
+#~ msgstr ""
 

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-09 18:50+0300\n"
+"POT-Creation-Date: 2022-05-18 17:08+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,75 +18,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: ../../3-Datadriven 89cfd111c6c34e2f94a57bc0d17f1afb language tech.rst:2
+#: ../../3-Datadriven 41f21645c48343efbba714ba4bf71551 language tech.rst:7
+msgid "Turkey and European Union flags"
+msgstr ""
+
+#: ../../3-Datadriven c7ce149455b0419b980fd85747b4e183 language tech.rst:7
+msgid "This project is funded by the European Union."
+msgstr ""
+
+#: ../../3-Datadriven 89cfd111c6c34e2f94a57bc0d17f1afb language tech.rst:10
 msgid "Data-driven language technologies"
 msgstr ""
 
-#: ../../3-Datadriven daa3532d04684774a5220980ded5a7cd language tech.rst:4
+#: ../../3-Datadriven daa3532d04684774a5220980ded5a7cd language tech.rst:12
 msgid ""
 "The digital revolution is here with us and Artificial Intelligence (AI) "
-"is a key technological enabler as it offers a range of new opportunities "
-"to break down existing barriers to human development and social "
-"inclusion. One are that is powered by AI is Language technology which "
-"makes it possible to interact with our phones through digital assistants,"
-" translate websites and documents with a few clicks, increase "
+"is a key technological enabler. It offers a range of new opportunities to"
+" break down existing barriers to human development and social inclusion. "
+"One area that is powered by AI is language technology which makes it "
+"possible to interact with our phones through digital assistants, "
+"translate websites and documents with a few clicks, increase "
 "accessibility of videos with automatic captioning etc."
 msgstr ""
 
-#: ../../3-Datadriven 07da296098cb4775a55bd64affb1b56f language tech.rst:6
+#: ../../3-Datadriven 07da296098cb4775a55bd64affb1b56f language tech.rst:14
 msgid ""
 "The main motor behind these is the advancement of the field **Natural "
 "Language Processing (NLP)**. But what does NLP entail? Here's a list of "
 "core technologies that fall in the area of this field:"
 msgstr ""
 
-#: ../../3-Datadriven ddb0d2b51a864ef09f58afb770577287 language tech.rst:8
+#: ../../3-Datadriven ddb0d2b51a864ef09f58afb770577287 language tech.rst:16
 msgid "Text-based:"
 msgstr ""
 
-#: ../../3-Datadriven 4186fd61e84a4d34a47bf1e12672d548
-#: 83dd2241e56c458a89f7581d10e88486 language tech.rst:10 tech.rst:36
+#: ../../3-Datadriven 4186fd61e84a4d34a47bf1e12672d548 language tech.rst:18
+#: tech.rst:44
 msgid "Machine translation"
 msgstr ""
 
-#: ../../3-Datadriven d68e3a29166b4a1dbc8e25f127169e17 language tech.rst:11
+#: ../../3-Datadriven d68e3a29166b4a1dbc8e25f127169e17 language tech.rst:19
 msgid "Information retrieval"
 msgstr ""
 
-#: ../../3-Datadriven cde1728063974d7dac6c44ef41bd7082 language tech.rst:12
-msgid "Sentiment analysis"
-msgstr ""
-
-#: ../../3-Datadriven 59dee0c1a3c24518acb192196c891e6d language tech.rst:13
+#: ../../3-Datadriven 59dee0c1a3c24518acb192196c891e6d language tech.rst:20
 msgid "Information extraction"
 msgstr ""
 
-#: ../../3-Datadriven 0e2bf5cabd41415aa1f8e567398eaae1 language tech.rst:14
+#: ../../3-Datadriven cde1728063974d7dac6c44ef41bd7082 language tech.rst:21
+msgid "Sentiment analysis"
+msgstr ""
+
+#: ../../3-Datadriven 0e2bf5cabd41415aa1f8e567398eaae1 language tech.rst:22
 msgid "Question answering"
 msgstr ""
 
-#: ../../3-Datadriven 73a5421ef203464e8613e6536c22de67 language tech.rst:15
+#: ../../3-Datadriven 73a5421ef203464e8613e6536c22de67 language tech.rst:23
 msgid "Text summarization"
 msgstr ""
 
-#: ../../3-Datadriven 16be7f6d88d344369cb15e883ce49737 language tech.rst:16
+#: ../../3-Datadriven 16be7f6d88d344369cb15e883ce49737 language tech.rst:24
 msgid "Named-entity recognition"
 msgstr ""
 
-#: ../../3-Datadriven c13fcc6042344f04b5b2aef191a8e96b language tech.rst:18
+#: ../../3-Datadriven c13fcc6042344f04b5b2aef191a8e96b language tech.rst:26
 msgid "Speech-based:"
 msgstr ""
 
-#: ../../3-Datadriven 231bd4be4144487186a1413889fdd830
-#: 62a41a348b5b4a58a06448dd2060ad6d language tech.rst:20 tech.rst:62
+#: ../../3-Datadriven 62a41a348b5b4a58a06448dd2060ad6d language tech.rst:28
+#: tech.rst:70
 msgid "Automatic speech recognition"
 msgstr ""
 
-#: ../../3-Datadriven 74f778b555a9450e9d778f93aeedc2f8 language tech.rst:21
+#: ../../3-Datadriven 74f778b555a9450e9d778f93aeedc2f8 language tech.rst:29
 msgid "Text-to-speech synthesis"
 msgstr ""
 
-#: ../../3-Datadriven e03b644c3b294d26a4c9b69c46e05a58 language tech.rst:23
+#: ../../3-Datadriven e03b644c3b294d26a4c9b69c46e05a58 language tech.rst:31
 msgid ""
 "The revolutionary aspect of these technologies is that they are *data-"
 "driven*, which means that the intelligence that is created with these "
@@ -99,18 +107,18 @@ msgid ""
 "sentiment."
 msgstr ""
 
-#: ../../3-Datadriven a902d21c3b3f44f086a1c20fd0ef1f85 language tech.rst:25
+#: ../../3-Datadriven a902d21c3b3f44f086a1c20fd0ef1f85 language tech.rst:33
 msgid ""
 "This dependency on data is what makes these technologies accessible to "
 "some languages and not to the others. The available resources for a "
 "language directly influences the possibility of developing an application"
 " for a language. As the greatest resource of textual data is the "
 "internet, and it is dominated by a few languages, these technologies tend"
-" to focus on only a handful of *power languages* e.g. English, Spanish, "
-"Chinese, Arabic etc."
+" to focus on only a handful of *dominant languages* e.g. English, "
+"Spanish, Chinese, Arabic etc."
 msgstr ""
 
-#: ../../3-Datadriven 7055247b14094f58968f86785df28562 language tech.rst:27
+#: ../../3-Datadriven 7055247b14094f58968f86785df28562 language tech.rst:35
 msgid ""
 "The diagram below by `Microsoft Research Labs India "
 "<https://www.microsoft.com/en-us/research/publication/ellora-enabling-"
@@ -119,13 +127,13 @@ msgid ""
 msgstr ""
 
 #: ../../3-Datadriven ac9671caa70046bb8a87c14f725df037
-#: ebbd81f6cfc34295bc41b1fc4efcc0e3 language tech.rst:33
+#: ebbd81f6cfc34295bc41b1fc4efcc0e3 language tech.rst:41
 msgid ""
 "Classification of languages according to the availability of language "
 "technology, tools and resources"
 msgstr ""
 
-#: ../../3-Datadriven 114896caea5c4aa2b617b2de11acd332 language tech.rst:38
+#: ../../3-Datadriven 114896caea5c4aa2b617b2de11acd332 language tech.rst:46
 msgid ""
 "Machine Translation (MT) is defined as the automatic conversion of a "
 "sequence of symbols in one language to a sequence of symbols in another "
@@ -140,12 +148,11 @@ msgid ""
 msgstr ""
 
 #: ../../3-Datadriven 41f21645c48343efbba714ba4bf71551
-#: 817782b1ad564aa88db08387ee353748 language tech.rst:44
+#: 817782b1ad564aa88db08387ee353748 language tech.rst:52
 msgid "Extracting statistics of translations from parallel data"
 msgstr ""
 
-#: ../../3-Datadriven 36d3c90fc892433186da268248451e08 language tech.rst:46
-#, python-format
+#: ../../3-Datadriven 36d3c90fc892433186da268248451e08 language tech.rst:54
 msgid ""
 "Machine translation services like Google Translate and DeepL have made "
 "their way into reliable tools for translators and also regular folk in "
@@ -156,11 +163,11 @@ msgid ""
 "compared to earlier models."
 msgstr ""
 
-#: ../../3-Datadriven 5e1f8e74ddc34cffb4acba7ac93e1164 language tech.rst:48
+#: ../../3-Datadriven 5e1f8e74ddc34cffb4acba7ac93e1164 language tech.rst:56
 msgid "The uses of machine translation are as follows:"
 msgstr ""
 
-#: ../../3-Datadriven bb70c0673fe64d0b95f5f6e47371bac3 language tech.rst:50
+#: ../../3-Datadriven bb70c0673fe64d0b95f5f6e47371bac3 language tech.rst:58
 msgid ""
 "**Assimilation**, emulating a certain document in another language. This "
 "use-case enables e.g. reading a news site or technical paper in a "
@@ -168,27 +175,26 @@ msgid ""
 "translation, but it gives the gist to explore further more."
 msgstr ""
 
-#: ../../3-Datadriven 64208f7b46564584ae67d318ab45cf42 language tech.rst:51
+#: ../../3-Datadriven 64208f7b46564584ae67d318ab45cf42 language tech.rst:59
 msgid ""
 "**Communication**, enabling the communication between individuals and "
 "organizations e.g. in chat, tourism, e-commerce, lowering the need for a "
 "lingua franca."
 msgstr ""
 
-#: ../../3-Datadriven 2286641e3ac94b1d8780cfe686b5a312 language tech.rst:52
+#: ../../3-Datadriven 2286641e3ac94b1d8780cfe686b5a312 language tech.rst:60
 msgid ""
 "**Monitoring**, enabling tracing of information in large-scale "
 "multilingual documents e.g. discovering international trends in Twitter."
 msgstr ""
 
-#: ../../3-Datadriven 39d04b3cee8c4e56830ba16cab6f483b language tech.rst:53
+#: ../../3-Datadriven 39d04b3cee8c4e56830ba16cab6f483b language tech.rst:61
 msgid ""
 "**Assistance**, improving translation workflows e.g. computer-assisted "
 "translation, post-editing."
 msgstr ""
 
-#: ../../3-Datadriven 09acbc266dc1481197dd552c845640c2 language tech.rst:55
-#, python-format
+#: ../../3-Datadriven 09acbc266dc1481197dd552c845640c2 language tech.rst:63
 msgid ""
 "MT has also become an essential tool in language learning. `A recent work"
 " by Duke University "
@@ -199,7 +205,7 @@ msgid ""
 "during their studies."
 msgstr ""
 
-#: ../../3-Datadriven adc842944d774631820e286170660696 language tech.rst:57
+#: ../../3-Datadriven adc842944d774631820e286170660696 language tech.rst:65
 msgid ""
 "Finally, MT has also been proposed as a documentation and preservation "
 "tool for endangered languages by Bird and Chiang in their paper `Machine "
@@ -219,14 +225,14 @@ msgid ""
 "language.\""
 msgstr ""
 
-#: ../../3-Datadriven b4b8ea42660048bdb0c975eeaeeae432 language tech.rst:59
+#: ../../3-Datadriven b4b8ea42660048bdb0c975eeaeeae432 language tech.rst:67
 msgid ""
 "This innovative way of language documentation reduces the effort into "
-"mere translation collection since MT development relies on this type of "
-"data."
+"translated sentence collection as MT development relies on this type of "
+"data. *(More on parallel data in the next section)*"
 msgstr ""
 
-#: ../../3-Datadriven 30bbb313eece4d649951f6034c4e4bec language tech.rst:64
+#: ../../3-Datadriven 30bbb313eece4d649951f6034c4e4bec language tech.rst:72
 msgid ""
 "Automatic speech recognition (ASR) is the conversion of speech in its "
 "acoustic form into a symbolic form such as words or letters. It is the "
@@ -238,40 +244,40 @@ msgid ""
 "represent the linguistic information that lies in the speech signal."
 msgstr ""
 
-#: ../../3-Datadriven 841e2b222092495d959809dcc033c1a5 language tech.rst:71
+#: ../../3-Datadriven 841e2b222092495d959809dcc033c1a5 language tech.rst:79
 msgid ""
 "Automatic speech recognition is modelling the question ”What is the most "
 "probable word sequence among all possible word sequences given an "
 "acoustic input?”"
 msgstr ""
 
-#: ../../3-Datadriven 31eefada05fb402c888969b52431430e language tech.rst:71
+#: ../../3-Datadriven 31eefada05fb402c888969b52431430e language tech.rst:79
 msgid "A simple diagram of automatic speech recognition"
 msgstr ""
 
-#: ../../3-Datadriven 6e09b6d620094cd6af067088aed2ead9 language tech.rst:73
+#: ../../3-Datadriven 6e09b6d620094cd6af067088aed2ead9 language tech.rst:81
 msgid ""
 "Developing an automatic speech recognition system for a language is "
 "dependant on the following type of data:"
 msgstr ""
 
-#: ../../3-Datadriven f3894c19875f414687afe692374410c8 language tech.rst:75
+#: ../../3-Datadriven f3894c19875f414687afe692374410c8 language tech.rst:83
 msgid ""
 "Collection of short speech audio recordings from many speakers and their "
 "text transcriptions"
 msgstr ""
 
-#: ../../3-Datadriven f4c0f8f59ed24463b020e1cd57d6ea77 language tech.rst:76
+#: ../../3-Datadriven f4c0f8f59ed24463b020e1cd57d6ea77 language tech.rst:84
 msgid "A large text corpus"
 msgstr ""
 
-#: ../../3-Datadriven fcf64ca286eb4990a5a34bb60121878d language tech.rst:77
+#: ../../3-Datadriven fcf64ca286eb4990a5a34bb60121878d language tech.rst:85
 msgid ""
 "Phonetic pronunciation dictionary (This is optional in more modern "
 "technologies)"
 msgstr ""
 
-#: ../../3-Datadriven 9209cbe89a874bd0b010ede3e8d457e2 language tech.rst:79
+#: ../../3-Datadriven 9209cbe89a874bd0b010ede3e8d457e2 language tech.rst:87
 msgid ""
 "ASR has progressed significantly in the last decade again thanks to the "
 "advent of deep-learning. In September 2017, Microsoft announced `their "
@@ -281,14 +287,14 @@ msgid ""
 "speech transcription. Their system was based on a dataset of 200M "
 "transcribed words from conversational speech. These developments have had"
 " great impact already as virtual assistants have become a cotidian "
-"application, voice search and automatic transcription of audio."
+"application, voice search and automatic audio transcription."
 msgstr ""
 
-#: ../../3-Datadriven 5815bdeb6334497a8f4f8efa716ea275 language tech.rst:82
+#: ../../3-Datadriven 5815bdeb6334497a8f4f8efa716ea275 language tech.rst:90
 msgid "Text-to-speech"
 msgstr ""
 
-#: ../../3-Datadriven 03bc4a36d3dc49c79ce75aea1ee1f926 language tech.rst:84
+#: ../../3-Datadriven 03bc4a36d3dc49c79ce75aea1ee1f926 language tech.rst:92
 msgid ""
 "Text-to-speech (or speech synthesis) involves production of a human-like "
 "speech given a text input with a computer. Before the advent of deep "
@@ -302,7 +308,7 @@ msgid ""
 " like F0 and energy, modelling the human speech production."
 msgstr ""
 
-#: ../../3-Datadriven f5eaf4ad037242e8b57a0fce1da879e6 language tech.rst:86
+#: ../../3-Datadriven f5eaf4ad037242e8b57a0fce1da879e6 language tech.rst:94
 msgid ""
 "Currently, most modern TTS systems rely on deep-learning methods. The "
 "deep neural networks are trained using a large amount of recorded speech "
@@ -311,7 +317,7 @@ msgid ""
 "system is able to replicate the voice of this particular speaker."
 msgstr ""
 
-#: ../../3-Datadriven c50c20a2cf5643ba84e026edeaedbab5 language tech.rst:88
+#: ../../3-Datadriven c50c20a2cf5643ba84e026edeaedbab5 language tech.rst:96
 msgid ""
 "TTS is important in making computers accessible to blind or partially "
 "sighted people as it enables them to \"read\" from the screen. TTS "
@@ -320,7 +326,7 @@ msgid ""
 "aloud of a text, interface for a voice assistant etc."
 msgstr ""
 
-#: ../../3-Datadriven 4f93de5464854bb186b1644b249f1531 language tech.rst:90
+#: ../../3-Datadriven 4f93de5464854bb186b1644b249f1531 language tech.rst:98
 msgid ""
 "In the case of endangered and minority languages, TTS can aid language "
 "learning and language documentation. Students who don't have access to "
@@ -328,4 +334,72 @@ msgid ""
 " tutor. It is a permanent record of the language as it will persist even "
 "after the moment there are no speakers left for the language."
 msgstr ""
+
+#: ../../3-Datadriven 39636debb7e9494080a6d8f1c178da22 language tech.rst:108
+msgid ""
+"This document was created with the financial support of the European "
+"Union. The content of this website is the sole responsibility of "
+"Col·lectivaT and SKAD and does not necessarily reflect the views of the "
+"European Union."
+msgstr ""
+
+#~ msgid ""
+#~ "The digital revolution is here with "
+#~ "us and Artificial Intelligence (AI) is"
+#~ " a key technological enabler as it"
+#~ " offers a range of new opportunities"
+#~ " to break down existing barriers to"
+#~ " human development and social inclusion."
+#~ " One are that is powered by AI"
+#~ " is Language technology which makes "
+#~ "it possible to interact with our "
+#~ "phones through digital assistants, translate"
+#~ " websites and documents with a few"
+#~ " clicks, increase accessibility of videos"
+#~ " with automatic captioning etc."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This dependency on data is what "
+#~ "makes these technologies accessible to "
+#~ "some languages and not to the "
+#~ "others. The available resources for a"
+#~ " language directly influences the "
+#~ "possibility of developing an application "
+#~ "for a language. As the greatest "
+#~ "resource of textual data is the "
+#~ "internet, and it is dominated by a"
+#~ " few languages, these technologies tend "
+#~ "to focus on only a handful of "
+#~ "*power languages* e.g. English, Spanish, "
+#~ "Chinese, Arabic etc."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This innovative way of language "
+#~ "documentation reduces the effort into "
+#~ "mere translation collection since MT "
+#~ "development relies on this type of "
+#~ "data."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "ASR has progressed significantly in the"
+#~ " last decade again thanks to the "
+#~ "advent of deep-learning. In September"
+#~ " 2017, Microsoft announced `their results"
+#~ " <https://www.microsoft.com/en-us/research/publication"
+#~ "/toward-human-parity-conversational-speech-"
+#~ "recognition/>`_ for an English speech "
+#~ "recognition system that could achieve "
+#~ "better-than-human performance in speech "
+#~ "transcription. Their system was based on"
+#~ " a dataset of 200M transcribed words"
+#~ " from conversational speech. These "
+#~ "developments have had great impact "
+#~ "already as virtual assistants have "
+#~ "become a cotidian application, voice "
+#~ "search and automatic transcription of "
+#~ "audio."
+#~ msgstr ""
 

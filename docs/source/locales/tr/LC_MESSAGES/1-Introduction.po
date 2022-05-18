@@ -8,66 +8,40 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-09 18:50+0300\n"
+"POT-Creation-Date: 2022-05-18 17:08+0200\n"
 "PO-Revision-Date: 2022-05-10 13:33+0300\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: tr\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.0.1\n"
 
-#: ../../1-Introduction.rst:4 551a9a9aa7424976ad784e54974f51c6
+#: ../../1-Introduction.rst:7 1802aea5f18c406d9747c0648067b3ac
+msgid "Turkey and European Union flags"
+msgstr ""
+
+#: ../../1-Introduction.rst:7 e58dab1aedef457eaad12f3a4bcbd8db
+msgid "This project is funded by the European Union."
+msgstr ""
+
+#: ../../1-Introduction.rst:10 551a9a9aa7424976ad784e54974f51c6
 msgid "Introduction"
 msgstr "Giriş"
 
-#: ../../1-Introduction.rst:6 494001b42c8147cc9e5a93730d5412c8
-msgid ""
-"In this document we cover the role of technology, especially artificial "
-"intelligence-based technology, on the preservation of endangered "
-"languages. This is a living document that was created as part of the "
-"project \"Judeo-Spanish: Connecting the two ends of the Mediterranean\" "
-"carried out by Col·lectivaT and Sephardic Center of Istanbul (SKAD) "
-"within the framework of the \"Grant Scheme for Common Cultural Heritage: "
-"Preservation and Dialogue between Turkey and the EU–II (CCH-II)\" "
-"implemented by the Ministry of Culture and Tourism of the Republic of "
-"Turkey with the financial support of the European Union."
-msgstr ""
-"Bu belgede, nesli tükenmekte olan dillerin korunmasında teknolojinin, "
-"özellikle yapay zeka tabanlı teknolojinin rolünü ele alıyoruz. Bu, "
-"Col·lectivaT ve İstanbul Sefarad Merkezi (SKAD) tarafından yürütülen "
-"“Yahudi-İspanyolca: Akdeniz’in iki ucunu birbirine bağlamak” projesinin "
-"bir parçası olarak “Ortak için Hibe Programı” çerçevesinde oluşturulmuş "
-"yaşayan bir belgedir. Kültürel Mirasın Korunması ve Türkiye ile AB "
-"Arasında Diyalog–II (CCH-II)” Türkiye Cumhuriyeti Kültür ve Turizm "
-"Bakanlığı tarafından Avrupa Birliği’nin mali desteğiyle uygulanmaktadır."
-
-#: ../../1-Introduction.rst:10 2ef4e767c2194188871b8579c9193b0c
-msgid ""
-"The content of this website is the sole responsibility of Col·lectivaT "
-"and SKAD and does not necessarily reflect the views of the European "
-"Union."
-msgstr ""
-"Bu web sitesinin içeriği yalnızca Col·lectivaT ve SKAD’ın "
-"sorumluluğundadır ve Avrupa Birliği’nin görüşlerini yansıtmayabilir."
-
-#: ../../1-Introduction.rst:13 9b464c4d8d784759b8d83813e889959a
-msgid "The motivation"
-msgstr "Motivasyon"
-
-#: ../../1-Introduction.rst:15 46d29de4950347d483d06e99008f5c0e
+#: ../../1-Introduction.rst:21 46d29de4950347d483d06e99008f5c0e
 msgid ""
 "There is currently a growing digital divide between languages with "
 "sufficient resources and languages with fewer resources, further "
 "exacerbating the danger of digital extinction for them. For the majority "
 "languages, the process of generating useful tools and resources is much "
 "easier due to their large web-presence. However, many minority languages "
-"do not have sufficient material and human resources to power the "
-"creation of such tools. Lack of state support, public visibility, "
-"societal and institutional oppression are direct causes of these "
-"languages being deprioritized in the digital spaces of today."
+"do not have sufficient material and human resources to power the creation"
+" of such tools. Lack of state support, public visibility, societal and "
+"institutional oppression are direct causes of these languages being "
+"deprioritized in the digital spaces of today."
 msgstr ""
 "Şu anda, yeterli kaynağa sahip diller ile daha az kaynağa sahip diller "
 "arasında büyüyen bir dijital uçurum var ve bu, onlar için dijital yok "
@@ -79,7 +53,8 @@ msgstr ""
 "kurumsal baskı, bu dillerin günümüzün dijital alanlarında "
 "önceliksizleştirilmesinin doğrudan nedenleridir."
 
-#: ../../1-Introduction.rst:17 8ff5efc20ccc493e9463853b13529fd2
+#: ../../1-Introduction.rst:23 8ff5efc20ccc493e9463853b13529fd2
+#, fuzzy
 msgid ""
 "Efforts on preservation of languages focus mainly on language "
 "documentation, teaching, and physical community building. One area that "
@@ -87,7 +62,7 @@ msgid ""
 "Tools like machine translation, speech synthesis, and speech recognition "
 "are now important counterparts in creating human-machine interfaces. "
 "Also, these tools can help model the knowledge of dying languages and "
-"store them for future generations."
+"preserve them for future generations."
 msgstr ""
 "Dillerin korunmasına yönelik çabalar, esas olarak dil dokümantasyonu, "
 "öğretimi ve fiziksel topluluk oluşturmaya odaklanır. Göz ardı edilen bir "
@@ -97,75 +72,130 @@ msgstr ""
 "olan dillerin bilgisini modellemeye ve gelecek nesiller için saklamaya "
 "yardımcı olabilir."
 
-#: ../../1-Introduction.rst:20 e1202af4e5c44d6d95f24f9fbb5ff7bf
+#: ../../1-Introduction.rst:26 e1202af4e5c44d6d95f24f9fbb5ff7bf
 msgid "Who is this document for?"
 msgstr "Bu belge kimin için?"
 
-#: ../../1-Introduction.rst:22 90902623827a4bb983326b162d65da4b
+#: ../../1-Introduction.rst:28 90902623827a4bb983326b162d65da4b
 msgid "This document is for you if you are:"
 msgstr "Aşağıdaki durumlarda bu belge sizin içindir:"
 
-#: ../../1-Introduction.rst:24 9722f9771c834d4890fea8ebd6b901a3
+#: ../../1-Introduction.rst:30 9722f9771c834d4890fea8ebd6b901a3
+#, fuzzy
 msgid ""
-"Language activist who's interested in extending tools and resources in "
+"*Language activist* who's interested in extending tools and resources in "
 "their language"
 msgstr ""
 "Kendi dillerinde araçları ve kaynakları genişletmekle ilgilenen dil "
 "aktivisti"
 
-#: ../../1-Introduction.rst:25 07d8e4f31a4f4b6ebed24ba66b609ac3
+#: ../../1-Introduction.rst:31 07d8e4f31a4f4b6ebed24ba66b609ac3
+#, fuzzy
 msgid ""
-"Linguist who is interested in collecting data to power the creation of "
-"language technology"
+"*Linguist* who is interested in collecting data for research and building"
+" language technology"
 msgstr ""
 "Dil teknolojisinin yaratılmasına güç sağlamak için veri toplamakla "
 "ilgilenen dilbilimci"
 
-#: ../../1-Introduction.rst:26 791cbd5210a44d34990294dbcad43ca8
+#: ../../1-Introduction.rst:32 791cbd5210a44d34990294dbcad43ca8
+#, fuzzy
 msgid ""
-"Natural language processing (NLP) researcher who is interested in "
+"*Natural language processing (NLP) researcher* who is interested in "
 "augmenting data for their language of interest"
 msgstr ""
 "İlgilendikleri dil için verileri artırmakla ilgilenen doğal dil işleme "
 "(NLP) araştırmacısı"
 
-#: ../../1-Introduction.rst:27 a71c9796fdea4c068f972dfabca62203
+#: ../../1-Introduction.rst:33 a71c9796fdea4c068f972dfabca62203
+#, fuzzy
 msgid ""
-"Language activist allies who want to support revitalization of local and "
-"global under-resourced languages"
+"*Language activist allies* who want to support the revitalization of "
+"under-resourced languages"
 msgstr ""
 "Kaynakları yetersiz yerel ve küresel dillerin yeniden canlandırılmasını "
 "desteklemek isteyen dil aktivisti müttefikleri"
 
-#: ../../1-Introduction.rst:30 23e2e876eb2e479398bd25a9b4af47ea
+#: ../../1-Introduction.rst:36 23e2e876eb2e479398bd25a9b4af47ea
 msgid "Can I contribute?"
 msgstr "Katkıda bulunabilir miyim?"
 
-#: ../../1-Introduction.rst:32 d10871ffbe714923b27186de15130468
+#: ../../1-Introduction.rst:38 d10871ffbe714923b27186de15130468
+#, fuzzy
 msgid ""
 "This is a living document with an open license (CC-BY). Its source file "
-"is shared publicly in https://github.com/CollectivaT-dev/language-"
-"toolkit where you can pull a version to work on your own and then submit "
-"your contribution. It can range from correcting typos, adding a "
-"translation, detailing a section, explaining your case study. If you "
-"have doubts please feel free to write to us at info@collectivat.cat."
+"is shared publicly in https://github.com/CollectivaT-dev/language-toolkit"
+" where you can pull a version to work on your own and then submit your "
+"contribution. It can range from correcting typos to adding a translation,"
+" detailing a section and explaining your case study. If you have doubts "
+"please feel free to write to us at info@collectivat.cat."
 msgstr ""
-"Bu, açık lisanslı (CC-BY) yaşayan bir belgedir. Kaynak dosyası https://"
-"github.com/CollectivaT-dev/language-toolkit adresinde herkese açık "
-"olarak paylaşılır, burada kendi başınıza çalışmak için bir sürüm "
+"Bu, açık lisanslı (CC-BY) yaşayan bir belgedir. Kaynak dosyası "
+"https://github.com/CollectivaT-dev/language-toolkit adresinde herkese "
+"açık olarak paylaşılır, burada kendi başınıza çalışmak için bir sürüm "
 "çekebilir ve ardından katkınızı gönderebilirsiniz. Yazım hatalarını "
-"düzeltmeye, çeviri eklemeye, bir bölümü detaylandırmaya, vaka "
-"çalışmanızı açıklamaya kadar değişebilir. Herhangi bir şüpheniz varsa "
-"lütfen bize info@collectivat.cat adresinden yazmaktan çekinmeyin."
+"düzeltmeye, çeviri eklemeye, bir bölümü detaylandırmaya, vaka çalışmanızı"
+" açıklamaya kadar değişebilir. Herhangi bir şüpheniz varsa lütfen bize "
+"info@collectivat.cat adresinden yazmaktan çekinmeyin."
 
-#: ../../1-Introduction.rst:35 2c34d2cabc1e400eb702111e921ffcb9
+#: ../../1-Introduction.rst:41 2c34d2cabc1e400eb702111e921ffcb9
 msgid "Authors"
 msgstr "Yazarlar"
 
-#: ../../1-Introduction.rst:37 50d4c7c5dd174327ab2b8e8e5f15f7da
+#: ../../1-Introduction.rst:43 50d4c7c5dd174327ab2b8e8e5f15f7da
+#, fuzzy
 msgid ""
-"Alp Öktem - (Web: http://alpoktem.github.io, Twitter: http://www.twitter."
-"com/OktemAlp)"
+"Alp Öktem - (`Web <http://alpoktem.github.io>`_, `Twitter "
+"<http://www.twitter.com/OktemAlp>`_)"
 msgstr ""
-"Alp Öktem - (Web: http://alpoktem.github.io, Twitter: http://www.twitter."
-"com/OktemAlp)"
+"Alp Öktem - (Web: http://alpoktem.github.io, Twitter: "
+"http://www.twitter.com/OktemAlp)"
+
+#: ../../1-Introduction.rst:50 2ef4e767c2194188871b8579c9193b0c
+#, fuzzy
+msgid ""
+"This document was created with the financial support of the European "
+"Union. The content of this website is the sole responsibility of "
+"Col·lectivaT and SKAD and does not necessarily reflect the views of the "
+"European Union."
+msgstr ""
+"Bu web sitesinin içeriği yalnızca Col·lectivaT ve SKAD’ın "
+"sorumluluğundadır ve Avrupa Birliği’nin görüşlerini yansıtmayabilir."
+
+#~ msgid ""
+#~ "In this document we cover the role"
+#~ " of technology, especially artificial "
+#~ "intelligence-based technology, on the "
+#~ "preservation of endangered languages. This "
+#~ "is a living document that was "
+#~ "created as part of the project "
+#~ "\"Judeo-Spanish: Connecting the two ends"
+#~ " of the Mediterranean\" carried out "
+#~ "by Col·lectivaT and Sephardic Center of"
+#~ " Istanbul (SKAD) within the framework "
+#~ "of the \"Grant Scheme for Common "
+#~ "Cultural Heritage: Preservation and Dialogue"
+#~ " between Turkey and the EU–II "
+#~ "(CCH-II)\" implemented by the Ministry "
+#~ "of Culture and Tourism of the "
+#~ "Republic of Turkey with the financial"
+#~ " support of the European Union."
+#~ msgstr ""
+#~ "Bu belgede, nesli tükenmekte olan "
+#~ "dillerin korunmasında teknolojinin, özellikle "
+#~ "yapay zeka tabanlı teknolojinin rolünü "
+#~ "ele alıyoruz. Bu, Col·lectivaT ve "
+#~ "İstanbul Sefarad Merkezi (SKAD) tarafından "
+#~ "yürütülen “Yahudi-İspanyolca: Akdeniz’in iki"
+#~ " ucunu birbirine bağlamak” projesinin bir"
+#~ " parçası olarak “Ortak için Hibe "
+#~ "Programı” çerçevesinde oluşturulmuş yaşayan "
+#~ "bir belgedir. Kültürel Mirasın Korunması "
+#~ "ve Türkiye ile AB Arasında Diyalog–II"
+#~ " (CCH-II)” Türkiye Cumhuriyeti Kültür "
+#~ "ve Turizm Bakanlığı tarafından Avrupa "
+#~ "Birliği’nin mali desteğiyle uygulanmaktadır."
+
+#~ msgid "The motivation"
+#~ msgstr "Motivasyon"
+
