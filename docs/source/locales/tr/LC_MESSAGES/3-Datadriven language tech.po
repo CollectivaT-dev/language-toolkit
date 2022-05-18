@@ -250,7 +250,6 @@ msgstr ""
 "çeviri, post-edit."
 
 #: ../../3-Datadriven 09acbc266dc1481197dd552c845640c2 language tech.rst:63
-#, python-format
 msgid ""
 "MT has also become an essential tool in language learning. `A recent work"
 " by Duke University "
