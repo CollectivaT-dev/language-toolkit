@@ -48,7 +48,7 @@ The first command builds the templates `.pot` files and the second one updates t
 Before pushing the translated to the repository it might be a good idea to build the translated pages. For more information check the [official tutorial](https://docs.readthedocs.io/en/stable/guides/manage-translations-sphinx.html).
 
 ```
-sphinx-build -b html -D language=en . ../build/html
+sphinx-build -b html -D language=en . _build/html/en
 sphinx-build -b html -D language=tr . _build/html/tr
 sphinx-build -b html -D language=es . _build/html/es
 ```
