@@ -133,15 +133,15 @@ msgstr "Para obtener un informe técnico detallado de este proyecto, consulte el
 
 #: ../../5-Case b461d506140a430880e0113a93437c0e studies.rst:68
 msgid "Grassroots NLP communities"
-msgstr "Comunidades de base PNL"
+msgstr "Comunidades de base PLN"
 
 #: ../../5-Case 223711c9f1ff4f51bd8fab55fc404fed studies.rst:70
 msgid "Against the NLP research focusing on a handful of languages, grassroots research communities organize together to bring the world's languages into the forefront of technology. Two examples of these initiatives are `Masakhane <https://www.masakhane.io/>`_ and `Turkic Interlingua <https://turkicinterlingua.org/>`_."
-msgstr "Contra la investigación de la PNL centrada en un puñado de idiomas, las comunidades de investigación de base se organizan para llevar los idiomas del mundo a la vanguardia de la tecnología. Dos ejemplos de estas iniciativas son `Masakhane <https://www.masakhane.io/>`_ y `Turkic Interlingua <https://turkicinterlingua.org/>`_."
+msgstr "Contra la investigación de la PLN centrada en un puñado de idiomas, las comunidades de investigación de base se organizan para llevar los idiomas del mundo a la vanguardia de la tecnología. Dos ejemplos de estas iniciativas son `Masakhane <https://www.masakhane.io/>`_ y `Turkic Interlingua <https://turkicinterlingua.org/>`_."
 
 #: ../../5-Case 50849e1849ce477eaa2470228caa52ef studies.rst:72
 msgid "As defined in their web-page, \"Masakhane is a grassroots organisation whose mission is to strengthen and spur NLP research in African languages, for Africans, by Africans.\" It's an open-for-all initiative for \"building together\" as the meaning of their name suggests. Many concurrent activities take place by African and non-African researchers all over the world with the objective of representing the 2000 languages of Africa in language technology research. Some highlighting work from Masakhane are:"
-msgstr "Como se define en su página web, \"Masakhane es una organización de base cuya misión es fortalecer y estimular la investigación de PNL en idiomas africanos, para los africanos, por los africanos.\" Es una iniciativa abierta a todos para \"construir juntos\" como sugiere el significado de su nombre. Investigadores africanos y no africanos de todo el mundo llevan a cabo muchas actividades simultáneas con el objetivo de representar los 2000 idiomas de África en la investigación sobre tecnología lingüística. Algunos trabajos destacados de Masakhane son:"
+msgstr "Como se define en su página web, \"Masakhane es una organización de base cuya misión es fortalecer y estimular la investigación de PLN en idiomas africanos, para los africanos, por los africanos.\" Es una iniciativa abierta a todos para \"construir juntos\" como sugiere el significado de su nombre. Investigadores africanos y no africanos de todo el mundo llevan a cabo muchas actividades simultáneas con el objetivo de representar los 2000 idiomas de África en la investigación sobre tecnología lingüística. Algunos trabajos destacados de Masakhane son:"
 
 #: ../../5-Case 758d5c2ced51407abc4f9a72dd3aee81 studies.rst:74
 msgid "`Masakhane translator <http://translate.masakhane.io/>`_ supporting 6 African languages: Yoruba, Shona, Lingala, Swahili, Tshiluba"
@@ -165,7 +165,7 @@ msgstr "`MasakhaNER Conozca nuestros nombres <https://www.masakhane.io/ongoing-p
 
 #: ../../5-Case 337117bfa8e84cd4acb238dfcaa7a3bb studies.rst:80
 msgid "Masakhane also organizes annual workshops for publishing research related to African NLP and participates in data collection funds like `Lacuna <https://lacunafund.org/>`_."
-msgstr "Masakhane también organiza talleres anuales para publicar investigaciones relacionadas con la PNL africana y participa en fondos de recopilación de datos como `Lacuna <https://lacunafund.org/>`_."
+msgstr "Masakhane también organiza talleres anuales para publicar investigaciones relacionadas con la PLN africana y participa en fondos de recopilación de datos como `Lacuna <https://lacunafund.org/>`_."
 
 #: ../../5-Case 00f8feef8e9e40fa94021ce553793ade studies.rst:82
 msgid "**Turkic Interlingua (TIL)** is a \"community of researchers, engineers, language enthusiasts and community leaders whose mission is to develop language technologies (from spell checkers to translation models), collect diverse datasets, and explore linguistic phenomena through the lens of academic research for Turkic languages\" like Altai, Azerbaijani, Bashkir, Shor, Crimean Tatar, Chuvash, Gagauz, Karakalpak, Khakas, Kazakh, Karachay-Balkar, Kumyk, Kirghiz, Sakha (Yakut), Salar, Turkmen, Turkish, Tatar, Tuvinian, Uighur, Urum, and Uzbek."

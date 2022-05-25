@@ -73,7 +73,7 @@ msgid ""
 "sequences words in order to get an \"understanding\" for the language. "
 "Also, text corpora can be annotated with following information in order "
 "to create *labeled data* for different NLP tasks:"
-msgstr "Los corpus de texto por sí mismos son del tipo * datos sin etiquetar *. Es decir, son una mera recopilación de datos (en este caso texto) sin anotaciones ni etiquetado. Los modelos de lenguaje almacenan las probabilidades de secuencias de palabras para obtener una \"comprensión\" del lenguaje. Además, los corpus de texto se pueden anotar con la siguiente información para crear * datos etiquetados * para diferentes tareas de PNL:"
+msgstr "Los corpus de texto por sí mismos son del tipo * datos sin etiquetar *. Es decir, son una mera recopilación de datos (en este caso texto) sin anotaciones ni etiquetado. Los modelos de lenguaje almacenan las probabilidades de secuencias de palabras para obtener una \"comprensión\" del lenguaje. Además, los corpus de texto se pueden anotar con la siguiente información para crear * datos etiquetados * para diferentes tareas de PLN:"
 
 #: ../../4-Language data.rst:23 e44aaca65dde4016a4f5dc83eb30b75d
 msgid "**Part-of-speech** (Noun, verb, Adjective etc.)"

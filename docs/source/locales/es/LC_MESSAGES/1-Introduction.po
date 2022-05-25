@@ -78,7 +78,7 @@ msgstr "*Lingüista* que está interesado/a en recopilar datos para la investiga
 msgid ""
 "*Natural language processing (NLP) researcher* who is interested in "
 "augmenting data for their language of interest"
-msgstr "*Investigador/a de procesamiento de lenguaje natural (PNL)* que está interesado/a en aumentar los datos para su idioma de interés"
+msgstr "*Investigador/a de procesamiento de lenguaje natural (PLN)* que está interesado/a en aumentar los datos para su idioma de interés"
 
 #: ../../1-Introduction.rst:33 a71c9796fdea4c068f972dfabca62203
 msgid ""

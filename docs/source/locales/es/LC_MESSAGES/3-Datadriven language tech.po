@@ -46,7 +46,7 @@ msgid ""
 "The main motor behind these is the advancement of the field **Natural "
 "Language Processing (NLP)**. But what does NLP entail? Here's a list of "
 "core technologies that fall in the area of this field:"
-msgstr "El motor principal detrás de estos es el avance del campo **Procesamiento del Lenguaje Natural (PNL)**. Pero, ¿qué implica la PNL? Aquí hay una lista de tecnologías básicas que caen en el área de este campo:"
+msgstr "El motor principal detrás de estos es el avance del campo **Procesamiento del Lenguaje Natural (PLN)**. Pero, ¿qué implica la PLN? Aquí hay una lista de tecnologías básicas que caen en el área de este campo:"
 
 #: ../../3-Datadriven ddb0d2b51a864ef09f58afb770577287 language tech.rst:16
 msgid "Text-based:"
