@@ -4,498 +4,241 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-18 17:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-25 10:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../5-Case 1ce7f204208a4bb19d8ab0865508ba8b studies.rst:7
 msgid "Turkey and European Union flags"
-msgstr ""
+msgstr "Banderas de Turquía y de la Unión Europea"
 
 #: ../../5-Case b05b4e71bb37480b9e01b1418697233a studies.rst:7
 msgid "This project is funded by the European Union."
-msgstr ""
+msgstr "Este proyecto está financiado por la Unión Europea."
 
 #: ../../5-Case 0280835a7d3f4f70b3865d2a72a3b47b studies.rst:10
 msgid "Case studies"
-msgstr ""
+msgstr "Estudios de caso"
 
 #: ../../5-Case 32db5e25c9eb4aee9d5d397de3922637 studies.rst:12
-msgid ""
-"In this section, we list some language technology-related initiatives and"
-" works that we deem exemplary or inspiring for endangered and minority "
-"languages. We will start with describing the project which gave fruit to "
-"this document \"Judeo-Spanish: Connecting the two ends of the "
-"Mediterranean\" and continue with projects that involve Anatolian, "
-"Iberian and African languages."
-msgstr ""
+msgid "In this section, we list some language technology-related initiatives and works that we deem exemplary or inspiring for endangered and minority languages. We will start with describing the project which gave fruit to this document \"Judeo-Spanish: Connecting the two ends of the Mediterranean\" and continue with projects that involve Anatolian, Iberian and African languages."
+msgstr "En esta sección, enumeramos algunas iniciativas y trabajos relacionados con la tecnología del lenguaje que consideramos ejemplares o inspiradores para las lenguas en peligro y minoritarias. Comenzaremos describiendo el proyecto que dio fruto a este documento \"Judeo-Español: Conectando los dos extremos del Mediterráneo\" y continuaremos con proyectos que involucran las lenguas anatólica, ibérica y africana."
 
 #: ../../5-Case 9e8a0737b6d749b086191fe56f8ec648 studies.rst:15
 msgid "Judeo-Spanish: Connecting the two ends of the Mediterranean"
-msgstr ""
+msgstr "Judeoespañol: Conectando las dos orrillas del Mediterráneo"
 
 #: ../../5-Case 559cced8c9a64f00a9d24d740b38eedd studies.rst:17
-msgid ""
-"Col·lectivaT and Sephardic Centre of Istanbul have come together for this"
-" project to carry out a diverse set of activities ranging from social "
-"media content creation to development of advanced language technology "
-"that assist Judeo-Spanish (Ladino) to the digital age. It also aimed to "
-"form awareness on this language as a common heritage between Turkey and "
-"Spain."
-msgstr ""
+msgid "Col·lectivaT and Sephardic Centre of Istanbul have come together for this project to carry out a diverse set of activities ranging from social media content creation to development of advanced language technology that assist Judeo-Spanish (Ladino) to the digital age. It also aimed to form awareness on this language as a common heritage between Turkey and Spain."
+msgstr "Col·lectivaT y el Centro Sefardí de Estambul se han unido para llevar a cabo un conjunto diverso de actividades que van desde la creación de contenidos en redes sociales hasta el desarrollo de tecnología lingüística avanzada que ayuda al judeoespañol (ladino) hasta la era digital. También pretendía dar a conocer esta lengua como patrimonio común entre Turquía y España."
 
 #: ../../5-Case 25ee1454040044eeae0d0d47b53e3bd6 studies.rst:20
 msgid "Creation of audio-visual content for social media"
-msgstr ""
+msgstr "Creación de contenidos audiovisuales para redes sociales"
 
 #: ../../5-Case 7fb3368b86f04e6daee0a2e5ac96a623 studies.rst:22
-msgid ""
-"The project created short language learning videos that would help gain "
-"visibility in social-media platforms and attract young generations to "
-"learn Ladino. In these short videos, a Judeo-Spanish phrase is presented "
-"with its translation in Turkish, English and Spanish with an audio "
-"helping to learn its pronuciation."
-msgstr ""
+msgid "The project created short language learning videos that would help gain visibility in social-media platforms and attract young generations to learn Ladino. In these short videos, a Judeo-Spanish phrase is presented with its translation in Turkish, English and Spanish with an audio helping to learn its pronuciation."
+msgstr "El proyecto creó videos cortos de aprendizaje de idiomas que ayudarían a ganar visibilidad en las plataformas de redes sociales y atraerían a las generaciones jóvenes a aprender ladino. En estos videos cortos, se presenta una frase judeo-española con su traducción en turco, inglés y español con un audio que ayuda a aprender su pronuciación."
 
 #: ../../5-Case 1ce7f204208a4bb19d8ab0865508ba8b studies.rst:28
 msgid "Fraza del diya segments from SKAD's instagram page"
-msgstr ""
+msgstr "Segmentos de Fraza del dia de la página de instagram de SKAD"
 
 #: ../../5-Case 5398363658e245a9bbb9b6362e1cf535 studies.rst:28
-msgid ""
-"Promoting Ladino on SKAD's instagram page with Fraza del diya (One "
-"sentence a day) videos"
-msgstr ""
+msgid "Promoting Ladino on SKAD's instagram page with Fraza del diya (One sentence a day) videos"
+msgstr "Promoción de Ladino en la página de Instagram de SKAD con vídeos de Fraza del diya (Una frase al día)"
 
 #: ../../5-Case 11aa5ad494eb48adbf0e61af829f7462 studies.rst:31
 msgid "Ladino Data Hub and open language datasets"
-msgstr ""
+msgstr "Ladino Data Hub y conjuntos de datos abiertos de lenguaje"
 
 #: ../../5-Case 830a9e6ea23a48048b18580124cb2958 studies.rst:33
-msgid ""
-"The project launched `Ladino Data Hub <https://data.sefarad.com.tr/>`_ "
-"which will act as a centralized web archive dedicated to host Ladino "
-"language data and other resources that help document Sephardic culture. "
-"It aims to enable researchers, journalists from all over the world to "
-"access and share datasets that would help boost research and development "
-"for Ladino."
-msgstr ""
+msgid "The project launched `Ladino Data Hub <https://data.sefarad.com.tr/>`_ which will act as a centralized web archive dedicated to host Ladino language data and other resources that help document Sephardic culture. It aims to enable researchers, journalists from all over the world to access and share datasets that would help boost research and development for Ladino."
+msgstr "El proyecto lanzó `Ladino Data Hub <https://data.sefarad.com.tr/>`_ que actuará como un archivo web centralizado dedicado a alojar datos en idioma ladino y otros recursos que ayudan a documentar la cultura sefardí. Su objetivo es permitir a investigadores y periodistas de todo el mundo acceder y compartir conjuntos de datos que ayudarían a impulsar la investigación y el desarrollo de Ladino."
 
 #: ../../5-Case 8419fe9679c74d5bb2b4118729110c6b studies.rst:39
-msgid ""
-"Ladino data hub entry page with three of the datasets related to Ladino "
-"language"
-msgstr ""
+msgid "Ladino data hub entry page with three of the datasets related to Ladino language"
+msgstr "Página de entrada al centro de datos de Ladino con tres de los conjuntos de datos relacionados con el idioma ladino"
 
 #: ../../5-Case 8412f6a4fb9b4f86aeaa7ef586986610 studies.rst:39
 msgid "Ladino Data Hub hosts data related to Ladino and Sephardic culture"
-msgstr ""
+msgstr "Ladino Data Hub alberga datos relacionados con la cultura ladina y sefardí"
 
 #: ../../5-Case ead420582ede4ec1ae5e76ff251d09a3 studies.rst:41
-msgid ""
-"The project created and repackaged already existing datasets and shared "
-"in this portal. These are:"
-msgstr ""
+msgid "The project created and repackaged already existing datasets and shared in this portal. These are:"
+msgstr "El proyecto creó y reenvasó conjuntos de datos ya existentes y compartidos en este portal. Estos son:"
 
 #: ../../5-Case 062fd8ac3fa844a7879e8726a7cb246d studies.rst:43
-msgid ""
-"`A text corpus <https://data.sefarad.com.tr/dataset/salom-ladino-"
-"articles-text-corpus>`_ consisting of sentences crawled from `Şalom "
-"newspaper <https://www.salom.com.tr>`_."
-msgstr ""
+msgid "`A text corpus <https://data.sefarad.com.tr/dataset/salom-ladino-articles-text-corpus>`_ consisting of sentences crawled from `Şalom newspaper <https://www.salom.com.tr>`_."
+msgstr "`Un corpus de texto <https://data.sefarad.com.tr/dataset/salom-ladino-articles-text-corpus>`_ que consta de frases arrastradas desde el `periódico Şalom <https://www.salom.com.tr>`_."
 
 #: ../../5-Case 08fba5432eb54021ade1063780e15c71 studies.rst:44
-msgid ""
-"`A parallel text corpus with audio <https://data.sefarad.com.tr/dataset"
-"/una-fraza-al-diya-skad>`_ that contains Una Fraza al diya sentences and "
-"their audio"
-msgstr ""
+msgid "`A parallel text corpus with audio <https://data.sefarad.com.tr/dataset/una-fraza-al-diya-skad>`_ that contains Una Fraza al diya sentences and their audio"
+msgstr "`Un corpus de texto paralelo con audio <https://data.sefarad.com.tr/dataset/una-fraza-al-diya-skad>`_ que contiene frases de Una Fraza al diya y su audio"
 
 #: ../../5-Case 1d2959bdd86446d7a071595cd2a54dc3 studies.rst:45
-msgid ""
-"`Ladino speech corpus <https://data.sefarad.com.tr/dataset/ladino-"
-"speech>`_ created by SKAD"
-msgstr ""
+msgid "`Ladino speech corpus <https://data.sefarad.com.tr/dataset/ladino-speech>`_ created by SKAD"
+msgstr "`Ladino speech corpus <https://data.sefarad.com.tr/dataset/ladino-speech>`_ creado por SKAD"
 
 #: ../../5-Case fdbb3a6210044a8a9b4f9accf1a5423f studies.rst:46
-msgid ""
-"`Clean speech sythesis training dataset "
-"<https://data.sefarad.com.tr/dataset/tts-training-dataset>`_ consisting "
-"of read speech material by Karen Şarhon"
-msgstr ""
+msgid "`Clean speech sythesis training dataset <https://data.sefarad.com.tr/dataset/tts-training-dataset>`_ consisting of read speech material by Karen Şarhon"
+msgstr "`Conjunto de datos de entrenamiento de síntesis del habla limpia <https://data.sefarad.com.tr/dataset/tts-training-dataset>`_ consiste en material de habla leída por Karen Şarhon"
 
 #: ../../5-Case 2c0153cbb8494b7cbab89f3893c7c6c4 studies.rst:47
-msgid ""
-"`A Spanish Ladino lexicon <https://data.sefarad.com.tr/dataset/ladino-"
-"spanish-dictionary-files>`_ based on dictionary by Güler, Portal i Tinoco"
-msgstr ""
+msgid "`A Spanish Ladino lexicon <https://data.sefarad.com.tr/dataset/ladino-spanish-dictionary-files>`_ based on dictionary by Güler, Portal i Tinoco"
+msgstr "`Un léxico ladino español <https://data.sefarad.com.tr/dataset/ladino-spanish-dictionary-files>`_ basado en el diccionario de Güler, Portal i Tinoco"
 
 #: ../../5-Case 0322b8b70f384d3096b812a47b03639c studies.rst:48
-msgid ""
-"`Parallel texts in Ladino English and Turkish "
-"<https://data.sefarad.com.tr/dataset/skad-parallel>`_ from translations "
-"made within SKAD"
-msgstr ""
+msgid "`Parallel texts in Ladino English and Turkish <https://data.sefarad.com.tr/dataset/skad-parallel>`_ from translations made within SKAD"
+msgstr "`Textos paralelos en ladino, inglés y turco <https://data.sefarad.com.tr/dataset/skad-parallel>`_ a partir de las traducciones realizadad en SKAD"
 
 #: ../../5-Case 539a13e8aa234e669ec141c513431d5f studies.rst:49
-msgid ""
-"`Synthetically produced parallel corpus <https://data.sefarad.com.tr/>`_ "
-"for training baseline MT models"
-msgstr ""
+msgid "`Synthetically produced parallel corpus <https://data.sefarad.com.tr/>`_ for training baseline MT models"
+msgstr "`Corpus paralelo producido sintéticamente <https://data.sefarad.com.tr/>`_ para los modelos de MT de referencia de entrenamiento"
 
 #: ../../5-Case d379c32938a54146b63e6a8d3b40741e studies.rst:52
 msgid "Web application for machine translation and speech synthesis"
-msgstr ""
+msgstr "Aplicación web para traducción automática y síntesis de voz"
 
 #: ../../5-Case 2ec2ae13a65c44a882359a548fc052e7 studies.rst:54
-msgid ""
-"The final and most important output of the project is a web application "
-"that is able to translate between Ladino and three related languages "
-"Turkish, Spanish and English. The objective is to help language learners,"
-" researchers and linguists who want to study Judeo-Spanish. The machine "
-"translation back-end was built with the help of a `rule based machine "
-"translation system <https://github.com/CollectivaT-dev/Espanyol-Ladino-"
-"Translation>`_ that can convert from Spanish to Ladino, getting use of "
-"the similar syntax between languages but changing ortography and "
-"vocabulary with a set of rules derived from dictionaries and grammar "
-"books. The web app is also able to synthesize Ladino sentences with a TTS"
-" application which was built with the `TTS training dataset "
-"<https://data.sefarad.com.tr/dataset/tts-training-dataset>`_."
-msgstr ""
+msgid "The final and most important output of the project is a web application that is able to translate between Ladino and three related languages Turkish, Spanish and English. The objective is to help language learners, researchers and linguists who want to study Judeo-Spanish. The machine translation back-end was built with the help of a `rule based machine translation system <https://github.com/CollectivaT-dev/Espanyol-Ladino-Translation>`_ that can convert from Spanish to Ladino, getting use of the similar syntax between languages but changing ortography and vocabulary with a set of rules derived from dictionaries and grammar books. The web app is also able to synthesize Ladino sentences with a TTS application which was built with the `TTS training dataset <https://data.sefarad.com.tr/dataset/tts-training-dataset>`_."
+msgstr "El resultado final y más importante del proyecto es una aplicación web que es capaz de traducir entre ladino y tres idiomas relacionados turco, español e inglés. El objetivo es ayudar a los estudiantes de idiomas, investigadores y lingüistas que quieran estudiar judeo-español. El back-end de traducción automática se construyó con la ayuda de un `sistema de traducción automática basado en reglas <https://github.com/CollectivaT-dev/Espanyol-Ladino-Translation>`_ que puede convertir del español al ladino, utilizando la sintaxis similar entre idiomas pero cambiando la ortografía y el vocabulario con un conjunto de reglas derivadas de diccionarios y libros de gramática. La aplicación web también puede sintetizar oraciones ladinas con una aplicación TTS que se creó con el `conjunto de datos de capacitación TTS <https://data.sefarad.com.tr/dataset/tts-training-dataset>`_."
 
 #: ../../5-Case 51cb11b38ced450ba0dc79dc0b42647c studies.rst:60
-msgid ""
-"Ladino translation web app with speech synthesis translating the sentence"
-" \"Sara yemek pişirmeyi sevmez. Her zaman yemekleri yakar.\" to \"A Sara "
-"no le plaze gizar. Siempre kema la komida.\""
-msgstr ""
+msgid "Ladino translation web app with speech synthesis translating the sentence \"Sara yemek pişirmeyi sevmez. Her zaman yemekleri yakar.\" to \"A Sara no le plaze gizar. Siempre kema la komida.\""
+msgstr "Aplicación web de traducción Ladino con síntesis de voz traduciendo la frase \"Sara yemek pişirmeyi sevmez. Su zaman yemekleri yakar.\" a “A Sara no le plaze gizar. El agua kema la komida a vezes.”"
 
 #: ../../5-Case cb34de485cdd4206920ce22ef799ad80 studies.rst:60
 msgid "Ladino translation web app with speech synthesis"
-msgstr ""
+msgstr "Aplicación web de traducción ladina con síntesis de voz"
 
 #: ../../5-Case 43eb5fc9e3134daa9564d1ccd2756133 studies.rst:62
-msgid ""
-"The web application also allows contribution of parallel data. Users can "
-"load a random sentence and submit their corrected translation in order to"
-" extend the parallel data for Ladino."
-msgstr ""
+msgid "The web application also allows contribution of parallel data. Users can load a random sentence and submit their corrected translation in order to extend the parallel data for Ladino."
+msgstr "La aplicación web también permite la contribución de datos paralelos. Los usuarios pueden cargar una oración aleatoria y enviar su traducción corregida para extender los datos paralelos para Ladino."
 
 #: ../../5-Case f61dd4d843e3485ea49835f907b2ac38 studies.rst:65
-msgid ""
-"For a detailed technical report of this project, please refer the paper "
-"\"Preparing an Endangered Language for the Digital Age: The Case of "
-"Judeo-Spanish\" presented in the Workshop on Resources and Technologies "
-"for Indigenous, Endangered and Lesser-resourced Languages in Eurasia "
-"(`EURALI <https://sites.google.com/view/eurali/home?authuser=0>`_): *Link"
-" to be placed soon*"
-msgstr ""
+msgid "For a detailed technical report of this project, please refer the paper \"Preparing an Endangered Language for the Digital Age: The Case of Judeo-Spanish\" presented in the Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (`EURALI <https://sites.google.com/view/eurali/home?authuser=0>`_): *Link to be placed soon*"
+msgstr "Para obtener un informe técnico detallado de este proyecto, consulte el documento \"Preparando una Lengua en Peligro para la Era Digital: El Caso del Judeo-Español\" presentado en el Taller sobre Recursos y Tecnologías para las Lenguas Indígenas, en Peligro y de Menores Recursos en Eurasia (`EURALI <https://sites.google.com/view/eurali/home?authuser=0>`_): *Enlace que se colocará pronto*"
 
 #: ../../5-Case b461d506140a430880e0113a93437c0e studies.rst:68
 msgid "Grassroots NLP communities"
-msgstr ""
+msgstr "Comunidades de base PNL"
 
 #: ../../5-Case 223711c9f1ff4f51bd8fab55fc404fed studies.rst:70
-msgid ""
-"Against the NLP research focusing on a handful of languages, grassroots "
-"research communities organize together to bring the world's languages "
-"into the forefront of technology. Two examples of these initiatives are "
-"`Masakhane <https://www.masakhane.io/>`_ and `Turkic Interlingua "
-"<https://turkicinterlingua.org/>`_."
-msgstr ""
+msgid "Against the NLP research focusing on a handful of languages, grassroots research communities organize together to bring the world's languages into the forefront of technology. Two examples of these initiatives are `Masakhane <https://www.masakhane.io/>`_ and `Turkic Interlingua <https://turkicinterlingua.org/>`_."
+msgstr "Contra la investigación de la PNL centrada en un puñado de idiomas, las comunidades de investigación de base se organizan para llevar los idiomas del mundo a la vanguardia de la tecnología. Dos ejemplos de estas iniciativas son `Masakhane <https://www.masakhane.io/>`_ y `Turkic Interlingua <https://turkicinterlingua.org/>`_."
 
 #: ../../5-Case 50849e1849ce477eaa2470228caa52ef studies.rst:72
-msgid ""
-"As defined in their web-page, \"Masakhane is a grassroots organisation "
-"whose mission is to strengthen and spur NLP research in African "
-"languages, for Africans, by Africans.\" It's an open-for-all initiative "
-"for \"building together\" as the meaning of their name suggests. Many "
-"concurrent activities take place by African and non-African researchers "
-"all over the world with the objective of representing the 2000 languages "
-"of Africa in language technology research. Some highlighting work from "
-"Masakhane are:"
-msgstr ""
+msgid "As defined in their web-page, \"Masakhane is a grassroots organisation whose mission is to strengthen and spur NLP research in African languages, for Africans, by Africans.\" It's an open-for-all initiative for \"building together\" as the meaning of their name suggests. Many concurrent activities take place by African and non-African researchers all over the world with the objective of representing the 2000 languages of Africa in language technology research. Some highlighting work from Masakhane are:"
+msgstr "Como se define en su página web, \"Masakhane es una organización de base cuya misión es fortalecer y estimular la investigación de PNL en idiomas africanos, para los africanos, por los africanos.\" Es una iniciativa abierta a todos para \"construir juntos\" como sugiere el significado de su nombre. Investigadores africanos y no africanos de todo el mundo llevan a cabo muchas actividades simultáneas con el objetivo de representar los 2000 idiomas de África en la investigación sobre tecnología lingüística. Algunos trabajos destacados de Masakhane son:"
 
 #: ../../5-Case 758d5c2ced51407abc4f9a72dd3aee81 studies.rst:74
-msgid ""
-"`Masakhane translator <http://translate.masakhane.io/>`_ supporting 6 "
-"African languages: Yoruba, Shona, Lingala, Swahili, Tshiluba"
-msgstr ""
+msgid "`Masakhane translator <http://translate.masakhane.io/>`_ supporting 6 African languages: Yoruba, Shona, Lingala, Swahili, Tshiluba"
+msgstr "`Traductor Masakhane <http://translate.masakhane.io/>`_ apoyando 6 idiomas africanos: Yoruba, Shona, Lingala, Swahili, Tshiluba"
 
 #: ../../5-Case 33d5a2893d384d28b33a89aa60848125 studies.rst:75
-msgid ""
-"`Lanfrica <https://lanfrica.com/>`_ cataloguing African language "
-"resources to counter difficulties encountered in discovering African "
-"language works"
-msgstr ""
+msgid "`Lanfrica <https://lanfrica.com/>`_ cataloguing African language resources to counter difficulties encountered in discovering African language works"
+msgstr "`Lanfrica <https://lanfrica.com/>`_ catalogación de recursos lingüísticos africanos para contrarrestar las dificultades encontradas en el descubrimiento de obras lingüísticas africanas"
 
 #: ../../5-Case fb7c1c2f99ec4fb2a9d704d0d84c0021 studies.rst:76
-msgid ""
-"`BibleTTS <https://masakhane-io.github.io/bibleTTS/>`_ unlocking the "
-"development of high-quality Text-to-Speech models for ten languages "
-"spoken in Sub-Saharan Africa: Ewe, Hausa, Kikuyu, Lingala, Luganda, Luo, "
-"Chichewa, Akuapem Twi, Asante Twi, Yoruba."
-msgstr ""
+msgid "`BibleTTS <https://masakhane-io.github.io/bibleTTS/>`_ unlocking the development of high-quality Text-to-Speech models for ten languages spoken in Sub-Saharan Africa: Ewe, Hausa, Kikuyu, Lingala, Luganda, Luo, Chichewa, Akuapem Twi, Asante Twi, Yoruba."
+msgstr "`BibleTTS <https://masakhane-io.github.io/bibleTTS/>`_ desbloquear el desarrollo de modelos de texto a voz de alta calidad para diez idiomas hablados en el África subsahariana: ewe, hausa, kikuyu, lingala, luganda, luo, chichewa, akuapem twi, asante twi, yoruba."
 
 #: ../../5-Case 76cc2270219f495d9cc0780034069621 studies.rst:77
-msgid ""
-"`Machine translation for preserving Oshiwambo language and culture "
-"<https://openreview.net/forum?id=BFbg59zVUZc>`_"
-msgstr ""
+msgid "`Machine translation for preserving Oshiwambo language and culture <https://openreview.net/forum?id=BFbg59zVUZc>`_"
+msgstr "`Traducción automática para preservar el idioma y la cultura Oshiwambo <https://openreview.net/forum?id=BFbg59zVUZc>`_"
 
 #: ../../5-Case df4e2fb6b30145649ebd8a84839cf624 studies.rst:78
-msgid ""
-"`MasakhaNER Know our names <https://www.masakhane.io/ongoing-projects"
-"/masakhaner-know-our-names>`_ creating hand-crafted named entity "
-"recognition (NER) datasets for various African languages"
-msgstr ""
+msgid "`MasakhaNER Know our names <https://www.masakhane.io/ongoing-projects/masakhaner-know-our-names>`_ creating hand-crafted named entity recognition (NER) datasets for various African languages"
+msgstr "`MasakhaNER Conozca nuestros nombres <https://www.masakhane.io/ongoing-projects/masakhaner-know-our-names>`_ creando conjuntos de datos de reconocimiento de entidades con nombre (Ner) hechos a mano para varios idiomas africanos"
 
 #: ../../5-Case 337117bfa8e84cd4acb238dfcaa7a3bb studies.rst:80
-msgid ""
-"Masakhane also organizes annual workshops for publishing research related"
-" to African NLP and participates in data collection funds like `Lacuna "
-"<https://lacunafund.org/>`_."
-msgstr ""
+msgid "Masakhane also organizes annual workshops for publishing research related to African NLP and participates in data collection funds like `Lacuna <https://lacunafund.org/>`_."
+msgstr "Masakhane también organiza talleres anuales para publicar investigaciones relacionadas con la PNL africana y participa en fondos de recopilación de datos como `Lacuna <https://lacunafund.org/>`_."
 
 #: ../../5-Case 00f8feef8e9e40fa94021ce553793ade studies.rst:82
-msgid ""
-"**Turkic Interlingua (TIL)** is a \"community of researchers, engineers, "
-"language enthusiasts and community leaders whose mission is to develop "
-"language technologies (from spell checkers to translation models), "
-"collect diverse datasets, and explore linguistic phenomena through the "
-"lens of academic research for Turkic languages\" like Altai, Azerbaijani,"
-" Bashkir, Shor, Crimean Tatar, Chuvash, Gagauz, Karakalpak, Khakas, "
-"Kazakh, Karachay-Balkar, Kumyk, Kirghiz, Sakha (Yakut), Salar, Turkmen, "
-"Turkish, Tatar, Tuvinian, Uighur, Urum, and Uzbek."
-msgstr ""
+msgid "**Turkic Interlingua (TIL)** is a \"community of researchers, engineers, language enthusiasts and community leaders whose mission is to develop language technologies (from spell checkers to translation models), collect diverse datasets, and explore linguistic phenomena through the lens of academic research for Turkic languages\" like Altai, Azerbaijani, Bashkir, Shor, Crimean Tatar, Chuvash, Gagauz, Karakalpak, Khakas, Kazakh, Karachay-Balkar, Kumyk, Kirghiz, Sakha (Yakut), Salar, Turkmen, Turkish, Tatar, Tuvinian, Uighur, Urum, and Uzbek."
+msgstr "**Turkic Interlingua (TIL)** es una \"comunidad de investigadores, ingenieros, entusiastas del lenguaje y líderes comunitarios cuya misión es desarrollar tecnologías lingüísticas (desde correctores ortográficos hasta modelos de traducción), recopilar diversos conjuntos de datos y explorar fenómenos lingüísticos a través de la lente de la investigación académica para las lenguas túrquicas\" como Altai, Azerbaijani, Bashkir, Shor, Crimean Tatar, Chuvash, Gagauz, Karakalpak, Khakas, Kazakhstan, Karachay-Balkar, Kumyk, Kirghiz, Sakha (Yakut), Salar, Turkmen, Turkish, Tatar, Tuvinian, Uighur, Urum y Uzbek."
 
 #: ../../5-Case ce0ea50850c14cb394425a1b87a0f555 studies.rst:85
 msgid "Common Voice campaigns"
-msgstr ""
+msgstr "Campañas de Common Voice"
 
 #: ../../5-Case 3ba78839a7674dc0817a99e5ba7ac1fd studies.rst:87
-msgid ""
-"Various language communities have embarked on mobilizing participation "
-"into Common Voice. These initiatives are prepared by groups ranging from "
-"single individuals to local governments. Some examples are:"
-msgstr ""
+msgid "Various language communities have embarked on mobilizing participation into Common Voice. These initiatives are prepared by groups ranging from single individuals to local governments. Some examples are:"
+msgstr "Varias comunidades lingüísticas se han embarcado en la movilización de la participación en Common Voice. Estas iniciativas son preparadas por grupos que van desde individuos individuales hasta gobiernos locales. Algunos ejemplos son:"
 
 #: ../../5-Case 57f38059bd6a4b75b6b8f969c52c203d studies.rst:89
 msgid "`Common Voice Türkçe <https://twitter.com/CVTurkce>`_"
-msgstr ""
+msgstr "`Common Voice Türkçe <https://twitter.com/CVTurkce>`_"
 
 #: ../../5-Case 59c21e1b9f644305a5d69d583c29e14c studies.rst:90
 msgid "`Kurdish crowdsource <https://twitter.com/crowdsourckurdi>`_"
-msgstr ""
+msgstr "`Kurdish crowdsource <https://twitter.com/crowdsourckurdi>`_"
 
 #: ../../5-Case 80f3b0fb65ac441b8ed8c5b78ddd8844 studies.rst:91
 msgid "`Igwebuike community <https://www.igwebuikecommunity.org/>`_ for Igbo"
-msgstr ""
+msgstr "`Comunidad Igwebuike <https://www.igwebuikecommunity.org/>`_ para Igbo"
 
 #: ../../5-Case 80f3b0fb65ac441b8ed8c5b78ddd8844 studies.rst:92
 msgid "`Projecte AINA <https://www.projecteaina.cat/>`_ for Catalan"
-msgstr ""
+msgstr "`Proyecto AINA <https://www.projecteaina.cat/>`_ para catalán"
 
 #: ../../5-Case 5014a01fbc6f411e99f70c7304aca070 studies.rst:94
-msgid ""
-"We also would like to give a special mention to the Catalan community for"
-" their contribution to Common Voice. Being a stateless minority language "
-"in Spain, it's the 4th largest language (as of May 2022) in Common Voice "
-"thanks to the amazing contributions by activists and also a mobilization "
-"campaign by the `AI initiative of Catalan local government "
-"<https://www.projecteaina.cat/>`_."
-msgstr ""
+msgid "We also would like to give a special mention to the Catalan community for their contribution to Common Voice. Being a stateless minority language in Spain, it's the 4th largest language (as of May 2022) in Common Voice thanks to the amazing contributions by activists and also a mobilization campaign by the `AI initiative of Catalan local government <https://www.projecteaina.cat/>`_."
+msgstr "También nos gustaría hacer una mención especial a la comunidad catalana por su contribución a Common Voice. Siendo una lengua minoritaria apátrida en España, es la cuarta lengua más grande (a partir de mayo de 2022) en Common Voice gracias a las increíbles contribuciones de los activistas y también a una campaña de movilización por parte de la `iniciativa de IA del gobierno local catalán <https://www.projecteaina.cat/>`_."
 
 #: ../../5-Case 77cd6203f5044a05b7775460d37a15a4 studies.rst:101
-msgid ""
-"Billboard with \"It's time the Internet speaks Catalan\" being displayed "
-"on New York's Times Square"
-msgstr ""
+msgid "Billboard with \"It's time the Internet speaks Catalan\" being displayed on New York's Times Square"
+msgstr "Anuncio con \"Es hora de que Internet hable catalán\" que se exhibe en Times Square de Nueva York"
 
 #: ../../5-Case 6253f0169726419484d4348c6a8672d4 studies.rst:101
-msgid ""
-"Billboard with \"It's time the Internet speaks Catalan\" being displayed "
-"on New York's Times Square (photo by Aina Martí)"
-msgstr ""
+msgid "Billboard with \"It's time the Internet speaks Catalan\" being displayed on New York's Times Square (photo by Aina Martí)"
+msgstr "Cartelera con \"Es hora de que Internet hable catalán\" que se exhibe en Times Square de Nueva York (foto de Aina Martí)"
 
 #: ../../5-Case 2bf8981cdba74244b0c1ada2d8a95b6c studies.rst:104
 msgid "Other initiatives"
-msgstr ""
+msgstr "Otras iniciativas"
 
 #: ../../5-Case 5c201c29c6174befbbaf2362ff8c00e3 studies.rst:106
 msgid "Some other initiatives worth mentioning:"
-msgstr ""
+msgstr "Otras iniciativas:"
 
 #: ../../5-Case 4d2795e088964efa878e3833df6de001 studies.rst:108
-msgid ""
-"Col·lectivaT has created `open speech data and text corpora for Catalan "
-"<https://collectivat.cat/rap>`_ using public television broadcasts and "
-"parlimantary proceedings."
-msgstr ""
+msgid "Col·lectivaT has created `open speech data and text corpora for Catalan <https://collectivat.cat/rap>`_ using public television broadcasts and parlimantary proceedings."
+msgstr "Col·lectivaT ha creado `open speech data and text corpora for Catalan <https://collectivat.cat/rap>`_ utilizando emisiones de televisión pública y procedimientos parlimantarios."
 
 #: ../../5-Case 122b6082918f491aaaf7d865e6b669f2 studies.rst:109
-msgid ""
-"`Catotron <https://catotron.cat/>`_ is the first open-source, neural "
-"network-based speech synthesis engine for Catalan built with support from"
-" Department of Culture of Catalonia."
-msgstr ""
+msgid "`Catotron <https://catotron.cat/>`_ is the first open-source, neural network-based speech synthesis engine for Catalan built with support from Department of Culture of Catalonia."
+msgstr "`Catotron <https://catotron.cat/>`_ es el primer motor de síntesis de voz de código abierto basado en una red neuronal para catalán construido con el apoyo del Departamento de Cultura de Cataluña."
 
 #: ../../5-Case f43d8db8bd114ccb8a82b1fbf9311c2a studies.rst:110
-msgid ""
-"Cebuano and Waray-Waray, languages of Phillipines, has one of the biggest"
-" Wikipedia pages thanks to competitive usage of machine translation "
-"(`source <https://www.babbel.com/en/magazine/wikipedia-languages>`_)"
-msgstr ""
+msgid "Cebuano and Waray-Waray, languages of Phillipines, has one of the biggest Wikipedia pages thanks to competitive usage of machine translation (`source <https://www.babbel.com/en/magazine/wikipedia-languages>`_)"
+msgstr "Cebuano y Waray-Waray, idiomas de Filipinas, tiene una de las páginas de Wikipedia más grandes gracias al uso competitivo de la traducción automática (`source <https://www.babbel.com/en/magazine/wikipedia-languages>`_)"
 
 #: ../../5-Case f7f89ff0de2a4fc1916cdd0a2d77106b studies.rst:111
-msgid ""
-"Maori people have rejected both private and open-source initiatives for "
-"collecting voice data in their language in order to \"maintain the right "
-"to self-determination\" (`source <https://www.wired.co.uk/article/maori-"
-"language-tech>`_)"
-msgstr ""
+msgid "Maori people have rejected both private and open-source initiatives for collecting voice data in their language in order to \"maintain the right to self-determination\" (`source <https://www.wired.co.uk/article/maori-language-tech>`_)"
+msgstr "El pueblo maorí ha rechazado las iniciativas privadas y de código abierto para recopilar datos de voz en su idioma a fin de \"mantener el derecho a la libre determinación\" (`fuente <https://www.wired.co.uk/article/maori-language-tech>`_)"
 
 #: ../../5-Case b592f1a5b2f34f7b8e3cf843563cf8a7 studies.rst:112
 msgid "`A Manifesto for Open Language Technology <https://openlt.org/>`_"
-msgstr ""
+msgstr "`Un Manifiesto para la Tecnología del Lenguaje Abierto <https://openlt.org/>`_"
 
 #: ../../5-Case 16afc8b991f1450abee2708ca78bb928 studies.rst:113
-msgid ""
-"`ELLORA Enabling Low Resource Languages by Microsoft Research India "
-"<https://www.microsoft.com/en-us/research/project/ellora/>`_"
-msgstr ""
+msgid "`ELLORA Enabling Low Resource Languages by Microsoft Research India <https://www.microsoft.com/en-us/research/project/ellora/>`_"
+msgstr "`ELLORA habilitando idiomas de bajos recursos por Microsoft Research India <https://www.microsoft.com/en-us/research/project/ellora/>`_"
 
 #: ../../5-Case 0b996cb87ce6454d91e88ecea6236b6c studies.rst:120
-msgid ""
-"This document was created with the financial support of the European "
-"Union. The content of this website is the sole responsibility of "
-"Col·lectivaT and SKAD and does not necessarily reflect the views of the "
-"European Union."
-msgstr ""
-
-#~ msgid ""
-#~ "Intiatives: Kurdish crowdsource, masakhane, "
-#~ "turkic nlp, kabyle, catalan, BibleTTS "
-#~ "initiative, Ladino"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Cebuano wikipedia (2nd biggest wiki with"
-#~ " 6,1M articles) LSJbot, which machine-"
-#~ "translated huge numbers of articles "
-#~ "https://www.babbel.com/en/magazine/wikipedia-languages"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Catalan speech data 1. Collectivat found"
-#~ " data, 2. common voice initietiva"
-#~ msgstr ""
-
-#~ msgid "Ladino -> this project, EURALI paper"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In this section, we list some "
-#~ "language technology-related initiatives and"
-#~ " works that we deem exemplary or "
-#~ "inspiring for endangered and minority "
-#~ "languages. We will start with describing"
-#~ " the project which gave fruit to "
-#~ "this document \"Judeo-Spanish: Connecting "
-#~ "the two ends of the Mediterranean\" "
-#~ "and continue with projects that involve"
-#~ " Anatolian, Iberian, African languages."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Judeo-Spanish, also referred to as "
-#~ "Ladino or Judezmo, is a variant of"
-#~ " old Castilian Spanish from the 15th"
-#~ " century. It is the historical and"
-#~ " predominant language of the Sephardic "
-#~ "Jews, who were expelled from their "
-#~ "homes by the Spanish Inquisition (1492)"
-#~ " and welcomed into the Ottoman "
-#~ "Empire, as well as France, Italy, "
-#~ "the Netherlands, Morocco, and England. "
-#~ "It is a blend of all the "
-#~ "Iberian languages of the 15th century"
-#~ " with Castilian Spanish as the basis"
-#~ " for the new language that emerged"
-#~ " when the Spanish Jews arrived in "
-#~ "the Ottoman Empire. After 530 years, "
-#~ "Judeo-Spanish still survives as a "
-#~ "language of Ottoman Sephardic Jews in"
-#~ " more than 30 countries, with most"
-#~ " speakers residing in Israel. Although "
-#~ "it has survived and evolved over "
-#~ "the centuries, it is currently "
-#~ "classified as a severely endangered "
-#~ "language by `UNESCO "
-#~ "<http://www.unesco.org/culture/en/endangeredlanguages/atlas>`_."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Col·lectivaT and Sephardic Centre of "
-#~ "Istanbul have come together for this "
-#~ "project to carry out a diverse set"
-#~ " of activities ranging from social "
-#~ "media content creation to development of"
-#~ " advanced language technology that assist"
-#~ " Ladino to the digital age. It "
-#~ "also aimed to form awareness on "
-#~ "this language as a common heritage "
-#~ "between Turkey and Spain."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The project created short language "
-#~ "learning videos that would help gain "
-#~ "visibility in social-media platforms and"
-#~ " attract young generations to learn "
-#~ "Ladino. In these short videos, a "
-#~ "Judeo-Spanish phrase is presented with "
-#~ "its translation in Turkish, English and"
-#~ " Spanish with an audio helping learn"
-#~ " its pronuciation."
-#~ msgstr ""
-
-#~ msgid "Fraza al diya segments from SKAD's instagram page"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Promoting Ladino on SKAD's instagram "
-#~ "page with Fraza al diya (One "
-#~ "sentence a day) videos"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "As defined in their web-page, "
-#~ "\"Masakhane is a grassroots organisation "
-#~ "whose mission is to strengthen and "
-#~ "spur NLP research in African languages,"
-#~ " for Africans, by Africans.\" It's an"
-#~ " open-for-all initiative for "
-#~ "\"building together\" as the meaning of"
-#~ " their name says. Many concurrent "
-#~ "activities take place by African and "
-#~ "non-African researchers all over the "
-#~ "world with the objective of representing"
-#~ " the 2000 languages of Africa in "
-#~ "language technology research. Some "
-#~ "highlighting work from Masakhane are:"
-#~ msgstr ""
-
-#~ msgid "`Igwebuike community <https://www.igwebuikecommunity.org/>`_ for Igbo."
-#~ msgstr ""
-
+msgid "This document was created with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union."
+msgstr "Este documento fue creado con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD, y no refleja necesariamente las opiniones de la Unión Europea."

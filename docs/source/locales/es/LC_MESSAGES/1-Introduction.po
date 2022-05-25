@@ -14,21 +14,21 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../1-Introduction.rst:7 1802aea5f18c406d9747c0648067b3ac
 msgid "Turkey and European Union flags"
-msgstr ""
+msgstr "Banderas de Turquía y de la Unión Europea"
 
 #: ../../1-Introduction.rst:7 e58dab1aedef457eaad12f3a4bcbd8db
 msgid "This project is funded by the European Union."
-msgstr ""
+msgstr "Este proyecto está financiado por la Unión Europea."
 
 #: ../../1-Introduction.rst:10 551a9a9aa7424976ad784e54974f51c6
 msgid "Introduction"
-msgstr ""
+msgstr "Introducción"
 
 #: ../../1-Introduction.rst:21 46d29de4950347d483d06e99008f5c0e
 msgid ""
@@ -41,7 +41,7 @@ msgid ""
 " of such tools. Lack of state support, public visibility, societal and "
 "institutional oppression are direct causes of these languages being "
 "deprioritized in the digital spaces of today."
-msgstr ""
+msgstr "Actualmente existe una creciente brecha digital entre los idiomas que cuentan con suficientes recursos y los idiomas con menos recursos, lo que agrava aún más el peligro de extinción digital para ellos. Para la mayoría de los idiomas, el proceso de generar herramientas y recursos útiles es mucho más fácil debido a su gran presencia en la web. Sin embargo, muchos idiomas minoritarios no tienen suficientes recursos materiales ni humanos para impulsar la creación de esas herramientas. La falta de apoyo estatal, de la visibilidad pública, y de la opresión social e institucional son las causas directas de que estos idiomas no tengan prioridad en los actuales espacios digitales."
 
 #: ../../1-Introduction.rst:23 8ff5efc20ccc493e9463853b13529fd2
 msgid ""
@@ -52,43 +52,43 @@ msgid ""
 "are now important counterparts in creating human-machine interfaces. "
 "Also, these tools can help model the knowledge of dying languages and "
 "preserve them for future generations."
-msgstr ""
+msgstr "Los esfuerzos sobre la preservación de idiomas se centran principalmente en la documentación lingüística, la enseñanza y la construcción de comunidad. Un área que se pasa por alto es la creación de herramientas basadas en inteligencia artificial. Herramientas como la traducción automática, la síntesis de voz y el reconocimiento de voz son ahora importantes contrapartes en la creación de interfaces humano-máquina. Además, estas herramientas pueden ayudar a modelar el conocimiento de los idiomas en peligro de extinción, y preservarlos para las generaciones futuras."
 
 #: ../../1-Introduction.rst:26 e1202af4e5c44d6d95f24f9fbb5ff7bf
 msgid "Who is this document for?"
-msgstr ""
+msgstr "¿Para quién es este documento?"
 
 #: ../../1-Introduction.rst:28 90902623827a4bb983326b162d65da4b
 msgid "This document is for you if you are:"
-msgstr ""
+msgstr "Este documento es para ti si eres:"
 
 #: ../../1-Introduction.rst:30 9722f9771c834d4890fea8ebd6b901a3
 msgid ""
 "*Language activist* who's interested in extending tools and resources in "
 "their language"
-msgstr ""
+msgstr "*Activista lingüístico/a* que está interesado/a en ampliar herramientas y recursos en su idioma"
 
 #: ../../1-Introduction.rst:31 07d8e4f31a4f4b6ebed24ba66b609ac3
 msgid ""
 "*Linguist* who is interested in collecting data for research and building"
 " language technology"
-msgstr ""
+msgstr "*Lingüista* que está interesado/a en recopilar datos para la investigación y la construcción de tecnología lingüística"
 
 #: ../../1-Introduction.rst:32 791cbd5210a44d34990294dbcad43ca8
 msgid ""
 "*Natural language processing (NLP) researcher* who is interested in "
 "augmenting data for their language of interest"
-msgstr ""
+msgstr "*Investigador/a de procesamiento de lenguaje natural (PNL)* que está interesado/a en aumentar los datos para su idioma de interés"
 
 #: ../../1-Introduction.rst:33 a71c9796fdea4c068f972dfabca62203
 msgid ""
 "*Language activist allies* who want to support the revitalization of "
 "under-resourced languages"
-msgstr ""
+msgstr "*Aliados/as de activistas de idiomas* que quieren apoyar la revitalización de los idiomas con recursos insuficientes"
 
 #: ../../1-Introduction.rst:36 23e2e876eb2e479398bd25a9b4af47ea
 msgid "Can I contribute?"
-msgstr ""
+msgstr "¿Cómo puedo colaborar?"
 
 #: ../../1-Introduction.rst:38 d10871ffbe714923b27186de15130468
 msgid ""
@@ -98,17 +98,17 @@ msgid ""
 "contribution. It can range from correcting typos to adding a translation,"
 " detailing a section and explaining your case study. If you have doubts "
 "please feel free to write to us at info@collectivat.cat."
-msgstr ""
+msgstr "Este es un documento vivo con una licencia abierta (CC-BY). Su archivo fuente se comparte públicamente en https://github.com/CollectivaT-dev/language-toolkit, donde puedes extraer una versión para trabajar por tu cuenta, y luego enviar tu contribución. Puede variar desde corregir errores tipográficos hasta añadir una traducción, detallar una sección o explicar tu estudio de caso. Si tienes dudas no dudes en escribirnos a *info-arroba-collectivat.cat*."
 
 #: ../../1-Introduction.rst:41 2c34d2cabc1e400eb702111e921ffcb9
 msgid "Authors"
-msgstr ""
+msgstr "Autores"
 
 #: ../../1-Introduction.rst:43 50d4c7c5dd174327ab2b8e8e5f15f7da
 msgid ""
 "Alp Öktem - (`Web <http://alpoktem.github.io>`_, `Twitter "
 "<http://www.twitter.com/OktemAlp>`_)"
-msgstr ""
+msgstr "Alp Öktem - (`Web <http://alpoktem.github.io>`_, `Twitter <http://www.twitter.com/OktemAlp>`_)"
 
 #: ../../1-Introduction.rst:50 2ef4e767c2194188871b8579c9193b0c
 msgid ""
@@ -116,7 +116,7 @@ msgid ""
 "Union. The content of this website is the sole responsibility of "
 "Col·lectivaT and SKAD and does not necessarily reflect the views of the "
 "European Union."
-msgstr ""
+msgstr "Este documento fue creado con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD, y no refleja necesariamente las opiniones de la Unión Europea."
 
 #~ msgid ""
 #~ "In this document we cover the role"

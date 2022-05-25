@@ -14,21 +14,21 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../3-Datadriven 41f21645c48343efbba714ba4bf71551 language tech.rst:7
 msgid "Turkey and European Union flags"
-msgstr ""
+msgstr "Banderas de Turquía y de la Unión Europea"
 
 #: ../../3-Datadriven c7ce149455b0419b980fd85747b4e183 language tech.rst:7
 msgid "This project is funded by the European Union."
-msgstr ""
+msgstr "Este proyecto está financiado por la Unión Europea."
 
 #: ../../3-Datadriven 89cfd111c6c34e2f94a57bc0d17f1afb language tech.rst:10
 msgid "Data-driven language technologies"
-msgstr ""
+msgstr "Tecnologías del lenguaje basadas en datos"
 
 #: ../../3-Datadriven daa3532d04684774a5220980ded5a7cd language tech.rst:12
 msgid ""
@@ -39,60 +39,60 @@ msgid ""
 "possible to interact with our phones through digital assistants, "
 "translate websites and documents with a few clicks, increase "
 "accessibility of videos with automatic captioning etc."
-msgstr ""
+msgstr "La revolución digital está aquí con nosotros y la Inteligencia Artificial (IA) es un facilitador tecnológico clave. Ofrece una serie de nuevas oportunidades para derribar las barreras existentes al desarrollo humano y la inclusión social. Un área impulsada por la IA es la tecnología del lenguaje que permite interactuar con nuestros teléfonos a través de asistentes digitales, traducir sitios web y documentos con unos pocos clics, aumentar la accesibilidad de videos con subtítulos automáticos, etc."
 
 #: ../../3-Datadriven 07da296098cb4775a55bd64affb1b56f language tech.rst:14
 msgid ""
 "The main motor behind these is the advancement of the field **Natural "
 "Language Processing (NLP)**. But what does NLP entail? Here's a list of "
 "core technologies that fall in the area of this field:"
-msgstr ""
+msgstr "El motor principal detrás de estos es el avance del campo **Procesamiento del Lenguaje Natural (PNL)**. Pero, ¿qué implica la PNL? Aquí hay una lista de tecnologías básicas que caen en el área de este campo:"
 
 #: ../../3-Datadriven ddb0d2b51a864ef09f58afb770577287 language tech.rst:16
 msgid "Text-based:"
-msgstr ""
+msgstr "Basado en texto:"
 
 #: ../../3-Datadriven 4186fd61e84a4d34a47bf1e12672d548 language tech.rst:18
 #: tech.rst:44
 msgid "Machine translation"
-msgstr ""
+msgstr "Traducción automática"
 
 #: ../../3-Datadriven d68e3a29166b4a1dbc8e25f127169e17 language tech.rst:19
 msgid "Information retrieval"
-msgstr ""
+msgstr "Recuperación de información"
 
 #: ../../3-Datadriven 59dee0c1a3c24518acb192196c891e6d language tech.rst:20
 msgid "Information extraction"
-msgstr ""
+msgstr "Extracción de la información"
 
 #: ../../3-Datadriven cde1728063974d7dac6c44ef41bd7082 language tech.rst:21
 msgid "Sentiment analysis"
-msgstr ""
+msgstr "Análisis de sentimiento"
 
 #: ../../3-Datadriven 0e2bf5cabd41415aa1f8e567398eaae1 language tech.rst:22
 msgid "Question answering"
-msgstr ""
+msgstr "Responder a la pregunta"
 
 #: ../../3-Datadriven 73a5421ef203464e8613e6536c22de67 language tech.rst:23
 msgid "Text summarization"
-msgstr ""
+msgstr "Resumen de texto"
 
 #: ../../3-Datadriven 16be7f6d88d344369cb15e883ce49737 language tech.rst:24
 msgid "Named-entity recognition"
-msgstr ""
+msgstr "Reconocimiento de nombres de entidades"
 
 #: ../../3-Datadriven c13fcc6042344f04b5b2aef191a8e96b language tech.rst:26
 msgid "Speech-based:"
-msgstr ""
+msgstr "Basado en el habla:"
 
 #: ../../3-Datadriven 62a41a348b5b4a58a06448dd2060ad6d language tech.rst:28
 #: tech.rst:70
 msgid "Automatic speech recognition"
-msgstr ""
+msgstr "Reconocimiento automático del habla"
 
 #: ../../3-Datadriven 74f778b555a9450e9d778f93aeedc2f8 language tech.rst:29
 msgid "Text-to-speech synthesis"
-msgstr ""
+msgstr "Síntesis de texto a voz"
 
 #: ../../3-Datadriven e03b644c3b294d26a4c9b69c46e05a58 language tech.rst:31
 msgid ""
@@ -105,7 +105,7 @@ msgid ""
 "analyzer* learns how to label if a tweet says good or bad about a company"
 " from thousands of tweets labelled by humans as carrying a good or bad "
 "sentiment."
-msgstr ""
+msgstr "El aspecto revolucionario de estas tecnologías es que están *basadas en datos*, lo que significa que la inteligencia que se crea con estas herramientas se recopila a partir de grandes volúmenes de información, o simplemente *datos*. Por ejemplo, en el caso de la traducción automática, el motor \"modela\" la traducción de un idioma al otro mirando una colección de documentos y oraciones traducidos por humanos. Del mismo modo, un *análisis de los sentimientos* aprende a etiquetar si un tweet dice bueno o malo sobre una empresa a partir de miles de tweets etiquetados por los humanos como portadores de un sentimiento bueno o malo."
 
 #: ../../3-Datadriven a902d21c3b3f44f086a1c20fd0ef1f85 language tech.rst:33
 msgid ""
@@ -116,7 +116,7 @@ msgid ""
 "internet, and it is dominated by a few languages, these technologies tend"
 " to focus on only a handful of *dominant languages* e.g. English, "
 "Spanish, Chinese, Arabic etc."
-msgstr ""
+msgstr "Esta dependencia de los datos es lo que hace que estas tecnologías sean accesibles a algunos idiomas y no a los demás. Los recursos disponibles para un idioma influyen directamente en la posibilidad de desarrollar una aplicación para un idioma. Como el mayor recurso de datos textuales es Internet, y está dominado por unos cuantos idiomas, estas tecnologías tienden a centrarse solo en un puñado de *idiomas dominantes*, por ejemplo, inglés, español, chino, árabe, etc."
 
 #: ../../3-Datadriven 7055247b14094f58968f86785df28562 language tech.rst:35
 msgid ""
@@ -124,14 +124,14 @@ msgid ""
 "<https://www.microsoft.com/en-us/research/publication/ellora-enabling-"
 "low-resource-languages-with-technology/>`_ illustrates the hierarchy "
 "created by this \"power-law\" among languages."
-msgstr ""
+msgstr "El siguiente diagrama de `Microsoft Research Labs India <https://www.microsoft.com/en-us/research/publication/ellora-enabling-low-resource-languages-with-technology/>`_ ilustra la jerarquía creada por esta \"ley del poder\" entre los idiomas."
 
 #: ../../3-Datadriven ac9671caa70046bb8a87c14f725df037
 #: ebbd81f6cfc34295bc41b1fc4efcc0e3 language tech.rst:41
 msgid ""
 "Classification of languages according to the availability of language "
 "technology, tools and resources"
-msgstr ""
+msgstr "Clasificación de idiomas según la disponibilidad de tecnología, herramientas y recursos lingüísticos"
 
 #: ../../3-Datadriven 114896caea5c4aa2b617b2de11acd332 language tech.rst:46
 msgid ""
@@ -145,12 +145,12 @@ msgid ""
 "and target languages). The diagram below illustrates the modelling of "
 "translating the word \"sure\" in English to Spanish using translations "
 "made in the UN Parliament."
-msgstr ""
+msgstr "La traducción automática (MT) se define como la conversión automática de una secuencia de símbolos en un idioma a una secuencia de símbolos en otro idioma. Ha evolucionado a lo largo de los años, pasando de enfoques basados en normas a enfoques estadísticos, que modelaban las probabilidades de mapeo entre subfrases entre traducciones. Estas probabilidades se aprenden de manera estadística a partir de textos paralelos donde las traducciones alineadas con oraciones están disponibles en los idiomas involucrados (referidos como idiomas de origen y destino). El siguiente diagrama ilustra el modelado de la traducción de la palabra \"seguro\" en inglés a español utilizando traducciones hechas en el Parlamento de la ONU."
 
 #: ../../3-Datadriven 41f21645c48343efbba714ba4bf71551
 #: 817782b1ad564aa88db08387ee353748 language tech.rst:52
 msgid "Extracting statistics of translations from parallel data"
-msgstr ""
+msgstr "Extracción de estadísticas de traducciones de datos paralelos"
 
 #: ../../3-Datadriven 36d3c90fc892433186da268248451e08 language tech.rst:54
 msgid ""
@@ -161,11 +161,11 @@ msgid ""
 "field. This new way of modelling introduced in 2014 made 50% fewer word "
 "order mistakes, 17% fewer lexical mistakes, 19% fewer grammar mistakes "
 "compared to earlier models."
-msgstr ""
+msgstr "Los servicios de traducción automática como Google Translate y DeepL se han abierto camino en herramientas confiables para traductores y también gente regular en los últimos años. Esto se debe en gran parte al avance de las técnicas de *aprendizaje profundo* que revolucionaron el campo de la inteligencia artificial. Esta nueva forma de modelar introducida en 2014 cometió un 50% menos de errores de orden de palabras, un 17% menos de errores léxicos y un 19% menos de errores gramaticales en comparación con los modelos anteriores."
 
 #: ../../3-Datadriven 5e1f8e74ddc34cffb4acba7ac93e1164 language tech.rst:56
 msgid "The uses of machine translation are as follows:"
-msgstr ""
+msgstr "Los usos de la traducción automática son los siguientes:"
 
 #: ../../3-Datadriven bb70c0673fe64d0b95f5f6e47371bac3 language tech.rst:58
 msgid ""
@@ -173,26 +173,26 @@ msgid ""
 "use-case enables e.g. reading a news site or technical paper in a "
 "language that we don't understand. We know that it's not a 100% accurate "
 "translation, but it gives the gist to explore further more."
-msgstr ""
+msgstr "**Asimilación**, emulando un determinado documento en otro idioma. Este caso de uso permite, por ejemplo, leer un sitio de noticias o un documento técnico en un idioma que no entendemos. Sabemos que no es una traducción 100% precisa, pero da la esencia para explorar más."
 
 #: ../../3-Datadriven 64208f7b46564584ae67d318ab45cf42 language tech.rst:59
 msgid ""
 "**Communication**, enabling the communication between individuals and "
 "organizations e.g. in chat, tourism, e-commerce, lowering the need for a "
 "lingua franca."
-msgstr ""
+msgstr "**Comunicación**, que permite la comunicación entre individuos y organizaciones, por ejemplo, en chat, turismo, comercio electrónico, reduciendo la necesidad de una lingua franca."
 
 #: ../../3-Datadriven 2286641e3ac94b1d8780cfe686b5a312 language tech.rst:60
 msgid ""
 "**Monitoring**, enabling tracing of information in large-scale "
 "multilingual documents e.g. discovering international trends in Twitter."
-msgstr ""
+msgstr "**Monitoreo**, que permite el rastreo de información en documentos multilingües a gran escala, por ejemplo, descubriendo tendencias internacionales en Twitter."
 
 #: ../../3-Datadriven 39d04b3cee8c4e56830ba16cab6f483b language tech.rst:61
 msgid ""
 "**Assistance**, improving translation workflows e.g. computer-assisted "
 "translation, post-editing."
-msgstr ""
+msgstr "**Asistencia**, mejorando los flujos de trabajo de traducción, por ejemplo, traducción asistida por ordenador, posedición."
 
 #: ../../3-Datadriven 09acbc266dc1481197dd552c845640c2 language tech.rst:63
 msgid ""
@@ -203,7 +203,7 @@ msgid ""
 " like dictionaries and thesauri. They report that 76% of the students "
 "enrolled in a Spanish class use web-based MT tools like Google Translate "
 "during their studies."
-msgstr ""
+msgstr "La TA también se ha convertido en una herramienta esencial en el aprendizaje de idiomas. `Un trabajo reciente de Duke University <https://ojs.uv.es/index.php/attic/article/view/2228>`_ estudia su uso entre los estudiantes de idiomas de nivel universitario junto con otras herramientas clásicas como diccionarios y tesauros. Informan que el 76% de los estudiantes matriculados en una clase de español utilizan herramientas de MT basadas en la web como Google Translate durante sus estudios."
 
 #: ../../3-Datadriven adc842944d774631820e286170660696 language tech.rst:65
 msgid ""
@@ -223,14 +223,14 @@ msgid ""
 " and wordnets, which are expensive to create and which depend on the "
 "existence of morphological, syntactic, and semantic analyses of the "
 "language.\""
-msgstr ""
+msgstr "Finalmente, Bird y Chiang también han propuesto la traducción automática como una herramienta de documentación y preservación para idiomas en peligro de extinción en su documento `Traducción automática para la preservación del idioma <https://aclanthology.org/C12-2013/>`_. Citando directamente de su artículo: \"... cuando los textos originales se traducen a un idioma mundial importante, garantizamos que la documentación del idioma será interpretable incluso después de que el idioma haya caído fuera de uso. En segundo lugar, cuando un orador sobreviviente puede identificar errores en la salida de un sistema de TA, tenemos evidencia oportuna de aquellas áreas de gramática y léxico que necesitan una mejor cobertura mientras todavía hay tiempo para recopilar más. Estas tareas de producción y corrección de traducciones pueden ser realizadas por hablantes del idioma sin depender de la intervención de lingüistas externos. Además, eludimos la necesidad de recursos lingüísticos como bancos de árboles y redes de palabras, que son caros de crear y que dependen de la existencia de análisis morfológicos, sintácticos y semánticos de la lengua \"."
 
 #: ../../3-Datadriven b4b8ea42660048bdb0c975eeaeeae432 language tech.rst:67
 msgid ""
 "This innovative way of language documentation reduces the effort into "
 "translated sentence collection as MT development relies on this type of "
 "data. *(More on parallel data in the next section)*"
-msgstr ""
+msgstr "Esta forma innovadora de documentación del lenguaje reduce el esfuerzo en la recopilación de oraciones traducidas, ya que el desarrollo de MT se basa en este tipo de datos. *(Más información sobre los datos paralelos en la siguiente sección)*"
 
 #: ../../3-Datadriven 30bbb313eece4d649951f6034c4e4bec language tech.rst:72
 msgid ""
@@ -242,40 +242,40 @@ msgid ""
 "microphone is first encoded into a sequence of acoustic feature vectors. "
 "Following, the acoustic feature vectors are decoded into the words that "
 "represent the linguistic information that lies in the speech signal."
-msgstr ""
+msgstr "El reconocimiento automático de voz (ASR) es la conversión del habla en su forma acústica en una forma simbólica como palabras o letras. Es el modelado probabilístico de la pregunta \"¿Cuál es la secuencia de palabras más probable entre todas las secuencias de palabras posibles dada una entrada acústica?\". El siguiente diagrama ilustra este proceso. La señal de voz capturada por un micrófono se codifica primero en una secuencia de vectores de características acústicas. A continuación, los vectores de características acústicas se decodifican en las palabras que representan la información lingüística que se encuentra en la señal de voz."
 
 #: ../../3-Datadriven 841e2b222092495d959809dcc033c1a5 language tech.rst:79
 msgid ""
 "Automatic speech recognition is modelling the question ”What is the most "
 "probable word sequence among all possible word sequences given an "
 "acoustic input?”"
-msgstr ""
+msgstr "El reconocimiento automático de voz está modelando la pregunta \"¿Cuál es la secuencia de palabras más probable entre todas las secuencias de palabras posibles dada una entrada acústica?\""
 
 #: ../../3-Datadriven 31eefada05fb402c888969b52431430e language tech.rst:79
 msgid "A simple diagram of automatic speech recognition"
-msgstr ""
+msgstr "Un diagrama básico de reconocimiento automático de voz"
 
 #: ../../3-Datadriven 6e09b6d620094cd6af067088aed2ead9 language tech.rst:81
 msgid ""
 "Developing an automatic speech recognition system for a language is "
 "dependant on the following type of data:"
-msgstr ""
+msgstr "El desarrollo de un sistema automático de reconocimiento de voz para un idioma depende del siguiente tipo de datos:"
 
 #: ../../3-Datadriven f3894c19875f414687afe692374410c8 language tech.rst:83
 msgid ""
 "Collection of short speech audio recordings from many speakers and their "
 "text transcriptions"
-msgstr ""
+msgstr "Colección de grabaciones cortas de audio de voz de muchos locutores y sus transcripciones de texto"
 
 #: ../../3-Datadriven f4c0f8f59ed24463b020e1cd57d6ea77 language tech.rst:84
 msgid "A large text corpus"
-msgstr ""
+msgstr "Un gran corpus de texto"
 
 #: ../../3-Datadriven fcf64ca286eb4990a5a34bb60121878d language tech.rst:85
 msgid ""
 "Phonetic pronunciation dictionary (This is optional in more modern "
 "technologies)"
-msgstr ""
+msgstr "Diccionario de pronunciación fonética (opcional en tecnologías más modernas)"
 
 #: ../../3-Datadriven 9209cbe89a874bd0b010ede3e8d457e2 language tech.rst:87
 msgid ""
@@ -288,11 +288,11 @@ msgid ""
 "transcribed words from conversational speech. These developments have had"
 " great impact already as virtual assistants have become a cotidian "
 "application, voice search and automatic audio transcription."
-msgstr ""
+msgstr "La ASR ha progresado significativamente en la última década nuevamente gracias al advenimiento del aprendizaje profundo. En septiembre de 2017, Microsoft anunció `sus resultados <https://www.microsoft.com/en-us/research/publication/toward-human-parity-conversational-speech-recognition/>`_ para un sistema de reconocimiento de voz en inglés que podría lograr un rendimiento mejor que el humano en la transcripción del habla. Su sistema se basó en un conjunto de datos de 200 MILLONES de palabras transcritas del discurso conversacional. Estos desarrollos ya han tenido un gran impacto ya que los asistentes virtuales se han convertido en una aplicación cotidiana, búsqueda por voz y transcripción automática de audio."
 
 #: ../../3-Datadriven 5815bdeb6334497a8f4f8efa716ea275 language tech.rst:90
 msgid "Text-to-speech"
-msgstr ""
+msgstr "De texto a voz"
 
 #: ../../3-Datadriven 03bc4a36d3dc49c79ce75aea1ee1f926 language tech.rst:92
 msgid ""
@@ -306,7 +306,7 @@ msgid ""
 "procedure means a lack of naturalness. Parametric TTS relies on "
 "statistical methods by generating speech with a combination of parameters"
 " like F0 and energy, modelling the human speech production."
-msgstr ""
+msgstr "Texto a voz (o síntesis de voz) implica la producción de un discurso similar al humano dada una entrada de texto con un ordenador. Antes del advenimiento del aprendizaje profundo, había dos enfoques principales para la síntesis de texto a voz (TTS): TTS concatenativo y TTS paramétrico. Concatenative TTS, también llamada selección de unidades, combina cortos clips de audio pregrabados llamados unidades para sintetizar el texto deseado. Concatenative TTS puede proporcionar un buen rendimiento en términos de calidad del habla, pero el procedimiento de corte y puntada significa una falta de naturalidad. El TTS paramétrico se basa en métodos estadísticos mediante la generación de voz con una combinación de parámetros como F0 y energía, modelando la producción de voz humana."
 
 #: ../../3-Datadriven f5eaf4ad037242e8b57a0fce1da879e6 language tech.rst:94
 msgid ""
@@ -315,7 +315,7 @@ msgid ""
 "and the associated text transcriptions. In contrast to ASR training data,"
 " they are usually collected from a single speaker. The resulting TTS "
 "system is able to replicate the voice of this particular speaker."
-msgstr ""
+msgstr "Actualmente, la mayoría de los sistemas TTS modernos se basan en métodos de aprendizaje profundo. Las redes neuronales profundas se entrenan utilizando una gran cantidad de voz grabada y las transcripciones de texto asociadas. A diferencia de los datos de capacitación de ASR, generalmente se recopilan de un solo orador. El sistema TTS resultante es capaz de replicar la voz de este orador en particular."
 
 #: ../../3-Datadriven c50c20a2cf5643ba84e026edeaedbab5 language tech.rst:96
 msgid ""
@@ -324,7 +324,7 @@ msgid ""
 "technology can be linked to any written input in a variety of languages, "
 "e.g. automatic pronunciation of words from an online dictionary, reading "
 "aloud of a text, interface for a voice assistant etc."
-msgstr ""
+msgstr "TTS es importante para hacer que los ordenadores sean accesibles a las personas ciegas o con visión parcial, ya que les permite \"leer\" desde la pantalla. La tecnología TTS se puede vincular a cualquier entrada escrita en una variedad de idiomas, por ejemplo, pronunciación automática de palabras de un diccionario en línea, lectura en voz alta de un texto, interfaz para un asistente de voz, etc."
 
 #: ../../3-Datadriven 4f93de5464854bb186b1644b249f1531 language tech.rst:98
 msgid ""
@@ -333,7 +333,7 @@ msgid ""
 "speakers can study how a sentence is pronounced without assistance from a"
 " tutor. It is a permanent record of the language as it will persist even "
 "after the moment there are no speakers left for the language."
-msgstr ""
+msgstr "En el caso de lenguas en peligro y minoritarias, TTS puede ayudar al aprendizaje de idiomas y la documentación lingüística. Los estudiantes que no tienen acceso a oradores pueden estudiar cómo se pronuncia una oración sin la ayuda de un tutor. Es un registro permanente de la lengua, ya que persistirá incluso después del momento en que no queden hablantes para la lengua."
 
 #: ../../3-Datadriven 39636debb7e9494080a6d8f1c178da22 language tech.rst:108
 msgid ""
@@ -341,7 +341,7 @@ msgid ""
 "Union. The content of this website is the sole responsibility of "
 "Col·lectivaT and SKAD and does not necessarily reflect the views of the "
 "European Union."
-msgstr ""
+msgstr "Este documento fue creado con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD, y no refleja necesariamente las opiniones de la Unión Europea."
 
 #~ msgid ""
 #~ "The digital revolution is here with "

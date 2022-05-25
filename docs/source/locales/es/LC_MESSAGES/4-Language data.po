@@ -14,21 +14,21 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../4-Language 15780b77fedd4a7e82dffc59892d9ede data.rst:7
 msgid "Turkey and European Union flags"
-msgstr ""
+msgstr "Banderas de Turquía y de la Unión Europea"
 
 #: ../../4-Language 6f70e10e9c7943c8a18c77ceffaddaeb data.rst:7
 msgid "This project is funded by the European Union."
-msgstr ""
+msgstr "Este proyecto está financiado por la Unión Europea."
 
 #: ../../4-Language 99067e9e761149c9bb3cfcc70254b67c data.rst:10
 msgid "Language data"
-msgstr ""
+msgstr "Datos lingüísticos"
 
 #: ../../4-Language 834b6acdb6d54fc4a740b4e6f57f1988 data.rst:12
 msgid ""
@@ -37,7 +37,7 @@ msgid ""
 "\"classic\" language resources created to preserve languages like lexica,"
 " grammar documentation, language maps etc., these require less linguistic"
 " expertise but are usually only useful in large volumes."
-msgstr ""
+msgstr "Las herramientas de inteligencia artificial abren una nueva área para la creación de recursos lingüísticos para las lenguas minoritarias y en peligro de extinción. En comparación con los recursos lingüísticos \"clásicos\" creados para preservar idiomas como la léxica, la documentación gramatical, los mapas lingüísticos, etc., estos requieren menos conocimientos lingüísticos, pero por lo general solo son útiles en grandes volúmenes."
 
 #: ../../4-Language 9cf8aef8904147aeb3de58afcd5cc421 data.rst:14
 msgid ""
@@ -46,11 +46,11 @@ msgid ""
 "previous chapter. Also, we will cover some ways to collect them and get "
 "the most out of them even if they are not of large volumes usually "
 "required by these applications."
-msgstr ""
+msgstr "En esta sección explicaremos los tipos de datos que impulsan la creación de tecnología del lenguaje basada en inteligencia artificial explicada en el capítulo anterior. Además, cubriremos algunas formas de recopilarlos y obtener el máximo provecho de ellos, incluso si no son de grandes volúmenes que suelen requerir estas aplicaciones."
 
 #: ../../4-Language 6aec252d797b486791dfe4c951523920 data.rst:17
 msgid "Text corpus"
-msgstr ""
+msgstr "Corpus de texto"
 
 #: ../../4-Language 14eda9d8ca45495d8b3a64b0253b9830 data.rst:19
 msgid ""
@@ -63,7 +63,7 @@ msgid ""
 "language models that are used in applications such as optical character "
 "recognition, handwriting recognition, machine translation, spelling "
 "correction and assisted writing."
-msgstr ""
+msgstr "En lingüística, un corpus (corpus plural) o corpus de texto es un recurso lingüístico que consiste en un conjunto grande y estructurado de textos en un idioma en formato digital. Son útiles en lingüística de corpus para hacer análisis estadísticos y pruebas de hipótesis, verificar ocurrencias o validar reglas lingüísticas dentro de un territorio lingüístico específico. Para la tecnología del lenguaje, son una parte esencial en la creación de modelos de lenguaje estadísticos que se utilizan en aplicaciones como el reconocimiento óptico de caracteres, el reconocimiento de escritura a mano, la traducción automática, la corrección ortográfica y la escritura asistida."
 
 #: ../../4-Language 88da1c1eff2744f1897b0070e12beaae data.rst:21
 msgid ""
@@ -73,29 +73,29 @@ msgid ""
 "sequences words in order to get an \"understanding\" for the language. "
 "Also, text corpora can be annotated with following information in order "
 "to create *labeled data* for different NLP tasks:"
-msgstr ""
+msgstr "Los corpus de texto por sí mismos son del tipo * datos sin etiquetar *. Es decir, son una mera recopilación de datos (en este caso texto) sin anotaciones ni etiquetado. Los modelos de lenguaje almacenan las probabilidades de secuencias de palabras para obtener una \"comprensión\" del lenguaje. Además, los corpus de texto se pueden anotar con la siguiente información para crear * datos etiquetados * para diferentes tareas de PNL:"
 
 #: ../../4-Language data.rst:23 e44aaca65dde4016a4f5dc83eb30b75d
 msgid "**Part-of-speech** (Noun, verb, Adjective etc.)"
-msgstr ""
+msgstr "**Parte del discurso** (sustantivo, verbo, adjetivo, etc.)"
 
 #: ../../4-Language 0628e4c3eae342d8ae1cf38341e3e8d2 data.rst:24
 msgid ""
 "**Named entities** (Person, location, personally identifiable "
 "information, organization, time etc.)"
-msgstr ""
+msgstr "**Entidades nombradas** (Persona, ubicación, información de identificación personal, organización, hora, etc.)"
 
 #: ../../4-Language 2023135b544d4171b36338dd2ed30746 data.rst:25
 msgid "**Lemmas** (roots of the words e.g. break for broken)"
-msgstr ""
+msgstr "**Lemas** (raíces de las palabras, por ejemplo, venir por venga)"
 
 #: ../../4-Language 2d6bf01cc1774dc2a3da1092e2f3cabf data.rst:26
 msgid "**Dependency and phrase structure** (syntactic tree)"
-msgstr ""
+msgstr "**Estructura de dependencia y frase** (árbol sintáctico)"
 
 #: ../../4-Language a4806af56c004e7fa8871b9b2f895533 data.rst:29
 msgid "Sourcing text corpora"
-msgstr ""
+msgstr "Obtención de corpus de texto"
 
 #: ../../4-Language 0450fc7eebb649d0867df93b8264fc80 data.rst:31
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "Crawl <https://commoncrawl.org/>`_ initiative collects web site data and "
 "freely provides petabytes of data. OSCAR distributes this data classified"
 " into 166 languages."
-msgstr ""
+msgstr "La forma más común de obtener corpus de texto es a través de *rastreo* de la World Wide Web. Esta técnica analiza toda la web para recopilar texto en un idioma determinado o en muchos idiomas a la vez. Wikipedia `publica su contenido <https://en.wikipedia.org/wiki/Wikipedia:Database_download>`_ en diferentes idiomas que se pueden utilizar para crear corpus de texto. `Common Crawl <https://commoncrawl.org/>`_ initiative recopila datos del sitio web y proporciona libremente petabytes de datos. OSCAR distribuye estos datos clasificados en 166 idiomas."
 
 #: ../../4-Language d5f6c1117ac9431dbfe02cd7d270d2fd data.rst:33
 msgid ""
@@ -116,7 +116,7 @@ msgid ""
 " from the web containing 74 Million sentences and 984 Million words and "
 "is known to have powered many influential language models by big tech "
 "companies."
-msgstr ""
+msgstr "Otro recurso común utilizado por los idiomas ingeniosos son los libros. `BookCorpus <https://yknzhu.wixsite.com/mbweb>`_ consta de 11.038 libros de la web que contienen 74 millones de frases y 984 millones de palabras y se sabe que ha impulsado muchos modelos de lenguaje influyentes por las grandes empresas tecnológicas."
 
 #: ../../4-Language data.rst:36 fe67ef188cff4eb9bdbd93ed5ad9cacc
 msgid ""
@@ -126,11 +126,11 @@ msgid ""
 " For an analysis of potential risks of building language models out of "
 "big language corpora, refer to `this paper by Bender et al. "
 "<https://dl.acm.org/doi/abs/10.1145/3442188.3445922>`_"
-msgstr ""
+msgstr "Los modelos de lenguaje que se crean a partir de datos en la naturaleza representan lo que ven, y nada más. El lenguaje en la web y los libros también contienen sesgos, lenguaje tóxico que eventualmente se replica en estos modelos. Para un análisis de los riesgos potenciales de construir modelos de lenguaje a partir de grandes corpus de lenguaje, consulte `este artículo de Bender et al. <https://dl.acm.org/doi/abs/10.1145/3442188.3445922>`_"
 
 #: ../../4-Language 43cf5ce5a7104271b29eb21d0e086bc5 data.rst:39
 msgid "Parallel data (bitext)"
-msgstr ""
+msgstr "Datos paralelos (bitext)"
 
 #: ../../4-Language 97521e0ea7a247ae959ff754b6417058 data.rst:41
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 "sourced from translations in multilingual public spaces like United "
 "Nations, European Parliament. Now, the greatest resource of parallel text"
 " is the multilingual web."
-msgstr ""
+msgstr "El tipo de datos que se necesitan para construir un sistema de traducción automática son datos paralelos, que consisten en una colección de oraciones en un idioma junto con sus traducciones. Históricamente, los datos paralelos se obtuvieron de traducciones en espacios públicos multilingües como las Naciones Unidas y el Parlamento Europeo. Ahora, el mayor recurso de texto paralelo es la web multilingüe."
 
 #: ../../4-Language data.rst:43 f1316bf19ba145b19fe6f585f8757fea
 msgid ""
@@ -153,18 +153,18 @@ msgid ""
 "<https://github.com/danielvarga/hunalign>`_ helps in creating sentence "
 "alignments from translated documents. Translation memories (TMX files) "
 "also make great parallel data as they are already sentence segmented."
-msgstr ""
+msgstr "Con el fin de entrenar a los modelos de traducción automática no es suficiente sólo tener documentos traducidos. Los textos deben segmentarse en oraciones y alinearse. La alineación de texto paralelo es la identificación de las oraciones correspondientes a ambos lados del texto paralelo. Los documentos resultantes deben corresponder línea por línea o contener las oraciones originales y sus traducciones en la misma línea. `Hunalign <https://github.com/danielvarga/hunalign>`_ ayuda a crear alineaciones de oraciones a partir de documentos traducidos. Las memorias de traducción (archivos TMX) también hacen grandes datos paralelos, ya que ya están segmentados por oraciones."
 
 #: ../../4-Language 1f3b808ba5884f7ba8ef4816a326094d data.rst:46
 msgid "Sourcing parallel data"
-msgstr ""
+msgstr "Obtención de datos paralelos"
 
 #: ../../4-Language data.rst:48 e1a2835be47f4ec2a1884c7821a9cb4a
 msgid ""
 "`OPUS <https://opus.nlpl.eu/>`_ is a collection of almost all publicly "
 "available parallel data. It is the go-to point for many researchers to "
 "publish their parallel data or source data for development of MT models."
-msgstr ""
+msgstr "`OPUS <https://opus.nlpl.eu/>`_ es una recopilación de casi todos los datos paralelos disponibles públicamente. Es el punto de referencia para que muchos investigadores publiquen sus datos paralelos o datos de origen para el desarrollo de modelos de TA."
 
 #: ../../4-Language 2e8671421bd34891bc8a6c1fac2efa02 data.rst:50
 msgid ""
@@ -172,11 +172,11 @@ msgid ""
 " international news outlets), - Movie subtitles (see `OpenSubtitles "
 "<https://opus.nlpl.eu/OpenSubtitles.php>`_), - Holy texts, - Parliament "
 "proceedings, - Software localization data."
-msgstr ""
+msgstr "Algunas fuentes comunes de datos paralelos son: - sitios web multilingües (por ejemplo, medios de comunicación internacionales), - subtítulos de películas (véase `OpenSubtitles <https://opus.nlpl.eu/OpenSubtitles.php>`_), - textos sagrados, - procedimientos parlamentarios, - datos de localización de software."
 
 #: ../../4-Language 22709888aac34fd5bfee1f150439b7c9 data.rst:58
 msgid "Crowdsourcing parallel data with Tatoeba.org"
-msgstr ""
+msgstr "Crowdsourcing de datos paralelos con Tatoeba.org"
 
 #: ../../4-Language 151be0b5078547ff855f4dd5e90b24cf data.rst:60
 msgid ""
@@ -186,12 +186,12 @@ msgid ""
 "hosted by Tatoeba Association, a French non-profit organization funded "
 "through donations. It currently holds 10,397,308 sentences in 412 "
 "supported languages."
-msgstr ""
+msgstr "Tatoeba es una colección gratuita de oraciones de ejemplo con traducciones dirigidas a estudiantes de idiomas extranjeros. Está escrito y mantenido por una comunidad de voluntarios a través de un modelo de colaboración abierta. Está organizado por la Asociación Tatoeba, una organización francesa sin fines de lucro financiada mediante donaciones. Actualmente tiene 10.397.308 sentencias en 412 idiomas admitidos."
 
 #: ../../4-Language 0d34fb2e528f4083863ce412f0c9d2a5
 #: 15780b77fedd4a7e82dffc59892d9ede data.rst:66
 msgid "A sentence and its translations from Tatoeba"
-msgstr ""
+msgstr "Una frase y sus traducciones de Tatoeba"
 
 #: ../../4-Language data.rst:68 e3430e7e51374676af1cb809cc7486e4
 msgid ""
@@ -203,7 +203,7 @@ msgid ""
 "threads to facilitate feedback and corrections from other users and "
 "cultural notes. Sentences can be browsed by language, tag, and other "
 "criteria."
-msgstr ""
+msgstr "Los usuarios pueden buscar palabras en cualquier idioma para recuperar oraciones que las usen. Cada oración en la base de datos de Tatoeba se muestra junto a sus traducciones probables en otros idiomas; las traducciones directas e indirectas se diferencian. Las oraciones se etiquetan por contenido como tema, dialecto o vulgaridad; también tienen hilos de comentarios individuales para facilitar la retroalimentación y las correcciones de otros usuarios y notas culturales. Las oraciones se pueden examinar por idioma, etiqueta y otros criterios."
 
 #: ../../4-Language c4b8a81095d247d3b4df63c69a622a79 data.rst:70
 msgid ""
@@ -211,7 +211,7 @@ msgid ""
 " ones, even if their target language is not their native tongue. However,"
 " users are encouraged to add original sentences or translations in their "
 "native or strongest language."
-msgstr ""
+msgstr "Los usuarios registrados pueden añadir nuevas frases o traducir o corregir las existentes, incluso si su idioma de destino no es su lengua materna. Sin embargo, se anima a los usuarios a añadir oraciones originales o traducciones en su idioma nativo o más fuerte."
 
 #: ../../4-Language d10443269175434487dec1dc3e04fed5 data.rst:72
 msgid ""
@@ -219,11 +219,11 @@ msgid ""
 "Attribution 2.0 license. It is also very easy to download parts of "
 "corpora in monolingual or parallel format from its `downloads page "
 "<https://tatoeba.org/en/downloads>`_."
-msgstr ""
+msgstr "Toda la base de datos Tatoeba se publica bajo una licencia Creative Commons Atribución 2.0. También es muy fácil descargar partes de corpus en formato monolingüe o paralelo desde su `página de descargas <https://tatoeba.org/en/downloads>`_."
 
 #: ../../4-Language a60503f841464ee9b25f88ec628de7e6 data.rst:75
 msgid "Speech corpus"
-msgstr ""
+msgstr "Corpus del habla"
 
 #: ../../4-Language data.rst:77 efccae83894b42b2a44046ab153b4263
 msgid ""
@@ -231,7 +231,7 @@ msgid ""
 " with their text transcriptions. In speech technology, speech corpora are"
 " used to create acoustic models for tasks like automatic speech "
 "recognition, text-to-speech synthesis and also speaker identification."
-msgstr ""
+msgstr "Un corpus de voz es una colección de archivos de audio de voz que generalmente se acompañan con sus transcripciones de texto. En la tecnología del habla, los corpus del habla se utilizan para crear modelos acústicos para tareas como el reconocimiento automático de voz, la síntesis de texto a voz y también la identificación de altavoces."
 
 #: ../../4-Language 570642396e33453ca99ab1c89de5889d data.rst:79
 msgid ""
@@ -241,17 +241,17 @@ msgid ""
 "various acoustic settings (e.g. noisy, from far). In contrast, training "
 "data for TTS contains usually recordings from one speaker in an "
 "acoustically optimal setting."
-msgstr ""
+msgstr "Los corpus de habla pueden contener lectura (por ejemplo, audiolibros, noticias, números y palabras leídas) o habla espontánea (diálogos). El adequeato de corpus para los modelos ASR de entrenamiento contiene muestras de tantos altavoces como sea posible y en diversos entornos acústicos (por ejemplo, ruidoso, de lejos). Por el contrario, los datos de entrenamiento para TTS generalmente contienen grabaciones de un altavoz en un entorno acústicamente óptimo."
 
 #: ../../4-Language 2e0890b19898495287a8a682822067d6 data.rst:81
 msgid ""
 "`OpenSLR <https://www.openslr.org/resources.php>`_ lists many publicly "
 "available speech corpora."
-msgstr ""
+msgstr "`OpenSLR <https://www.openslr.org/resources.php>`_ lista muchos corpus de discursos disponibles públicamente."
 
 #: ../../4-Language 234a3cfbdc824f5eaefc6af368b33c65 data.rst:84
 msgid "Common Voice"
-msgstr ""
+msgstr "Common Voice"
 
 #: ../../4-Language data.rst:86 f081606c457d4d35b399a67e0fa4209f
 msgid ""
@@ -264,37 +264,37 @@ msgid ""
 "<https://en.wikipedia.org/wiki/Public_domain>`_). This license ensures "
 "that developers can use the database for voice-to-text applications "
 "without restrictions or costs."
-msgstr ""
+msgstr "`Common Voice <https://commonvoice.mozilla.org/>`_ es un proyecto de crowdsourcing iniciado por Mozilla para crear una base de datos gratuita para hacer que el reconocimiento de voz sea accesible para todos. El proyecto cuenta con el apoyo de voluntarios que registran oraciones de muestra con un micrófono y revisan las grabaciones de otros usuarios. Las muestras con voz se publican a intervalos regulares bajo la licencia de dominio público CC0 (`dominio público <https://en.wikipedia.org/wiki/Public_domain>`_). Esta licencia garantiza que los desarrolladores puedan utilizar la base de datos para aplicaciones de voz a texto sin restricciones ni costes."
 
 #: ../../4-Language d5aba99f758a405085f6d0e01c166b05 data.rst:89
 msgid ""
 "As of May 2022, Common Voice supports 63 languages with 68 new on the "
 "way. Check here the current list of languages: "
 "https://commonvoice.mozilla.org/en/languages."
-msgstr ""
+msgstr "A partir de mayo de 2022, Common Voice admite 63 idiomas con 68 nuevos en camino. Consulta aquí la lista actual de idiomas: https://commonvoice.mozilla.org/en/languages."
 
 #: ../../4-Language 0c7d20b5b38f4342b0a18667ded5bd6a
 #: 8f0365e4fc5447cda07193f0a71eff5f data.rst:95
 msgid "Recording a Kurmanji Kurdish sentence on Common Voice"
-msgstr ""
+msgstr "Grabación de una sentencia kurda Kurmanji en Common Voice"
 
 #: ../../4-Language 22709888aac34fd5bfee1f150439b7c9 data.rst:98
 msgid "Adding a language to Common Voice"
-msgstr ""
+msgstr "Añadir un idioma a Common Voice"
 
 #: ../../4-Language ca68854bc08c4b8482b056b5dcbad192 data.rst:100
 msgid ""
 "Common Voice works as a community platform where each language has their "
 "own community. The procedure for adding a new language into Common Voice "
 "is as follows:"
-msgstr ""
+msgstr "Common Voice funciona como una plataforma comunitaria donde cada idioma tiene su propia comunidad. El procedimiento para añadir un nuevo lenguaje en Common Voice es el siguiente:"
 
 #: ../../4-Language b943458b902f43a2950c391b1300dde0 data.rst:102
 msgid ""
 "**Find a community manager for the language** (`Information on roles "
 "<https://mozilla-l10n.github.io/localizer-"
 "documentation/community/l10n_community_roles.html>`_)"
-msgstr ""
+msgstr "**Encuentre un administrador de la comunidad para el idioma** (`Información sobre roles <https://mozilla-l10n.github.io/localizer-documentation/community/l10n_community_roles.html>`_)"
 
 #: ../../4-Language 0e571674ac0442ffba47bf3d997d60f0 data.rst:103
 msgid ""
@@ -303,7 +303,7 @@ msgid ""
 "voice/issues/new?assignees=phirework&labels=&template=language_request.md&title=LOCALIZATION+REQUEST%3A+>`_"
 " on their github page. This will start the localization process of Common"
 " Voice to the desired language by placing it on Pontoon."
-msgstr ""
+msgstr "**Solicitud de localización a Mozilla** Esto se hace utilizando `esta plantilla <https://github.com/common-voice/common-voice/issues/new?assignees=phirework&labels=&template=language_request.md&title=LOCALIZACIÓN+SOLICITUD%3A+>`_ en su página de github. Esto iniciará el proceso de localización de Common Voice al idioma deseado colocándolo en Pontoon."
 
 #: ../../4-Language d38339a1583648a19e616e44b29b4816 data.rst:104
 msgid ""
@@ -313,20 +313,20 @@ msgid ""
 "the style guide. In total there are 663 strings. Translations can be made"
 " by any speaker who registers to the platform, but they need to be "
 "reviewed by the community manager."
-msgstr ""
+msgstr "**Localización en Pontoon** (`manual de usuario <https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/index.html>`_) Cada cadena en la plataforma Common Voice necesita ser traducida al idioma respetando la guía de estilo. En total hay 663 cuerdas. Las traducciones pueden ser realizadas por cualquier orador que se registre en la plataforma, pero deben ser revisadas por el administrador de la comunidad."
 
 #: ../../4-Language 46c7d383349a416d9b308640cb6af3bc data.rst:105
 msgid ""
 "**Sentence collection** A minimum of 5000 public domain sentences needs "
 "to be collected and entered to `Common Voice sentence collector "
 "<https://commonvoice.mozilla.org/sentence-collector>`_."
-msgstr ""
+msgstr "**Recopilación de oraciones** Se debe recopilar un mínimo de 5000 oraciones de dominio público e ingresar a `Common Voice sentence Collector <https://commonvoice.mozilla.org/sentence-collector>`_."
 
 #: ../../4-Language a87029ca95f44c9f88f1cb67c999ee34 data.rst:106
 msgid ""
 "**Reviewing sentences** Each collected sentence needs to be reviewed "
 "manually by at least two users on sentence collector."
-msgstr ""
+msgstr "**Revisar frases** Cada frase recopilada debe ser revisada manualmente por al menos dos usuarios en el recopilador de oraciones."
 
 #: ../../4-Language c82d262f079f45c0b13fb52bd8b4f97a data.rst:107
 msgid ""
@@ -334,11 +334,11 @@ msgid ""
 "5000 reviewed sentences, next CV release should contain your language. "
 "Releases are done done twice a month with schedules listed on `their "
 "github repository <https://github.com/common-voice/common-voice>`_."
-msgstr ""
+msgstr "**Espere a la próxima versión del CV** Una vez que se complete la localización y haya 5000 oraciones revisadas, la próxima versión del CV debe contener su idioma. Los lanzamientos se realizan dos veces al mes con los horarios listados en `su repositorio de github <https://github.com/common-voice/common-voice>`_."
 
 #: ../../4-Language data.rst:110 ea8c0cbd7fa74a098a571f85857497d9
 msgid "Found data"
-msgstr ""
+msgstr "Datos encontrados"
 
 #: ../../4-Language 2d3f852c107e47648531d7eef7f333f4 data.rst:112
 msgid ""
@@ -348,29 +348,29 @@ msgid ""
 "builing voice technology but it is *repurposed* to do so. Found data "
 "requires to be processed in order to obtain short audio segments and "
 "their transcriptions."
-msgstr ""
+msgstr "También es posible obtener datos de voz de programas de radiodifusión, películas y otros materiales grabados, como entrevistas. Este tipo de datos se denomina \"datos encontrados\", ya que originalmente no está destinado a servir para construir tecnología de voz, sino que *se reutiliza* para hacerlo. Los datos encontrados requieren ser procesados para obtener segmentos de audio cortos y sus transcripciones."
 
 #: ../../4-Language 72339ee667744e619b6131cd61f55a32 data.rst:115
 msgid "Sources"
-msgstr ""
+msgstr "Fuentes"
 
 #: ../../4-Language data.rst:117 ed35f26f9b904467a5d2e7d5d86eb12e
 msgid "`Text corpus in Wikipedia <https://en.wikipedia.org/wiki/Text_corpus>`_"
-msgstr ""
+msgstr "`Corpus de texto en Wikipedia <https://en.wikipedia.org/wiki/Text_corpus>`_"
 
 #: ../../4-Language b01e347ff35c442ca7bb73fcb2eaeb41 data.rst:118
 msgid "`Tatoeba in Wikipedia <https://en.wikipedia.org/wiki/Tatoeba>`_"
-msgstr ""
+msgstr "`Tatoeba en Wikipedia <https://en.wikipedia.org/wiki/Tatoeba>`_"
 
 #: ../../4-Language 088158db66b44897aa18011efba2ae72 data.rst:119
 msgid ""
 "`Speech corpus in Wikipedia "
 "<https://en.wikipedia.org/wiki/Speech_corpus>`_"
-msgstr ""
+msgstr "`Speech corpus in Wikipedia <https://en.wikipedia.org/wiki/Speech_corpus>`_"
 
 #: ../../4-Language 8ec1a9bc80fb4eada74c2c63179eacd6 data.rst:120
 msgid "`Common Voice in Wikipedia <https://en.wikipedia.org/wiki/Common_Voice>`_"
-msgstr ""
+msgstr "`Common Voice en Wikipedia <https://en.wikipedia.org/wiki/Common_Voice>`_"
 
 #: ../../4-Language 00440dff25714964bb7c5cab7316fd4a data.rst:127
 msgid ""
@@ -378,7 +378,7 @@ msgid ""
 "Union. The content of this website is the sole responsibility of "
 "Col·lectivaT and SKAD and does not necessarily reflect the views of the "
 "European Union."
-msgstr ""
+msgstr "Este documento fue creado con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD, y no refleja necesariamente las opiniones de la Unión Europea."
 
 #~ msgid "AI opens up a new area for language resource creation."
 #~ msgstr ""
