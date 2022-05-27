@@ -4,19 +4,20 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-18 17:31+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-27 14:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../index.rst:23 15a77b3775f14da184da07a138991a67
 msgid "Contents"
@@ -31,25 +32,16 @@ msgid "This project is funded by the European Union."
 msgstr "Este proyecto está financiado por la Unión Europea."
 
 #: ../../index.rst:8 7c2686dcd349440aa4f5068f501bfe1e
-msgid "Toolkit for minority/low-resource languages"
-msgstr "Kit de herramientas para idiomas minoritarios/de bajos recursos"
+msgid "Toolkit for marginalized and under-resourced languages"
+msgstr "Kit de herramientas para idiomas minorizadas y de bajos recursos"
 
 #: ../../index.rst:10 e519605cb3964b5fadadcde0a9149d8b
-msgid ""
-"In this document we cover the role of technology, with a focus on "
-"artificial intelligence-based technology, on the preservation of "
-"endangered languages."
+msgid "In this document we cover the role of technology, with a focus on artificial intelligence-based technology, on the preservation of endangered languages."
 msgstr "En este documento cubrimos el papel de la tecnología, con un enfoque en la tecnología basada en la inteligencia artificial, en la preservación de lenguajes en peligro de extinción."
 
 #: ../../index.rst:12 ee50af9718a142ffbcf41f4684e57269
 msgid ""
-"This is a living document that was created as part of the project "
-"\"Judeo-Spanish: Connecting the two ends of the Mediterranean\" carried "
-"out by Col·lectivaT and Sephardic Center of Istanbul (SKAD) within the "
-"framework of the \"Grant Scheme for Common Cultural Heritage: "
-"Preservation and Dialogue between Turkey and the EU–II (CCH-II)\" "
-"implemented by the Ministry of Culture and Tourism of the Republic of "
-"Turkey with the financial support of the European Union."
+"This is a living document that was created as part of the project \"Judeo-Spanish: Connecting the two ends of the Mediterranean\" carried out by Col·lectivaT and Sephardic Center of Istanbul (SKAD) within the framework of the \"Grant Scheme for Common Cultural Heritage: Preservation and Dialogue between Turkey and the EU–II (CCH-II)\" implemented by the Ministry of Culture and Tourism of the Republic of Turkey with the financial support of the European Union."
 msgstr "Este es un documento vivo que fue creado como parte del proyecto \"Judeoespañol: Conectando las dos orrillas del Mediterráneo\" llevado a cabo por Col·lectivaT y el Centro Sefardí de Estambul (SKAD) en el marco del \"Programa de Subvenciones para el Patrimonio Cultural Común: Preservación y Diálogo entre Turquía y la UE-II (CCH-II)\" implementado por el Ministerio de Cultura y Turismo de la República de Turquía con el apoyo financiero de la Unión Europea."
 
 #: ../../index.rst:17 97c6d857e2cd46188658ffd1812130d5
@@ -57,15 +49,11 @@ msgid "This document is also available in Turkish and Spanish."
 msgstr "Este documento también está disponible en inglés y turco."
 
 #: ../../index.rst:19 9c724e41a3a54681b0243bc645734194
-msgid ""
-"`Bu doküman Türkçe de erişilebilir. <https://language-"
-"toolkit.readthedocs.io/tr/latest/>`_"
+msgid "`Bu doküman Türkçe de erişilebilir. <https://language-toolkit.readthedocs.io/tr/latest/>`_"
 msgstr "`Bu doküman Türkçe de erişilebilir. <https://language-toolkit.readthedocs.io/tr/latest/>`_"
 
 #: ../../index.rst:21 121eabe0f7db449eaff832087b8dbf6d
-msgid ""
-"`Este documento también está disponible en español. <https://language-"
-"toolkit.readthedocs.io/es/latest/>`_"
+msgid "`Este documento también está disponible en español. <https://language-toolkit.readthedocs.io/es/latest/>`_"
 msgstr "`Este documento también está disponible en español. <https://language-toolkit.readthedocs.io/es/latest/>`_"
 
 #: ../../index.rst:53 c95d1b345b9a48359e3f9bcb27822e6f
@@ -73,65 +61,9 @@ msgid "License"
 msgstr "Licencia"
 
 #: ../../index.rst:55 4f6430faf5ae459a980debb3fbab9768
-msgid ""
-"This document is licensed with `Attribution 4.0 International (CC BY 4.0)"
-" <https://creativecommons.org/licenses/by/4.0/>`_"
+msgid "This document is licensed with `Attribution 4.0 International (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>`_"
 msgstr "Este documento está licenciado con `Atribución 4.0 Internacional (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>`_"
 
 #: ../../index.rst:62 da7395ce2c694ad28fc4b25e78c4f422
-msgid ""
-"This document was created with the financial support of the European "
-"Union. The content of this website is the sole responsibility of "
-"Col·lectivaT and SKAD and does not necessarily reflect the views of the "
-"European Union."
+msgid "This document was created with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union."
 msgstr "Este documento fue creado con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD, y no refleja necesariamente las opiniones de la Unión Europea."
-
-#~ msgid "Contents:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In this document we cover the role"
-#~ " of technology, especially artificial "
-#~ "intelligence-based technology, on the "
-#~ "preservation of endangered languages. This "
-#~ "is a living document that was "
-#~ "created as part of the project "
-#~ "\"Judeo-Spanish: Connecting the two ends"
-#~ " of the Mediterranean\" carried out "
-#~ "by Col·lectivaT and Sephardic Center of"
-#~ " Istanbul (SKAD) within the framework "
-#~ "of the \"Grant Scheme for Common "
-#~ "Cultural Heritage: Preservation and Dialogue"
-#~ " between Turkey and the EU–II "
-#~ "(CCH-II)\" implemented by the Ministry "
-#~ "of Culture and Tourism of the "
-#~ "Republic of Turkey with the financial"
-#~ " support of the European Union."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The content of this website is the"
-#~ " sole responsibility of Col·lectivaT and"
-#~ " SKAD and does not necessarily "
-#~ "reflect the views of the European "
-#~ "Union."
-#~ msgstr ""
-
-#~ msgid "Indices and tables"
-#~ msgstr ""
-
-#~ msgid ":ref:`genindex`"
-#~ msgstr ""
-
-#~ msgid ":ref:`modindex`"
-#~ msgstr ""
-
-#~ msgid ":ref:`search`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`Este documento esta disponible en "
-#~ "castellano. <https://language-"
-#~ "toolkit.readthedocs.io/es/latest/>`_"
-#~ msgstr ""
-

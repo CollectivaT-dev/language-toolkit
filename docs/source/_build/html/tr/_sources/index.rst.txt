@@ -4,13 +4,12 @@
 
    This project is funded by the European Union.
 
-Toolkit for minority/low-resource languages
-===========================================
+Toolkit for marginalized and under-resourced languages
+======================================================
 
 In this document we cover the role of technology, with a focus on artificial intelligence-based technology, on the preservation of endangered languages. 
 
 This is a living document that was created as part of the project "Judeo-Spanish: Connecting the two ends of the Mediterranean" carried out by Col·lectivaT and Sephardic Center of Istanbul (SKAD) within the framework of the "Grant Scheme for Common Cultural Heritage: Preservation and Dialogue between Turkey and the EU–II (CCH-II)" implemented by the Ministry of Culture and Tourism of the Republic of Turkey with the financial support of the European Union. 
-
 
 .. note::
 
