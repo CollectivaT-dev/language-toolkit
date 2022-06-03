@@ -132,17 +132,8 @@ msgid "Online presence of a language"
 msgstr "Bir dilin çevrimiçi varlığı"
 
 #: ../../2-Digital age.rst:37 b0cdcd66ff2e463a99761268a7f165b7
-msgid ""
-"Traditionally, the responsibilities of a language activist has been actively "
-"speaking the language, passing it to younger generations, forming language "
-"learning and speaking communities, negotiating with public institutions for "
-"the inclusion of their language, collaborating with linguists for the "
-"documentation of their language and so on."
-msgstr ""
-"Geleneksel olarak, bir dil aktivistinin sorumlulukları, dili aktif olarak "
-"konuşmak, onu genç nesillere aktarmak, dil öğrenme ve konuşma toplulukları "
-"oluşturmak, dillerinin dahil edilmesi için kamu kurumlarıyla müzakere etmek, "
-"dillerinin belgelenmesi için dilbilimcilerle işbirliği yapmak vb. üzerinde."
+msgid "Traditionally, the responsibilities of a language activist has been actively speaking the language, passing it to younger generations, forming language learning and speaking communities, negotiating with public institutions for the inclusion of their language, collaborating with linguists for the documentation of their language and so on."
+msgstr "Geleneksel olarak, bir dil aktivistinin sorumlulukları, dili aktif olarak konuşmak, genç nesillere aktarmak, dil öğrenme ve konuşma toplulukları oluşturmak, dilinin dahil edilmesi için kamu kurumlarıyla müzakere etmek, dilinin dökümentasyonu için dilbilimcilerle işbirliği yapmak gibi sayılabilir."
 
 #: ../../2-Digital 08463d5d2bdd4723ba312ee65397e348 age.rst:39
 msgid ""
@@ -151,33 +142,27 @@ msgid ""
 "language:"
 msgstr ""
 "Günümüzde zorluk, dili sadece fiziksel dünyada değil, aynı zamanda çevrimiçi "
-"ortamda da canlı kılmaktır. Bir dilin hayatta kalmasıyla üç şekilde "
-"ilişkilidir:"
+"ortamda da canlı kılmaktır. Bu, bir dilin hayatta kalmasıyla iki şekilde "
+"ilintilidir:"
 
 #: ../../2-Digital 2f54dce3ba4f4c13975c4bfe345c0d96 age.rst:41
 msgid ""
 "Exchanges and visibility online strikes interest and helps engage existing and "
 "new language learners."
 msgstr ""
-"Değişimler ve çevrimiçi görünürlük ilgi çekiyor ve mevcut ve yeni dil "
-"öğrenenlerin katılımına yardımcı oluyor."
+"Karşılıklı bilgi alışverişi ve çevrimiçi görünürlük, bir dili öğrenmekte olan veya öğrenmeye yeni başlayan kişilerin ilgisini çeker ve bu ilginin sürmesini sağlar."
 
 #: ../../2-Digital 1fde250c59b147e18a67e2de894a35bb age.rst:42
 msgid ""
 "What's stored online in turn is a digital record for language which helps "
 "documentation and technology development."
 msgstr ""
-"Çevrimiçi olarak depolanan şey, dokümantasyona ve teknoloji geliştirmeye "
+"Çevrimiçi olarak depolanan şey, belgeleme ve teknoloji geliştirmeye "
 "yardımcı olan dijital bir dil kaydıdır."
 
 #: ../../2-Digital 8a99f2a8fe2248c6a73284cc011271a8 age.rst:44
-#, fuzzy
-msgid ""
-"Below, we will describe some ways the internet is becoming multilingual and "
-"plural while helping revive endangered languages."
-msgstr ""
-"Aşağıda, internetin çok dilli ve çoğul hale gelmesinin ve onları canlandırmaya "
-"yardımcı olmasının bazı yollarını açıklayacağız."
+msgid "Below, we will describe some ways the internet is becoming multilingual and plural while helping revive endangered languages."
+msgstr "Aşağıda, internetin hangi yollarla hem çok dilli ve çoğul hale gelip hem de yok olma tehlikesiyle karşı karşıya olan dillerin canlanmasına yardımcı olduğunu açıklayacağız."
 
 #: ../../2-Digital 6c4ddd307704489b981885b2cb6b37fe age.rst:47
 msgid "Access to knowledge"
@@ -190,12 +175,11 @@ msgid ""
 "of volunteers through an open collaboration and reviewing system."
 msgstr ""
 "Dilleri çevrimiçi hale getirme konusundaki en popüler girişimlerden biri "
-"Wikipedia’dır. Wikipedia, açık bir işbirliği ve inceleme sistemi aracılığıyla "
-"bir gönüllüler topluluğu tarafından yazılan ve sürdürülen bir çevrimiçi "
+"Wikipedia’dır. Wikipedia, açık bir ortaklaşa çalışma ve gözden geçirme sistemi aracılığıyla "
+"bir gönüllüler topluluğu tarafından yazılan ve sürdürülen açık ve özgür bir çevrimiçi "
 "ansiklopedidir."
 
 #: ../../2-Digital 50695551331b418c92aca91572122815 age.rst:51
-#, fuzzy
 msgid ""
 "Wikipedia's broad aim is to democratize access to knowledge. Naturally, the "
 "culture built around this ethos goes hand in hand with multilinguality. "
@@ -203,9 +187,9 @@ msgid ""
 "languages. We can probably say that it's the most language diverse platform on "
 "the internet with 326 languages (as of 03.05.22) and counting up."
 msgstr ""
-"Wikipedia’nın geniş amacı bilgiye erişimi demokratikleştirmektir. Doğal "
-"olarak, bu ethos etrafında inşa edilen kültür, çok dillilik ile el ele gider. "
-"Sadece İngilizce ile başlamasına rağmen, hızla dünyanın birçok diline yayıldı."
+"Wikipedia'nın geniş amacı bilgiye erişimi demokratikleştirmektir. Doğal "
+"olarak, bu ethos etrafında inşa edilen kültür, çok dillilik ile paralel gider. "
+"Sadece İngilizce ile başlamasına rağmen, hızla dünyanın birçok diline yayılmıştır. 326 farklı dilde bulunan (03.05.22 itibariyle) ve dil sayısı gittikçe artan Wikipedia'nın, dil açısından internetteki en çeşitli platform olduğunu söylemek büyük ihtimalle yanlış bir ifade olmaz."
 
 #: ../../2-Digital age.rst:55 cc34bd9c65af4f52bd4bafe3eb23088c
 msgid ""
@@ -214,41 +198,33 @@ msgid ""
 "which illustrates Catalan language's important online presence despite being a "
 "minority language. Catalan wikipedia is currently the 20th largest Wikipedia."
 msgstr ""
-"İngilizce olmayan bir Vikipedi’de ilk düzenleme 16 Mart 2001’de Katalanca’da "
-"yapıldı. Bugün, Katalan dilinin azınlık dili olmasına rağmen önemli çevrimiçi "
-"varlığını gösteren çok sayıda kaliteli makalesi (20. en büyük wikipedia) ile "
-"en çok dikkate değerdir. . (https://en.wikipedia.org/wiki/Catalan_Wikipedia)"
+"İlk İngilizce olmayan bir dilde Wikipedia düzenlemesi 16 Mart 2001’de Katalanca yapıldı."
+"Bugün, azınlık dili olmasına rağmen çok sayıda kaliteli makaleyle büyük bir çevrimiçi varlık gösteren Katalanca Wikipedia'nın 20. en büyük wikipedia olması  dikkate değerdir. (https://en.wikipedia.org/wiki/Catalan_Wikipedia)"
 
 #: ../../2-Digital 2c369328afc44fb39532e8e1a1a9fbd8 age.rst:62
 msgid "Relative sizes of different wikipedias"
-msgstr "Farklı wikipedia’ların göreli boyutları"
+msgstr "Farklı Wikipedia’ların birbirilerine göre hacimleri"
 
 #: ../../2-Digital ae5e5850936a4ddda16982bb22824608 age.rst:62
-#, fuzzy
 msgid ""
-"Relative sizes of different wikipedias (`source <https://meta.wikimedia.org/"
-"wiki/List_of_Wikipedias>`_)"
-msgstr "`Wikipedia’da Unicode <https://en.wikipedia.org/wiki/Unicode>`_"
+"Relative sizes of different wikipedias (`source <https://meta.wikimedia.org/wiki/List_of_Wikipedias>`_)"
+msgstr "Farklı Wikipedia’ların birbirilerine göre hacimleri (`kaynak <https://meta.wikimedia.org/wiki/List_of_Wikipedias>`_)"
 
 #: ../../2-Digital 4f06f6fc128641a082233ddc6a0748d7 age.rst:64
-#, fuzzy
 msgid ""
 "Making a new language available in Wikipedia is no easy task (as explained "
 "`here <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_), "
 "but it is definitely a great way to make knowledge accessible online and build "
 "a virtual community around it."
 msgstr ""
-"Vikipedi’de yeni bir dili kullanıma sunmak kolay bir iş değildir (bkz. https://"
-"meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia), ancak bilgiyi "
-"çevrimiçi ortamda erişilebilir kılmak ve onun etrafında sanal bir topluluk "
-"oluşturmak için kesinlikle harika bir yoldur."
+"Wikipedia’da yeni bir dili kullanıma sunmak kolay bir iş değil (`bkz. <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_)."
+"Ancak bilgiyi çevrimiçi ortamda erişilebilir kılmak ve onun etrafında sanal bir topluluk oluşturmak için kesinlikle harika bir yoldur."
 
 #: ../../2-Digital age.rst:67 e0235358c88f4273a140e25f42dfe298
 msgid "Immersion into language"
-msgstr "Dile daldırma"
+msgstr "Dilde yoğun pratik"
 
 #: ../../2-Digital 236c336da5584f818cd97badbf033e63 age.rst:69
-#, fuzzy
 msgid ""
 "One great example of a language revitalization with the help of technology is "
 "Yiddish. After the holocaust, the number of Yiddish speakers decreased "
