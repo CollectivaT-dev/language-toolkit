@@ -244,7 +244,7 @@ msgstr "Dil dökümantasyon projeleri"
 
 #: ../../2-Digital age.rst:76 dacf80667d384be2abaefd0deafe21fe
 msgid "The rapid loss of languages in the last century has powered many initiatives for language documentation and revitalization. One of these initiatives is The Endangered Languages Project (https://www.endangeredlanguages.com/) which is a web-based platform that acts as a collaborative hub of language enthusiasts, linguists and industry partners to help strengthen endangered languages. Users of the website act as contributors by uploading language samples in text, audio, link or video format using a unique geotagging system that allows for easy searchability."
-msgstr "Geçen yüzyılda dillerin hızla kaybolması, dil belgeleme ve canlandırma için çalışan birçok girişimi güçlendirdi. Bu girişimlerden biri, yok olma tehlikesiyle karşı karşıya olan dilleri güçlendirmeye yardımcı olmak için, dil meraklıları, dilbilimciler ve endüstri ortaklarından oluşan bir işbirliği merkezi olarak hareket eden web tabanlı platform `*The Endangered Languages Project*’tir <https://www.endangeredlanguages.com/>`_. Web sitesinin kullanıcıları, kolay aramayı mümkün kılan özgün bir coğrafi etiketleme sistemi kullanarak dil örneklerini metin, ses, bağlantı veya video formatında yükleyerek katkıda bulunabilirler."
+msgstr "Geçen yüzyılda dillerin hızla kaybolması, dil belgeleme ve canlandırma için çalışan birçok girişimi güçlendirdi. Bu girişimlerden biri, yok olma tehlikesiyle karşı karşıya olan dilleri güçlendirmeye yardımcı olmak için, dil meraklıları, dilbilimciler ve endüstri ortaklarından oluşan bir işbirliği merkezi olarak hareket eden web tabanlı platform `The Endangered Languages Project’tir <https://www.endangeredlanguages.com/>`_. Web sitesinin kullanıcıları, kolay aramayı mümkün kılan özgün bir coğrafi etiketleme sistemi kullanarak dil örneklerini metin, ses, bağlantı veya video formatında yükleyerek katkıda bulunabilirler."
 
 #: ../../2-Digital 396fc97a096a4a46909564dabaa92d02 age.rst:82
 #: efaede017d544f3f995739a038dd7066
@@ -307,18 +307,12 @@ msgstr ""
 "kontrol ve biçimlendirme kodlarını kapsayan 144.697 karakteri tanımlar."
 
 #: ../../2-Digital age.rst:102 d986df906d5e4a7faaf1464ca3835a50
-#, fuzzy
 msgid ""
 "You can check if your language is supported by a font by going to `Google Noto "
 "<https://fonts.google.com/noto/>`_ and searching among fonts that represent "
 "more than 500 writing systems. If it is not there, you can create your own "
 "with the help from a font designer and install it manually on your computer."
-msgstr ""
-"Google Noto’ya (https://fonts.google.com/noto/) giderek ve 500’den fazla yazı "
-"sistemini temsil eden yazı tipleri arasında arama yaparak dilinizin bir yazı "
-"tipi tarafından desteklenip desteklenmediğini kontrol edebilirsiniz. Orada "
-"değilse, bir yazı tipi tasarımcısının yardımıyla kendinizinkini oluşturabilir "
-"ve bilgisayarınıza manuel olarak yükleyebilirsiniz."
+msgstr "Google Noto’ya (https://fonts.google.com/noto/) giderek ve 500’den fazla yazı sistemini temsil eden yazı tipleri arasında arama yaparak dilinizin bir yazı tipi tarafından desteklenip desteklenmediğini kontrol edebilirsiniz. Orada değilse, bir yazı tipi tasarımcısının yardımıyla kendinizinkini oluşturabilir ve bilgisayarınıza manuel olarak yükleyebilirsiniz."
 
 #: ../../2-Digital 8dd39986954e42b4853a9c69e290b5ee age.rst:109
 #: ff8447510ae243adb09bfde788e35a06
@@ -327,10 +321,9 @@ msgstr "Google Fonts’ta Berberi Tifinagh alfabesi"
 
 #: ../../2-Digital age.rst:112 faf485a936b246638bc3b9c2a68802c7
 msgid "Keyboard"
-msgstr "Tuş takımı"
+msgstr "Tuş takımı-Klavye"
 
 #: ../../2-Digital 47c4429b26444288bf1782004b70e4d4 age.rst:114
-#, fuzzy
 msgid ""
 "Until the day we will be speaking naturally with computers, the most common "
 "interface for interacting with them will be the keyboard. It is a technology "
@@ -344,29 +337,13 @@ msgid ""
 "<https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_ consisting of latin "
 "characters and numerals to account for the lack of Arabic script support in "
 "early mobile and web technology."
-msgstr ""
-"Bilgisayarlarla doğal olarak konuşacağımız güne kadar, onlarla etkileşimde "
-"bulunmak için en temel arayüz klavye olacaktır. Dünyanın birçok dili için "
-"kolayca kabul edilen bir teknolojidir, ancak ne yazık ki dünyanın tüm yazı "
-"sistemlerinde mevcut değildir. Bir klavye yoksa veya bir dil için yeterince "
-"gelişmemişse, konuşmacıları iletişim kurmak için diğer alfabeleri ve hatta "
-"dilleri tercih etme eğilimindedir. Örneğin, Amharca, Tigrinya ve Oromo gibi "
-"Etiyopya dillerini konuşanlar, akıllı telefonlarında önceden yüklü olmayan "
-"Ge’ez komut dosyası olarak İngilizce kullanmaya geçerler. Birçok ülkedeki genç "
-"arapça konuşanlar, erken mobil cihazlarda Arap alfabesi desteğinin eksikliğini "
-"açıklamak için latin karakterlerden ve rakamlardan oluşan kendi sohbet "
-"alfabesi `Arabizi <https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_ icat "
-"ettiler. ve web teknolojisi."
+msgstr "Bilgisayarlarla doğal olarak konuşacağımız güne kadar, onlarla etkileşimde bulunmak için en temel arayüz klavye olacaktır. Dünyanın birçok dili için kolayca kabul edilen bir teknolojidir, ancak ne yazık ki dünyanın tüm yazı sistemlerinde mevcut değildir. Bir klavye yoksa veya bir dil için yeterince gelişmemişse, konuşmacıları iletişim kurmak için diğer alfabeleri ve hatta dilleri tercih etme eğilimindedir. Örneğin, Amharca, Tigrinya ve Oromo gibi Etiyopya dillerini konuşanlar, akıllı telefonlarında önceden yüklü olmayan Ge’ez komut dosyası olarak İngilizce kullanmaya geçerler. Birçok ülkedeki genç arapça konuşanlar, erken mobil cihazlarda Arap alfabesi desteğinin eksikliğini açıklamak için latin karakterlerden ve rakamlardan oluşan kendi sohbet alfabesi `Arabizi <https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_ icat ettiler. ve web teknolojisi."
 
 #: ../../2-Digital age.rst:116 b0bdb3fcbd08451ca8601719465a8c1e
-#, fuzzy
 msgid ""
 "If a keyboard is not available, let's say in your phone or computer, here are "
 "some resources to search or help create your own keyboard:"
-msgstr ""
-"Diyelim ki telefonunuzda veya bilgisayarınızda bir klavye yoksa, kendi "
-"klavyenizi aramanız veya oluşturmanıza yardımcı olması için işte bazı "
-"kaynaklar:"
+msgstr "Diyelim ki telefonunuzda veya bilgisayarınızda bir klavye yoksa, kendi klavyenizi aramanız veya oluşturmanıza yardımcı olması için işte bazı kaynaklar:"
 
 #: ../../2-Digital 1b8fd33512334ff1ae455295cd008a30 age.rst:118
 msgid ""
@@ -389,7 +366,6 @@ msgstr ""
 "details.aspx?id=102134>`_"
 
 #: ../../2-Digital 63fa6d76fd4741cf9dc9c4d54ae7f64b age.rst:121
-#, fuzzy
 msgid ""
 "`Ukelele <https://software.sil.org/ukelele/>`_ is a Unicode Keyboard Layout "
 "Editor for the MacOS"
@@ -402,7 +378,6 @@ msgid "Online dictionary"
 msgstr "Çevrimiçi sözlük"
 
 #: ../../2-Digital 97f36832ba3f457db3b8e911666d350c age.rst:126
-#, fuzzy
 msgid ""
 "A dictionary, or lexicon, is a solid way of documenting a language since it "
 "acts as a reference of words and their meanings. An online dictionary never "
@@ -419,7 +394,6 @@ msgstr ""
 "işbirliği içinde yaşayabilir ve büyüyebilir."
 
 #: ../../2-Digital 4ced47fa07254c14bd36b7392a48b0b5 age.rst:128
-#, fuzzy
 msgid ""
 "`Living Dictionaries <https://livingdictionaries.app/>`_ is an online "
 "dictionary-builder platform created by Living Tongues Institute for Endangered "
@@ -468,7 +442,6 @@ msgid "A woman using bambara dictionary on her mobile phone"
 msgstr "Cep telefonunda bambara sözlüğü kullanan bir kadın"
 
 #: ../../2-Digital 3745f18cd7d9441087659b6f2b97af5f age.rst:137
-#, fuzzy
 msgid ""
 "A woman using Bambara dictionary on her mobile phone (image credit SIL "
 "International)"
@@ -524,7 +497,6 @@ msgid "We can categorize these platforms in four ways:"
 msgstr "Bu platformları dört şekilde kategorize edebiliriz:"
 
 #: ../../2-Digital age.rst:148 ed86228b76744f73ae6607ce35313cb3
-#, fuzzy
 msgid ""
 "**Module-based:** Using these apps feels more or less like taking a class in a "
 "school or a college, where users follow a modular curriculum planned by "
@@ -656,7 +628,6 @@ msgid "Sources"
 msgstr "Kaynaklar"
 
 #: ../../2-Digital 2adc4a4357ba413d97a876643b40da2e age.rst:177
-#, fuzzy
 msgid ""
 "`Catalan wikipedia on Wikipedia <https://en.wikipedia.org/wiki/"
 "Catalan_Wikipedia>`_"
