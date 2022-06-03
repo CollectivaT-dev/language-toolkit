@@ -221,7 +221,7 @@ msgstr ""
 
 #: ../../2-Digital age.rst:67 e0235358c88f4273a140e25f42dfe298
 msgid "Immersion into language"
-msgstr "Dile yoğunlaşma"
+msgstr "Dilin yoğun kullanımı"
 
 #: ../../2-Digital 236c336da5584f818cd97badbf033e63 age.rst:69
 msgid ""
