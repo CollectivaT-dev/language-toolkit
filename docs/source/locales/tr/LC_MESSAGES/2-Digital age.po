@@ -198,7 +198,7 @@ msgid ""
 "which illustrates Catalan language's important online presence despite being a "
 "minority language. Catalan wikipedia is currently the 20th largest Wikipedia."
 msgstr ""
-"İlk İngilizce olmayan bir dilde Wikipedia düzenlemesi 16 Mart 2001’de Katalanca yapıldı. Bugün, bir azınlık dili olmasına rağmen çok sayıda kaliteli makalesiyle büyük bir çevrimiçi varlık gösteren `Katalanca Vikipedi'nin <https://tr.wikipedia.org/wiki/Katalanca_Vikipedi>`_ 20. büyük wikipedia olması dikkate değerdir."
+"İlk İngilizce olmayan bir dilde Wikipedia düzenlemesi 16 Mart 2001’de Katalanca yapıldı. Bugün, bir azınlık dili olmasına rağmen çok sayıda kaliteli makalesiyle büyük bir çevrimiçi varlık gösteren `Katalanca Vikipedi'nin <https://tr.wikipedia.org/wiki/Katalanca_Vikipedi>`_ 20. büyük wikipedia olması dikkate değer."
 
 #: ../../2-Digital 2c369328afc44fb39532e8e1a1a9fbd8 age.rst:62
 msgid "Relative sizes of different wikipedias"
@@ -225,19 +225,9 @@ msgstr "Dile yoğunlaşma"
 
 #: ../../2-Digital 236c336da5584f818cd97badbf033e63 age.rst:69
 msgid ""
-"One great example of a language revitalization with the help of technology is "
-"Yiddish. After the holocaust, the number of Yiddish speakers decreased "
-"drastically from around 10 million speakers. Whoever survived were forced to "
-"assimilate the language of their new lands to avoid persecution. In the last "
-"century, the use of Yiddish had almost disappeared except for small and "
-"dispersed Hasidic communities."
+"One great example of a language revitalization with the help of technology is Yiddish. After the holocaust, the number of Yiddish speakers decreased drastically from around 10 million speakers. Whoever survived were forced to assimilate the language of their new lands to avoid persecution. In the last century, the use of Yiddish had almost disappeared except for small and dispersed Hasidic communities."
 msgstr ""
-"Teknolojinin yardımıyla yeniden canlanan bir dilin harika bir örneği "
-"Yidiş’tir. Holokost nedeniyle Yidce konuşanların sayısı yaklaşık 10 milyon "
-"konuşmacıdan önemli ölçüde azaldı. Hayatta kalanlar, zulümden kaçınmak için "
-"yeni topraklarının dilini özümsemek zorunda kaldılar. Geçen yüzyılda, küçük ve "
-"dağınık Hasidik topluluklar dışında Yidiş kullanımı neredeyse ortadan "
-"kalkmıştı."
+"Bir dilin teknoloji yardımıyla yeniden canlandırılmasına en güzel örneklerden biri Yidiş’tir. Yahudi Soykırımından sonra Yidiş konuşanların sayısı önemli ölçüde azaldı (yaklaşık 10 milyon konuşmacıdan). Hayatta kalanlar, zulümden kaçmak için yerleştikleri topraklarının dilini özümsemek zorunda kaldılar. Geçen yüzyılda, küçük ve dağınık halde bulunan Hasidik topluluklar dışında Yidiş kullanımı neredeyse ortadan kalkmıştı."
 
 #: ../../2-Digital 29b631ec17ec425284909dba20eeb10b age.rst:71
 msgid ""
@@ -246,58 +236,31 @@ msgid ""
 "virtual world became the primary meeting point for Yiddish speakers in forums "
 "like The Idishe Velt (The Jewish World) and Kave Shtiebel (The Coffee House)."
 msgstr ""
-"İnternetin yükselişi ve çevrimiçi forumların popülaritesi ile Yidiş konuşanlar "
-"bu platformları kendi dillerinde sohbet etmek için kullandılar. Zamanla, sanal "
-"dünya, Idishe Velt (Yahudi Dünyası) ve Kave Shtiebel (Kahve Evi) gibi "
-"forumlarda Yidce konuşmacılar için birincil buluşma noktası haline geldi."
+"İnternetin yükselişi ve çevrimiçi forumların popülerleşmesi ile birlikte, Yidiş konuşanlar bu platformları kendi dillerinde sohbet etmek için kullandılar. Zamanla sanal dünya Yidiş konuşanlar için, Idishe Velt (Yahudi Dünyası) ve Kave Shtiebel (Kahve Evi) gibi forumlarda başlıca buluşma noktası haline geldi."
 
 #: ../../2-Digital 2e878849f79340f29f35cd36191a429c age.rst:74
 msgid "Language documentation projects"
-msgstr "Dil dokümantasyon projeleri"
+msgstr "Dil dökümantasyon projeleri"
 
 #: ../../2-Digital age.rst:76 dacf80667d384be2abaefd0deafe21fe
-msgid ""
-"The rapid loss of languages in the last century has powered many initiatives "
-"for language documentation and revitalization. One of these initiatives is The "
-"Endangered Languages Project (https://www.endangeredlanguages.com/) which is a "
-"web-based platform that acts as a collaborative hub of language enthusiasts, "
-"linguists and industry partners to help strengthen endangered languages. Users "
-"of the website act as contributors by uploading language samples in text, "
-"audio, link or video format using a unique geotagging system that allows for "
-"easy searchability."
+msgid "The rapid loss of languages in the last century has powered many initiatives for language documentation and revitalization. One of these initiatives is `The Endangered Languages Project <https://www.endangeredlanguages.com/>`_ which is a web-based platform that acts as a collaborative hub of language enthusiasts, linguists and industry partners to help strengthen endangered languages. Users of the website act as contributors by uploading language samples in text, audio, link or video format using a unique geotagging system that allows for easy searchability."
 msgstr ""
-"Geçen yüzyılda dillerin hızlı kaybı, dil belgeleme ve canlandırma için birçok "
-"girişimi güçlendirdi. Bu girişimlerden biri, nesli tükenmekte olan dilleri "
-"güçlendirmeye yardımcı olmak için dil meraklıları, dilbilimciler ve endüstri "
-"ortaklarından oluşan bir işbirliği merkezi olarak hareket eden web tabanlı bir "
-"platform olan The Endangered Languages Project’tir (https://www."
-"endangeredlanguages.com/). Web sitesinin kullanıcıları, kolay aranabilirlik "
-"sağlayan benzersiz bir coğrafi etiketleme sistemi kullanarak dil örneklerini "
-"metin, ses, bağlantı veya video formatında yükleyerek katkıda bulunanlar gibi "
-"davranır."
+"Geçen yüzyılda dillerin hızla kaybolması, dil belgeleme ve canlandırma için çalışan birçok girişimi güçlendirdi. Bu girişimlerden biri, yok olma tehlikesiyle karşı karşıya olan dilleri güçlendirmeye yardımcı olmak için, dil meraklıları, dilbilimciler ve endüstri ortaklarından oluşan bir işbirliği merkezi olarak hareket eden web tabanlı platform `*The Endangered Languages Project*’tir <https://www.endangeredlanguages.com/>`_. Web sitesinin kullanıcıları, kolay aramayı mümkün kılan özgün bir coğrafi etiketleme sistemi kullanarak dil örneklerini metin, ses, bağlantı veya video formatında yükleyerek katkıda bulunabilirler."
 
 #: ../../2-Digital 396fc97a096a4a46909564dabaa92d02 age.rst:82
 #: efaede017d544f3f995739a038dd7066
 msgid "Ladino in Endangered Languages Project"
-msgstr "Nesli Tehlike Altındaki Dillerde Ladino Projesi"
+msgstr "*Endangered Languages Project*'te Ladino"
 
 #: ../../2-Digital 3d7fef1532c249cb849a125716085a2b age.rst:84
-#, fuzzy
 msgid ""
-"Similarly, `Wikitongues <https://wikitongues.org/>`_, which started in 2014, "
-"collects recordings and resources of the world's languages. Currently it holds "
-"videos in over 700 languages, lexicons in 200 languages and links to hundreds "
-"of external resources."
-msgstr ""
-"Benzer şekilde, 2014 yılında başlayan Wikitongues (https://wikitongues.org/), "
-"dünya dillerinin kayıtlarını ve kaynaklarını toplamaktadır. Şu anda 700’den "
-"fazla dilde videolar, 200 dilde sözlükler ve yüzlerce harici kaynağa "
-"bağlantılar içeriyor."
+"Similarly, `Wikitongues <https://wikitongues.org/>`_, which started in 2014, collects recordings and resources of the world's languages. Currently it holds videos in over 700 languages, lexicons in 200 languages and links to hundreds of external resources."
+msgstr "Benzer şekilde, 2014 yılında başlayan `Wikitongues <https://wikitongues.org/>`_, dünyadaki dillerin kayıtlarını ve kaynaklarını toplamaktadır. Şu anda 700’den fazla dilde videolar, 200 dilde leksikon ve yüzlerce harici kaynağa bağlantılar içerir."
 
 #: ../../2-Digital 7cbc2a21a5fb4427b0fb52e8a4dfb5b3
 #: 809dc9f00d134c63a2e8b1ff970fc55d age.rst:90
 msgid "Ladino videos in Wikitongues"
-msgstr "Vikidillerde Ladino videoları"
+msgstr "*Wikitongues*'da Ladino videoları"
 
 #: ../../2-Digital 5d5cb3c3e40143d09dcb76902014749a age.rst:93
 msgid "\"Traditional\" technology"
