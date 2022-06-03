@@ -198,8 +198,7 @@ msgid ""
 "which illustrates Catalan language's important online presence despite being a "
 "minority language. Catalan wikipedia is currently the 20th largest Wikipedia."
 msgstr ""
-"İlk İngilizce olmayan bir dilde Wikipedia düzenlemesi 16 Mart 2001’de Katalanca yapıldı."
-"Bugün, azınlık dili olmasına rağmen çok sayıda kaliteli makaleyle büyük bir çevrimiçi varlık gösteren Katalanca Wikipedia'nın 20. en büyük wikipedia olması  dikkate değerdir. (https://en.wikipedia.org/wiki/Catalan_Wikipedia)"
+"İlk İngilizce olmayan bir dilde Wikipedia düzenlemesi 16 Mart 2001’de Katalanca yapıldı. Bugün, bir azınlık dili olmasına rağmen çok sayıda kaliteli makalesiyle büyük bir çevrimiçi varlık gösteren `Katalanca Vikipedi'nin <https://tr.wikipedia.org/wiki/Katalanca_Vikipedi>`_ 20. büyük wikipedia olması dikkate değerdir."
 
 #: ../../2-Digital 2c369328afc44fb39532e8e1a1a9fbd8 age.rst:62
 msgid "Relative sizes of different wikipedias"
@@ -217,12 +216,12 @@ msgid ""
 "but it is definitely a great way to make knowledge accessible online and build "
 "a virtual community around it."
 msgstr ""
-"Wikipedia’da yeni bir dili kullanıma sunmak kolay bir iş değil (`bkz. <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_)."
-"Ancak bilgiyi çevrimiçi ortamda erişilebilir kılmak ve onun etrafında sanal bir topluluk oluşturmak için kesinlikle harika bir yoldur."
+"Wikipedia’da yeni bir dili kullanıma sunmak kolay bir iş değil (`bkz. <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_). "
+"Ancak bilgiyi çevrimiçi ortamda erişilebilir kılmak ve onun etrafında sanal bir topluluk oluşturmak için kesinlikle çok iyi bir yol."
 
 #: ../../2-Digital age.rst:67 e0235358c88f4273a140e25f42dfe298
 msgid "Immersion into language"
-msgstr "Dilde yoğun pratik"
+msgstr "Dile yoğunlaşma"
 
 #: ../../2-Digital 236c336da5584f818cd97badbf033e63 age.rst:69
 msgid ""
