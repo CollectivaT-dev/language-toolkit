@@ -26,25 +26,15 @@ msgstr ""
 
 #: ../../2-Digital 3ff9f74652194f81b8c907c8b0f3a8fd age.rst:7
 msgid "This project is funded by the European Union."
-msgstr "Bu proje Avrupa Birliği tarafından finanse edilmektedir."
+msgstr "Bu proje Avrupa Birliği tarafından finanse edilmiştir."
 
 #: ../../2-Digital age.rst:11 e09f76c9f1724ba196d054016bb3a3d8
 msgid "Languages and the digital age"
-msgstr "Diller ve dijital çağ"
+msgstr "Diller ve Dijital Çağ"
 
 #: ../../2-Digital age.rst:13 c841560c8ac54935951684073da80483
-msgid ""
-"Digital age has brought many new opportunities and advantages. It has "
-"undoubtedly connected humankind in unimaginable ways in a short amount of "
-"time. Although, no innovation comes with its challenges and threats. World "
-"wide web is a resource accessible (almost) to all but it is dominated by a "
-"handful of languages."
-msgstr ""
-"Dijital çağ birçok yeni fırsat ve avantaj getirdi. Hiç şüphesiz, kısa sürede "
-"insanoğlunu hayal bile edilemeyecek şekillerde birbirine bağlamıştır. Bununla "
-"birlikte, zorlukları ve tehditleri ile hiçbir yenilik gelmez. World Wide Web "
-"(neredeyse) herkesin erişebildiği bir kaynaktır, ancak bir avuç dil tarafından "
-"yönetilmektedir."
+msgid "Digital age has brought many new opportunities and advantages. It has undoubtedly connected humankind in unimaginable ways in a short amount of time. Although, no innovation comes with its challenges and threats. World wide web is a resource accessible (almost) to all but it is dominated by a handful of languages."
+msgstr "Dijital çağ birçok yeni fırsat ve avantaj getirdi. Hiç şüphesiz, kısa sürede insanoğlunu hayal bile edilemeyecek şekillerde birbirine bağlamıştır. Bununla birlikte, zorlukları ve tehditleri ile hiçbir yenilik gelmez. World Wide Web (neredeyse) herkesin erişebildiği bir kaynaktır, ancak bir avuç dil tarafından yönetilmektedir."
 
 #: ../../2-Digital 7420bfa9bf154f6a9c0e23d20a3233be age.rst:15
 msgid ""
@@ -120,7 +110,6 @@ msgstr ""
 "gerektirir."
 
 #: ../../2-Digital 958ba56051bb40e3abb27acc77d0bee4 age.rst:30
-#, fuzzy
 msgid ""
 "We shouldn't of course fall into the trap of making technology the culprit of "
 "language loss. It is merely a representation of already existing power "
