@@ -55,7 +55,6 @@ msgstr ""
 "öncelik verilmemesinin doğrudan nedenleridir."
 
 #: ../../1-Introduction.rst:23 8ff5efc20ccc493e9463853b13529fd2
-#, fuzzy
 msgid ""
 "Efforts on preservation of languages focus mainly on language "
 "documentation, teaching, and physical community building. One area that "
@@ -82,7 +81,6 @@ msgid "This document is for you if you are:"
 msgstr "Bu belge:"
 
 #: ../../1-Introduction.rst:30 9722f9771c834d4890fea8ebd6b901a3
-#, fuzzy
 msgid ""
 "*Language activist* who's interested in extending tools and resources in "
 "their language"
@@ -91,7 +89,6 @@ msgstr ""
 "*dil aktivistleri*"
 
 #: ../../1-Introduction.rst:31 07d8e4f31a4f4b6ebed24ba66b609ac3
-#, fuzzy
 msgid ""
 "*Linguist* who is interested in collecting data for research and "
 "building language technology"
@@ -100,7 +97,6 @@ msgstr ""
 "ilgilenen *dilbilimciler*"
 
 #: ../../1-Introduction.rst:32 791cbd5210a44d34990294dbcad43ca8
-#, fuzzy
 msgid ""
 "*Natural language processing (NLP) researcher* who is interested in "
 "augmenting data for their language of interest"
@@ -109,7 +105,6 @@ msgstr ""
 "*doğal dil işleme (NLP) araştırmacıları*"
 
 #: ../../1-Introduction.rst:33 a71c9796fdea4c068f972dfabca62203
-#, fuzzy
 msgid ""
 "*Language activist allies* who want to support the revitalization of "
 "under-resourced languages"
@@ -122,7 +117,6 @@ msgid "Can I contribute?"
 msgstr "Katkıda bulunabilir miyim?"
 
 #: ../../1-Introduction.rst:38 d10871ffbe714923b27186de15130468
-#, fuzzy
 msgid ""
 "This is a living document with an open license (CC-BY). Its source file "
 "is shared publicly in https://github.com/CollectivaT-dev/language-"
@@ -144,7 +138,6 @@ msgid "Authors"
 msgstr "Yazarlar"
 
 #: ../../1-Introduction.rst:43 50d4c7c5dd174327ab2b8e8e5f15f7da
-#, fuzzy
 msgid ""
 "Alp Öktem - (`Web <http://alpoktem.github.io>`_, `Twitter <http://www."
 "twitter.com/OktemAlp>`_)"
