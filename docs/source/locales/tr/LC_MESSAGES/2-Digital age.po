@@ -36,7 +36,7 @@ msgstr "Diller ve Dijital Çağ"
 msgid "Digital age has brought many new opportunities and advantages. It has undoubtedly connected humankind in unimaginable ways in a short amount of time. Although, no innovation comes with its challenges and threats. World wide web is a resource accessible (almost) to all but it is dominated by a handful of languages."
 msgstr "Dijital çağ birçok yeni fırsat ve avantaj getirdi. Hiç şüphesiz, insanları kısa sürede hayal bile edilemeyecek şekillerde birbirine bağlamdı. Bununla birlikte, her yenilik bazı zorlukları ve tehditleri beraberinde getirir. *World Wide Web* (neredeyse) herkesin erişebildiği bir kaynaktır, ama sadece bir avuç dil tarafından yönetilmektedir."
 
-#: ../../2-Digital 7420bfa9bf154f6a9c0e23d20a3233be age.rst:15
+#: ../../2-Digital age.rst:15 7420bfa9bf154f6a9c0e23d20a3233be
 msgid "English for example is spoken by 15% of the world but it currently holds 54% of all the content on the web. On the other hand, languages like Russian, Chinese, and Spanish each represent around 5 to 6% of the content on the web, in spite of their geopolitical dominance."
 msgstr "Örneğin İngilizce, dünyanın sadece %15’i tarafından konuşulmasına rağmen Web’deki tüm içeriğin %54’ünü elinde tutmaktadır. Öte yandan, jeopolitik hakimiyetlerine rağmen Rusça, Çince ve İspanyolca gibi dillerin her biri Web’deki içeriğin yaklaşık %5 ila %6’sını temsil ediyor."
 
@@ -44,9 +44,9 @@ msgstr "Örneğin İngilizce, dünyanın sadece %15’i tarafından konuşulmas�
 msgid "Where does this leave the world's many endangered and dying languages? Sadly, on the very margins of this picture."
 msgstr "Bu, Dünya'nın yok olma tehlikesiyle karşı karşıya ve ölmekte olan birçok dilini nereye koyuyor? Ne yazık ki, bu resmin en köşelerine."
 
-#: ../../2-Digital 3e664882eab342f6ad3da1dc0edb3065 age.rst:19
+#: ../../2-Digital age.rst:19 3e664882eab342f6ad3da1dc0edb3065
 msgid "Languages thrive in communities and pass onto generations with day-to-day usage. The more our lives are connected through digital mediums, we are less and less exposed to our mother tongues which are not represented online. This eventually leads to a decline of their usage by younger generations."
-msgstr "Diller topluluklar içinde gelişir ve günlük kullanımla nesillere aktarılır. Hayatlarımız dijital ortamlar aracılığıyla ne kadar bağlıysa, çevrimiçi (*online*) olarak temsil edilmeyen anadillerimizle giderek daha az iletişim kuruyoruz. Bu da, son raddede bu dillerin genç nesiller tarafından daha az kullanılmasına yol açıyor."
+msgstr "Diller, topluluklar içinde gelişir ve günlük kullanımla nesillere aktarılır. Hayatlarımız dijital ortamlar aracılığıyla ne kadar bağlıysa, çevrimiçi (*online*) olarak temsil edilmeyen anadillerimizle giderek daha az iletişim kuruyoruz. Bu da, son raddede bu dillerin genç nesiller tarafından daha az kullanılmasına yol açıyor."
 
 #: ../../2-Digital age.rst:23 ed14a23dfbd14ad782d52aabceef0bdc
 msgid "How? To illustrate, a Kurdish speaker in Turkey, accesses their government health services website and sees that everything is in Turkish, or goes to check the latest online social media platform and sees that it's by default available in English. These kinds of small encounters lead to thinking that in order to find their way and address their needs, speaking their mother tongue is not enough. You have to know the nearest majority language and many times even more."
