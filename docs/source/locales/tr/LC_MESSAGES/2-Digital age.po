@@ -154,7 +154,7 @@ msgstr "“Geleneksel” teknoloji"
 
 #: ../../2-Digital age.rst:95 2359e595ff064d8bae75b8e6959e7877
 msgid "Preserving a language isn’t just a matter of recording words or phrases and digitising them to be held in an online vault. Language is inherently about people, culture and identity. In order to keep a language alive, it needs to be spoken by many, immersed in everyday culture and actively passed onto future generations. These days, the internet, social media, software, platforms occupy a large space in our everyday lives. In this section, we will list some of the core tools needed for a technology to thrive digitally."
-msgstr "Bir dili korumak, yalnızca kelimeleri veya cümleleri kaydetmek ve onları çevrimiçi bir kasada saklanmak üzere dijitalleştirmek değildir. Dil, doğası gereği insanlarla, kültürle ve kimlikle ilgilidir. Bir dili canlı tutmak için, birçok kişi tarafından konuşulması, günlük kültürün içine girmesi ve gelecek nesillere aktif olarak aktarılması gerekir. Günümüzde internet, sosyal medya, yazılım, platformlar günlük hayatımızda büyük bir yer kaplamaktadır. Bu bölümde, bir teknolojinin dijital olarak gelişmesi için gereken temel araçlardan bazılarını listeleyeceğiz."
+msgstr "Bir dili korumak, yalnızca kelimeleri veya cümleleri kaydetmek ve onları çevrimiçi bir kasada saklanmak üzere dijitalleştirmek değildir. Dil, doğası gereği insanlarla, kültürle ve kimlikle ilgilidir. Bir dili canlı tutmak için, o dilin birçok kişi tarafından konuşulması, günlük kültürün içine girmesi ve gelecek nesillere aktif olarak aktarılması gerekir. Günümüzde internet, sosyal medya, yazılımlar ve platformlar günlük hayatımızda büyük bir yer kaplamaktadır. Bu bölümde, bir teknolojinin dijital olarak gelişmesi için gereken temel araçlardan bazılarını listeleyeceğiz."
 
 #: ../../2-Digital age.rst:98 7a2b05b0dc54436cbb039525df5dac9b
 msgid "Unicode-supported font"
@@ -162,27 +162,27 @@ msgstr "Unicode destekli yazı tipi"
 
 #: ../../2-Digital age.rst:100 d7738655fb094b21a151164b48fbddf9
 msgid "A digital font is the way computers know how to display the characters in your language. Unicode, formally the Unicode Standard, is an information technology standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The standard, which is maintained by the Unicode Consortium, defines 144,697 characters covering 159 modern and historic scripts, as well as symbols, emoji, and non-visual control and formatting codes."
-msgstr "Dijital yazı tipi, bilgisayarların karakterleri kendi dilinizde nasıl görüntüleyeceğini bilmelerinin yoludur. Resmi adıyla Unicode Standardı olan Unicode, dünyanın yazı sistemlerinin çoğunda ifade edilen metnin tutarlı bir şekilde kodlanması, gösterilmesi ve işlenmesi için bir bilgi teknolojisi standardıdır. Unicode Konsorsiyumu tarafından sürdürülen standart, 159 modern ve tarihi komut dosyasını, ayrıca sembolleri, emojileri ve görsel olmayan kontrol ve biçimlendirme kodlarını kapsayan 144.697 karakteri tanımlar."
+msgstr "Dijital yazı tipi, bilgisayarların karakterleri sizin dilinizde nasıl görüntüleyeceğini bilmelerinin yoludur. Unicode (Evrensel Kod), resmi adıyla *Unicode Standard*, dünyadaki çoğu yazım sistemlerinden metinlerin tutarlı bir şekilde kodlanması, gösterilmesi ve işlenmesi için oluşturulmuş bir bilgi teknolojisi standardıdır. Unicode Konsorsiyumu tarafından sürdürülen standart, 159 modern ve tarihi yazım sisteminin yanı sıra sembolleri, emojileri ve görsel olmayan kontrol ve biçimlendirme kodlarını içeren 144.697 karakteri tanımlar."
 
 #: ../../2-Digital age.rst:102 d986df906d5e4a7faaf1464ca3835a50
 msgid "You can check if your language is supported by a font by going to `Google Noto <https://fonts.google.com/noto/>`_ and searching among fonts that represent more than 500 writing systems. If it is not there, you can create your own with the help from a font designer and install it manually on your computer."
-msgstr "`Google Noto <https://fonts.google.com/noto/>`_’ya giderek ve 500’den fazla yazı sistemini temsil eden yazı tipleri arasında arama yaparak dilinizin bir yazı tipi tarafından desteklenip desteklenmediğini kontrol edebilirsiniz. Orada değilse, bir yazı tipi tasarımcısının yardımıyla kendinizinkini oluşturabilir ve bilgisayarınıza manuel olarak yükleyebilirsiniz."
+msgstr "`Google Noto <https://fonts.google.com/noto/>`_’ya giderek ve 500’den fazla yazı sistemini temsil eden yazı tipleri arasında arama yaparak dilinizin bir yazı tipi tarafından desteklenip desteklenmediğini kontrol edebilirsiniz. Eğer desteklenmiyorsa, bir yazı tipi tasarımcısının yardımıyla kendi diliniz için yazı tipi oluşturabilir ve manuel olarak bilgisayarınıza yükleyebilirsiniz."
 
 #: ../../2-Digital age.rst:109
 msgid "Tifinagh alphabet of Moroccan Berber in Google Fonts"
-msgstr "Google Fonts’ta Berberi Tifinagh alfabesi"
+msgstr "Google Fonts’ta Fas Berberi Tifinag alfabesi"
 
 #: ../../2-Digital age.rst:112 faf485a936b246638bc3b9c2a68802c7
 msgid "Keyboard"
-msgstr "Tuş takımı-Klavye"
+msgstr "Klavye / Tuş takımı"
 
 #: ../../2-Digital 47c4429b26444288bf1782004b70e4d4 age.rst:114
 msgid "Until the day we will be speaking naturally with computers, the most common interface for interacting with them will be the keyboard. It is a technology easily taken for granted for the world's many languages but unfortunately it is not available in all of the world's writing systems. If a keyboard is not present or not developed enough for a language, its speakers tend to prefer other alphabets or even languages to communicate. For example, speakers of Ethiopian languages like Amharic, Tigrinya and Oromo switch to using English as Ge'ez script is not pre-installed in their smartphones. Young arabic speakers in many countries have invented their own chat-alphabet `Arabizi <https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_ consisting of latin characters and numerals to account for the lack of Arabic script support in early mobile and web technology."
-msgstr "Bilgisayarlarla doğal olarak konuşacağımız güne kadar, onlarla etkileşimde bulunmak için en temel arayüz klavye olacaktır. Dünyanın birçok dili için kolayca kabul edilen bir teknolojidir, ancak ne yazık ki dünyanın tüm yazı sistemlerinde mevcut değildir. Bir klavye yoksa veya bir dil için yeterince gelişmemişse, konuşmacıları iletişim kurmak için diğer alfabeleri ve hatta dilleri tercih etme eğilimindedir. Örneğin, Amharca, Tigrinya ve Oromo gibi Etiyopya dillerini konuşanlar, akıllı telefonlarında önceden yüklü olmayan Ge’ez komut dosyası olarak İngilizce kullanmaya geçerler. Birçok ülkedeki genç arapça konuşanlar, erken mobil cihazlarda Arap alfabesi desteğinin eksikliğini açıklamak için latin karakterlerden ve rakamlardan oluşan kendi sohbet alfabesi `Arabizi <https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_ icat ettiler. ve web teknolojisi."
+msgstr "Bilgisayarlarla doğal olarak konuşacağımız günler gelinceye kadar, onlarla iletişim kurmak için kullanacağımız en temel arayüz klavye olacaktır. Dünyadaki birçok dil için bulunmasına kolayca kesin gözüyle bakılan bir teknolojidir, ancak ne yazık ki dünyadaki tüm yazı sistemlerinde mevcut değildir. Eğer bir dil için geliştirilmiş bir klavye yoksa ya da yeterince gelişmemişse, o dili konuşanlar iletişim kurmak için diğer alfabeleri ve hatta dilleri tercih etme eğilimindedir. Örneğin, Amharca, Tigrinya ve Oromca gibi Etiyopya dillerini konuşanlar, akıllı telefonlarında Ge’ez alfabesi önceden yüklü olmadığı için, İngilizce kullanmaya geçerler. Birçok ülkede, Arapça konuşan gençler, eski mobil cihazlarda ve web teknolojilerinde Arap alfabesinin eksikliğini kapatmak için, Latin alfabesi karakterlerinden ve rakamlardan oluşan kendi *chat*-alfabeleri `Arabizi <https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_’yi icat ettiler."
 
 #: ../../2-Digital age.rst:116 b0bdb3fcbd08451ca8601719465a8c1e
 msgid "If a keyboard is not available, let's say in your phone or computer, here are some resources to search or help create your own keyboard:"
-msgstr "Diyelim ki telefonunuzda veya bilgisayarınızda bir klavye yoksa, kendi klavyenizi aramanız veya oluşturmanıza yardımcı olması için işte bazı kaynaklar:"
+msgstr "Telefonunuzda veya örneğin bilgisayarınızda size gerekli bir klavye mevcut değilse, bir klavyeyi aramanız veya kendi klavyesini oluşturmanıza yardımcı olacak bazı kaynaklar şunlar:"
 
 #: ../../2-Digital age.rst:118 1b8fd33512334ff1ae455295cd008a30
 msgid "Google's mobile keyboard, `Gboard <https://support.google.com/gboard/answer/6380730?hl=en&ref_topic=9023832&co=GENIE.Platform%3DAndroid&oco=0>`_"
@@ -190,15 +190,15 @@ msgstr "Google’ın mobil klavyesi, `Gboard <https://support.google.com/gboard/
 
 #: ../../2-Digital age.rst:119 332f95a78c80414f8cec3ce5c0211603
 msgid "`Keyman <https://keyman.com/>`_ supports 2000 languages"
-msgstr "`Keyman <https://keyman.com/>`_ 2000 dili destekler"
+msgstr "2000 dili destekleyen `Keyman <https://keyman.com/>`_"
 
 #: ../../2-Digital age.rst:120 d7623c8831104abe882bec4dc7f9f03b
 msgid "`Microsoft Keyboard Layout Creator <https://www.microsoft.com/en-us/download/details.aspx?id=102134>`_"
-msgstr "`Microsoft Klavye Düzeni Oluşturucu <https://www.microsoft.com/en-us/download/details.aspx?id=102134>`_"
+msgstr "`Microsoft Klavye Düzeni Oluşturucu (MSKLC) <https://www.microsoft.com/en-us/download/details.aspx?id=102134>`_"
 
 #: ../../2-Digital age.rst:121 63fa6d76fd4741cf9dc9c4d54ae7f64b
 msgid "`Ukelele <https://software.sil.org/ukelele/>`_ is a Unicode Keyboard Layout Editor for the MacOS"
-msgstr "`Ukelele <https://software.sil.org/ukelele/>`_ macOS için bir Unicode Klavye Yerleşim Düzenleyicisidir"
+msgstr "`Ukelele <https://software.sil.org/ukelele/>`_, macOS için bir Unicode Klavye Düzeni Biçimleyicisi."
 
 #: ../../2-Digital age.rst:124 13952a25752443128489bde8b15c4062
 msgid "Online dictionary"
