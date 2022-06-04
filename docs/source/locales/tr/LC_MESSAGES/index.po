@@ -38,7 +38,7 @@ msgstr "Azınlıklaştırılmış ve az kaynaklı diller için araç seti"
 
 #: ../../index.rst:10 e519605cb3964b5fadadcde0a9149d8b
 msgid "In this document we cover the role of technology, with a focus on artificial intelligence-based technology, on the preservation of endangered languages."
-msgstr "Bu belgede az kaynaklı ve yok olma tehlikesi altında olan dillerin korunmasında teknolojinin, özellikle yapay-zeka bazlı teknolojilerin, rolünü ele alıyoruz."
+msgstr "Bu belgede az kaynaklı ve yok olma tehlikesi altında olan dillerin korunmasında teknolojinin, özellikle yapay-zeka bazlı teknolojilerin rolünü ele alıyoruz."
 
 #: ../../index.rst:12 ee50af9718a142ffbcf41f4684e57269
 msgid "This is a living document that was created as part of the project \"Judeo-Spanish: Connecting the two ends of the Mediterranean\" carried out by Col·lectivaT and Sephardic Center of Istanbul (SKAD) within the framework of the \"Grant Scheme for Common Cultural Heritage: Preservation and Dialogue between Turkey and the EU–II (CCH-II)\" implemented by the Ministry of Culture and Tourism of the Republic of Turkey with the financial support of the European Union."
@@ -65,12 +65,8 @@ msgid "License"
 msgstr "Lisans"
 
 #: ../../index.rst:55 4f6430faf5ae459a980debb3fbab9768
-msgid ""
-"This document is licensed with `Attribution 4.0 International (CC BY "
-"4.0) <https://creativecommons.org/licenses/by/4.0/>`_"
-msgstr ""
-"Bu belge, `Attribution 4.0 International (CC BY 4.0) <https://"
-"creativecommons.org/licenses/by/4.0/>`_ ile lisanslanmıştır."
+msgid "This document is licensed with `Attribution 4.0 International (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>`_"
+msgstr "Bu belge, `Attribution 4.0 International (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>`_ lisansı ile lisanslanmıştır."
 
 #: ../../index.rst:61
 msgid "This document was created with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union."
