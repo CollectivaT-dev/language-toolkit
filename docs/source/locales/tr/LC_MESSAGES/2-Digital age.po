@@ -134,7 +134,7 @@ msgstr "Dil dokümantasyon projeleri"
 
 #: ../../2-Digital age.rst:76 dacf80667d384be2abaefd0deafe21fe
 msgid "The rapid loss of languages in the last century has powered many initiatives for language documentation and revitalization. One of these initiatives is The Endangered Languages Project (https://www.endangeredlanguages.com/) which is a web-based platform that acts as a collaborative hub of language enthusiasts, linguists and industry partners to help strengthen endangered languages. Users of the website act as contributors by uploading language samples in text, audio, link or video format using a unique geotagging system that allows for easy searchability."
-msgstr "Geçen yüzyılda dillerin hızla kaybolması, dil belgeleme ve canlandırma için çalışan birçok girişimi güçlendirdi. Bu girişimlerden biri, yok olma tehlikesiyle karşı karşıya olan dilleri güçlendirmeye yardımcı olmak için, dil meraklıları, dilbilimciler ve endüstri ortaklarından oluşan bir işbirliği merkezi olarak hareket eden web tabanlı platform \*`The Endangered Languages Project <https://www.endangeredlanguages.com/>`_\*’tir. Web sitesinin kullanıcıları, kolay aramayı mümkün kılan özgün bir coğrafi etiketleme sistemi kullanarak dil örneklerini metin, ses, bağlantı veya video formatında yükleyerek katkıda bulunabilirler."
+msgstr "Geçen yüzyılda dillerin hızla kaybolması, dil belgeleme ve canlandırma için çalışan birçok girişimi güçlendirdi. Bu girişimlerden biri, yok olma tehlikesiyle karşı karşıya olan dilleri güçlendirmeye yardımcı olmak için, dil meraklıları, dilbilimciler ve endüstri ortaklarından oluşan bir işbirliği merkezi olarak hareket eden web tabanlı platform `The Endangered Languages Project <https://www.endangeredlanguages.com/>`_’tir. Web sitesinin kullanıcıları, kolay aramayı mümkün kılan özgün bir coğrafi etiketleme sistemi kullanarak dil örneklerini metin, ses, bağlantı veya video formatında yükleyerek katkıda bulunabilirler."
 
 #: ../../2-Digital age.rst:82 396fc97a096a4a46909564dabaa92d02
 msgid "Ladino in Endangered Languages Project"
@@ -148,61 +148,27 @@ msgstr "Benzer şekilde, 2014 yılında başlayan `Wikitongues <https://wikitong
 msgid "Ladino videos in Wikitongues"
 msgstr "*Wikitongues*'da Ladino videolar"
 
-#: ../../2-Digital 5d5cb3c3e40143d09dcb76902014749a age.rst:93
+#: ../../2-Digital age.rst:93 5d5cb3c3e40143d09dcb76902014749a
 msgid "\"Traditional\" technology"
 msgstr "“Geleneksel” teknoloji"
 
-#: ../../2-Digital 2359e595ff064d8bae75b8e6959e7877 age.rst:95
-msgid ""
-"Preserving a language isn’t just a matter of recording words or phrases and "
-"digitising them to be held in an online vault. Language is inherently about "
-"people, culture and identity. In order to keep a language alive, it needs to "
-"be spoken by many, immersed in everyday culture and actively passed onto "
-"future generations. These days, the internet, social media, software, "
-"platforms occupy a large space in our everyday lives. In this section, we will "
-"list some of the core tools needed for a technology to thrive digitally."
-msgstr ""
-"Bir dili korumak, yalnızca kelimeleri veya cümleleri kaydetmek ve onları "
-"çevrimiçi bir kasada saklanmak üzere dijitalleştirmek değildir. Dil, doğası "
-"gereği insanlarla, kültürle ve kimlikle ilgilidir. Bir dili canlı tutmak için, "
-"birçok kişi tarafından konuşulması, günlük kültürün içine girmesi ve gelecek "
-"nesillere aktif olarak aktarılması gerekir. Günümüzde internet, sosyal medya, "
-"yazılım, platformlar günlük hayatımızda büyük bir yer kaplamaktadır. Bu "
-"bölümde, bir teknolojinin dijital olarak gelişmesi için gereken temel "
-"araçlardan bazılarını listeleyeceğiz."
+#: ../../2-Digital age.rst:95 2359e595ff064d8bae75b8e6959e7877
+msgid "Preserving a language isn’t just a matter of recording words or phrases and digitising them to be held in an online vault. Language is inherently about people, culture and identity. In order to keep a language alive, it needs to be spoken by many, immersed in everyday culture and actively passed onto future generations. These days, the internet, social media, software, platforms occupy a large space in our everyday lives. In this section, we will list some of the core tools needed for a technology to thrive digitally."
+msgstr "Bir dili korumak, yalnızca kelimeleri veya cümleleri kaydetmek ve onları çevrimiçi bir kasada saklanmak üzere dijitalleştirmek değildir. Dil, doğası gereği insanlarla, kültürle ve kimlikle ilgilidir. Bir dili canlı tutmak için, birçok kişi tarafından konuşulması, günlük kültürün içine girmesi ve gelecek nesillere aktif olarak aktarılması gerekir. Günümüzde internet, sosyal medya, yazılım, platformlar günlük hayatımızda büyük bir yer kaplamaktadır. Bu bölümde, bir teknolojinin dijital olarak gelişmesi için gereken temel araçlardan bazılarını listeleyeceğiz."
 
-#: ../../2-Digital 7a2b05b0dc54436cbb039525df5dac9b age.rst:98
+#: ../../2-Digital age.rst:98 7a2b05b0dc54436cbb039525df5dac9b
 msgid "Unicode-supported font"
 msgstr "Unicode destekli yazı tipi"
 
 #: ../../2-Digital age.rst:100 d7738655fb094b21a151164b48fbddf9
-msgid ""
-"A digital font is the way computers know how to display the characters in your "
-"language. Unicode, formally the Unicode Standard, is an information technology "
-"standard for the consistent encoding, representation, and handling of text "
-"expressed in most of the world's writing systems. The standard, which is "
-"maintained by the Unicode Consortium, defines 144,697 characters covering 159 "
-"modern and historic scripts, as well as symbols, emoji, and non-visual control "
-"and formatting codes."
-msgstr ""
-"Dijital yazı tipi, bilgisayarların karakterleri kendi dilinizde nasıl "
-"görüntüleyeceğini bilmelerinin yoludur. Resmi adıyla Unicode Standardı olan "
-"Unicode, dünyanın yazı sistemlerinin çoğunda ifade edilen metnin tutarlı bir "
-"şekilde kodlanması, gösterilmesi ve işlenmesi için bir bilgi teknolojisi "
-"standardıdır. Unicode Konsorsiyumu tarafından sürdürülen standart, 159 modern "
-"ve tarihi komut dosyasını, ayrıca sembolleri, emojileri ve görsel olmayan "
-"kontrol ve biçimlendirme kodlarını kapsayan 144.697 karakteri tanımlar."
+msgid "A digital font is the way computers know how to display the characters in your language. Unicode, formally the Unicode Standard, is an information technology standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The standard, which is maintained by the Unicode Consortium, defines 144,697 characters covering 159 modern and historic scripts, as well as symbols, emoji, and non-visual control and formatting codes."
+msgstr "Dijital yazı tipi, bilgisayarların karakterleri kendi dilinizde nasıl görüntüleyeceğini bilmelerinin yoludur. Resmi adıyla Unicode Standardı olan Unicode, dünyanın yazı sistemlerinin çoğunda ifade edilen metnin tutarlı bir şekilde kodlanması, gösterilmesi ve işlenmesi için bir bilgi teknolojisi standardıdır. Unicode Konsorsiyumu tarafından sürdürülen standart, 159 modern ve tarihi komut dosyasını, ayrıca sembolleri, emojileri ve görsel olmayan kontrol ve biçimlendirme kodlarını kapsayan 144.697 karakteri tanımlar."
 
 #: ../../2-Digital age.rst:102 d986df906d5e4a7faaf1464ca3835a50
-msgid ""
-"You can check if your language is supported by a font by going to `Google Noto "
-"<https://fonts.google.com/noto/>`_ and searching among fonts that represent "
-"more than 500 writing systems. If it is not there, you can create your own "
-"with the help from a font designer and install it manually on your computer."
-msgstr "Google Noto’ya (https://fonts.google.com/noto/) giderek ve 500’den fazla yazı sistemini temsil eden yazı tipleri arasında arama yaparak dilinizin bir yazı tipi tarafından desteklenip desteklenmediğini kontrol edebilirsiniz. Orada değilse, bir yazı tipi tasarımcısının yardımıyla kendinizinkini oluşturabilir ve bilgisayarınıza manuel olarak yükleyebilirsiniz."
+msgid "You can check if your language is supported by a font by going to `Google Noto <https://fonts.google.com/noto/>`_ and searching among fonts that represent more than 500 writing systems. If it is not there, you can create your own with the help from a font designer and install it manually on your computer."
+msgstr "`Google Noto <https://fonts.google.com/noto/>`_’ya giderek ve 500’den fazla yazı sistemini temsil eden yazı tipleri arasında arama yaparak dilinizin bir yazı tipi tarafından desteklenip desteklenmediğini kontrol edebilirsiniz. Orada değilse, bir yazı tipi tasarımcısının yardımıyla kendinizinkini oluşturabilir ve bilgisayarınıza manuel olarak yükleyebilirsiniz."
 
-#: ../../2-Digital 8dd39986954e42b4853a9c69e290b5ee age.rst:109
-#: ff8447510ae243adb09bfde788e35a06
+#: ../../2-Digital age.rst:109
 msgid "Tifinagh alphabet of Moroccan Berber in Google Fonts"
 msgstr "Google Fonts’ta Berberi Tifinagh alfabesi"
 
