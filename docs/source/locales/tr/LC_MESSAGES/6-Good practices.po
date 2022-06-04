@@ -70,12 +70,10 @@ msgstr ""
 "gibidir:"
 
 #: ../../6-Good aa65d8abe96f4a38a30b6c3f37f0f836 practices.rst:19
-#, fuzzy
 msgid "Discover what is most needed by the language community,"
 msgstr "Dil topluluğu tarafından en çok neye ihtiyaç duyulduğunu keşfedin"
 
 #: ../../6-Good 5c1474a92713439f9d78c25a845f70d2 practices.rst:20
-#, fuzzy
 msgid ""
 "Design for the users and their language giving attention to diversity of the "
 "language and avoiding an approach parting from a majority language,"
@@ -118,7 +116,6 @@ msgid "Organize datathons for language data collection,"
 msgstr "Dil verilerinin toplanması için veri topları düzenleyin,"
 
 #: ../../6-Good 1d1ec49fc7ef4c11849f460b8a4e6609 practices.rst:28
-#, fuzzy
 msgid "Translate folk tales and children's stories which reside in public domain,"
 msgstr ""
 "Kamuya açık hale gelen halk hikâyelerini ve çocuk hikâyelerini tercüme etmek,"
@@ -148,7 +145,6 @@ msgstr ""
 "mümkünse konuşma verilerine dönüştürülebilmeleri için kopyalayın,"
 
 #: ../../6-Good 92ef1f0c1ec34328acf8a374775c006c practices.rst:32
-#, fuzzy
 msgid ""
 "Save content published in social media to a permanent place so that they don't "
 "get lost in timelines."
