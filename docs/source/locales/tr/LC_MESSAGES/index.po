@@ -42,9 +42,7 @@ msgstr "Bu belgede az kaynaklı ve yok olma tehlikesi altında olan dillerin kor
 
 #: ../../index.rst:12 ee50af9718a142ffbcf41f4684e57269
 msgid "This is a living document that was created as part of the project \"Judeo-Spanish: Connecting the two ends of the Mediterranean\" carried out by Col·lectivaT and Sephardic Center of Istanbul (SKAD) within the framework of the \"Grant Scheme for Common Cultural Heritage: Preservation and Dialogue between Turkey and the EU–II (CCH-II)\" implemented by the Ministry of Culture and Tourism of the Republic of Turkey with the financial support of the European Union."
-msgstr "Bu belge, Col·lectivaT Kooperatifi ve Sefarad Kültürü Araştırma Derneği (SKAD) tarafından yürütülen “Judeoespanyol: Akdeniz’in iki yakasını birleştiren dil” projesinin kapsamında hazırlanmış yaşayan bir belgedir. Bu proje, T.C. Kültür ve Turizm Bakanlığı tarafından Avrupa Birliği’nin mali desteği
-ile hayata geçirilen “Ortak Kültür Mirası: Türkiye ve AB Arasında Koruma ve Diyalog-II (CCH-II) Hibe Programı” kapsamında hibe desteği almıştır. Programın Sözleşme Makamı, Merkezi Finans ve İhale Birimidir. “Ortak Kültür Mirası: Türkiye ve AB Arasında Koruma ve Diyalog-II (CCH-II) Hibe Programı”, Türk ve AB kuruluşları arasında ortaklaşa uygulanan ortak kültürel miras faaliyetlerinin teşvik edilmesini ve geliştirilmesini amaçlamaktadır. Bu hibe programının genel hedefi, kültür, sanat ve kültürel miras yoluyla sivil toplum diyaloğunun, kültürel miras konusunda uluslararası işbirliğinin geliştirilmesi ve Türkiye'de
-kültürel değerlerin teşvik edilmesidir."
+msgstr "Bu belge, Col·lectivaT Kooperatifi ve Sefarad Kültürü Araştırma Derneği (SKAD) tarafından yürütülen “Judeoespanyol: Akdeniz’in iki yakasını birleştiren dil” projesi kapsamında hazırlanmış yaşayan bir belgedir. Bu proje, T.C. Kültür ve Turizm Bakanlığı tarafından Avrupa Birliği’nin mali desteği ile hayata geçirilen “Ortak Kültür Mirası: Türkiye ve AB Arasında Koruma ve Diyalog-II (CCH-II) Hibe Programı” kapsamında hibe desteği almıştır."
 
 #: ../../index.rst:17 97c6d857e2cd46188658ffd1812130d5
 msgid "This document is also available in Turkish and Spanish."
