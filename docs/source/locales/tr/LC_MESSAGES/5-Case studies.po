@@ -51,7 +51,6 @@ msgid "Judeo-Spanish: Connecting the two ends of the Mediterranean"
 msgstr "Judeoespanyol: Akdeniz’in iki ucunu birleştiren dil"
 
 #: ../../5-Case 559cced8c9a64f00a9d24d740b38eedd studies.rst:17
-#, fuzzy
 msgid ""
 "Col·lectivaT and Sephardic Centre of Istanbul have come together for this "
 "project to carry out a diverse set of activities ranging from social media "
@@ -71,7 +70,6 @@ msgid "Creation of audio-visual content for social media"
 msgstr "Sosyal medya için görsel-işitsel içerik oluşturulması"
 
 #: ../../5-Case 7fb3368b86f04e6daee0a2e5ac96a623 studies.rst:22
-#, fuzzy
 msgid ""
 "The project created short language learning videos that would help gain "
 "visibility in social-media platforms and attract young generations to learn "
@@ -86,7 +84,6 @@ msgstr ""
 "sunulmaktadır."
 
 #: ../../5-Case 1ce7f204208a4bb19d8ab0865508ba8b studies.rst:28
-#, fuzzy
 msgid "Fraza del diya segments from SKAD's instagram page"
 msgstr "SKAD’ın instagram sayfasından Fraza al diya segmentleri"
 
