@@ -72,5 +72,9 @@ msgstr ""
 "Bu belge, `Attribution 4.0 International (CC BY 4.0) <https://"
 "creativecommons.org/licenses/by/4.0/>`_ ile lisanslanmıştır."
 
+#: ../../index.rst:61
+msgid "This document was created with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union."
+msgstr "Bu yayın Avrupa Birliğinin maddi desteği ile hazırlanmıştır. İçerik tamamıyla Col·lectivaT ve SKAD’ın sorumluluğundadır ve Avrupa Birliği’nin görüşlerini yansıtmak zorunda değildir."
+
 #~ msgid "Indices and tables"
 #~ msgstr "Endeksler ve tablolar"
