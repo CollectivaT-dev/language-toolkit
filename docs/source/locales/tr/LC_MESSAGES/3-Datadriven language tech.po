@@ -33,7 +33,6 @@ msgid "Data-driven language technologies"
 msgstr "Veriye dayalı dil teknolojileri"
 
 #: ../../3-Datadriven daa3532d04684774a5220980ded5a7cd language tech.rst:12
-#, fuzzy
 msgid ""
 "The digital revolution is here with us and Artificial Intelligence (AI) is a "
 "key technological enabler. It offers a range of new opportunities to break down "
@@ -362,7 +361,6 @@ msgid ""
 msgstr "Fonetik telaffuz sözlüğü (Bu, daha modern teknolojilerde isteğe bağlıdır)"
 
 #: ../../3-Datadriven 9209cbe89a874bd0b010ede3e8d457e2 language tech.rst:87
-#, fuzzy
 msgid ""
 "ASR has progressed significantly in the last decade again thanks to the advent "
 "of deep-learning. In September 2017, Microsoft announced `their results "
