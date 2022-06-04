@@ -20,11 +20,11 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: ../../2-Digital 49a3aac1808a4971bef30e811551397f age.rst:7
+#: ../../2-Digital age.rst:7 49a3aac1808a4971bef30e811551397f
 msgid "Turkey and European Union flags"
 msgstr ""
 
-#: ../../2-Digital 3ff9f74652194f81b8c907c8b0f3a8fd age.rst:7
+#: ../../2-Digital age.rst:7 3ff9f74652194f81b8c907c8b0f3a8fd
 msgid "This project is funded by the European Union."
 msgstr "Bu proje Avrupa Birliği tarafından finanse edilmiştir."
 
@@ -52,7 +52,7 @@ msgstr "Diller, topluluklar içinde gelişir ve günlük kullanımla nesillere a
 msgid "How? To illustrate, a Kurdish speaker in Turkey, accesses their government health services website and sees that everything is in Turkish, or goes to check the latest online social media platform and sees that it's by default available in English. These kinds of small encounters lead to thinking that in order to find their way and address their needs, speaking their mother tongue is not enough. You have to know the nearest majority language and many times even more."
 msgstr "Nasıl? Örneğin, Türkiye’de Kürtçe konuşan bir kişi, sağlık hizmetleri web sitesine giriyor ve her şeyin Türkçe olduğunu görüyor, veya en son çıkan online sosyal medya platformuna bakıyor ve varsayılan dil olarak İngilizce olduğunu görüyor. Karşılaşılan bu küçük durumlar, yollarını bulmak ve ihtiyaçlarını gidermek için anadillerini konuşmanın yeterli olmadığını düşündürüyor. Çoğu zaman size en yakın çoğunluk dilini, hatta birçok kez başka dilleri de bilmek zorunda olduğunuzu hissettiriyor."
 
-#: ../../2-Digital 50bf7834519a49a6a739763ea781f402 age.rst:26
+#: ../../2-Digital age.rst:26 50bf7834519a49a6a739763ea781f402
 msgid "Digital extinction"
 msgstr "Dijital yok olma"
 
@@ -60,15 +60,15 @@ msgstr "Dijital yok olma"
 msgid "According to UNESCO, around 3,500 languages are expected to be extinct by the end of this century and we cannot deny the role of technology in this. `Kornai <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056>`_ states that the vast majority (over 95%) of languages have already lost the capacity to ascend digitally. Digital ascent requires use in a broad variety of digital contexts ranging from maintaining a Wikipedia page, to making language classes available and creating language technology data."
 msgstr "UNESCO’ya göre, bu yüzyılın sonuna kadar yaklaşık 3.500 dilin yok olması bekleniyor ve bunda teknolojinin rolünü inkar edemeyiz. `Kornai <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056>`_, dillerin büyük çoğunluğunun (%95’in üzerinde) dijital olarak yükselme kapasitesini hali hazırda kaybettiğini belirtiyor. Dijital yükselme bir dilin, bir Wikipedia sayfasının o dilde yönetiminden dil derslerinin erişime açılmasına veya dil teknolojisi verilerinin oluşturulmasına kadar çok çeşitli dijital bağlamlarda kullanımını gerektiriyor."
 
-#: ../../2-Digital 958ba56051bb40e3abb27acc77d0bee4 age.rst:30
+#: ../../2-Digital age.rst:30 958ba56051bb40e3abb27acc77d0bee4
 msgid "We shouldn't of course fall into the trap of making technology the culprit of language loss. It is merely a representation of already existing power dynamics in the society. States which depriotize or even oppress certain languages start their digital transformation by excluding all these languages in their digital infrastructure. Now, North American and Eurocentric big technology companies follow a English-first approach by default."
 msgstr "Elbette, tek başına teknolojiyi dil kaybının günah keçisi ilan etme hatasına düşmemeliyiz. Toplumda zaten var olan güç dinamiklerinin bir temsili sadece. Belirli dilleri önemsiz kılan hatta baskı altına alan devletler, dijital dönüşümlerine tüm bu dilleri dijital altyapılarının dışında bırakarak başlıyorlar. Günümüzde, Kuzey Amerika ve Avrupa merkezli büyük teknoloji şirketleri, varsayılan dil olarak önce İngiliz yaklaşımını izliyor."
 
-#: ../../2-Digital 586184f76fda4a1393803e07a1324226 age.rst:32
+#: ../../2-Digital age.rst:32 586184f76fda4a1393803e07a1324226
 msgid "Technology can also be utilized to form communities around language preservation, knowledge sharing, language documentation."
 msgstr "Teknoloji ayrıca dil koruma, bilgi paylaşımı ve dil dokümantasyonu etrafında topluluklar oluşturmak için de kullanılabilir."
 
-#: ../../2-Digital 69bbe9a28f5d4366978d9647fb1124a6 age.rst:35
+#: ../../2-Digital age.rst:35 69bbe9a28f5d4366978d9647fb1124a6
 msgid "Online presence of a language"
 msgstr "Bir dilin çevrimiçi varlığı"
 
@@ -76,125 +76,76 @@ msgstr "Bir dilin çevrimiçi varlığı"
 msgid "Traditionally, the responsibilities of a language activist has been actively speaking the language, passing it to younger generations, forming language learning and speaking communities, negotiating with public institutions for the inclusion of their language, collaborating with linguists for the documentation of their language and so on."
 msgstr "Geleneksel olarak, bir dil aktivistinin sorumlulukları, dili aktif olarak konuşmak, genç nesillere aktarmak, dil öğrenme ve konuşma toplulukları oluşturmak, dilinin dahil edilmesi için kamu kurumlarıyla müzakere etmek, dilinin dökümentasyonu için dilbilimcilerle işbirliği yapmak gibi sayılabilir."
 
-#: ../../2-Digital 08463d5d2bdd4723ba312ee65397e348 age.rst:39
-msgid ""
-"Nowadays, the challenge is not just making the language alive in the physical "
-"world but also online. It is related in three ways for the survival of a "
-"language:"
-msgstr ""
-"Günümüzde zorluk, dili sadece fiziksel dünyada değil, aynı zamanda çevrimiçi "
-"ortamda da canlı kılmaktır. Bu, bir dilin hayatta kalmasıyla iki şekilde "
-"ilintilidir:"
+#: ../../2-Digital age.rst:39 08463d5d2bdd4723ba312ee65397e348
+msgid "Nowadays, the challenge is not just making the language alive in the physical world but also online. It is related in three ways for the survival of a language:"
+msgstr "Günümüzde zorluk, dili sadece fiziksel dünyada değil, aynı zamanda çevrimiçi ortamda da canlı kılmaktır. Bu, bir dilin hayatta kalmasıyla iki şekilde ilintilidir:"
 
-#: ../../2-Digital 2f54dce3ba4f4c13975c4bfe345c0d96 age.rst:41
-msgid ""
-"Exchanges and visibility online strikes interest and helps engage existing and "
-"new language learners."
-msgstr ""
-"Karşılıklı bilgi alışverişi ve çevrimiçi görünürlük, bir dili öğrenmekte olan veya öğrenmeye yeni başlayan kişilerin ilgisini çeker ve bu ilginin sürmesini sağlar."
+#: ../../2-Digital age.rst:41 2f54dce3ba4f4c13975c4bfe345c0d96
+msgid "Exchanges and visibility online strikes interest and helps engage existing and new language learners."
+msgstr "Karşılıklı bilgi alışverişi ve çevrimiçi görünürlük, bir dili öğrenmekte olan veya öğrenmeye yeni başlayan kişilerin ilgisini çeker ve bu ilginin sürmesini sağlar."
 
-#: ../../2-Digital 1fde250c59b147e18a67e2de894a35bb age.rst:42
-msgid ""
-"What's stored online in turn is a digital record for language which helps "
-"documentation and technology development."
-msgstr ""
-"Çevrimiçi olarak depolanan şey, belgeleme ve teknoloji geliştirmeye "
-"yardımcı olan dijital bir dil kaydıdır."
+#: ../../2-Digital age.rst:42 1fde250c59b147e18a67e2de894a35bb
+msgid "What's stored online in turn is a digital record for language which helps documentation and technology development."
+msgstr "Çevrimiçi olarak depolanan şey, belgeleme ve teknoloji geliştirmeye yardımcı olan dijital bir dil kaydıdır."
 
-#: ../../2-Digital 8a99f2a8fe2248c6a73284cc011271a8 age.rst:44
+#: ../../2-Digital age.rst:44 8a99f2a8fe2248c6a73284cc011271a8
 msgid "Below, we will describe some ways the internet is becoming multilingual and plural while helping revive endangered languages."
 msgstr "Aşağıda, internetin hangi yollarla hem çok dilli ve çoğul hale gelip hem de yok olma tehlikesiyle karşı karşıya olan dillerin canlanmasına yardımcı olduğunu açıklayacağız."
 
-#: ../../2-Digital 6c4ddd307704489b981885b2cb6b37fe age.rst:47
+#: ../../2-Digital age.rst:47 6c4ddd307704489b981885b2cb6b37fe
 msgid "Access to knowledge"
 msgstr "Bilgiye erişim"
 
-#: ../../2-Digital 568fc04491e840c0908bd387ea4a4a52 age.rst:49
-msgid ""
-"One of the most popular initiatives on bringing languages online is Wikipedia. "
-"Wikipedia is open an online encyclopedia written and maintained by a community "
-"of volunteers through an open collaboration and reviewing system."
-msgstr ""
-"Dilleri çevrimiçi hale getirme konusundaki en popüler girişimlerden biri "
-"Wikipedia’dır. Wikipedia, açık bir ortaklaşa çalışma ve gözden geçirme sistemi aracılığıyla "
-"bir gönüllüler topluluğu tarafından yazılan ve sürdürülen açık ve özgür bir çevrimiçi "
-"ansiklopedidir."
+#: ../../2-Digital age.rst:49 568fc04491e840c0908bd387ea4a4a52
+msgid "One of the most popular initiatives on bringing languages online is Wikipedia. Wikipedia is open an online encyclopedia written and maintained by a community of volunteers through an open collaboration and reviewing system."
+msgstr "Dilleri çevrimiçi hale getirme konusundaki en popüler girişimlerden biri Wikipedia’dır. Wikipedia, açık bir ortaklaşa çalışma ve gözden geçirme sistemi aracılığıyla bir gönüllüler topluluğu tarafından yazılan ve sürdürülen açık ve özgür bir çevrimiçi ansiklopedidir."
 
-#: ../../2-Digital 50695551331b418c92aca91572122815 age.rst:51
-msgid ""
-"Wikipedia's broad aim is to democratize access to knowledge. Naturally, the "
-"culture built around this ethos goes hand in hand with multilinguality. "
-"Although it started only with English, it quickly expanded to the world's many "
-"languages. We can probably say that it's the most language diverse platform on "
-"the internet with 326 languages (as of 03.05.22) and counting up."
-msgstr ""
-"Wikipedia'nın geniş amacı bilgiye erişimi demokratikleştirmektir. Doğal "
-"olarak, bu ethos etrafında inşa edilen kültür, çok dillilik ile paralel gider. "
-"Sadece İngilizce ile başlamasına rağmen, hızla dünyanın birçok diline yayılmıştır. 326 farklı dilde bulunan (03.05.22 itibariyle) ve dil sayısı gittikçe artan Wikipedia'nın, dil açısından internetteki en çeşitli platform olduğunu söylemek büyük ihtimalle yanlış bir ifade olmaz."
+#: ../../2-Digital age.rst:51 50695551331b418c92aca91572122815
+msgid "Wikipedia's broad aim is to democratize access to knowledge. Naturally, the culture built around this ethos goes hand in hand with multilinguality. Although it started only with English, it quickly expanded to the world's many languages. We can probably say that it's the most language diverse platform on the internet with 326 languages (as of 03.05.22) and counting up."
+msgstr "Wikipedia'nın geniş anlamıyla amacı bilgiye erişimi demokratikleştirmektir. Doğal olarak, bu ethos etrafında inşa edilen kültür, çok dillilik ile paralel gider. Sadece İngilizce ile başlamasına rağmen, hızla dünyanın birçok diline yayılmıştır. 326 farklı dilde bulunan (03.05.22 itibariyle) ve dil sayısı gittikçe artan Wikipedia'nın, dil açısından internetteki en çeşitli platform olduğunu söylemek büyük ihtimalle yanlış bir ifade olmaz."
 
 #: ../../2-Digital age.rst:55 cc34bd9c65af4f52bd4bafe3eb23088c
-msgid ""
-"The first edit on a non-English Wikipedia was made in Catalan on March 16, "
-"2001. Today, it is most notable for its large number of quality articles, "
-"which illustrates Catalan language's important online presence despite being a "
-"minority language. Catalan wikipedia is currently the 20th largest Wikipedia."
-msgstr ""
-"İlk İngilizce olmayan bir dilde Wikipedia düzenlemesi 16 Mart 2001’de Katalanca yapıldı. Bugün, bir azınlık dili olmasına rağmen çok sayıda kaliteli makalesiyle büyük bir çevrimiçi varlık gösteren `Katalanca Vikipedi'nin <https://tr.wikipedia.org/wiki/Katalanca_Vikipedi>`_ 20. büyük wikipedia olması dikkate değer."
+msgid "The first edit on a non-English Wikipedia was made in Catalan on March 16, 2001. Today, it is most notable for its large number of quality articles, which illustrates Catalan language's important online presence despite being a minority language. Catalan wikipedia is currently the 20th largest Wikipedia."
+msgstr "İngilizce olmayan bir dilde ilk Wikipedia düzenlemesi 16 Mart 2001’de Katalanca yapıldı. Bugün, bir azınlık dili olmasına rağmen çok sayıda kaliteli makalesiyle büyük bir çevrimiçi varlık gösteren `Katalanca Vikipedi'nin <https://tr.wikipedia.org/wiki/Katalanca_Vikipedi>`_ 20. büyük wikipedia olması dikkate değer."
 
-#: ../../2-Digital 2c369328afc44fb39532e8e1a1a9fbd8 age.rst:62
+#: ../../2-Digital age.rst:62 2c369328afc44fb39532e8e1a1a9fbd8
 msgid "Relative sizes of different wikipedias"
-msgstr "Farklı Wikipedia’ların birbirilerine göre hacimleri"
+msgstr "Farklı Wikipedia’ların birbirilerine göre büyüklükleri"
 
-#: ../../2-Digital ae5e5850936a4ddda16982bb22824608 age.rst:62
-msgid ""
-"Relative sizes of different wikipedias (`source <https://meta.wikimedia.org/wiki/List_of_Wikipedias>`_)"
-msgstr "Farklı Wikipedia’ların birbirilerine göre hacimleri (`kaynak <https://meta.wikimedia.org/wiki/List_of_Wikipedias>`_)"
+#: ../../2-Digital age.rst:62 ae5e5850936a4ddda16982bb22824608
+msgid "Relative sizes of different wikipedias (`source <https://meta.wikimedia.org/wiki/List_of_Wikipedias>`_)"
+msgstr "Farklı Wikipedia’ların birbirilerine göre büyüklükleri (`kaynak <https://meta.wikimedia.org/wiki/List_of_Wikipedias>`_)"
 
-#: ../../2-Digital 4f06f6fc128641a082233ddc6a0748d7 age.rst:64
-msgid ""
-"Making a new language available in Wikipedia is no easy task (as explained "
-"`here <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_), "
-"but it is definitely a great way to make knowledge accessible online and build "
-"a virtual community around it."
-msgstr ""
-"Wikipedia’da yeni bir dili kullanıma sunmak kolay bir iş değil (`bkz. <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_). "
-"Ancak bilgiyi çevrimiçi ortamda erişilebilir kılmak ve onun etrafında sanal bir topluluk oluşturmak için kesinlikle çok iyi bir yol."
+#: ../../2-Digital age.rst:64 4f06f6fc128641a082233ddc6a0748d7
+msgid "Making a new language available in Wikipedia is no easy task (as explained `here <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_), but it is definitely a great way to make knowledge accessible online and build a virtual community around it."
+msgstr "Wikipedia’da yeni bir dili kullanıma sunmak kolay bir iş değil (`bkz. <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_). Ancak bilgiyi çevrimiçi ortamda erişilebilir kılmak ve onun etrafında sanal bir topluluk oluşturmak için kesinlikle çok iyi bir yol."
 
 #: ../../2-Digital age.rst:67 e0235358c88f4273a140e25f42dfe298
 msgid "Immersion into language"
 msgstr "Dilin yoğun kullanımı"
 
-#: ../../2-Digital 236c336da5584f818cd97badbf033e63 age.rst:69
-msgid ""
-"One great example of a language revitalization with the help of technology is Yiddish. After the holocaust, the number of Yiddish speakers decreased drastically from around 10 million speakers. Whoever survived were forced to assimilate the language of their new lands to avoid persecution. In the last century, the use of Yiddish had almost disappeared except for small and dispersed Hasidic communities."
-msgstr ""
-"Bir dilin teknoloji yardımıyla yeniden canlandırılmasına en güzel örneklerden biri Yidiş’tir. Yahudi Soykırımından sonra Yidiş konuşanların sayısı önemli ölçüde azaldı (yaklaşık 10 milyon konuşmacıdan). Hayatta kalanlar, zulümden kaçmak için yerleştikleri topraklarının dilini özümsemek zorunda kaldılar. Geçen yüzyılda, küçük ve dağınık halde bulunan Hasidik topluluklar dışında Yidiş kullanımı neredeyse ortadan kalkmıştı."
+#: ../../2-Digital age.rst:69 236c336da5584f818cd97badbf033e63
+msgid "One great example of a language revitalization with the help of technology is Yiddish. After the holocaust, the number of Yiddish speakers decreased drastically from around 10 million speakers. Whoever survived were forced to assimilate the language of their new lands to avoid persecution. In the last century, the use of Yiddish had almost disappeared except for small and dispersed Hasidic communities."
+msgstr "Bir dilin teknoloji yardımıyla yeniden canlandırılmasına en güzel örneklerden biri Yidiş’tir. Yahudi Soykırımından sonra Yidiş konuşanların sayısı önemli ölçüde azaldı (yaklaşık 10 milyon konuşmacıdan). Hayatta kalanlar, zulümden kaçmak için yerleştikleri topraklarının dilini özümsemek zorunda kaldılar. Geçen yüzyılda, küçük ve dağınık halde bulunan Hasidik topluluklar dışında Yidiş kullanımı neredeyse ortadan kalkmıştı."
 
-#: ../../2-Digital 29b631ec17ec425284909dba20eeb10b age.rst:71
-msgid ""
-"With the rise of the internet and popularity of online forums, Yiddish "
-"speakers used these platforms to converse in their language. Over time, the "
-"virtual world became the primary meeting point for Yiddish speakers in forums "
-"like The Idishe Velt (The Jewish World) and Kave Shtiebel (The Coffee House)."
-msgstr ""
-"İnternetin yükselişi ve çevrimiçi forumların popülerleşmesi ile birlikte, Yidiş konuşanlar bu platformları kendi dillerinde sohbet etmek için kullandılar. Zamanla sanal dünya Yidiş konuşanlar için, Idishe Velt (Yahudi Dünyası) ve Kave Shtiebel (Kahve Evi) gibi forumlarda başlıca buluşma noktası haline geldi."
+#: ../../2-Digital age.rst:71 29b631ec17ec425284909dba20eeb10b
+msgid "With the rise of the internet and popularity of online forums, Yiddish speakers used these platforms to converse in their language. Over time, the virtual world became the primary meeting point for Yiddish speakers in forums like The Idishe Velt (The Jewish World) and Kave Shtiebel (The Coffee House)."
+msgstr "İnternetin yükselişi ve çevrimiçi forumların popülerleşmesi ile birlikte, Yidiş konuşanlar bu platformları kendi dillerinde sohbet etmek için kullandılar. Zamanla sanal dünya Yidiş konuşanlar için, Idishe Velt (Yahudi Dünyası) ve Kave Shtiebel (Kahve Evi) gibi forumlarda başlıca buluşma noktası haline geldi."
 
-#: ../../2-Digital 2e878849f79340f29f35cd36191a429c age.rst:74
+#: ../../2-Digital age.rst:74 2e878849f79340f29f35cd36191a429c
 msgid "Language documentation projects"
-msgstr "Dil dökümantasyon projeleri"
+msgstr "Dil dokümantasyon projeleri"
 
 #: ../../2-Digital age.rst:76 dacf80667d384be2abaefd0deafe21fe
 msgid "The rapid loss of languages in the last century has powered many initiatives for language documentation and revitalization. One of these initiatives is The Endangered Languages Project (https://www.endangeredlanguages.com/) which is a web-based platform that acts as a collaborative hub of language enthusiasts, linguists and industry partners to help strengthen endangered languages. Users of the website act as contributors by uploading language samples in text, audio, link or video format using a unique geotagging system that allows for easy searchability."
-msgstr "Geçen yüzyılda dillerin hızla kaybolması, dil belgeleme ve canlandırma için çalışan birçok girişimi güçlendirdi. Bu girişimlerden biri, yok olma tehlikesiyle karşı karşıya olan dilleri güçlendirmeye yardımcı olmak için, dil meraklıları, dilbilimciler ve endüstri ortaklarından oluşan bir işbirliği merkezi olarak hareket eden web tabanlı platform `The Endangered Languages Project’tir <https://www.endangeredlanguages.com/>`_. Web sitesinin kullanıcıları, kolay aramayı mümkün kılan özgün bir coğrafi etiketleme sistemi kullanarak dil örneklerini metin, ses, bağlantı veya video formatında yükleyerek katkıda bulunabilirler."
+msgstr "Geçen yüzyılda dillerin hızla kaybolması, dil belgeleme ve canlandırma için çalışan birçok girişimi güçlendirdi. Bu girişimlerden biri, yok olma tehlikesiyle karşı karşıya olan dilleri güçlendirmeye yardımcı olmak için, dil meraklıları, dilbilimciler ve endüstri ortaklarından oluşan bir işbirliği merkezi olarak hareket eden web tabanlı platform `*\The Endangered Languages Project*\’tir <https://www.endangeredlanguages.com/>`_. Web sitesinin kullanıcıları, kolay aramayı mümkün kılan özgün bir coğrafi etiketleme sistemi kullanarak dil örneklerini metin, ses, bağlantı veya video formatında yükleyerek katkıda bulunabilirler."
 
-#: ../../2-Digital 396fc97a096a4a46909564dabaa92d02 age.rst:82
-#: efaede017d544f3f995739a038dd7066
+#: ../../2-Digital age.rst:82 396fc97a096a4a46909564dabaa92d02
 msgid "Ladino in Endangered Languages Project"
 msgstr "*Endangered Languages Project*'te Ladino"
 
-#: ../../2-Digital 3d7fef1532c249cb849a125716085a2b age.rst:84
-msgid ""
-"Similarly, `Wikitongues <https://wikitongues.org/>`_, which started in 2014, collects recordings and resources of the world's languages. Currently it holds videos in over 700 languages, lexicons in 200 languages and links to hundreds of external resources."
+#: ../../2-Digital age.rst:84 3d7fef1532c249cb849a125716085a2b
+msgid "Similarly, `Wikitongues <https://wikitongues.org/>`_, which started in 2014, collects recordings and resources of the world's languages. Currently it holds videos in over 700 languages, lexicons in 200 languages and links to hundreds of external resources."
 msgstr "Benzer şekilde, 2014 yılında başlayan `Wikitongues <https://wikitongues.org/>`_, dünyadaki dillerin kayıtlarını ve kaynaklarını toplamaktadır. Şu anda 700’den fazla dilde videolar, 200 dilde leksikon ve yüzlerce harici kaynağa bağlantılar içerir."
 
 #: ../../2-Digital 7cbc2a21a5fb4427b0fb52e8a4dfb5b3
