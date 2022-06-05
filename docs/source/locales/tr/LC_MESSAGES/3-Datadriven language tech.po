@@ -20,36 +20,23 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: ../../3-Datadriven 41f21645c48343efbba714ba4bf71551 language tech.rst:7
+#: ../../3-Datadriven language tech.rst:7 41f21645c48343efbba714ba4bf71551
 msgid "Turkey and European Union flags"
 msgstr "Türkiye ve Avrupa Birliği bayrakları"
 
-#: ../../3-Datadriven c7ce149455b0419b980fd85747b4e183 language tech.rst:7
+#: ../../3-Datadriven language tech.rst:7 c7ce149455b0419b980fd85747b4e183
 msgid "This project is funded by the European Union."
-msgstr "Bu proje Avrupa Birliği tarafından finanse edilmektedir."
+msgstr "Bu proje Avrupa Birliği tarafından finanse edilmiştir."
 
-#: ../../3-Datadriven 89cfd111c6c34e2f94a57bc0d17f1afb language tech.rst:10
+#: ../../3-Datadriven language tech.rst:10 89cfd111c6c34e2f94a57bc0d17f1afb
 msgid "Data-driven language technologies"
 msgstr "Veriye dayalı dil teknolojileri"
 
-#: ../../3-Datadriven daa3532d04684774a5220980ded5a7cd language tech.rst:12
-msgid ""
-"The digital revolution is here with us and Artificial Intelligence (AI) is a "
-"key technological enabler. It offers a range of new opportunities to break down "
-"existing barriers to human development and social inclusion. One area that is "
-"powered by AI is language technology which makes it possible to interact with "
-"our phones through digital assistants, translate websites and documents with a "
-"few clicks, increase accessibility of videos with automatic captioning etc."
-msgstr ""
-"Dijital devrim burada bizimle ve Yapay Zeka (AI), insani gelişme ve sosyal "
-"içermenin önündeki mevcut engelleri yıkmak için bir dizi yeni fırsat sunduğu "
-"için önemli bir teknolojik olanak sağlıyor. Bunlardan biri, AI tarafından "
-"desteklenen, dijital asistanlar aracılığıyla telefonlarımızla etkileşime "
-"geçmeyi, web sitelerini ve belgeleri birkaç tıklamayla çevirmeyi, otomatik "
-"altyazı ile videoların erişilebilirliğini artırmayı mümkün kılan Dil "
-"teknolojisidir."
+#: ../../3-Datadriven language tech.rst:12 daa3532d04684774a5220980ded5a7cd
+msgid "The digital revolution is here with us and Artificial Intelligence (AI) is a key technological enabler. It offers a range of new opportunities to break down existing barriers to human development and social inclusion. One area that is powered by AI is language technology which makes it possible to interact with our phones through digital assistants, translate websites and documents with a few clicks, increase accessibility of videos with automatic captioning etc."
+msgstr "Dijital devrim burada bizimle ve Yapay Zeka (AI), insani gelişme ve sosyal içermenin önündeki mevcut engelleri yıkmak için bir dizi yeni fırsat sunduğu için önemli bir teknolojik olanak sağlıyor. Bunlardan biri, AI tarafından desteklenen, dijital asistanlar aracılığıyla telefonlarımızla etkileşime geçmeyi, web sitelerini ve belgeleri birkaç tıklamayla çevirmeyi, otomatik altyazı ile videoların erişilebilirliğini artırmayı mümkün kılan Dil teknolojisidir."
 
-#: ../../3-Datadriven 07da296098cb4775a55bd64affb1b56f language tech.rst:14
+#: ../../3-Datadriven language tech.rst:14 07da296098cb4775a55bd64affb1b56f
 msgid ""
 "The main motor behind these is the advancement of the field **Natural Language "
 "Processing (NLP)**. But what does NLP entail? Here's a list of core "
