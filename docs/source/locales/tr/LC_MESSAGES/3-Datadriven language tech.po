@@ -34,120 +34,76 @@ msgstr "Veriye dayalı dil teknolojileri"
 
 #: ../../3-Datadriven language tech.rst:12 daa3532d04684774a5220980ded5a7cd
 msgid "The digital revolution is here with us and Artificial Intelligence (AI) is a key technological enabler. It offers a range of new opportunities to break down existing barriers to human development and social inclusion. One area that is powered by AI is language technology which makes it possible to interact with our phones through digital assistants, translate websites and documents with a few clicks, increase accessibility of videos with automatic captioning etc."
-msgstr "Dijital devrim burada bizimle ve Yapay Zeka (AI), insani gelişme ve sosyal içermenin önündeki mevcut engelleri yıkmak için bir dizi yeni fırsat sunduğu için önemli bir teknolojik olanak sağlıyor. Bunlardan biri, AI tarafından desteklenen, dijital asistanlar aracılığıyla telefonlarımızla etkileşime geçmeyi, web sitelerini ve belgeleri birkaç tıklamayla çevirmeyi, otomatik altyazı ile videoların erişilebilirliğini artırmayı mümkün kılan Dil teknolojisidir."
+msgstr "Dijital devrim kapımızda ve Yapay Zeka (AI) konuda önemli bir teknolojik kolaylaştırıcı. İnsanlığını gelişimi ve toplumsal kapsayıcılığın önündeki mevcut engelleri yıkmak için bir dizi yeni fırsat sunuyor. Yapay Zeka tarafından beslenen alanlardan biri de dil teknolojileri. Dijital asistanlar aracılığıyla telefonlarımızla iletişim kurmayı, web sitelerini ve belgeleri birkaç tıkla tercüme etmeyi, otomatik altyazı yerleştirme ile videoların erişilebilirliğini artırmayı mümkün kılan da yine dil teknolojileri."
 
 #: ../../3-Datadriven language tech.rst:14 07da296098cb4775a55bd64affb1b56f
-msgid ""
-"The main motor behind these is the advancement of the field **Natural Language "
-"Processing (NLP)**. But what does NLP entail? Here's a list of core "
-"technologies that fall in the area of this field:"
-msgstr ""
-"Bunların arkasındaki ana motor, **Doğal Dil İşleme (NLP)** alanının "
-"ilerlemesidir. Peki NLP ne içeriyor? İşte bu alanın alanına giren temel "
-"teknolojilerin bir listesi:"
+msgid "The main motor behind these is the advancement of the field **Natural Language Processing (NLP)**. But what does NLP entail? Here's a list of core technologies that fall in the area of this field:"
+msgstr "Tüm bunların arkasındaki ana motor, **Doğal Dil İşleme (NLP)** alanındaki ilerlemeler. Peki NLP ne içeriyor? İşte bu alanın kapsamına giren temel teknolojilerin bir listesi:"
 
 #: ../../3-Datadriven ddb0d2b51a864ef09f58afb770577287 language tech.rst:16
 msgid "Text-based:"
 msgstr "Metin tabanlı:"
 
 #: ../../3-Datadriven 4186fd61e84a4d34a47bf1e12672d548 language tech.rst:18
-#: tech.rst:44
 msgid "Machine translation"
-msgstr "Makine çevirisi"
+msgstr "Makine çevirisi (*machine trasnlation*)"
 
 #: ../../3-Datadriven d68e3a29166b4a1dbc8e25f127169e17 language tech.rst:19
 msgid "Information retrieval"
-msgstr "Bilgi alma"
+msgstr "Bilgi çekme (*information retrieval*)"
 
 #: ../../3-Datadriven 59dee0c1a3c24518acb192196c891e6d language tech.rst:20
 msgid "Information extraction"
-msgstr "Bilgi çıkarma"
+msgstr "Bilgi çıkarma (*information extraction*)"
 
 #: ../../3-Datadriven cde1728063974d7dac6c44ef41bd7082 language tech.rst:21
 msgid "Sentiment analysis"
-msgstr "Duygu analizi"
+msgstr "Duygu analizi (*sentiment analysis*)"
 
 #: ../../3-Datadriven 0e2bf5cabd41415aa1f8e567398eaae1 language tech.rst:22
 msgid "Question answering"
-msgstr "Soru cevaplama"
+msgstr "Soru cevaplama (*question answering*)"
 
 #: ../../3-Datadriven 73a5421ef203464e8613e6536c22de67 language tech.rst:23
 msgid "Text summarization"
-msgstr "Metin özetleme"
+msgstr "Otomatik Metin özetleme (*automatic summarization*)"
 
 #: ../../3-Datadriven 16be7f6d88d344369cb15e883ce49737 language tech.rst:24
 msgid "Named-entity recognition"
-msgstr "Adlandırılmış varlık tanıma"
+msgstr "İsim verilmiş varlık tanıma (*Named-entity recognition*)"
 
-#: ../../3-Datadriven c13fcc6042344f04b5b2aef191a8e96b language tech.rst:26
+#: ../../3-Datadriven language tech.rst:26 c13fcc6042344f04b5b2aef191a8e96b
 msgid "Speech-based:"
 msgstr "Konuşma tabanlı:"
 
 #: ../../3-Datadriven 62a41a348b5b4a58a06448dd2060ad6d language tech.rst:28
 #: tech.rst:70
 msgid "Automatic speech recognition"
-msgstr "Otomatik konuşma tanıma"
+msgstr "Otomatik konuşma tanıma (*Automatic speech recognition*)"
 
 #: ../../3-Datadriven 74f778b555a9450e9d778f93aeedc2f8 language tech.rst:29
 msgid "Text-to-speech synthesis"
-msgstr "Metin-konuşma sentezi"
+msgstr "Metin-konuşma sentezi (*Text-to-speech synthesis*)"
 
-#: ../../3-Datadriven e03b644c3b294d26a4c9b69c46e05a58 language tech.rst:31
-msgid ""
-"The revolutionary aspect of these technologies is that they are *data-driven*, "
-"which means that the intelligence that is created with these tools are "
-"collected from large volumes of information--or simply *data*. For example, in "
-"the case of machine translation, the engine \"models\" translation from a "
-"language to the other by looking at a collection of human-translated documents "
-"and sentences. Similarly a *sentinment analyzer* learns how to label if a tweet "
-"says good or bad about a company from thousands of tweets labelled by humans as "
-"carrying a good or bad sentiment."
-msgstr ""
-"Bu teknolojilerin devrim niteliğindeki yönü, *veri güdümlü* olmalarıdır; bu, bu "
-"araçlarla oluşturulan zekanın büyük hacimli bilgilerden veya yalnızca "
-"*verilerden* toplandığı anlamına gelir. Örneğin, makine çevirisi durumunda, "
-"motor, insan tarafından çevrilmiş belgeler ve cümleler koleksiyonuna bakarak "
-"bir dilden diğerine çeviriyi “modeller”. Benzer şekilde bir *duygu analizcisi*, "
-"insanlar tarafından iyi veya kötü bir duygu olarak etiketlenen binlerce "
-"tweet’ten bir tweet’in bir şirket hakkında iyi veya kötü olup olmadığını nasıl "
-"etiketleyeceğini öğrenir."
+#: ../../3-Datadriven language tech.rst:31 e03b644c3b294d26a4c9b69c46e05a58
+msgid "The revolutionary aspect of these technologies is that they are *data-driven*, which means that the intelligence that is created with these tools are collected from large volumes of information--or simply *data*. For example, in the case of machine translation, the engine \"models\" translation from a language to the other by looking at a collection of human-translated documents and sentences. Similarly a *sentinment analyzer* learns how to label if a tweet says good or bad about a company from thousands of tweets labelled by humans as carrying a good or bad sentiment."
+msgstr "Bu teknolojilerin devrim niteliğindeki yönü, *veriye dayalı* olmalarıdır. Veriye dayalı olma, bu araçlarla oluşturulan zekanın büyük hacimli bilgilerden veya daha basit ifadeyle *verilerden* toplandığı anlamına gelir. Örneğin, makine çevirisinde, motor, insan tarafından çevrilmiş belgeler ve cümleler toplamına bakarak bir dilden diğerine çeviriyi “modeller”. Benzer şekilde bir *duygu analizcisi*, insanlar tarafından iyi veya kötü bir duygu olarak etiketlenen binlerce tweet’ten yola çıkarak, bir tweet’in bir şirket hakkında iyi veya kötü bir şey söyleyip söylemediğini nasıl etiketleyeceğini öğrenir."
 
-#: ../../3-Datadriven a902d21c3b3f44f086a1c20fd0ef1f85 language tech.rst:33
-msgid ""
-"This dependency on data is what makes these technologies accessible to some "
-"languages and not to the others. The available resources for a language "
-"directly influences the possibility of developing an application for a "
-"language. As the greatest resource of textual data is the internet, and it is "
-"dominated by a few languages, these technologies tend to focus on only a "
-"handful of *dominant languages* e.g. English, Spanish, Chinese, Arabic etc."
-msgstr ""
-"Verilere olan bu bağımlılık, bu teknolojileri bazı diller için erişilebilir "
-"kılarken diğerleri için erişilebilir kılan şeydir. Bir dil için mevcut "
-"kaynaklar, bir dil için uygulama geliştirme olasılığını doğrudan etkiler. "
-"Metinsel verilerin en büyük kaynağı internet olduğundan ve birkaç dilin "
-"hakimiyetinde olduğundan, bu teknolojiler yalnızca bir avuç *güç dillerine* "
-"odaklanma eğilimindedir, ör. İngilizce, İspanyolca, Çince, Arapça vb."
+#: ../../3-Datadriven language tech.rst:33 a902d21c3b3f44f086a1c20fd0ef1f85
+msgid "This dependency on data is what makes these technologies accessible to some languages and not to the others. The available resources for a language directly influences the possibility of developing an application for a language. As the greatest resource of textual data is the internet, and it is dominated by a few languages, these technologies tend to focus on only a handful of *dominant languages* e.g. English, Spanish, Chinese, Arabic etc."
+msgstr "Bu teknolojileri bazı diller için erişilebilir kılarken diğerleri için erişilmez kılan, işte verilere olan bu bağımlılıktır. Bir dil için mevcut kaynaklar, o dil için uygulama geliştirme olasılığını doğrudan etkiler. Metinsel verilerin en büyük kaynağı internet olduğundan ve internet birkaç dilin hakimiyetinde olduğundan, bu teknolojiler İngilizce, İspanyolca, Çince, Arapça gibi bir avuç *baskın dile* odaklanma eğilimindedir."
 
-#: ../../3-Datadriven 7055247b14094f58968f86785df28562 language tech.rst:35
-msgid ""
-"The diagram below by `Microsoft Research Labs India <https://www.microsoft.com/"
-"en-us/research/publication/ellora-enabling-low-resource-languages-with-"
-"technology/>`_ illustrates the hierarchy created by this \"power-law\" among "
-"languages."
-msgstr ""
-"`Microsoft Research Labs India <https://www.microsoft.com/en-us/research/"
-"publication/ellora-enable-low-resource-languages-with-technology/>`_ tarafından "
-"hazırlanan aşağıdaki diyagram, tarafından oluşturulan hiyerarşiyi "
-"göstermektedir. diller arasındaki bu “güç yasası”."
+#: ../../3-Datadriven language tech.rst:35 7055247b14094f58968f86785df28562
+msgid "The diagram below by `Microsoft Research Labs India <https://www.microsoft.com/en-us/research/publication/ellora-enabling-low-resource-languages-with-technology/>`_ illustrates the hierarchy created by this \"power-law\" among languages."
+msgstr "`Microsoft Research Labs India <https://www.microsoft.com/en-us/research/publication/ellora-enabling-low-resource-languages-with-technology/>`_ tarafından hazırlanan aşağıdaki diyagram, diller arasındaki bu “güç yasası” tarafından yaratılan hiyerarşiyi göstermektedir."
 
-#: ../../3-Datadriven ac9671caa70046bb8a87c14f725df037
-#: ebbd81f6cfc34295bc41b1fc4efcc0e3 language tech.rst:41
-msgid ""
-"Classification of languages according to the availability of language "
-"technology, tools and resources"
-msgstr ""
-"Dil teknolojisinin, araçlarının ve kaynaklarının mevcudiyetine göre dillerin "
-"sınıflandırılması"
+#: ../../3-Datadriven language tech.rst:41
+msgid "Classification of languages according to the availability of language technology, tools and resources"
+msgstr "Dil teknolojisilerinin, araçlarının ve kaynaklarının mevcudiyetine göre dillerin sınıflandırılması"
+
+#: ../../3-Datadriven language tech.rst:43
+msgid "Machine translation"
+msgstr "Makine Çevirisi"
 
 #: ../../3-Datadriven 114896caea5c4aa2b617b2de11acd332 language tech.rst:46
 msgid ""
@@ -438,12 +394,6 @@ msgstr ""
 "edildiğini öğrenebilirler. Dilin kalıcı bir kaydıdır, çünkü o dil için hiç "
 "konuşmacı kalmadığı andan sonra bile varlığını sürdürecektir."
 
-#: ../../3-Datadriven 39636debb7e9494080a6d8f1c178da22 language tech.rst:108
-msgid ""
-"This document was created with the financial support of the European Union. The "
-"content of this website is the sole responsibility of Col·lectivaT and SKAD and "
-"does not necessarily reflect the views of the European Union."
-msgstr ""
-"Bu belge Avrupa Birliği’nin mali desteğiyle oluşturulmuştur. Bu web sitesinin "
-"içeriği yalnızca Col·lectivaT ve SKAD’ın sorumluluğundadır ve Avrupa "
-"Birliği’nin görüşlerini yansıtmayabilir."
+#: ../../3-Datadriven language tech.rst:108 39636debb7e9494080a6d8f1c178da22
+msgid "This document was created with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union."
+msgstr "Bu yayın Avrupa Birliğinin maddi desteği ile hazırlanmıştır. İçerik tamamıyla Col·lectivaT ve SKAD’ın sorumluluğundadır ve Avrupa Birliği’nin görüşlerini yansıtmak zorunda değildir."
