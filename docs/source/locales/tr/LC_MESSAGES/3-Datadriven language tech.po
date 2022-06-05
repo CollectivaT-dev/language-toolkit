@@ -46,7 +46,7 @@ msgstr "Metin tabanlı:"
 
 #: ../../3-Datadriven 4186fd61e84a4d34a47bf1e12672d548 language tech.rst:18
 msgid "Machine translation"
-msgstr "Makine çevirisi (*machine trasnlation*)"
+msgstr "Makine çevirisi (*machine translation*)"
 
 #: ../../3-Datadriven d68e3a29166b4a1dbc8e25f127169e17 language tech.rst:19
 msgid "Information retrieval"
@@ -70,7 +70,7 @@ msgstr "Otomatik Metin özetleme (*automatic summarization*)"
 
 #: ../../3-Datadriven 16be7f6d88d344369cb15e883ce49737 language tech.rst:24
 msgid "Named-entity recognition"
-msgstr "İsim verilmiş varlık tanıma (*Named-entity recognition*)"
+msgstr "İsim verilmiş varlık tanıma (*named-entity recognition*)"
 
 #: ../../3-Datadriven language tech.rst:26 c13fcc6042344f04b5b2aef191a8e96b
 msgid "Speech-based:"
@@ -79,11 +79,11 @@ msgstr "Konuşma tabanlı:"
 #: ../../3-Datadriven 62a41a348b5b4a58a06448dd2060ad6d language tech.rst:28
 #: tech.rst:70
 msgid "Automatic speech recognition"
-msgstr "Otomatik konuşma tanıma (*Automatic speech recognition*)"
+msgstr "Otomatik konuşma tanıma (*automatic speech recognition*)"
 
 #: ../../3-Datadriven 74f778b555a9450e9d778f93aeedc2f8 language tech.rst:29
 msgid "Text-to-speech synthesis"
-msgstr "Metin-konuşma sentezi (*Text-to-speech synthesis*)"
+msgstr "Metin-konuşma sentezi (*text-to-speech synthesis*)"
 
 #: ../../3-Datadriven language tech.rst:31 e03b644c3b294d26a4c9b69c46e05a58
 msgid "The revolutionary aspect of these technologies is that they are *data-driven*, which means that the intelligence that is created with these tools are collected from large volumes of information--or simply *data*. For example, in the case of machine translation, the engine \"models\" translation from a language to the other by looking at a collection of human-translated documents and sentences. Similarly a *sentinment analyzer* learns how to label if a tweet says good or bad about a company from thousands of tweets labelled by humans as carrying a good or bad sentiment."
@@ -101,31 +101,13 @@ msgstr "`Microsoft Research Labs India <https://www.microsoft.com/en-us/research
 msgid "Classification of languages according to the availability of language technology, tools and resources"
 msgstr "Dil teknolojisilerinin, araçlarının ve kaynaklarının mevcudiyetine göre dillerin sınıflandırılması"
 
-#: ../../3-Datadriven language tech.rst:43
+#: ../../3-Datadriven language tech.rst:44
 msgid "Machine translation"
 msgstr "Makine Çevirisi"
 
 #: ../../3-Datadriven 114896caea5c4aa2b617b2de11acd332 language tech.rst:46
-msgid ""
-"Machine Translation (MT) is defined as the automatic conversion of a sequence "
-"of symbols in one language to a sequence of symbols in another language. It has "
-"evolved through years from rule-based to statistical approaches, which modeled "
-"the probabilities of mappings between sub-phrases between translations. These "
-"probabilities are learned in a statistical fashion from parallel texts where "
-"sentence-aligned translations are available in the languages involved (referred "
-"as source and target languages). The diagram below illustrates the modelling of "
-"translating the word \"sure\" in English to Spanish using translations made in "
-"the UN Parliament."
-msgstr ""
-"Makine Çevirisi (MT), bir dildeki bir sembol dizisinin başka bir dilde bir "
-"sembol dizisine otomatik olarak dönüştürülmesi olarak tanımlanır. Yıllar "
-"içinde, çeviriler arasındaki alt ifadeler arasındaki eşleme olasılıklarını "
-"modelleyen kural tabanlı yaklaşımlardan istatistiksel yaklaşımlara doğru "
-"evrilmiştir. Bu olasılıklar, ilgili dillerde (kaynak ve hedef diller olarak "
-"adlandırılır) cümle hizalı çevirilerin mevcut olduğu paralel metinlerden "
-"istatistiksel bir şekilde öğrenilir. Aşağıdaki şema, BM Parlamentosu’nda "
-"yapılan çevirileri kullanarak İngilizce’deki “kesin” kelimesinin İspanyolca’ya "
-"çevrilmesinin modellenmesini göstermektedir."
+msgid "Machine Translation (MT) is defined as the automatic conversion of a sequence of symbols in one language to a sequence of symbols in another language. It has evolved through years from rule-based to statistical approaches, which modeled the probabilities of mappings between sub-phrases between translations. These probabilities are learned in a statistical fashion from parallel texts where sentence-aligned translations are available in the languages involved (referred as source and target languages). The diagram below illustrates the modelling of translating the word \"sure\" in English to Spanish using translations made in the UN Parliament."
+msgstr "Makine Çevirisi (MT), bir dildeki bir sembol dizisinin başka bir dilde bir sembol dizisine otomatik olarak dönüştürülmesi olarak tanımlanır. Yıllar içinde, çeviriler arasındaki alt ifadeler arasındaki eşleme olasılıklarını modelleyen kural tabanlı yaklaşımlardan istatistiksel yaklaşımlara doğru evrilmiştir. Bu olasılıklar, ilgili dillerde (kaynak ve hedef diller olarak adlandırılır) cümle hizalı çevirilerin mevcut olduğu paralel metinlerden istatistiksel bir şekilde öğrenilir. Aşağıdaki şema, BM Parlamentosu’nda yapılan çevirileri kullanarak İngilizce’deki “kesin” kelimesinin İspanyolca’ya çevrilmesinin modellenmesini göstermektedir."
 
 #: ../../3-Datadriven 41f21645c48343efbba714ba4bf71551
 #: 817782b1ad564aa88db08387ee353748 language tech.rst:52
@@ -245,6 +227,10 @@ msgstr ""
 "MT geliştirme bu tür verilere dayandığından, bu yenilikçi dil belgeleme "
 "yöntemi, çevrilmiş cümle toplama çabasını azaltır. *(Bir sonraki bölümde "
 "paralel veriler hakkında daha fazla bilgi edineceğiz)*"
+
+#: ../../3-Datadriven 30bbb313eece4d649951f6034c4e4bec language tech.rst:70
+msgid "Automatic speech recognition"
+msgstr "Otomatik konuşma tanıma"
 
 #: ../../3-Datadriven 30bbb313eece4d649951f6034c4e4bec language tech.rst:72
 msgid ""
