@@ -74,7 +74,7 @@ msgstr "Metin derlemlerine kaynak sağlama"
 
 #: ../../4-Language 0450fc7eebb649d0867df93b8264fc80 data.rst:31
 msgid "The most common way of sourcing text corpora is through *crawling* the world wide web. This technique parses the whole web for collecting text in a certain language or many languages at once. Wikipedia `publishes its content <https://en.wikipedia.org/wiki/Wikipedia:Database_download>`_ in different languages which can be used to create text corpora. `Common Crawl <https://commoncrawl.org/>`_ initiative collects web site data and freely provides petabytes of data. OSCAR distributes this data classified into 166 languages."
-msgstr "Metin derlemine kaynak sağlamanın en yaygın yolu, web’i *taramaktır*. Bu teknik, aynı anda belirli bir dilde veya birçok dilde metin toplamak için tüm web’i ayrıştırır (*parse*). Örneğin Wikipedia, içeriğini farklı dillerde `yayınlar <https://en.wikipedia.org/wiki/Wikipedia:Database_download>`_, bu da bir metin derlemi oluşturmak için kullanıblabilir. `Common Crawl <https://commoncrawl.org/>`_ inisiyatifi, web sitesi verilerini toplar ve halka petabaytlarca (1 PB=1024 terrabayt) veriyi ücretsiz olarak sağlar. OSCAR, bu verileri 166 dilde sınıflandırararak dağıtır."
+msgstr "Metin derlemine kaynak sağlamanın en yaygın yolu, web’i *taramaktır*. Bu teknik, aynı anda belirli bir dilde veya birçok dilde metin toplamak için tüm web’i ayrıştırır (*parse*). Örneğin Wikipedia, içeriğini farklı dillerde `yayınlar <https://en.wikipedia.org/wiki/Wikipedia:Database_download>`_, bu da bir metin derlemi oluşturmak için kullanılabilir. `Common Crawl <https://commoncrawl.org/>`_ inisiyatifi, web sitesi verilerini toplar ve halka petabaytlarca (1 PB=1024 terrabayt) veriyi ücretsiz olarak sağlar. OSCAR, bu verileri 166 dilde sınıflandırararak dağıtır."
 
 #: ../../4-Language d5f6c1117ac9431dbfe02cd7d270d2fd data.rst:33
 msgid "Another common resource used by resourceful languages are books. `BookCorpus <https://yknzhu.wixsite.com/mbweb>`_ consists of 11,038 books from the web containing 74 Million sentences and 984 Million words and is known to have powered many influential language models by big tech companies."
@@ -90,71 +90,31 @@ msgstr "Paralel veri (bitext)"
 
 #: ../../4-Language 97521e0ea7a247ae959ff754b6417058 data.rst:41
 msgid "The type of data that is needed to build a machine translation system is parallel data, which consists of a collection of sentences in a language together with their translations. Historically, parallel data were sourced from translations in multilingual public spaces like United Nations, European Parliament. Now, the greatest resource of parallel text is the multilingual web."
-msgstr "Bir makine çeviri sistemi oluşturmak için ihtiyaç duyulan veri türü, bir dildeki tümcelerin çevirileriyle birlikte bir araya gelmesinden oluşan paralel veridir. Tarihsel olarak paralel veriler, Birleşmiş Milletler, Avrupa Parlamentosu gibi çok dilli parlamentolardaki çevirilerden alınmıştır. Şimdi, paralel metnin en büyük kaynağı çok dilli ağdır."
+msgstr "Paralel veri, bir makine çevirisi sistemi oluşturmak için ihtiyaç duyulan veri türüdür ve bir dildeki cümlelerin çevirileriyle birlikte bir araya gelmesinden oluşur. Tarihsel olarak paralel verilerin kaynağı Birleşmiş Milletler ya da Avrupa Parlamentosu gibi çok dilli kamusal alanlarda yapılan çeviriler olmuştur. Şu anda ise paralel metnin en büyük kaynağı çok dilli web’dir."
 
 #: ../../4-Language data.rst:43 f1316bf19ba145b19fe6f585f8757fea
-msgid ""
-"In order to train machine translation models it is not enough just to have "
-"translated documents. The texts need to be segmented to sentences and aligned. "
-"Parallel text alignment is the identification of the corresponding sentences in "
-"both sides of the parallel text. The resulting documents either have to "
-"correspond line by line or contain the original sentences and their "
-"translations in the same line. `Hunalign <https://github.com/danielvarga/"
-"hunalign>`_ helps in creating sentence alignments from translated documents. "
-"Translation memories (TMX files) also make great parallel data as they are "
-"already sentence segmented."
-msgstr ""
-"Makine çevirisi modellerini eğitmek için sadece tercüme edilmiş belgelere sahip "
-"olmak yeterli değildir. Metinlerin cümlelere bölünmesi ve hizalanması gerekir. "
-"Paralel metin hizalama, paralel metnin her iki yarısındaki karşılık gelen "
-"cümlelerin tanımlanmasıdır. Ortaya çıkan belgeler ya satır satır karşılık "
-"gelmeli ya da orijinal cümleleri ve çevirilerini aynı satırda içermelidir. "
-"`Hunalign <https://github.com/danielvarga/hunalign>`_ çevrilmiş belgelerden "
-"cümle hizalamaları oluşturmaya yardımcı olur."
+msgid "In order to train machine translation models it is not enough just to have translated documents. The texts need to be segmented to sentences and aligned. Parallel text alignment is the identification of the corresponding sentences in both sides of the parallel text. The resulting documents either have to correspond line by line or contain the original sentences and their translations in the same line. `Hunalign <https://github.com/danielvarga/hunalign>`_ helps in creating sentence alignments from translated documents. Translation memories (TMX files) also make great parallel data as they are already sentence segmented."
+msgstr "Makine çevirisi modellerini eğitmek için sadece tercüme edilmiş belgelere sahip olmak yeterli değildir. Metinlerin cümlelere bölünmesi ve hizalanması gerekir. Paralel metin hizalama, paralel metnin her iki tarafında birbirine karşılık gelen cümlelerin tanımlanmasıdır. Ortaya çıkan belgeler ya satır satır karşılık gelmeli ya da orijinal cümleleri ve çevirilerini aynı satırda içermelidir. `Hunalign <https://github.com/danielvarga/hunalign>`_ çevrilmiş belgelerden cümle hizalamaları oluşturmaya yardımcı olur. TMX uzantılı çeviri hafızası dosyaları (*Translation Memories*) da hali hazırda cümle cümle segmentlere ayrılmış olduğu için iyi paralel veriler oluşturur."
 
 #: ../../4-Language 1f3b808ba5884f7ba8ef4816a326094d data.rst:46
 msgid "Sourcing parallel data"
-msgstr "Paralel veri sağlama"
+msgstr "Paralel veriye kaynak sağlama"
 
 #: ../../4-Language data.rst:48 e1a2835be47f4ec2a1884c7821a9cb4a
-msgid ""
-"`OPUS <https://opus.nlpl.eu/>`_ is a collection of almost all publicly "
-"available parallel data. It is the go-to point for many researchers to publish "
-"their parallel data or source data for development of MT models."
-msgstr ""
-"`OPUS <https://opus.nlpl.eu/>`_ hemen hemen tüm kamuya açık paralel verilerin "
-"bir koleksiyonudur. MT modellerinin geliştirilmesi için birçok araştırmacının "
-"paralel verilerini veya kaynak verilerini yayınlaması için gidilecek noktadır."
+msgid "`OPUS <https://opus.nlpl.eu/>`_ is a collection of almost all publicly available parallel data. It is the go-to point for many researchers to publish their parallel data or source data for development of MT models."
+msgstr "`OPUS <https://opus.nlpl.eu/>`_ hemen hemen tüm kamuya açık paralel verilerin bir derlemesidir. Birçok araştırmacının, MT modelleri için kaynak verilerini toplamak veya paralel verilerini yayınlamak için başvurduğu ilk yerdir."
 
 #: ../../4-Language 2e8671421bd34891bc8a6c1fac2efa02 data.rst:50
-msgid ""
-"Some common sources for parallel data are: - Multilingual web sites (e.g. "
-"international news outlets), - Movie subtitles (see `OpenSubtitles <https://"
-"opus.nlpl.eu/OpenSubtitles.php>`_), - Holy texts, - Parliament proceedings, - "
-"Software localization data."
-msgstr ""
-"Paralel veriler için bazı yaygın kaynaklar şunlardır: - Çok dilli web siteleri "
-"(örneğin uluslararası haber kuruluşları), - Film altyazıları (bkz. "
-"`OpenSubtitles <https://opus.nlpl.eu/OpenSubtitles.php>`_), - Kutsal metinler, "
-"- Parlamento işlemleri, - Yazılım yerelleştirme verileri."
+msgid "Some common sources for parallel data are: - Multilingual web sites (e.g. international news outlets), - Movie subtitles (see `OpenSubtitles <https://opus.nlpl.eu/OpenSubtitles.php>`_), - Holy texts, - Parliament proceedings, - Software localization data."
+msgstr "Paralel veriler için bazı yaygın kaynaklar şunlardır: Çok dilli web siteleri (ör. uluslararası haber kuruluşları), film altyazıları (bkz. `OpenSubtitles <https://opus.nlpl.eu/OpenSubtitles.php>`_), kutsal metinler, parlamento oturumları, yazılım yerelleştirme verileri."
 
 #: ../../4-Language 22709888aac34fd5bfee1f150439b7c9 data.rst:58
 msgid "Crowdsourcing parallel data with Tatoeba.org"
-msgstr "Tatoeba ile kitle kaynaklı paralel veriler sağlama"
+msgstr "Tatoeba.org ile kitle kaynaklı paralel veriler sağlama"
 
 #: ../../4-Language 151be0b5078547ff855f4dd5e90b24cf data.rst:60
-msgid ""
-"Tatoeba is a free collection of example sentences with translations geared "
-"towards foreign language learners. It is written and maintained by a community "
-"of volunteers through a model of open collaboration. It is hosted by Tatoeba "
-"Association, a French non-profit organization funded through donations. It "
-"currently holds 10,397,308 sentences in 412 supported languages."
-msgstr ""
-"Tatoeba, yabancı dil öğrenenlere yönelik çevirileri olan ücretsiz bir örnek "
-"cümleler topluluğudur. Bir açık işbirliği modeli aracılığıyla bir gönüllüler "
-"topluluğu tarafından yazılır ve sürdürülür. Bağışlarla finanse edilen Fransız "
-"kar amacı gütmeyen bir kuruluş olan Association Tatoeba tarafından "
-"düzenlenmektedir. Şu anda 412 desteklenen dilde 10.397.308 cümle barındırıyor."
+msgid "Tatoeba is a free collection of example sentences with translations geared towards foreign language learners. It is written and maintained by a community of volunteers through a model of open collaboration. It is hosted by Tatoeba Association, a French non-profit organization funded through donations. It currently holds 10,397,308 sentences in 412 supported languages."
+msgstr "Tatoeba, yabancı dil öğrenenlere yönelik hazırlanmış, çevirileri ile birlikte sunulan ücretsiz bir örnek cümleler veri tabanıdır. Açık ve ortak çalışma modeli aracılığıyla bir gönüllüler topluluğu tarafından yazılır ve sürdürülür. Bağışlarla finanse edilen kar amacı gütmeyen Fransız kuruluş Tatoeba Association tarafından sunulur. Şu anda 412 desteklenen dilde 10.397.308 cümle barındırır."
 
 #: ../../4-Language 0d34fb2e528f4083863ce412f0c9d2a5
 #: 15780b77fedd4a7e82dffc59892d9ede data.rst:66
@@ -162,82 +122,32 @@ msgid "A sentence and its translations from Tatoeba"
 msgstr "Tatoeba’dan bir cümle ve çevirileri"
 
 #: ../../4-Language data.rst:68 e3430e7e51374676af1cb809cc7486e4
-msgid ""
-"Users can search for words in any language to retrieve sentences that use them. "
-"Each sentence in the Tatoeba database is displayed next to its likely "
-"translations in other languages; direct and indirect translations are "
-"differentiated. Sentences are tagged for content such as subject matter, "
-"dialect, or vulgarity; they also each have individual comment threads to "
-"facilitate feedback and corrections from other users and cultural notes. "
-"Sentences can be browsed by language, tag, and other criteria."
-msgstr ""
-"Kullanıcılar, onları kullanan cümleleri almak için herhangi bir dilde "
-"kelimeleri arayabilir. Tatoeba veri tabanındaki her cümle, diğer dillerdeki "
-"olası çevirilerinin yanında görüntülenir; Doğrudan ve dolaylı çeviriler "
-"birbirinden ayrılır. Cümleler, konu, lehçe veya kabalık gibi içerik için "
-"etiketlenir; ayrıca diğer kullanıcılardan ve kültürel notlardan gelen geri "
-"bildirimleri ve düzeltmeleri kolaylaştırmak için her birinin ayrı yorum "
-"dizileri vardır. Cümleler dil, etiket ve diğer kriterlere göre taranabilir."
+msgid "Users can search for words in any language to retrieve sentences that use them. Each sentence in the Tatoeba database is displayed next to its likely translations in other languages; direct and indirect translations are differentiated. Sentences are tagged for content such as subject matter, dialect, or vulgarity; they also each have individual comment threads to facilitate feedback and corrections from other users and cultural notes. Sentences can be browsed by language, tag, and other criteria."
+msgstr "Kullanıcılar, herhangi bir dilde kelimeleri arayabilir, bu kelimelerin geçtiği cümleleri bulabilirler. Tatoeba veri tabanındaki her cümle, yanında diğer dillerdeki olası çevirileriyle birlikte gösterilir; doğrudan ve dolaylı çeviriler birbirinden ayrılır. Cümle içerikleri konu, diyalekt veya müstehcenlik gibi etkiletlerle belirtilir; ayrıca kültürel notlar ve diğer kullanıcılardan gelen geri bildirimler ve düzeltmeleri kolaylaştırmak için her birinin ayrı yorum zincirleri bulunur. Cümleler dil, etiket ve başka kriterlere göre aranabilir."
 
 #: ../../4-Language c4b8a81095d247d3b4df63c69a622a79 data.rst:70
-msgid ""
-"Registered users can add new sentences or translate or proofread existing ones, "
-"even if their target language is not their native tongue. However, users are "
-"encouraged to add original sentences or translations in their native or "
-"strongest language."
-msgstr ""
-"Kayıtlı kullanıcılar, hedef dilleri ana dilleri olmasa bile yeni cümleler "
-"ekleyebilir veya mevcut cümleleri çevirebilir veya düzeltebilir. Ancak, "
-"kullanıcıların kendi ana dillerinde veya en güçlü dillerinde orijinal cümleler "
-"veya çeviriler eklemeleri önerilir."
+msgid "Registered users can add new sentences or translate or proofread existing ones, even if their target language is not their native tongue. However, users are encouraged to add original sentences or translations in their native or strongest language."
+msgstr "Kayıtlı kullanıcılar, hedef dil kendi ana dilleri olmasa bile yeni cümleler ekleyebilir veya mevcut cümleleri çevirebilir veya düzeltebilir. Ancak, kullanıcıların kendi ana dillerinde veya en iyi bildikleri dillerde orijinal cümleler veya çeviriler eklemeleri önerilir."
 
 #: ../../4-Language d10443269175434487dec1dc3e04fed5 data.rst:72
-msgid ""
-"The entire Tatoeba database is published under a Creative Commons Attribution "
-"2.0 license. It is also very easy to download parts of corpora in monolingual "
-"or parallel format from its `downloads page <https://tatoeba.org/en/"
-"downloads>`_."
-msgstr ""
-"Tatoeba veritabanının tamamı Creative Commons Attribution 2.0 lisansı altında "
-"yayınlanmaktadır. Ayrıca, `indirmeler sayfasından <https://tatoeba.org/en/"
-"downloads>` corpora bölümlerini tek dilli veya paralel biçimde indirmek çok "
-"kolaydır."
+msgid "The entire Tatoeba database is published under a Creative Commons Attribution 2.0 license. It is also very easy to download parts of corpora in monolingual or parallel format from its `downloads page <https://tatoeba.org/en/downloads>`_."
+msgstr "Tatoeba veritabanının tamamı Creative Commons Atıf 2.0 lisansı altında yayınlanmaktadır. Ayrıca, `downloads sayfasından <https://tatoeba.org/en/downloads>` parça parça derlemleri tek dilli veya paralel biçimde indirmek çok kolaydır."
 
 #: ../../4-Language a60503f841464ee9b25f88ec628de7e6 data.rst:75
 msgid "Speech corpus"
 msgstr "Konuşma derlemi"
 
 #: ../../4-Language data.rst:77 efccae83894b42b2a44046ab153b4263
-msgid ""
-"A speech corpus is a collection of speech audio files usually accompanied with "
-"their text transcriptions. In speech technology, speech corpora are used to "
-"create acoustic models for tasks like automatic speech recognition, text-to-"
-"speech synthesis and also speaker identification."
-msgstr ""
-"Bir konuşma derlemi, konuşma ses dosyalarının ve bunların metin "
-"transkripsiyonlarının bir koleksiyonudur. Konuşma teknolojisinde, otomatik "
-"konuşma tanıma, metin-konuşma sentezi ve ayrıca konuşmacı tanımlama gibi "
-"görevler için akustik modeller oluşturmak için konuşma derlemleri kullanılır."
+msgid "A speech corpus is a collection of speech audio files usually accompanied with their text transcriptions. In speech technology, speech corpora are used to create acoustic models for tasks like automatic speech recognition, text-to-speech synthesis and also speaker identification."
+msgstr "Bir konuşma derlemi (*speech corpus/corpora*), konuşma ses dosyalarının ve genellikle bunların metin transkripsiyonlarının bir toplamıdır. Konuşma teknolojisinde konuşma derlemleri otomatik konuşma tanıma, metin-konuşma sentezi veya konuşmacı tanımlama gibi görevler için akustik modeller oluşturmak için kullanılır."
 
 #: ../../4-Language 570642396e33453ca99ab1c89de5889d data.rst:79
-msgid ""
-"Speech corpora can contain read (e.g. audiobooks, news, read numbers and words) "
-"or spontaneous speech (dialogues). Corpora adequeate for training ASR models "
-"contain samples from as many speakers as possible and in various acoustic "
-"settings (e.g. noisy, from far). In contrast, training data for TTS contains "
-"usually recordings from one speaker in an acoustically optimal setting."
-msgstr ""
-"Bir konuşma derlemi, konuşma koleksiyonlarının ve bir metin trans "
-"koleksiyonudur. Konuşma tasarımında konuşma tanıma, metin-konuşma sentezi ve "
-"genel gibi sınıflar için modeller oluşturmak için genel derlem."
+msgid "Speech corpora can contain read (e.g. audiobooks, news, read numbers and words) or spontaneous speech (dialogues). Corpora adequeate for training ASR models contain samples from as many speakers as possible and in various acoustic settings (e.g. noisy, from far). In contrast, training data for TTS contains usually recordings from one speaker in an acoustically optimal setting."
+msgstr "Konuşma derlemi okunmuş (ör. sesli kitaplar, haberler, okunmuş sayı veya kelimeler) veya doğal konuşmalar (diyaloglar) içerebilir. ASR (otomatik konuşma tanıma) modelleri eğitmeye uygun derlemler, mümkün olduğunca çok konuşmacıdan çeşitli akustik ortamlarda (ör. gürültülü, uzaktan) toplanan örnek konuşmaları içerir. Bunun tersine, TTS eğitim verileri çoğu zaman ideal akustik ortamda tek bir konuşmacıdan alınan kayıtlardan oluşur."
 
 #: ../../4-Language 2e0890b19898495287a8a682822067d6 data.rst:81
-msgid ""
-"`OpenSLR <https://www.openslr.org/resources.php>`_ lists many publicly "
-"available speech corpora."
-msgstr ""
-"`OpenSLR <https://www.openslr.org/resources.php>`_ halka açık birçok konuşma "
-"derlemini listeler."
+msgid "`OpenSLR <https://www.openslr.org/resources.php>`_ lists many publicly available speech corpora."
+msgstr "`OpenSLR <https://www.openslr.org/resources.php>`_ halka açık birçok konuşma derlemini listeler."
 
 #: ../../4-Language 234a3cfbdc824f5eaefc6af368b33c65 data.rst:84
 msgid "Common Voice"
