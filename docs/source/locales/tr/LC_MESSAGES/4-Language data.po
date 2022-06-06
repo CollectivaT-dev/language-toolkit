@@ -228,4 +228,4 @@ msgstr "`Wikipedia’da Common Voice <https://en.wikipedia.org/wiki/Common_Voice
 
 #: ../../4-Language 00440dff25714964bb7c5cab7316fd4a data.rst:127
 msgid "This document was created with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union."
-msgstr "Bu yayın Avrupa Birliğinin maddi desteği ile hazırlanmıştır. İçerik tamamıyla Col·lectivaT ve SKAD’ın sorumluluğundadır ve Avrupa Birliği’nin görüşlerini yansıtmak zorunda değildir."
+msgstr "Bu yayın Avrupa Birliğinin maddi desteği ile hazırlanmıştır. İçerik tamamıyla Col·lectivaT ve SKAD’ın sorumluluğundadır ve Avrupa Birliğinin görüşlerini yansıtmak zorunda değildir."
