@@ -36,7 +36,7 @@ Online presence of a language
 
 Traditionally, the responsibilities of a language activist has been actively speaking the language, passing it to younger generations, forming language learning and speaking communities, negotiating with public institutions for the inclusion of their language, collaborating with linguists for the documentation of their language and so on. 
 
-Nowadays, the challenge is not just making the language alive in the physical world but also online. It is related in two ways for the survival of a language:
+Nowadays, the challenge is not just making the language alive in the physical world but also online. It is related in three ways for the survival of a language:
 
 1. Exchanges and visibility online strikes interest and helps engage existing and new language learners.
 2. What's stored online in turn is a digital record for language which helps documentation and technology development. 
