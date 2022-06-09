@@ -26,244 +26,116 @@ msgstr "Türkiye ve Avrupa Birliği bayrakları"
 
 #: ../../5-Case b05b4e71bb37480b9e01b1418697233a studies.rst:7
 msgid "This project is funded by the European Union."
-msgstr "Bu proje Avrupa Birliği tarafından finanse edilmektedir."
+msgstr "Bu proje Avrupa Birliği tarafından finanse edilmiştir."
 
 #: ../../5-Case 0280835a7d3f4f70b3865d2a72a3b47b studies.rst:10
 msgid "Case studies"
 msgstr "Örnek çalışmalar"
 
 #: ../../5-Case 32db5e25c9eb4aee9d5d397de3922637 studies.rst:12
-msgid ""
-"In this section, we list some language technology-related initiatives and "
-"works that we deem exemplary or inspiring for endangered and minority "
-"languages. We will start with describing the project which gave fruit to this "
-"document \"Judeo-Spanish: Connecting the two ends of the Mediterranean\" and "
-"continue with projects that involve Anatolian, Iberian and African languages."
-msgstr ""
-"Bu bölümde, nesli tükenmekte olan ve azınlıklaştırılmış dilleri için örnek "
-"veya ilham verici olduğunu düşündüğümüz dil teknolojisi ile ilgili bazı "
-"girişimleri ve çalışmaları listeliyoruz. “Yahudi İspanyolcası: Akdeniz’in iki "
-"ucunu birbirine bağlamak” adlı bu belgeye meyve veren projeyi anlatarak "
-"başlayıp Anadolu, İber, Afrika dillerini içeren projelerle devam edeceğiz."
+msgid "In this section, we list some language technology-related initiatives and works that we deem exemplary or inspiring for endangered and minority languages. We will start with describing the project which gave fruit to this document \"Judeo-Spanish: Connecting the two ends of the Mediterranean\" and continue with projects that involve Anatolian, Iberian and African languages."
+msgstr "Bu bölümde, yok olma tehlikesi altındaki diller ve azınlık dilleri için örnek veya ilham verici olduğunu düşündüğümüz dil teknolojisi ile ilgili bazı girişimleri ve çalışmaları listeliyoruz. Bu belgenin de bünyesinde hazırlandığı “Judeoespanyol: Akdeniz’in iki yakasını birleştiren dil” projesini anlatarak başlayıp Anadolu, İber, Afrika dillerini içeren projelerle devam edeceğiz."
 
 #: ../../5-Case 9e8a0737b6d749b086191fe56f8ec648 studies.rst:15
 msgid "Judeo-Spanish: Connecting the two ends of the Mediterranean"
-msgstr "Judeoespanyol: Akdeniz’in iki ucunu birleştiren dil"
+msgstr "Judeoespanyol: Akdeniz’in iki yakasını birleştiren dil"
 
 #: ../../5-Case 559cced8c9a64f00a9d24d740b38eedd studies.rst:17
-msgid ""
-"Col·lectivaT and Sephardic Centre of Istanbul have come together for this "
-"project to carry out a diverse set of activities ranging from social media "
-"content creation to development of advanced language technology that assist "
-"Judeo-Spanish (Ladino) to the digital age. It also aimed to form awareness on "
-"this language as a common heritage between Turkey and Spain."
-msgstr ""
-"Col·lectivaT ve Sefarad Kültür Araştırma Merkezi (SKAD), sosyal medya "
-"içeriklerinin oluşturulmasından, Ladino’ya dijital çağa yardımcı olan ileri "
-"dil teknolojisinin geliştirilmesine kadar çok çeşitli faaliyetler "
-"gerçekleştirmek üzere bu proje için bir araya geldi. Ayrıca bu dilin Türkiye "
-"ile İspanya arasında ortak bir miras olduğu konusunda farkındalık oluşturmayı "
-"amaçlamıştır."
+msgid "Col·lectivaT and Sephardic Centre of Istanbul have come together for this project to carry out a diverse set of activities ranging from social media content creation to development of advanced language technology that assist Judeo-Spanish (Ladino) to the digital age. It also aimed to form awareness on this language as a common heritage between Turkey and Spain."
+msgstr "Col·lectivaT ve Sefarad Kültür Araştırma Merkezi (SKAD), sosyal medya için dil eğitimi içeriklerinin oluşturulmasından, Ladino’ya dijital çağa yardımcı olacak ileri dil teknolojilerinin geliştirilmesine kadar çok çeşitli faaliyetler gerçekleştirmek üzere bu proje için bir araya geldi. Ayrıca bu dilin Türkiye ile İspanya arasında ortak bir kültür mirası olduğu konusunda farkındalık oluşturmayı amaçlıyor."
 
 #: ../../5-Case 25ee1454040044eeae0d0d47b53e3bd6 studies.rst:20
 msgid "Creation of audio-visual content for social media"
 msgstr "Sosyal medya için görsel-işitsel içerik oluşturulması"
 
 #: ../../5-Case 7fb3368b86f04e6daee0a2e5ac96a623 studies.rst:22
-msgid ""
-"The project created short language learning videos that would help gain "
-"visibility in social-media platforms and attract young generations to learn "
-"Ladino. In these short videos, a Judeo-Spanish phrase is presented with its "
-"translation in Turkish, English and Spanish with an audio helping to learn its "
-"pronuciation."
-msgstr ""
-"Proje, sosyal medya platformlarında görünürlük kazanmaya yardımcı olacak ve "
-"genç nesilleri Ladino öğrenmeye çekecek kısa dil öğrenme videoları oluşturdu. "
-"Bu kısa videolarda bir Judeo-İspanyolca deyimi Türkçe, İngilizce ve İspanyolca "
-"çevirisi ile telaffuzunu öğrenmenize yardımcı olacak sesli bir şekilde "
-"sunulmaktadır."
+msgid "The project created short language learning videos that would help gain visibility in social-media platforms and attract young generations to learn Ladino. In these short videos, a Judeo-Spanish phrase is presented with its translation in Turkish, English and Spanish with an audio helping to learn its pronuciation."
+msgstr "Proje, sosyal medya platformlarında görünürlük kazanmaya yardımcı olacak ve genç nesilleri Ladino öğrenmeye çekecek kısa dil öğrenme videoları oluşturdu. Bu kısa videolarda bir Ladino cümleyi Türkçe, İngilizce ve İspanyolca çevirisi ile telaffuzunu öğrenmeye yardımcı olacak sesli bir şekilde sunuluyor."
 
 #: ../../5-Case 1ce7f204208a4bb19d8ab0865508ba8b studies.rst:28
 msgid "Fraza del diya segments from SKAD's instagram page"
-msgstr "SKAD’ın instagram sayfasından Fraza al diya segmentleri"
+msgstr "SKAD’ın Instagram sayfasından Una Fraza al diya segmentleri"
 
 #: ../../5-Case 5398363658e245a9bbb9b6362e1cf535 studies.rst:28
-msgid ""
-"Promoting Ladino on SKAD's instagram page with Fraza del diya (One sentence a "
-"day) videos"
-msgstr ""
-"Una Fraza al diya (Her güne bir cümle) videoları ile SKAD’ın instagram "
-"sayfasında Ladino’yu tanıtma"
+msgid "Promoting Ladino on SKAD's instagram page with Fraza del diya (One sentence a day) videos"
+msgstr "Una Fraza al diya (Her gün bir cümle) videoları ile SKAD’ın Instagram sayfasında Ladino tanıtımı"
 
 #: ../../5-Case 11aa5ad494eb48adbf0e61af829f7462 studies.rst:31
 msgid "Ladino Data Hub and open language datasets"
 msgstr "Ladino Data Hub ve açık dil veri kümeleri"
 
 #: ../../5-Case 830a9e6ea23a48048b18580124cb2958 studies.rst:33
-msgid ""
-"The project launched `Ladino Data Hub <https://data.sefarad.com.tr/>`_ which "
-"will act as a centralized web archive dedicated to host Ladino language data "
-"and other resources that help document Sephardic culture. It aims to enable "
-"researchers, journalists from all over the world to access and share datasets "
-"that would help boost research and development for Ladino."
-msgstr ""
-"Proje, Ladino dili verilerini ve Sefarad kültürünün belgelenmesine yardımcı "
-"olan diğer kaynakları barındırmaya ayrılmış merkezi bir web arşivi görevi "
-"görecek olan `Ladino Veri Merkezi’ni <https://data.sefarad.com.tr/>`_ "
-"başlattı. Dünyanın her yerinden araştırmacıların, gazetecilerin Ladino için "
-"araştırma ve geliştirmeyi artırmaya yardımcı olacak veri kümelerine erişmesini "
-"ve bunları paylaşmasını sağlamayı amaçlıyor."
+msgid "The project launched `Ladino Data Hub <https://data.sefarad.com.tr/>`_ which will act as a centralized web archive dedicated to host Ladino language data and other resources that help document Sephardic culture. It aims to enable researchers, journalists from all over the world to access and share datasets that would help boost research and development for Ladino."
+msgstr "Proje, Ladino dil verilerini ve Sefarad kültürünün belgelenmesine yardımcı olan diğer kaynakları barındırmaya ayrılmış merkezi bir web arşivi görevi görecek olan `Ladino Data Hub’ı <https://data.sefarad.com.tr/>`_ oluşturdu. Dünyanın her yerinden araştırmacıların, gazetecilerin Ladino için araştırma ve geliştirmeyi arttırmaya yardımcı olacak veri kümelerine erişmesini ve bunları paylaşmasını sağlamayı amaçlıyor."
 
 #: ../../5-Case 8419fe9679c74d5bb2b4118729110c6b studies.rst:39
-msgid ""
-"Ladino data hub entry page with three of the datasets related to Ladino "
+msgid "Ladino data hub entry page with three of the datasets related to Ladino "
 "language"
-msgstr ""
-"Ladino dili ile ilgili üç veri setini içeren Ladino veri merkezi giriş sayfası"
+msgstr "Ladino dili ile ilgili üç veri setini içeren Ladino veri merkezi giriş sayfası"
 
 #: ../../5-Case 8412f6a4fb9b4f86aeaa7ef586986610 studies.rst:39
 msgid "Ladino Data Hub hosts data related to Ladino and Sephardic culture"
-msgstr "Ladino Data Hub, Ladino ve Sefarad kültürüyle ilgili verileri barındırır"
+msgstr "Ladino Data Hub, Ladino dili ve Sefarad kültürüyle ilgili verileri barındıyor"
 
 #: ../../5-Case ead420582ede4ec1ae5e76ff251d09a3 studies.rst:41
-msgid ""
-"The project created and repackaged already existing datasets and shared in "
-"this portal. These are:"
-msgstr ""
-"Proje, halihazırda var olan veri kümelerini oluşturup yeniden paketledi ve bu "
-"portalda paylaştı. Bunlar:"
+msgid "The project created and repackaged already existing datasets and shared in this portal. These are:"
+msgstr "Proje, halihazırda var olan veri kümelerini yeniden paketledi, yeni veri kümeleri oluşturdu ve bu portalda paylaştı. Bunlar:"
 
 #: ../../5-Case 062fd8ac3fa844a7879e8726a7cb246d studies.rst:43
-msgid ""
-"`A text corpus <https://data.sefarad.com.tr/dataset/salom-ladino-articles-text-"
-"corpus>`_ consisting of sentences crawled from `Şalom newspaper <https://www."
-"salom.com.tr>`_."
-msgstr ""
-"`Şalom gazetesinden <https://www.salom.com>`_ taranan cümlelerden oluşan bir "
-"`metin derlemi <https://data.sefarad.com.tr/dataset/salom-ladino-articles-text-"
-"corpus>`_"
+msgid "`A text corpus <https://data.sefarad.com.tr/dataset/salom-ladino-articles-text-corpus>`_ consisting of sentences crawled from `Şalom newspaper <https://www.salom.com.tr>`_."
+msgstr "`Şalom gazetesinden <https://www.salom.com>`_ taranan cümlelerden oluşan bir `metin derlemi <https://data.sefarad.com.tr/dataset/salom-ladino-articles-text-corpus>`_"
 
 #: ../../5-Case 08fba5432eb54021ade1063780e15c71 studies.rst:44
-msgid ""
-"`A parallel text corpus with audio <https://data.sefarad.com.tr/dataset/una-"
-"fraza-al-diya-skad>`_ that contains Una Fraza al diya sentences and their audio"
-msgstr ""
-"`Una Fraza al diya cümlelerini ve seslerini içeren <https://data.sefarad.com."
-"tr/dataset/una-fraza-al-diya-skad>`_ sesli paralel metin bütünü"
+msgid "`A parallel text corpus with audio <https://data.sefarad.com.tr/dataset/una-fraza-al-diya-skad>`_ that contains Una Fraza al diya sentences and their audio"
+msgstr "`Una Fraza al diya cümlelerini ve ses kayıtlarını içeren <https://data.sefarad.com.tr/dataset/una-fraza-al-diya-skad>`_ sesli paralel metin derlemi"
 
 #: ../../5-Case 1d2959bdd86446d7a071595cd2a54dc3 studies.rst:45
-msgid ""
-"`Ladino speech corpus <https://data.sefarad.com.tr/dataset/ladino-speech>`_ "
-"created by SKAD"
-msgstr ""
-"`Ladino konuşma derlemi <https://data.sefarad.com.tr/dataset/ladino-speech>`_ "
-"SKAD tarafından oluşturuldu"
+msgid "`Ladino speech corpus <https://data.sefarad.com.tr/dataset/ladino-speech>`_ created by SKAD"
+msgstr "SKAD tarafından oluşturulan `Ladino konuşma derlemi <https://data.sefarad.com.tr/dataset/ladino-speech>`_"
 
 #: ../../5-Case fdbb3a6210044a8a9b4f9accf1a5423f studies.rst:46
-msgid ""
-"`Clean speech sythesis training dataset <https://data.sefarad.com.tr/dataset/"
-"tts-training-dataset>`_ consisting of read speech material by Karen Şarhon"
-msgstr ""
-"Karen Şarhon tarafından okunan konuşma materyalinden oluşan `temiz konuşma "
-"sentezi eğitim veri seti <https://data.sefarad.com.tr/dataset/tts-training-"
-"dataset>`_"
+msgid "`Clean speech sythesis training dataset <https://data.sefarad.com.tr/dataset/tts-training-dataset>`_ consisting of read speech material by Karen Şarhon"
+msgstr "Karen Şarhon tarafından okunan konuşma materyallerinden oluşan `temiz konuşma sentezi eğitimi veri seti <https://data.sefarad.com.tr/dataset/tts-training-dataset>`_"
 
 #: ../../5-Case 2c0153cbb8494b7cbab89f3893c7c6c4 studies.rst:47
-msgid ""
-"`A Spanish Ladino lexicon <https://data.sefarad.com.tr/dataset/ladino-spanish-"
-"dictionary-files>`_ based on dictionary by Güler, Portal i Tinoco"
-msgstr ""
-"Güler’in sözlüğüne dayanan `İspanyolca Ladino sözlüğü <https://data.sefarad."
-"com.tr/dataset/ladino-spanish-dictionary-files>`_ "
+msgid "`A Spanish Ladino lexicon <https://data.sefarad.com.tr/dataset/ladino-spanish-dictionary-files>`_ based on dictionary by Güler, Portal i Tinoco"
+msgstr "Güler’in sözlüğüne dayanan `İspanyolca Ladino sözlüğü (lexicon) <https://data.sefarad.com.tr/dataset/ladino-spanish-dictionary-files>`_"
 
 #: ../../5-Case 0322b8b70f384d3096b812a47b03639c studies.rst:48
-msgid ""
-"`Parallel texts in Ladino English and Turkish <https://data.sefarad.com.tr/"
-"dataset/skad-parallel>`_ from translations made within SKAD"
-msgstr ""
-"`SKAD içinde yapılan çevirilerden `Ladino İngilizce ve Türkçe paralel metinler "
-"<https://data.sefarad.com.tr/dataset/skad-parallel>`_"
+msgid "`Parallel texts in Ladino English and Turkish <https://data.sefarad.com.tr/dataset/skad-parallel>`_ from translations made within SKAD"
+msgstr "`SKAD bünyesinde yapılan çevirilerden `Ladino, İngilizce ve Türkçe paralel metinler <https://data.sefarad.com.tr/dataset/skad-parallel>`_"
 
 #: ../../5-Case 539a13e8aa234e669ec141c513431d5f studies.rst:49
-msgid ""
-"`Synthetically produced parallel corpus <https://data.sefarad.com.tr/>`_ for "
-"training baseline MT models"
-msgstr ""
-"Temel MT modellerinin eğitimi için `sentetik olarak üretilmiş paralel derlem "
-"<https://data.sefarad.com.tr/>`_"
+msgid "`Synthetically produced parallel corpus <https://data.sefarad.com.tr/>`_ for training baseline MT models"
+msgstr "Temel makine çevirisi modellerinin eğitimi için `sentetik olarak üretilmiş paralel derlem <https://data.sefarad.com.tr/>`_"
 
 #: ../../5-Case d379c32938a54146b63e6a8d3b40741e studies.rst:52
 msgid "Web application for machine translation and speech synthesis"
 msgstr "Makine çevirisi ve konuşma sentezi için web uygulaması"
 
 #: ../../5-Case 2ec2ae13a65c44a882359a548fc052e7 studies.rst:54
-msgid ""
-"The final and most important output of the project is a web application that "
-"is able to translate between Ladino and three related languages Turkish, "
-"Spanish and English. The objective is to help language learners, researchers "
-"and linguists who want to study Judeo-Spanish. The machine translation back-"
-"end was built with the help of a `rule based machine translation system "
-"<https://github.com/CollectivaT-dev/Espanyol-Ladino-Translation>`_ that can "
-"convert from Spanish to Ladino, getting use of the similar syntax between "
-"languages but changing ortography and vocabulary with a set of rules derived "
-"from dictionaries and grammar books. The web app is also able to synthesize "
-"Ladino sentences with a TTS application which was built with the `TTS training "
-"dataset <https://data.sefarad.com.tr/dataset/tts-training-dataset>`_."
-msgstr ""
-"Projenin son ve en önemli çıktısı, Ladino ile ilgili üç dil Türkçe, İspanyolca "
-"ve İngilizce arasında çeviri yapabilen bir web uygulamasıdır. Amaç, Judeo-"
-"İspanyolca öğrenmek isteyen dil öğrenenlere, araştırmacılara ve dilbilimcilere "
-"yardımcı olmaktır. Makine çevirisi arka ucu, İspanyolca’dan Ladino’ya "
-"dönüştürebilen `kural tabanlı bir makine çeviri sistemi <https://github.com/"
-"CollectivaT-dev/Espanyol-Ladino-Translation>`_ yardımıyla oluşturuldu. diller "
-"arasındaki benzer sözdiziminin, ancak sözlüklerden ve dilbilgisi kitaplarından "
-"türetilen bir dizi kuralla değişen yazım ve kelime dağarcığı. Web uygulaması "
-"ayrıca `TTS eğitim veri kümesi <https://data.sefarad.com.tr/dataset/tts-"
-"training-dataset>` ile oluşturulmuş bir TTS uygulaması ile Ladino cümlelerini "
-"sentezleyebilir."
+msgid "The final and most important output of the project is a web application that is able to translate between Ladino and three related languages Turkish, Spanish and English. The objective is to help language learners, researchers and linguists who want to study Judeo-Spanish. The machine translation back-end was built with the help of a `rule based machine translation system <https://github.com/CollectivaT-dev/Espanyol-Ladino-Translation>`_ that can convert from Spanish to Ladino, getting use of the similar syntax between languages but changing ortography and vocabulary with a set of rules derived from dictionaries and grammar books. The web app is also able to synthesize Ladino sentences with a TTS application which was built with the `TTS training dataset <https://data.sefarad.com.tr/dataset/tts-training-dataset>`_."
+msgstr "Projenin son ve en önemli çıktısı, Ladino ile Türkçe, İspanyolca ve İngilizce arasında çeviri yapabilen bir web uygulamasıdır. Amaç, Ladino öğrenmek isteyen kişilere, araştırmacılara ve dilbilimcilere yardımcı olmaktır. Makine çevirisi back-endi, `kural tabanlı bir makine çeviri sistemi <https://github.com/CollectivaT-dev/Espanyol-Ladino-Translation>`_ yardımıyla oluşturuldu. Bu, İspanyolca ve Ladino arasındaki benzer sözdiziminden faydalanıp, ancak sözlüklerden ve dilbilgisi kitaplarından türetilen bir dizi kuralla yazım ve kelime dağarcığını değiştirerek İspanyolca'dan LAdino'ya dönüştürebilen bir arkayüz. Web uygulaması ayrıca `TTS eğitimi veri kümesi <https://data.sefarad.com.tr/dataset/tts-training-dataset>`_ ile oluşturulmuş bir metin konuşma sentezi uygulaması ile Ladino cümleleri sentezleyebiliyor."
 
 #: ../../5-Case 51cb11b38ced450ba0dc79dc0b42647c studies.rst:60
-msgid ""
-"Ladino translation web app with speech synthesis translating the sentence "
-"\"Sara yemek pişirmeyi sevmez. Her zaman yemekleri yakar.\" to \"A Sara no le "
-"plaze gizar. Siempre kema la komida.\""
-msgstr ""
-"Ladino çeviri web uygulaması konuşma sentezi ile “Sara yemek yemeyi sevmez. "
-"Her zaman yemeklerini yakar.” cümlesini çeviriyor. “A Sara no le plaze gizar. "
-"Siempre kema la komida.”"
+msgid "Ladino translation web app with speech synthesis translating the sentence \"Sara yemek pişirmeyi sevmez. Her zaman yemekleri yakar.\" to \"A Sara no le plaze gizar. Siempre kema la komida.\""
+msgstr "Ladino çeviri web uygulaması konuşma sentezi ile “Sara yemek yemeyi sevmez. Her zaman yemeklerini yakar.” cümlesini çeviriyor. “A Sara no le plaze gizar. Siempre kema la komida.”"
 
 #: ../../5-Case cb34de485cdd4206920ce22ef799ad80 studies.rst:60
 msgid "Ladino translation web app with speech synthesis"
 msgstr "Konuşma sentezi ile Ladino çeviri web uygulaması"
 
 #: ../../5-Case 43eb5fc9e3134daa9564d1ccd2756133 studies.rst:62
-msgid ""
-"The web application also allows contribution of parallel data. Users can load "
-"a random sentence and submit their corrected translation in order to extend "
-"the parallel data for Ladino."
-msgstr ""
-"Web uygulaması ayrıca paralel verilerin katkısına da izin verir. Kullanıcılar, "
-"Ladino için paralel verileri genişletmek için rastgele bir cümle yükleyebilir "
-"ve düzeltilmiş çevirilerini gönderebilir."
+msgid "The web application also allows contribution of parallel data. Users can load a random sentence and submit their corrected translation in order to extend the parallel data for Ladino."
+msgstr "Web uygulaması ayrıca paralel verilere katkıda bulunmaya da izin verir. Kullanıcılar, Ladino için paralel verileri genişletmek için rastgele bir cümle yükleyebilir ve düzeltilmiş çevirilerini gönderebilir."
 
 #: ../../5-Case f61dd4d843e3485ea49835f907b2ac38 studies.rst:65
-msgid ""
-"For a detailed technical report of this project, please refer the paper "
-"\"Preparing an Endangered Language for the Digital Age: The Case of Judeo-"
-"Spanish\" presented in the Workshop on Resources and Technologies for "
-"Indigenous, Endangered and Lesser-resourced Languages in Eurasia (`EURALI "
-"<https://sites.google.com/view/eurali/home?authuser=0>`_): *Link to be placed "
-"soon*"
-msgstr ""
-"Bu projenin ayrıntılı bir teknik raporu için lütfen Avrasya’da Yerli, "
-"Tehlikedeki ve Az Kaynaklı Diller için Kaynaklar ve Teknolojiler Çalıştayında "
-"sunulan “Dijital Çağ için Tehlike Altındaki Bir Dil Hazırlamak: Yahudi-"
-"İspanyolca Örneği” başlıklı makaleye bakın ( `EURALI <https://sites.google.com/"
-"view/eurali/home?authuser=0>`_): *Bağlantı yakında eklenecek*"
+msgid "For a detailed technical report of this project, please refer the paper \"Preparing an Endangered Language for the Digital Age: The Case of Judeo-Spanish\" presented in the Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (`EURALI <https://sites.google.com/view/eurali/home?authuser=0>`_): *Link to be placed soon*"
+msgstr "Bu projenin ayrıntılı bir teknik raporu için Avrasya’daki Yerli, Tehlikedeki ve Az Kaynaklı Diller için Kaynaklar ve Teknolojiler Çalıştayında (`EURALI <https://sites.google.com/view/eurali/home>`_) sunulan “Tehlike Altındaki Bir Dili Dijital Çağa Hazırlamak: Judeoespanyol Örneği” başlıklı makaleye bakabilirsiniz: *Bağlantı yakında eklenecek*"
 
 #: ../../5-Case b461d506140a430880e0113a93437c0e studies.rst:68
 msgid "Grassroots NLP communities"
-msgstr "Taban NLP toplulukları"
+msgstr "Tabandan örgütlenen NLP toplulukları"
 
 #: ../../5-Case 223711c9f1ff4f51bd8fab55fc404fed studies.rst:70
 msgid ""
