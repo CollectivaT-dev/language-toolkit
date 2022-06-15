@@ -34,7 +34,7 @@ msgstr "Diller ve Dijital Çağ"
 
 #: ../../2-Digital age.rst:13 c841560c8ac54935951684073da80483
 msgid "Digital age has brought many new opportunities and advantages. It has undoubtedly connected humankind in unimaginable ways in a short amount of time. Although, no innovation comes with its challenges and threats. World wide web is a resource accessible (almost) to all but it is dominated by a handful of languages."
-msgstr "Dijital çağ birçok yeni fırsat ve avantaj getirdi. Hiç şüphesiz, insanları kısa sürede hayal bile edilemeyecek şekillerde birbirine bağlamdı. Bununla birlikte, her yenilik bazı zorlukları ve tehditleri beraberinde getirir. *World Wide Web* (neredeyse) herkesin erişebildiği bir kaynaktır, ama sadece bir avuç dil tarafından yönetilmektedir."
+msgstr "Dijital çağ birçok yeni fırsat ve avantaj getirdi. Hiç şüphesiz, insanları kısa sürede hayal bile edilemeyecek şekillerde birbirine bağladı. Bununla birlikte, her yenilik bazı zorlukları ve tehditleri beraberinde getirir. *World Wide Web* (neredeyse) herkesin erişebildiği bir kaynaktır, ama sadece bir avuç dil tarafından yönetilmektedir."
 
 #: ../../2-Digital age.rst:15 7420bfa9bf154f6a9c0e23d20a3233be
 msgid "English for example is spoken by 15% of the world but it currently holds 54% of all the content on the web. On the other hand, languages like Russian, Chinese, and Spanish each represent around 5 to 6% of the content on the web, in spite of their geopolitical dominance."
