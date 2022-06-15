@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Language Toolkit 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-18 17:08+0200\n"
-"PO-Revision-Date: 2022-05-27 15:08+0200\n"
+"POT-Creation-Date: 2022-06-15 16:42+0200\n"
+"PO-Revision-Date: 2022-06-15 16:43+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -20,11 +20,11 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: ../../2-Digital age.rst:7 49a3aac1808a4971bef30e811551397f
+#: ../../2-Digital 49a3aac1808a4971bef30e811551397f age.rst:7
 msgid "Turkey and European Union flags"
 msgstr ""
 
-#: ../../2-Digital age.rst:7 3ff9f74652194f81b8c907c8b0f3a8fd
+#: ../../2-Digital 3ff9f74652194f81b8c907c8b0f3a8fd age.rst:7
 msgid "This project is funded by the European Union."
 msgstr "Bu proje Avrupa Birliği tarafından finanse edilmiştir."
 
@@ -33,142 +33,382 @@ msgid "Languages and the digital age"
 msgstr "Diller ve Dijital Çağ"
 
 #: ../../2-Digital age.rst:13 c841560c8ac54935951684073da80483
-msgid "Digital age has brought many new opportunities and advantages. It has undoubtedly connected humankind in unimaginable ways in a short amount of time. Although, no innovation comes with its challenges and threats. World wide web is a resource accessible (almost) to all but it is dominated by a handful of languages."
-msgstr "Dijital çağ birçok yeni fırsat ve avantaj getirdi. Hiç şüphesiz, insanları kısa sürede hayal bile edilemeyecek şekillerde birbirine bağladı. Bununla birlikte, her yenilik bazı zorlukları ve tehditleri beraberinde getirir. *World Wide Web* (neredeyse) herkesin erişebildiği bir kaynaktır, ama sadece bir avuç dil tarafından yönetilmektedir."
+msgid ""
+"Digital age has brought many new opportunities and advantages. It has "
+"undoubtedly connected humankind in unimaginable ways in a short amount of "
+"time. Although, no innovation comes with its challenges and threats. World "
+"wide web is a resource accessible (almost) to all but it is dominated by a "
+"handful of languages."
+msgstr ""
+"Dijital çağ birçok yeni fırsat ve avantaj getirdi. Hiç şüphesiz, insanları "
+"kısa sürede hayal bile edilemeyecek şekillerde birbirine bağladı. Bununla "
+"birlikte, her yenilik bazı zorlukları ve tehditleri beraberinde getirir. "
+"*World Wide Web* (neredeyse) herkesin erişebildiği bir kaynaktır, ama sadece "
+"bir avuç dil tarafından yönetilmektedir."
 
-#: ../../2-Digital age.rst:15 7420bfa9bf154f6a9c0e23d20a3233be
-msgid "English for example is spoken by 15% of the world but it currently holds 54% of all the content on the web. On the other hand, languages like Russian, Chinese, and Spanish each represent around 5 to 6% of the content on the web, in spite of their geopolitical dominance."
-msgstr "Örneğin İngilizce, dünyanın sadece %15’i tarafından konuşulmasına rağmen Web’deki tüm içeriğin %54’ünü elinde tutmaktadır. Öte yandan, jeopolitik hakimiyetlerine rağmen Rusça, Çince ve İspanyolca gibi dillerin her biri Web’deki içeriğin yaklaşık %5 ila %6’sını temsil ediyor."
+#: ../../2-Digital 7420bfa9bf154f6a9c0e23d20a3233be age.rst:15
+msgid ""
+"English for example is spoken by 15% of the world but it currently holds "
+"54% of all the content on the web. On the other hand, languages like Russian, "
+"Chinese, and Spanish each represent around 5 to 6% of the content on the web, "
+"in spite of their geopolitical dominance."
+msgstr ""
+"Örneğin İngilizce, dünyanın sadece %15’i tarafından konuşulmasına rağmen "
+"Web’deki tüm içeriğin %54’ünü elinde tutmaktadır. Öte yandan, jeopolitik "
+"hakimiyetlerine rağmen Rusça, Çince ve İspanyolca gibi dillerin her biri "
+"Web’deki içeriğin yaklaşık %5 ila %6’sını temsil ediyor."
 
 #: ../../2-Digital age.rst:17 b4d6b5db053d4a04b80dc6ffe1c058c3
-msgid "Where does this leave the world's many endangered and dying languages? Sadly, on the very margins of this picture."
-msgstr "Bu, Dünya'nın yok olma tehlikesiyle karşı karşıya ve ölmekte olan birçok dilini nereye koyuyor? Ne yazık ki, bu resmin en köşelerine."
+msgid ""
+"Where does this leave the world's many endangered and dying languages? Sadly, "
+"on the very margins of this picture."
+msgstr ""
+"Bu, Dünya'nın yok olma tehlikesiyle karşı karşıya ve ölmekte olan birçok "
+"dilini nereye koyuyor? Ne yazık ki, bu resmin en köşelerine."
 
-#: ../../2-Digital age.rst:19 3e664882eab342f6ad3da1dc0edb3065
-msgid "Languages thrive in communities and pass onto generations with day-to-day usage. The more our lives are connected through digital mediums, we are less and less exposed to our mother tongues which are not represented online. This eventually leads to a decline of their usage by younger generations."
-msgstr "Diller, topluluklar içinde gelişir ve günlük kullanımla nesillere aktarılır. Hayatlarımız dijital ortamlar aracılığıyla ne kadar bağlıysa, çevrimiçi (*online*) olarak temsil edilmeyen anadillerimizle giderek daha az iletişim kuruyoruz. Bu da, son raddede bu dillerin genç nesiller tarafından daha az kullanılmasına yol açıyor."
+#: ../../2-Digital 3e664882eab342f6ad3da1dc0edb3065 age.rst:19
+msgid ""
+"Languages thrive in communities and pass onto generations with day-to-day "
+"usage. The more our lives are connected through digital mediums, we are less "
+"and less exposed to our mother tongues which are not represented online. This "
+"eventually leads to a decline of their usage by younger generations."
+msgstr ""
+"Diller, topluluklar içinde gelişir ve günlük kullanımla nesillere aktarılır. "
+"Hayatlarımız dijital ortamlar aracılığıyla ne kadar bağlıysa, çevrimiçi "
+"(*online*) olarak temsil edilmeyen anadillerimizle giderek daha az iletişim "
+"kuruyoruz. Bu da, son raddede bu dillerin genç nesiller tarafından daha az "
+"kullanılmasına yol açıyor."
 
 #: ../../2-Digital age.rst:23 ed14a23dfbd14ad782d52aabceef0bdc
-msgid "How? To illustrate, a Kurdish speaker in Turkey, accesses their government health services website and sees that everything is in Turkish, or goes to check the latest online social media platform and sees that it's by default available in English. These kinds of small encounters lead to thinking that in order to find their way and address their needs, speaking their mother tongue is not enough. You have to know the nearest majority language and many times even more."
-msgstr "Nasıl? Örneğin, Türkiye’de Kürtçe konuşan bir kişi, sağlık hizmetleri web sitesine giriyor ve her şeyin Türkçe olduğunu görüyor, veya en son çıkan online sosyal medya platformuna bakıyor ve varsayılan dil olarak İngilizce olduğunu görüyor. Karşılaşılan bu küçük durumlar, yollarını bulmak ve ihtiyaçlarını gidermek için anadillerini konuşmanın yeterli olmadığını düşündürüyor. Çoğu zaman size en yakın çoğunluk dilini, hatta birçok kez başka dilleri de bilmek zorunda olduğunuzu hissettiriyor."
+msgid ""
+"How? To illustrate, a Kurdish speaker in Turkey, accesses their government "
+"health services website and sees that everything is in Turkish, or goes to "
+"check the latest online social media platform and sees that it's by default "
+"available in English. These kinds of small encounters lead to thinking that "
+"in order to find their way and address their needs, speaking their mother "
+"tongue is not enough. You have to know the nearest majority language and many "
+"times even more."
+msgstr ""
+"Nasıl? Örneğin, Türkiye’de Kürtçe konuşan bir kişi, sağlık hizmetleri web "
+"sitesine giriyor ve her şeyin Türkçe olduğunu görüyor, veya en son çıkan "
+"online sosyal medya platformuna bakıyor ve varsayılan dil olarak İngilizce "
+"olduğunu görüyor. Karşılaşılan bu küçük durumlar, yollarını bulmak ve "
+"ihtiyaçlarını gidermek için anadillerini konuşmanın yeterli olmadığını "
+"düşündürüyor. Çoğu zaman size en yakın çoğunluk dilini, hatta birçok kez "
+"başka dilleri de bilmek zorunda olduğunuzu hissettiriyor."
 
-#: ../../2-Digital age.rst:26 50bf7834519a49a6a739763ea781f402
+#: ../../2-Digital 50bf7834519a49a6a739763ea781f402 age.rst:26
 msgid "Digital extinction"
 msgstr "Dijital yok olma"
 
 #: ../../2-Digital age.rst:28 f30a4e804baf45e39070d5385cc94553
-msgid "According to UNESCO, around 3,500 languages are expected to be extinct by the end of this century and we cannot deny the role of technology in this. `Kornai <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056>`_ states that the vast majority (over 95%) of languages have already lost the capacity to ascend digitally. Digital ascent requires use in a broad variety of digital contexts ranging from maintaining a Wikipedia page, to making language classes available and creating language technology data."
-msgstr "UNESCO’ya göre, bu yüzyılın sonuna kadar yaklaşık 3.500 dilin yok olması bekleniyor ve bunda teknolojinin rolünü inkar edemeyiz. `Kornai <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056>`_, dillerin büyük çoğunluğunun (%95’in üzerinde) dijital olarak yükselme kapasitesini hali hazırda kaybettiğini belirtiyor. Dijital yükselme bir dilin, bir Wikipedia sayfasının o dilde yönetiminden dil derslerinin erişime açılmasına veya dil teknolojisi verilerinin oluşturulmasına kadar çok çeşitli dijital bağlamlarda kullanımını gerektiriyor."
+msgid ""
+"According to UNESCO, around 3,500 languages are expected to be extinct by the "
+"end of this century and we cannot deny the role of technology in this. "
+"`Kornai <https://journals.plos.org/plosone/article?id=10.1371/journal."
+"pone.0077056>`_ states that the vast majority (over 95%) of languages have "
+"already lost the capacity to ascend digitally. Digital ascent requires use in "
+"a broad variety of digital contexts ranging from maintaining a Wikipedia "
+"page, to making language classes available and creating language technology "
+"data."
+msgstr ""
+"UNESCO’ya göre, bu yüzyılın sonuna kadar yaklaşık 3.500 dilin yok olması "
+"bekleniyor ve bunda teknolojinin rolünü inkar edemeyiz. `Kornai <https://"
+"journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056>`_, "
+"dillerin büyük çoğunluğunun (%95’in üzerinde) dijital olarak yükselme "
+"kapasitesini hali hazırda kaybettiğini belirtiyor. Dijital yükselme bir "
+"dilin, bir Wikipedia sayfasının o dilde yönetiminden dil derslerinin erişime "
+"açılmasına veya dil teknolojisi verilerinin oluşturulmasına kadar çok çeşitli "
+"dijital bağlamlarda kullanımını gerektiriyor."
 
-#: ../../2-Digital age.rst:30 958ba56051bb40e3abb27acc77d0bee4
-msgid "We shouldn't of course fall into the trap of making technology the culprit of language loss. It is merely a representation of already existing power dynamics in the society. States which depriotize or even oppress certain languages start their digital transformation by excluding all these languages in their digital infrastructure. Now, North American and Eurocentric big technology companies follow a English-first approach by default."
-msgstr "Elbette, tek başına teknolojiyi dil kaybının günah keçisi ilan etme hatasına düşmemeliyiz. Toplumda zaten var olan güç dinamiklerinin bir temsili sadece. Belirli dilleri önemsiz kılan hatta baskı altına alan devletler, dijital dönüşümlerine tüm bu dilleri dijital altyapılarının dışında bırakarak başlıyorlar. Günümüzde, Kuzey Amerika ve Avrupa merkezli büyük teknoloji şirketleri, varsayılan dil olarak önce İngiliz yaklaşımını izliyor."
+#: ../../2-Digital 958ba56051bb40e3abb27acc77d0bee4 age.rst:30
+msgid ""
+"We shouldn't of course fall into the trap of making technology the culprit of "
+"language loss. It is merely a representation of already existing power "
+"dynamics in the society. States which depriotize or even oppress certain "
+"languages start their digital transformation by excluding all these languages "
+"in their digital infrastructure. Now, North American and Eurocentric big "
+"technology companies follow a English-first approach by default."
+msgstr ""
+"Elbette, tek başına teknolojiyi dil kaybının günah keçisi ilan etme hatasına "
+"düşmemeliyiz. Toplumda zaten var olan güç dinamiklerinin bir temsili sadece. "
+"Belirli dilleri önemsiz kılan hatta baskı altına alan devletler, dijital "
+"dönüşümlerine tüm bu dilleri dijital altyapılarının dışında bırakarak "
+"başlıyorlar. Günümüzde, Kuzey Amerika ve Avrupa merkezli büyük teknoloji "
+"şirketleri, varsayılan dil olarak önce İngiliz yaklaşımını izliyor."
 
-#: ../../2-Digital age.rst:32 586184f76fda4a1393803e07a1324226
-msgid "Technology can also be utilized to form communities around language preservation, knowledge sharing, language documentation."
-msgstr "Teknoloji ayrıca dil koruma, bilgi paylaşımı ve dil dokümantasyonu etrafında topluluklar oluşturmak için de kullanılabilir."
+#: ../../2-Digital 586184f76fda4a1393803e07a1324226 age.rst:32
+msgid ""
+"Technology can also be utilized to form communities around language "
+"preservation, knowledge sharing, language documentation."
+msgstr ""
+"Teknoloji ayrıca dil koruma, bilgi paylaşımı ve dil dokümantasyonu etrafında "
+"topluluklar oluşturmak için de kullanılabilir."
 
-#: ../../2-Digital age.rst:35 69bbe9a28f5d4366978d9647fb1124a6
+#: ../../2-Digital 69bbe9a28f5d4366978d9647fb1124a6 age.rst:35
 msgid "Online presence of a language"
 msgstr "Bir dilin çevrimiçi varlığı"
 
 #: ../../2-Digital age.rst:37 b0cdcd66ff2e463a99761268a7f165b7
-msgid "Traditionally, the responsibilities of a language activist has been actively speaking the language, passing it to younger generations, forming language learning and speaking communities, negotiating with public institutions for the inclusion of their language, collaborating with linguists for the documentation of their language and so on."
-msgstr "Geleneksel olarak, bir dil aktivistinin sorumlulukları, dili aktif olarak konuşmak, genç nesillere aktarmak, dil öğrenme ve konuşma toplulukları oluşturmak, dilinin dahil edilmesi için kamu kurumlarıyla müzakere etmek, dilinin dökümentasyonu için dilbilimcilerle işbirliği yapmak gibi sayılabilir."
+msgid ""
+"Traditionally, the responsibilities of a language activist has been actively "
+"speaking the language, passing it to younger generations, forming language "
+"learning and speaking communities, negotiating with public institutions for "
+"the inclusion of their language, collaborating with linguists for the "
+"documentation of their language and so on."
+msgstr ""
+"Geleneksel olarak, bir dil aktivistinin sorumlulukları, dili aktif olarak "
+"konuşmak, genç nesillere aktarmak, dil öğrenme ve konuşma toplulukları "
+"oluşturmak, dilinin dahil edilmesi için kamu kurumlarıyla müzakere etmek, "
+"dilinin dökümentasyonu için dilbilimcilerle işbirliği yapmak gibi sayılabilir."
 
-#: ../../2-Digital age.rst:39 08463d5d2bdd4723ba312ee65397e348
-msgid "Nowadays, the challenge is not just making the language alive in the physical world but also online. It is related in three ways for the survival of a language:"
-msgstr "Günümüzde zorluk, dili sadece fiziksel dünyada değil, aynı zamanda çevrimiçi ortamda da canlı kılmaktır. Bu, bir dilin hayatta kalmasıyla iki şekilde ilintilidir:"
+#: ../../2-Digital 08463d5d2bdd4723ba312ee65397e348 age.rst:39
+msgid ""
+"Nowadays, the challenge is not just making the language alive in the physical "
+"world but also online. It is related in two ways for the survival of a "
+"language:"
+msgstr ""
+"Günümüzde zorluk, dili sadece fiziksel dünyada değil, aynı zamanda çevrimiçi "
+"ortamda da canlı kılmaktır. Bu, bir dilin hayatta kalmasıyla iki şekilde "
+"ilintilidir:"
 
-#: ../../2-Digital age.rst:41 2f54dce3ba4f4c13975c4bfe345c0d96
-msgid "Exchanges and visibility online strikes interest and helps engage existing and new language learners."
-msgstr "Karşılıklı bilgi alışverişi ve çevrimiçi görünürlük, bir dili öğrenmekte olan veya öğrenmeye yeni başlayan kişilerin ilgisini çeker ve bu ilginin sürmesini sağlar."
+#: ../../2-Digital 2f54dce3ba4f4c13975c4bfe345c0d96 age.rst:41
+msgid ""
+"Exchanges and visibility online strikes interest and helps engage existing "
+"and new language learners."
+msgstr ""
+"Karşılıklı bilgi alışverişi ve çevrimiçi görünürlük, bir dili öğrenmekte olan "
+"veya öğrenmeye yeni başlayan kişilerin ilgisini çeker ve bu ilginin sürmesini "
+"sağlar."
 
-#: ../../2-Digital age.rst:42 1fde250c59b147e18a67e2de894a35bb
-msgid "What's stored online in turn is a digital record for language which helps documentation and technology development."
-msgstr "Çevrimiçi olarak depolanan şey, belgeleme ve teknoloji geliştirmeye yardımcı olan dijital bir dil kaydıdır."
+#: ../../2-Digital 1fde250c59b147e18a67e2de894a35bb age.rst:42
+msgid ""
+"What's stored online in turn is a digital record for language which helps "
+"documentation and technology development."
+msgstr ""
+"Çevrimiçi olarak depolanan şey, belgeleme ve teknoloji geliştirmeye yardımcı "
+"olan dijital bir dil kaydıdır."
 
-#: ../../2-Digital age.rst:44 8a99f2a8fe2248c6a73284cc011271a8
-msgid "Below, we will describe some ways the internet is becoming multilingual and plural while helping revive endangered languages."
-msgstr "Aşağıda, internetin hangi yollarla hem çok dilli ve çoğul hale gelip hem de yok olma tehlikesiyle karşı karşıya olan dillerin canlanmasına yardımcı olduğunu açıklayacağız."
+#: ../../2-Digital 8a99f2a8fe2248c6a73284cc011271a8 age.rst:44
+msgid ""
+"Below, we will describe some ways the internet is becoming multilingual and "
+"plural while helping revive endangered languages."
+msgstr ""
+"Aşağıda, internetin hangi yollarla hem çok dilli ve çoğul hale gelip hem de "
+"yok olma tehlikesiyle karşı karşıya olan dillerin canlanmasına yardımcı "
+"olduğunu açıklayacağız."
 
-#: ../../2-Digital age.rst:47 6c4ddd307704489b981885b2cb6b37fe
+#: ../../2-Digital 6c4ddd307704489b981885b2cb6b37fe age.rst:47
 msgid "Access to knowledge"
 msgstr "Bilgiye erişim"
 
-#: ../../2-Digital age.rst:49 568fc04491e840c0908bd387ea4a4a52
-msgid "One of the most popular initiatives on bringing languages online is Wikipedia. Wikipedia is open an online encyclopedia written and maintained by a community of volunteers through an open collaboration and reviewing system."
-msgstr "Dilleri çevrimiçi hale getirme konusundaki en popüler girişimlerden biri Wikipedia’dır. Wikipedia, açık bir ortaklaşa çalışma ve gözden geçirme sistemi aracılığıyla bir gönüllüler topluluğu tarafından yazılan ve sürdürülen açık ve özgür bir çevrimiçi ansiklopedidir."
+#: ../../2-Digital 568fc04491e840c0908bd387ea4a4a52 age.rst:49
+msgid ""
+"One of the most popular initiatives on bringing languages online is "
+"Wikipedia. Wikipedia is open an online encyclopedia written and maintained by "
+"a community of volunteers through an open collaboration and reviewing system."
+msgstr ""
+"Dilleri çevrimiçi hale getirme konusundaki en popüler girişimlerden biri "
+"Wikipedia’dır. Wikipedia, açık bir ortaklaşa çalışma ve gözden geçirme "
+"sistemi aracılığıyla bir gönüllüler topluluğu tarafından yazılan ve "
+"sürdürülen açık ve özgür bir çevrimiçi ansiklopedidir."
 
-#: ../../2-Digital age.rst:51 50695551331b418c92aca91572122815
-msgid "Wikipedia's broad aim is to democratize access to knowledge. Naturally, the culture built around this ethos goes hand in hand with multilinguality. Although it started only with English, it quickly expanded to the world's many languages. We can probably say that it's the most language diverse platform on the internet with 326 languages (as of 03.05.22) and counting up."
-msgstr "Wikipedia'nın geniş anlamıyla amacı bilgiye erişimi demokratikleştirmektir. Doğal olarak, bu ethos etrafında inşa edilen kültür, çok dillilik ile paralel gider. Sadece İngilizce ile başlamasına rağmen, hızla dünyanın birçok diline yayılmıştır. 326 farklı dilde bulunan (03.05.22 itibariyle) ve dil sayısı gittikçe artan Wikipedia'nın, dil açısından internetteki en çeşitli platform olduğunu söylemek büyük ihtimalle yanlış bir ifade olmaz."
+#: ../../2-Digital 50695551331b418c92aca91572122815 age.rst:51
+msgid ""
+"Wikipedia's broad aim is to democratize access to knowledge. Naturally, the "
+"culture built around this ethos goes hand in hand with multilinguality. "
+"Although it started only with English, it quickly expanded to the world's "
+"many languages. We can probably say that it's the most language diverse "
+"platform on the internet with 326 languages (as of 03.05.22) and counting up."
+msgstr ""
+"Wikipedia'nın geniş anlamıyla amacı bilgiye erişimi demokratikleştirmektir. "
+"Doğal olarak, bu ethos etrafında inşa edilen kültür, çok dillilik ile paralel "
+"gider. Sadece İngilizce ile başlamasına rağmen, hızla dünyanın birçok diline "
+"yayılmıştır. 326 farklı dilde bulunan (03.05.22 itibariyle) ve dil sayısı "
+"gittikçe artan Wikipedia'nın, dil açısından internetteki en çeşitli platform "
+"olduğunu söylemek büyük ihtimalle yanlış bir ifade olmaz."
 
 #: ../../2-Digital age.rst:55 cc34bd9c65af4f52bd4bafe3eb23088c
-msgid "The first edit on a non-English Wikipedia was made in Catalan on March 16, 2001. Today, it is most notable for its large number of quality articles, which illustrates Catalan language's important online presence despite being a minority language. Catalan wikipedia is currently the 20th largest Wikipedia."
-msgstr "İngilizce olmayan bir dilde ilk Wikipedia düzenlemesi 16 Mart 2001’de Katalanca yapıldı. Bugün, bir azınlık dili olmasına rağmen çok sayıda kaliteli makalesiyle büyük bir çevrimiçi varlık gösteren `Katalanca Vikipedi'nin <https://tr.wikipedia.org/wiki/Katalanca_Vikipedi>`_ 20. büyük wikipedia olması dikkate değer."
+msgid ""
+"The first edit on a non-English Wikipedia was made in Catalan on March 16, "
+"2001. Today, it is most notable for its large number of quality articles, "
+"which illustrates Catalan language's important online presence despite being "
+"a minority language. Catalan wikipedia is currently the 20th largest "
+"Wikipedia."
+msgstr ""
+"İngilizce olmayan bir dilde ilk Wikipedia düzenlemesi 16 Mart 2001’de "
+"Katalanca yapıldı. Bugün, bir azınlık dili olmasına rağmen çok sayıda "
+"kaliteli makalesiyle büyük bir çevrimiçi varlık gösteren `Katalanca "
+"Vikipedi'nin <https://tr.wikipedia.org/wiki/Katalanca_Vikipedi>`_ 20. büyük "
+"wikipedia olması dikkate değer."
 
-#: ../../2-Digital age.rst:62 ae5e5850936a4ddda16982bb22824608
-msgid "Relative sizes of different wikipedias (`source <https://meta.wikimedia.org/wiki/List_of_Wikipedias>`_)"
-msgstr "Farklı Wikipedia’ların birbirilerine göre büyüklükleri (`kaynak <https://meta.wikimedia.org/wiki/List_of_Wikipedias>`_)"
+#: ../../2-Digital 2c369328afc44fb39532e8e1a1a9fbd8 age.rst:62
+msgid "Relative sizes of different wikipedias"
+msgstr ""
 
-#: ../../2-Digital age.rst:64 4f06f6fc128641a082233ddc6a0748d7
-msgid "Making a new language available in Wikipedia is no easy task (as explained `here <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_), but it is definitely a great way to make knowledge accessible online and build a virtual community around it."
-msgstr "Wikipedia’da yeni bir dili kullanıma sunmak kolay bir iş değil (`bkz. <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_). Ancak bilgiyi çevrimiçi ortamda erişilebilir kılmak ve onun etrafında sanal bir topluluk oluşturmak için kesinlikle çok iyi bir yol."
+#: ../../2-Digital ae5e5850936a4ddda16982bb22824608 age.rst:62
+msgid ""
+"Relative sizes of different wikipedias (`source <https://meta.wikimedia.org/"
+"wiki/List_of_Wikipedias>`_)"
+msgstr ""
+"Farklı Wikipedia’ların birbirilerine göre büyüklükleri (`kaynak <https://meta."
+"wikimedia.org/wiki/List_of_Wikipedias>`_)"
+
+#: ../../2-Digital 4f06f6fc128641a082233ddc6a0748d7 age.rst:64
+msgid ""
+"Making a new language available in Wikipedia is no easy task (as explained "
+"`here <https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_), "
+"but it is definitely a great way to make knowledge accessible online and "
+"build a virtual community around it."
+msgstr ""
+"Wikipedia’da yeni bir dili kullanıma sunmak kolay bir iş değil (`bkz. "
+"<https://meta.wikimedia.org/wiki/Help:How_to_start_a_new_Wikipedia>`_). Ancak "
+"bilgiyi çevrimiçi ortamda erişilebilir kılmak ve onun etrafında sanal bir "
+"topluluk oluşturmak için kesinlikle çok iyi bir yol."
 
 #: ../../2-Digital age.rst:67 e0235358c88f4273a140e25f42dfe298
 msgid "Immersion into language"
 msgstr "Dilin yoğun kullanımı"
 
-#: ../../2-Digital age.rst:69 236c336da5584f818cd97badbf033e63
-msgid "One great example of a language revitalization with the help of technology is Yiddish. After the holocaust, the number of Yiddish speakers decreased drastically from around 10 million speakers. Whoever survived were forced to assimilate the language of their new lands to avoid persecution. In the last century, the use of Yiddish had almost disappeared except for small and dispersed Hasidic communities."
-msgstr "Bir dilin teknoloji yardımıyla yeniden canlandırılmasına en güzel örneklerden biri Yidiş’tir. Yahudi Soykırımından sonra Yidiş konuşanların sayısı önemli ölçüde azaldı (yaklaşık 10 milyon konuşmacıdan). Hayatta kalanlar, zulümden kaçmak için yerleştikleri topraklarının dilini özümsemek zorunda kaldılar. Geçen yüzyılda, küçük ve dağınık halde bulunan Hasidik topluluklar dışında Yidiş kullanımı neredeyse ortadan kalkmıştı."
+#: ../../2-Digital 236c336da5584f818cd97badbf033e63 age.rst:69
+msgid ""
+"One great example of a language revitalization with the help of technology is "
+"Yiddish. After the holocaust, the number of Yiddish speakers decreased "
+"drastically from around 10 million speakers. Whoever survived were forced to "
+"assimilate the language of their new lands to avoid persecution. In the last "
+"century, the use of Yiddish had almost disappeared except for small and "
+"dispersed Hasidic communities."
+msgstr ""
+"Bir dilin teknoloji yardımıyla yeniden canlandırılmasına en güzel örneklerden "
+"biri Yidiş’tir. Yahudi Soykırımından sonra Yidiş konuşanların sayısı önemli "
+"ölçüde azaldı (yaklaşık 10 milyon konuşmacıdan). Hayatta kalanlar, zulümden "
+"kaçmak için yerleştikleri topraklarının dilini özümsemek zorunda kaldılar. "
+"Geçen yüzyılda, küçük ve dağınık halde bulunan Hasidik topluluklar dışında "
+"Yidiş kullanımı neredeyse ortadan kalkmıştı."
 
-#: ../../2-Digital age.rst:71 29b631ec17ec425284909dba20eeb10b
-msgid "With the rise of the internet and popularity of online forums, Yiddish speakers used these platforms to converse in their language. Over time, the virtual world became the primary meeting point for Yiddish speakers in forums like The Idishe Velt (The Jewish World) and Kave Shtiebel (The Coffee House)."
-msgstr "İnternetin yükselişi ve çevrimiçi forumların popülerleşmesi ile birlikte, Yidiş konuşanlar bu platformları kendi dillerinde sohbet etmek için kullandılar. Zamanla sanal dünya Yidiş konuşanlar için, Idishe Velt (Yahudi Dünyası) ve Kave Shtiebel (Kahve Evi) gibi forumlarda başlıca buluşma noktası haline geldi."
+#: ../../2-Digital 29b631ec17ec425284909dba20eeb10b age.rst:71
+msgid ""
+"With the rise of the internet and popularity of online forums, Yiddish "
+"speakers used these platforms to converse in their language. Over time, the "
+"virtual world became the primary meeting point for Yiddish speakers in forums "
+"like The Idishe Velt (The Jewish World) and Kave Shtiebel (The Coffee House)."
+msgstr ""
+"İnternetin yükselişi ve çevrimiçi forumların popülerleşmesi ile birlikte, "
+"Yidiş konuşanlar bu platformları kendi dillerinde sohbet etmek için "
+"kullandılar. Zamanla sanal dünya Yidiş konuşanlar için, Idishe Velt (Yahudi "
+"Dünyası) ve Kave Shtiebel (Kahve Evi) gibi forumlarda başlıca buluşma noktası "
+"haline geldi."
 
-#: ../../2-Digital age.rst:74 2e878849f79340f29f35cd36191a429c
+#: ../../2-Digital 2e878849f79340f29f35cd36191a429c age.rst:74
 msgid "Language documentation projects"
 msgstr "Dil dokümantasyon projeleri"
 
 #: ../../2-Digital age.rst:76 dacf80667d384be2abaefd0deafe21fe
-msgid "The rapid loss of languages in the last century has powered many initiatives for language documentation and revitalization. One of these initiatives is The Endangered Languages Project (https://www.endangeredlanguages.com/) which is a web-based platform that acts as a collaborative hub of language enthusiasts, linguists and industry partners to help strengthen endangered languages. Users of the website act as contributors by uploading language samples in text, audio, link or video format using a unique geotagging system that allows for easy searchability."
-msgstr "Geçen yüzyılda dillerin hızla kaybolması, dil belgeleme ve canlandırma için çalışan birçok girişimi güçlendirdi. Bu girişimlerden biri, yok olma tehlikesiyle karşı karşıya olan dilleri güçlendirmeye yardımcı olmak için, dil meraklıları, dilbilimciler ve endüstri ortaklarından oluşan bir işbirliği merkezi olarak hareket eden web tabanlı platform `The Endangered Languages Project <https://www.endangeredlanguages.com/>`_’tir. Web sitesinin kullanıcıları, kolay aramayı mümkün kılan özgün bir coğrafi etiketleme sistemi kullanarak dil örneklerini metin, ses, bağlantı veya video formatında yükleyerek katkıda bulunabilirler."
+msgid ""
+"The rapid loss of languages in the last century has powered many initiatives "
+"for language documentation and revitalization. One of these initiatives is "
+"The Endangered Languages Project (https://www.endangeredlanguages.com/) which "
+"is a web-based platform that acts as a collaborative hub of language "
+"enthusiasts, linguists and industry partners to help strengthen endangered "
+"languages. Users of the website act as contributors by uploading language "
+"samples in text, audio, link or video format using a unique geotagging system "
+"that allows for easy searchability."
+msgstr ""
+"Geçen yüzyılda dillerin hızla kaybolması, dil belgeleme ve canlandırma için "
+"çalışan birçok girişimi güçlendirdi. Bu girişimlerden biri, yok olma "
+"tehlikesiyle karşı karşıya olan dilleri güçlendirmeye yardımcı olmak için, "
+"dil meraklıları, dilbilimciler ve endüstri ortaklarından oluşan bir işbirliği "
+"merkezi olarak hareket eden web tabanlı platform `The Endangered Languages "
+"Project <https://www.endangeredlanguages.com/>`_’tir. Web sitesinin "
+"kullanıcıları, kolay aramayı mümkün kılan özgün bir coğrafi etiketleme "
+"sistemi kullanarak dil örneklerini metin, ses, bağlantı veya video formatında "
+"yükleyerek katkıda bulunabilirler."
 
-#: ../../2-Digital age.rst:82 396fc97a096a4a46909564dabaa92d02
+#: ../../2-Digital 396fc97a096a4a46909564dabaa92d02 age.rst:82
+#: efaede017d544f3f995739a038dd7066
 msgid "Ladino in Endangered Languages Project"
 msgstr "*Endangered Languages Project*'te Ladino"
 
-#: ../../2-Digital age.rst:84 3d7fef1532c249cb849a125716085a2b
-msgid "Similarly, `Wikitongues <https://wikitongues.org/>`_, which started in 2014, collects recordings and resources of the world's languages. Currently it holds videos in over 700 languages, lexicons in 200 languages and links to hundreds of external resources."
-msgstr "Benzer şekilde, 2014 yılında başlayan `Wikitongues <https://wikitongues.org/>`_, dünyadaki dillerin kayıtlarını ve kaynaklarını toplamaktadır. Şu anda 700’den fazla dilde videolar, 200 dilde leksikon ve yüzlerce harici kaynağa bağlantılar içerir."
+#: ../../2-Digital 3d7fef1532c249cb849a125716085a2b age.rst:84
+msgid ""
+"Similarly, `Wikitongues <https://wikitongues.org/>`_, which started in 2014, "
+"collects recordings and resources of the world's languages. Currently it "
+"holds videos in over 700 languages, lexicons in 200 languages and links to "
+"hundreds of external resources."
+msgstr ""
+"Benzer şekilde, 2014 yılında başlayan `Wikitongues <https://wikitongues.org/"
+">`_, dünyadaki dillerin kayıtlarını ve kaynaklarını toplamaktadır. Şu anda "
+"700’den fazla dilde videolar, 200 dilde leksikon ve yüzlerce harici kaynağa "
+"bağlantılar içerir."
 
-#: ../../2-Digital age.rst:90 7cbc2a21a5fb4427b0fb52e8a4dfb5b3
+#: ../../2-Digital 7cbc2a21a5fb4427b0fb52e8a4dfb5b3
+#: 809dc9f00d134c63a2e8b1ff970fc55d age.rst:90
 msgid "Ladino videos in Wikitongues"
 msgstr "*Wikitongues*'da Ladino videolar"
 
-#: ../../2-Digital age.rst:93 5d5cb3c3e40143d09dcb76902014749a
+#: ../../2-Digital 5d5cb3c3e40143d09dcb76902014749a age.rst:93
 msgid "\"Traditional\" technology"
 msgstr "“Geleneksel” teknoloji"
 
-#: ../../2-Digital age.rst:95 2359e595ff064d8bae75b8e6959e7877
-msgid "Preserving a language isn’t just a matter of recording words or phrases and digitising them to be held in an online vault. Language is inherently about people, culture and identity. In order to keep a language alive, it needs to be spoken by many, immersed in everyday culture and actively passed onto future generations. These days, the internet, social media, software, platforms occupy a large space in our everyday lives. In this section, we will list some of the core tools needed for a technology to thrive digitally."
-msgstr "Bir dili korumak, yalnızca kelimeleri veya cümleleri kaydetmek ve onları çevrimiçi bir kasada saklanmak üzere dijitalleştirmek değildir. Dil, doğası gereği insanlarla, kültürle ve kimlikle ilgilidir. Bir dili canlı tutmak için, o dilin birçok kişi tarafından konuşulması, günlük kültürün içine girmesi ve gelecek nesillere aktif olarak aktarılması gerekir. Günümüzde internet, sosyal medya, yazılımlar ve platformlar günlük hayatımızda büyük bir yer kaplamaktadır. Bu bölümde, bir teknolojinin dijital olarak gelişmesi için gereken temel araçlardan bazılarını listeleyeceğiz."
+#: ../../2-Digital 2359e595ff064d8bae75b8e6959e7877 age.rst:95
+msgid ""
+"Preserving a language isn’t just a matter of recording words or phrases and "
+"digitising them to be held in an online vault. Language is inherently about "
+"people, culture and identity. In order to keep a language alive, it needs to "
+"be spoken by many, immersed in everyday culture and actively passed onto "
+"future generations. These days, the internet, social media, software, "
+"platforms occupy a large space in our everyday lives. In this section, we "
+"will list some of the core tools needed for a technology to thrive digitally."
+msgstr ""
+"Bir dili korumak, yalnızca kelimeleri veya cümleleri kaydetmek ve onları "
+"çevrimiçi bir kasada saklanmak üzere dijitalleştirmek değildir. Dil, doğası "
+"gereği insanlarla, kültürle ve kimlikle ilgilidir. Bir dili canlı tutmak "
+"için, o dilin birçok kişi tarafından konuşulması, günlük kültürün içine "
+"girmesi ve gelecek nesillere aktif olarak aktarılması gerekir. Günümüzde "
+"internet, sosyal medya, yazılımlar ve platformlar günlük hayatımızda büyük "
+"bir yer kaplamaktadır. Bu bölümde, bir teknolojinin dijital olarak gelişmesi "
+"için gereken temel araçlardan bazılarını listeleyeceğiz."
 
-#: ../../2-Digital age.rst:98 7a2b05b0dc54436cbb039525df5dac9b
+#: ../../2-Digital 7a2b05b0dc54436cbb039525df5dac9b age.rst:98
 msgid "Unicode-supported font"
 msgstr "Unicode destekli yazı tipi"
 
 #: ../../2-Digital age.rst:100 d7738655fb094b21a151164b48fbddf9
-msgid "A digital font is the way computers know how to display the characters in your language. Unicode, formally the Unicode Standard, is an information technology standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The standard, which is maintained by the Unicode Consortium, defines 144,697 characters covering 159 modern and historic scripts, as well as symbols, emoji, and non-visual control and formatting codes."
-msgstr "Dijital yazı tipi, bilgisayarların karakterleri sizin dilinizde nasıl görüntüleyeceğini bilmelerinin yoludur. Unicode (Evrensel Kod), resmi adıyla *Unicode Standard*, dünyadaki çoğu yazım sistemlerinden metinlerin tutarlı bir şekilde kodlanması, gösterilmesi ve işlenmesi için oluşturulmuş bir bilgi teknolojisi standardıdır. Unicode Konsorsiyumu tarafından sürdürülen standart, 159 modern ve tarihi yazım sisteminin yanı sıra sembolleri, emojileri ve görsel olmayan kontrol ve biçimlendirme kodlarını içeren 144.697 karakteri tanımlar."
+msgid ""
+"A digital font is the way computers know how to display the characters in "
+"your language. Unicode, formally the Unicode Standard, is an information "
+"technology standard for the consistent encoding, representation, and handling "
+"of text expressed in most of the world's writing systems. The standard, which "
+"is maintained by the Unicode Consortium, defines 144,697 characters covering "
+"159 modern and historic scripts, as well as symbols, emoji, and non-visual "
+"control and formatting codes."
+msgstr ""
+"Dijital yazı tipi, bilgisayarların karakterleri sizin dilinizde nasıl "
+"görüntüleyeceğini bilmelerinin yoludur. Unicode (Evrensel Kod), resmi adıyla "
+"*Unicode Standard*, dünyadaki çoğu yazım sistemlerinden metinlerin tutarlı "
+"bir şekilde kodlanması, gösterilmesi ve işlenmesi için oluşturulmuş bir bilgi "
+"teknolojisi standardıdır. Unicode Konsorsiyumu tarafından sürdürülen "
+"standart, 159 modern ve tarihi yazım sisteminin yanı sıra sembolleri, "
+"emojileri ve görsel olmayan kontrol ve biçimlendirme kodlarını içeren 144.697 "
+"karakteri tanımlar."
 
 #: ../../2-Digital age.rst:102 d986df906d5e4a7faaf1464ca3835a50
-msgid "You can check if your language is supported by a font by going to `Google Noto <https://fonts.google.com/noto/>`_ and searching among fonts that represent more than 500 writing systems. If it is not there, you can create your own with the help from a font designer and install it manually on your computer."
-msgstr "`Google Noto <https://fonts.google.com/noto/>`_’ya giderek ve 500’den fazla yazı sistemini temsil eden yazı tipleri arasında arama yaparak dilinizin bir yazı tipi tarafından desteklenip desteklenmediğini kontrol edebilirsiniz. Eğer desteklenmiyorsa, bir yazı tipi tasarımcısının yardımıyla kendi diliniz için yazı tipi oluşturabilir ve manuel olarak bilgisayarınıza yükleyebilirsiniz."
+msgid ""
+"You can check if your language is supported by a font by going to `Google "
+"Noto <https://fonts.google.com/noto/>`_ and searching among fonts that "
+"represent more than 500 writing systems. If it is not there, you can create "
+"your own with the help from a font designer and install it manually on your "
+"computer."
+msgstr ""
+"`Google Noto <https://fonts.google.com/noto/>`_’ya giderek ve 500’den fazla "
+"yazı sistemini temsil eden yazı tipleri arasında arama yaparak dilinizin bir "
+"yazı tipi tarafından desteklenip desteklenmediğini kontrol edebilirsiniz. "
+"Eğer desteklenmiyorsa, bir yazı tipi tasarımcısının yardımıyla kendi diliniz "
+"için yazı tipi oluşturabilir ve manuel olarak bilgisayarınıza "
+"yükleyebilirsiniz."
 
-#: ../../2-Digital age.rst:109
+#: ../../2-Digital 8dd39986954e42b4853a9c69e290b5ee age.rst:109
+#: ff8447510ae243adb09bfde788e35a06
 msgid "Tifinagh alphabet of Moroccan Berber in Google Fonts"
 msgstr "Google Fonts’ta Fas Berberi Tifinag alfabesi"
 
@@ -177,102 +417,349 @@ msgid "Keyboard"
 msgstr "Klavye / Tuş takımı"
 
 #: ../../2-Digital 47c4429b26444288bf1782004b70e4d4 age.rst:114
-msgid "Until the day we will be speaking naturally with computers, the most common interface for interacting with them will be the keyboard. It is a technology easily taken for granted for the world's many languages but unfortunately it is not available in all of the world's writing systems. If a keyboard is not present or not developed enough for a language, its speakers tend to prefer other alphabets or even languages to communicate. For example, speakers of Ethiopian languages like Amharic, Tigrinya and Oromo switch to using English as Ge'ez script is not pre-installed in their smartphones. Young arabic speakers in many countries have invented their own chat-alphabet `Arabizi <https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_ consisting of latin characters and numerals to account for the lack of Arabic script support in early mobile and web technology."
-msgstr "Bilgisayarlarla doğal olarak konuşacağımız günler gelinceye kadar, onlarla iletişim kurmak için kullanacağımız en temel arayüz klavye olacaktır. Dünyadaki birçok dil için bulunmasına kolayca kesin gözüyle bakılan bir teknolojidir, ancak ne yazık ki dünyadaki tüm yazı sistemlerinde mevcut değildir. Eğer bir dil için geliştirilmiş bir klavye yoksa ya da yeterince gelişmemişse, o dili konuşanlar iletişim kurmak için diğer alfabeleri ve hatta dilleri tercih etme eğilimindedir. Örneğin, Amharca, Tigrinya ve Oromca gibi Etiyopya dillerini konuşanlar, akıllı telefonlarında Ge’ez alfabesi önceden yüklü olmadığı için, İngilizce kullanmaya geçerler. Birçok ülkede, Arapça konuşan gençler, eski mobil cihazlarda ve web teknolojilerinde Arap alfabesinin eksikliğini kapatmak için, Latin alfabesi karakterlerinden ve rakamlardan oluşan kendi *chat*-alfabeleri `Arabizi <https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_’yi icat ettiler."
+msgid ""
+"Until the day we will be speaking naturally with computers, the most common "
+"interface for interacting with them will be the keyboard. It is a technology "
+"easily taken for granted for the world's many languages but unfortunately it "
+"is not available in all of the world's writing systems. If a keyboard is not "
+"present or not developed enough for a language, its speakers tend to prefer "
+"other alphabets or even languages to communicate. For example, speakers of "
+"Ethiopian languages like Amharic, Tigrinya and Oromo switch to using English "
+"as Ge'ez script is not pre-installed in their smartphones. Young arabic "
+"speakers in many countries have invented their own chat-alphabet `Arabizi "
+"<https://en.wikipedia.org/wiki/Arabic_chat_alphabet>`_ consisting of latin "
+"characters and numerals to account for the lack of Arabic script support in "
+"early mobile and web technology."
+msgstr ""
+"Bilgisayarlarla doğal olarak konuşacağımız günler gelinceye kadar, onlarla "
+"iletişim kurmak için kullanacağımız en temel arayüz klavye olacaktır. "
+"Dünyadaki birçok dil için bulunmasına kolayca kesin gözüyle bakılan bir "
+"teknolojidir, ancak ne yazık ki dünyadaki tüm yazı sistemlerinde mevcut "
+"değildir. Eğer bir dil için geliştirilmiş bir klavye yoksa ya da yeterince "
+"gelişmemişse, o dili konuşanlar iletişim kurmak için diğer alfabeleri ve "
+"hatta dilleri tercih etme eğilimindedir. Örneğin, Amharca, Tigrinya ve Oromca "
+"gibi Etiyopya dillerini konuşanlar, akıllı telefonlarında Ge’ez alfabesi "
+"önceden yüklü olmadığı için, İngilizce kullanmaya geçerler. Birçok ülkede, "
+"Arapça konuşan gençler, eski mobil cihazlarda ve web teknolojilerinde Arap "
+"alfabesinin eksikliğini kapatmak için, Latin alfabesi karakterlerinden ve "
+"rakamlardan oluşan kendi *chat*-alfabeleri `Arabizi <https://en.wikipedia.org/"
+"wiki/Arabic_chat_alphabet>`_’yi icat ettiler."
 
 #: ../../2-Digital age.rst:116 b0bdb3fcbd08451ca8601719465a8c1e
-msgid "If a keyboard is not available, let's say in your phone or computer, here are some resources to search or help create your own keyboard:"
-msgstr "Telefonunuzda veya örneğin bilgisayarınızda size gerekli bir klavye mevcut değilse, bir klavyeyi aramanız veya kendi klavyesini oluşturmanıza yardımcı olacak bazı kaynaklar şunlar:"
+msgid ""
+"If a keyboard is not available, let's say in your phone or computer, here are "
+"some resources to search or help create your own keyboard:"
+msgstr ""
+"Telefonunuzda veya örneğin bilgisayarınızda size gerekli bir klavye mevcut "
+"değilse, bir klavyeyi aramanız veya kendi klavyesini oluşturmanıza yardımcı "
+"olacak bazı kaynaklar şunlar:"
 
-#: ../../2-Digital age.rst:118 1b8fd33512334ff1ae455295cd008a30
-msgid "Google's mobile keyboard, `Gboard <https://support.google.com/gboard/answer/6380730?hl=en&ref_topic=9023832&co=GENIE.Platform%3DAndroid&oco=0>`_"
-msgstr "Google’ın mobil klavyesi, `Gboard <https://support.google.com/gboard/answer/6380730?hl=tr&ref_topic=9023832&co=GENIE.Platform%3DAndroid&oco=0>`_"
+#: ../../2-Digital 1b8fd33512334ff1ae455295cd008a30 age.rst:118
+msgid ""
+"Google's mobile keyboard, `Gboard <https://support.google.com/gboard/"
+"answer/6380730?hl=en&ref_topic=9023832&co=GENIE.Platform%3DAndroid&oco=0>`_"
+msgstr ""
+"Google’ın mobil klavyesi, `Gboard <https://support.google.com/gboard/"
+"answer/6380730?hl=tr&ref_topic=9023832&co=GENIE.Platform%3DAndroid&oco=0>`_"
 
-#: ../../2-Digital age.rst:119 332f95a78c80414f8cec3ce5c0211603
+#: ../../2-Digital 332f95a78c80414f8cec3ce5c0211603 age.rst:119
 msgid "`Keyman <https://keyman.com/>`_ supports 2000 languages"
 msgstr "2000 dili destekleyen `Keyman <https://keyman.com/>`_"
 
 #: ../../2-Digital age.rst:120 d7623c8831104abe882bec4dc7f9f03b
-msgid "`Microsoft Keyboard Layout Creator <https://www.microsoft.com/en-us/download/details.aspx?id=102134>`_"
-msgstr "`Microsoft Klavye Düzeni Oluşturucu (MSKLC) <https://www.microsoft.com/en-us/download/details.aspx?id=102134>`_"
+msgid ""
+"`Microsoft Keyboard Layout Creator <https://www.microsoft.com/en-us/download/"
+"details.aspx?id=102134>`_"
+msgstr ""
+"`Microsoft Klavye Düzeni Oluşturucu (MSKLC) <https://www.microsoft.com/en-us/"
+"download/details.aspx?id=102134>`_"
 
-#: ../../2-Digital age.rst:121 63fa6d76fd4741cf9dc9c4d54ae7f64b
-msgid "`Ukelele <https://software.sil.org/ukelele/>`_ is a Unicode Keyboard Layout Editor for the MacOS"
-msgstr "macOS için Unicode Klavye Düzeni Biçimleyicisi `Ukelele <https://software.sil.org/ukelele/>`_"
+#: ../../2-Digital 63fa6d76fd4741cf9dc9c4d54ae7f64b age.rst:121
+msgid ""
+"`Ukelele <https://software.sil.org/ukelele/>`_ is a Unicode Keyboard Layout "
+"Editor for the MacOS"
+msgstr ""
+"macOS için Unicode Klavye Düzeni Biçimleyicisi `Ukelele <https://software.sil."
+"org/ukelele/>`_"
 
-#: ../../2-Digital age.rst:124 13952a25752443128489bde8b15c4062
+#: ../../2-Digital 13952a25752443128489bde8b15c4062 age.rst:124
 msgid "Online dictionary"
 msgstr "Çevrimiçi sözlük"
 
-#: ../../2-Digital age.rst:126 97f36832ba3f457db3b8e911666d350c
-msgid "A dictionary, or lexicon, is a solid way of documenting a language since it acts as a reference of words and their meanings. An online dictionary never goes out-of-print as it is accessible from any device with an internet connection. Also, open-source dictionaries can live and grow collaboratively as a community effort involving both speakers of the language, linguists and technologists."
-msgstr "Sözlük (leksikon), bir dili belgelemenin önemli bir yoludur, çünkü kelimeler ve anlamları için bir referans görevi görür. İnternet bağlantısı olan herhangi bir cihazdan erişilebilir olduğu için, bir çevrimiçi sözlüğün baskısı asla tükenmez. Ayrıca, açık kaynak sözlükler, hem dili konuşanları, hem de dilbilimcileri ve teknoloji uzmanlarını içeren bir topluluğun çabasıyla ortaklaşa biçimde yaşatılabilir ve büyütülebilir."
+#: ../../2-Digital 97f36832ba3f457db3b8e911666d350c age.rst:126
+msgid ""
+"A dictionary, or lexicon, is a solid way of documenting a language since it "
+"acts as a reference of words and their meanings. An online dictionary never "
+"goes out-of-print as it is accessible from any device with an internet "
+"connection. Also, open-source dictionaries can live and grow collaboratively "
+"as a community effort involving both speakers of the language, linguists and "
+"technologists."
+msgstr ""
+"Sözlük (leksikon), bir dili belgelemenin önemli bir yoludur, çünkü kelimeler "
+"ve anlamları için bir referans görevi görür. İnternet bağlantısı olan "
+"herhangi bir cihazdan erişilebilir olduğu için, bir çevrimiçi sözlüğün "
+"baskısı asla tükenmez. Ayrıca, açık kaynak sözlükler, hem dili konuşanları, "
+"hem de dilbilimcileri ve teknoloji uzmanlarını içeren bir topluluğun "
+"çabasıyla ortaklaşa biçimde yaşatılabilir ve büyütülebilir."
 
-#: ../../2-Digital age.rst:128 4ced47fa07254c14bd36b7392a48b0b5
-msgid "`Living Dictionaries <https://livingdictionaries.app/>`_ is an online dictionary-builder platform created by Living Tongues Institute for Endangered Languages. It provides comprehensive, free online tech tools that assist language communities in conservation and revitalization efforts. It also allows recording of words and phrases. As of May 2022, it support 237 languages. To initiate your language in Living Dictionaries, you can get use of their `Elicitation lists <https://livingtongues.org/the-master-elicitation-list/>`_ and watch tutorials on their `YouTube channel <https://www.youtube.com/channel/UCiYtwIJ6yAgO2_IeLMgrirA>`_."
-msgstr "`Living Dictionaries <https://livingdictionaries.app/>`_ (Yaşayan Sözlükler), *Living Tongues Institute for Endangered Languages* (Tehlike Altındaki Diller için Yaşayan Diller Enstitüsü) tarafından oluşturulmuş bir çevrimiçi sözlük oluşturma platformudur. Dil topluluklarına dillerini koruma ve canlandırma çabalarında yardımcı olan kapsamlı, ücretsiz çevrimiçi teknoloji araçları sağlar. Ayrıca kelimelerin ve cümlelerin kaydedilmesine izin verir. Mayıs 2022 itibariyle 237 dili desteklemektedir. *Living Dictionaries*’de dilinizin sözlüğünü oluşturmaya başlamak için, `Tanımlama listeleri’nden <https://livingtongues.org/the-master-elicitation-list/>`_ yararlanabilir ve `YouTube kanallarındaki <https://www.youtube.com/channel/UCiYtwIJ6yAgO2_IeLMgrirA>`_ eğitim videolarını izleyebilirsiniz."
+#: ../../2-Digital 4ced47fa07254c14bd36b7392a48b0b5 age.rst:128
+msgid ""
+"`Living Dictionaries <https://livingdictionaries.app/>`_ is an online "
+"dictionary-builder platform created by Living Tongues Institute for "
+"Endangered Languages. It provides comprehensive, free online tech tools that "
+"assist language communities in conservation and revitalization efforts. It "
+"also allows recording of words and phrases. As of May 2022, it support 237 "
+"languages. To initiate your language in Living Dictionaries, you can get use "
+"of their `Elicitation lists <https://livingtongues.org/the-master-elicitation-"
+"list/>`_ and watch tutorials on their `YouTube channel <https://www.youtube."
+"com/channel/UCiYtwIJ6yAgO2_IeLMgrirA>`_."
+msgstr ""
+"`Living Dictionaries <https://livingdictionaries.app/>`_ (Yaşayan Sözlükler), "
+"*Living Tongues Institute for Endangered Languages* (Tehlike Altındaki Diller "
+"için Yaşayan Diller Enstitüsü) tarafından oluşturulmuş bir çevrimiçi sözlük "
+"oluşturma platformudur. Dil topluluklarına dillerini koruma ve canlandırma "
+"çabalarında yardımcı olan kapsamlı, ücretsiz çevrimiçi teknoloji araçları "
+"sağlar. Ayrıca kelimelerin ve cümlelerin kaydedilmesine izin verir. Mayıs "
+"2022 itibariyle 237 dili desteklemektedir. *Living Dictionaries*’de dilinizin "
+"sözlüğünü oluşturmaya başlamak için, `Tanımlama listeleri’nden <https://"
+"livingtongues.org/the-master-elicitation-list/>`_ yararlanabilir ve `YouTube "
+"kanallarındaki <https://www.youtube.com/channel/UCiYtwIJ6yAgO2_IeLMgrirA>`_ "
+"eğitim videolarını izleyebilirsiniz."
 
-#: ../../2-Digital age.rst:130 3fb92166611847e3842fb6ebf2a5bcac
-msgid "`SIL Dictionary App Builder <https://software.sil.org/dictionaryappbuilder/>`_ “helps you to build customized dictionary apps for Android and iOS smartphones and tablets. You specify the lexicon data file to use, the app name, fonts, colors, the ‘about box’ information, the audio, illustrations and the icons. Dictionary App Builder will package everything together and build the customized app for you. You can then install it on your phone, send it to others by Bluetooth, share it on microSD memory cards and publish it to app stores on the Internet.”"
-msgstr "`SIL Dictionary App Builder <https://software.sil.org/dictionaryappbuilder/>`_ “Android ve iOS akıllı telefonlar ve tabletler için özelleştirilmiş sözlük uygulamaları oluşturmanıza yardımcı olur. Kullanılacak sözlük veri dosyasını, uygulama adını, yazı tiplerini, renkleri, ‘hakkında’ bilgilerini, sesi, resimleri ve simgeleri siz belirlersiniz. Dictionary App Builder, her şeyi bir araya toplayıp sizin için özelleştirilmiş uygulamayı oluşturacaktır. Ardından uygulamayı telefonunuza yükleyebilir, Bluetooth ile başkalarına gönderebilir, microSD hafıza kartlarında paylaşabilir ve internetteki uygulama mağazalarında yayınlayabilirsiniz.”"
+#: ../../2-Digital 3fb92166611847e3842fb6ebf2a5bcac age.rst:130
+msgid ""
+"`SIL Dictionary App Builder <https://software.sil.org/dictionaryappbuilder/"
+">`_ “helps you to build customized dictionary apps for Android and iOS "
+"smartphones and tablets. You specify the lexicon data file to use, the app "
+"name, fonts, colors, the ‘about box’ information, the audio, illustrations "
+"and the icons. Dictionary App Builder will package everything together and "
+"build the customized app for you. You can then install it on your phone, send "
+"it to others by Bluetooth, share it on microSD memory cards and publish it to "
+"app stores on the Internet.”"
+msgstr ""
+"`SIL Dictionary App Builder <https://software.sil.org/dictionaryappbuilder/"
+">`_ “Android ve iOS akıllı telefonlar ve tabletler için özelleştirilmiş "
+"sözlük uygulamaları oluşturmanıza yardımcı olur. Kullanılacak sözlük veri "
+"dosyasını, uygulama adını, yazı tiplerini, renkleri, ‘hakkında’ bilgilerini, "
+"sesi, resimleri ve simgeleri siz belirlersiniz. Dictionary App Builder, her "
+"şeyi bir araya toplayıp sizin için özelleştirilmiş uygulamayı oluşturacaktır. "
+"Ardından uygulamayı telefonunuza yükleyebilir, Bluetooth ile başkalarına "
+"gönderebilir, microSD hafıza kartlarında paylaşabilir ve internetteki "
+"uygulama mağazalarında yayınlayabilirsiniz.”"
 
-#: ../../2-Digital age.rst:137 3745f18cd7d9441087659b6f2b97af5f
-msgid "A woman using Bambara dictionary on her mobile phone (image credit SIL International)"
-msgstr "Cep telefonunda Bambara sözlüğü kullanan bir kadın (Görsel: SIL International)"
+#: ../../2-Digital 1775cef2a9ad44e2a315756132328d51 age.rst:137
+#, fuzzy
+msgid "A woman using bambara dictionary on her mobile phone"
+msgstr ""
+"Cep telefonunda Bambara sözlüğü kullanan bir kadın (Görsel: SIL International)"
+
+#: ../../2-Digital 3745f18cd7d9441087659b6f2b97af5f age.rst:137
+msgid ""
+"A woman using Bambara dictionary on her mobile phone (image credit SIL "
+"International)"
+msgstr ""
+"Cep telefonunda Bambara sözlüğü kullanan bir kadın (Görsel: SIL International)"
 
 #: ../../2-Digital age.rst:140 b560530ff27e400ebed17363b2031182
 msgid "Language learning applications"
 msgstr "Dil öğrenme uygulamaları"
 
-#: ../../2-Digital age.rst:142 4c0bdb2e96784419a52c50b518efc8a2
-msgid "The availability of online educational platforms has revolutionized the way many people approach language learning today. Even though they don't replace a teacher, they either complement traditional classes or are the only choice in some languages' contexts. They also give many advantages like letting people learn on any device (mobile or desktop), at their own pace and schedule. These apps serve language classes and exercises in short, fun and digestible sprints, let the students track their progress, and even chat with or hire language tutors in online community spaces."
-msgstr "Çevrimiçi eğitim platformları, bugün birçok insanın dil öğrenmeye yaklaşım biçiminde devrim yarattı. Öğretmenin yerini tutmasalar da, bu platformlar ya geleneksel dersleri tamamlayıcı niteliktedir ya da bazı diller için tek seçenektir. Ayrıca, insanların herhangi bir cihazda (mobil veya masaüstü), kendi ilerleme hızlarında ve planlamalarında öğrenmelerini mümkün kılmak gibi birçok avantaj da sağlarlar. Bu uygulamalar, kısa, eğlenceli, hafif ve hızlı geçilen bölümlerle dil dersleri ve alıştırmalar sunar, öğrencilerin ilerlemelerini takip etmelerine, hatta çevrimiçi topluluk ortamlarında dil öğretmenleri ile sohbet etmelerine veya tutmalarına olanak verir."
+#: ../../2-Digital 4c0bdb2e96784419a52c50b518efc8a2 age.rst:142
+msgid ""
+"The availability of online educational platforms has revolutionized the way "
+"many people approach language learning today. Even though they don't replace "
+"a teacher, they either complement traditional classes or are the only choice "
+"in some languages' contexts. They also give many advantages like letting "
+"people learn on any device (mobile or desktop), at their own pace and "
+"schedule. These apps serve language classes and exercises in short, fun and "
+"digestible sprints, let the students track their progress, and even chat with "
+"or hire language tutors in online community spaces."
+msgstr ""
+"Çevrimiçi eğitim platformları, bugün birçok insanın dil öğrenmeye yaklaşım "
+"biçiminde devrim yarattı. Öğretmenin yerini tutmasalar da, bu platformlar ya "
+"geleneksel dersleri tamamlayıcı niteliktedir ya da bazı diller için tek "
+"seçenektir. Ayrıca, insanların herhangi bir cihazda (mobil veya masaüstü), "
+"kendi ilerleme hızlarında ve planlamalarında öğrenmelerini mümkün kılmak gibi "
+"birçok avantaj da sağlarlar. Bu uygulamalar, kısa, eğlenceli, hafif ve hızlı "
+"geçilen bölümlerle dil dersleri ve alıştırmalar sunar, öğrencilerin "
+"ilerlemelerini takip etmelerine, hatta çevrimiçi topluluk ortamlarında dil "
+"öğretmenleri ile sohbet etmelerine veya tutmalarına olanak verir."
 
-#: ../../2-Digital age.rst:144 4d3f992d9c1a4fddb295214510282727
-msgid "Many of the world’s endangered, minority and under-resourced do not yet have a significant presence online or adequate language documentation to create online courses. There are, however, thanks to push from language communities and increased sensibility for learning indigenous languages worldwide, increased interest by companies who develop these apps for investing into endangered and minority languages. Languages like Maori, Scots Gaelic, Hawaiian, Quechua, Navajo and Lakota are making their way into well-known educational platforms like Duolingo, Babbel and uTalk."
-msgstr "Dünyada tehlike altında olan, azınlıklaştırılmış ve/veya yetersiz kaynaklara sahip olan dillerin çoğu, henüz çevrimiçi dil kursları oluşturmak için önemli bir çevrimiçi varlığa ya da yeterli dil belgelerine sahip değil. Bununla birlikte, dil topluluklarından gelen baskılar ve dünya çapında yerli dillerini öğrenmeye yönelik artan duyarlılık sayesinde, bu uygulamaları geliştiren şirketlerin tehlike altında olan dillere ve azınlık dillerine yatırım yapma konusundaki ilgisi arttı. Maorice, İskoçça, Hawaii, Keçuva, Navahoca ve Lakotaca gibi diller Duolingo, Babbel ve uTalk gibi tanınmış eğitim platformlarında yerlerini almaya başladı."
+#: ../../2-Digital 4d3f992d9c1a4fddb295214510282727 age.rst:144
+msgid ""
+"Many of the world’s endangered, minority and under-resourced do not yet have "
+"a significant presence online or adequate language documentation to create "
+"online courses. There are, however, thanks to push from language communities "
+"and increased sensibility for learning indigenous languages worldwide, "
+"increased interest by companies who develop these apps for investing into "
+"endangered and minority languages. Languages like Maori, Scots Gaelic, "
+"Hawaiian, Quechua, Navajo and Lakota are making their way into well-known "
+"educational platforms like Duolingo, Babbel and uTalk."
+msgstr ""
+"Dünyada tehlike altında olan, azınlıklaştırılmış ve/veya yetersiz kaynaklara "
+"sahip olan dillerin çoğu, henüz çevrimiçi dil kursları oluşturmak için önemli "
+"bir çevrimiçi varlığa ya da yeterli dil belgelerine sahip değil. Bununla "
+"birlikte, dil topluluklarından gelen baskılar ve dünya çapında yerli "
+"dillerini öğrenmeye yönelik artan duyarlılık sayesinde, bu uygulamaları "
+"geliştiren şirketlerin tehlike altında olan dillere ve azınlık dillerine "
+"yatırım yapma konusundaki ilgisi arttı. Maorice, İskoçça, Hawaii, Keçuva, "
+"Navahoca ve Lakotaca gibi diller Duolingo, Babbel ve uTalk gibi tanınmış "
+"eğitim platformlarında yerlerini almaya başladı."
 
-#: ../../2-Digital age.rst:146 6a7f48db4f694157a8f893576dc6d599
+#: ../../2-Digital 6a7f48db4f694157a8f893576dc6d599 age.rst:146
 msgid "We can categorize these platforms in four ways:"
 msgstr "Bu platformları dört şekilde sınıflandırabiliriz:"
 
 #: ../../2-Digital age.rst:148 ed86228b76744f73ae6607ce35313cb3
-msgid "**Module-based:** Using these apps feels more or less like taking a class in a school or a college, where users follow a modular curriculum planned by educators. It allows learners to track their progress, receive notifications, and earn points. Some notable examples are: `Duolingo <https://www.duolingo.com/>`_ , `Babbel <https://www.babbel.com/>`_, `uTalk <https://utalk.com/en/store>`_ , `Master Any Language <https://www.masteranylanguage.com/>`_. Unfortunately, it is not possible for language communities themselves to decide and implement a new language in these platforms. However, it is possible to \"lobby\" and participate in the creation of new modules through the communities some of these platforms provide. Also, it has to be noted that most of these platforms are in-profit platforms and the work by language communities remain uncompensated."
-msgstr "**Modül tabanlı:** Bu uygulamaları kullanmak, bir okulda veya kursta ders almaya benzer. Kullanıcılar, eğitimciler tarafından planlanmış ve modüllerden oluşan bir müfredatı izler. Öğrencilerin ilerlemelerini takip etmelerine, bildirim almalarına ve puan kazanmalarına olanak tanır. Dikkate değer bazı örnekler şunlardır: `Duolingo <https://www.duolingo.com/>`_, `Babbel <https://www.babbel.com/>`_, `uTalk <https://utalk.com/en/store>`_, `Master Any Language <https://www.masteranylanguage.com/>`_. Ne yazık ki dil topluluklarının tek başına bu platformlara yeni bir dil eklenmesine ve kurulmasına karar vermesi mümkün değildir. Ancak, bu platformlardan bazılarının oluşturduğu topluluklara katılmak ve bunlar aracılığıyla yeni modüllerin oluşturulması için “lobi” yapmak mümkündür. Bu platformların çoğunun kar amacı güden platformlar olduğu ve ekonomik anlamda dil topluluklarının çalışmalarının karşılanmadığı dikkate alınmalıdır."
+msgid ""
+"**Module-based:** Using these apps feels more or less like taking a class in "
+"a school or a college, where users follow a modular curriculum planned by "
+"educators. It allows learners to track their progress, receive notifications, "
+"and earn points. Some notable examples are: `Duolingo <https://www.duolingo."
+"com/>`_ , `Babbel <https://www.babbel.com/>`_, `uTalk <https://utalk.com/en/"
+"store>`_ , `Master Any Language <https://www.masteranylanguage.com/>`_. "
+"Unfortunately, it is not possible for language communities themselves to "
+"decide and implement a new language in these platforms. However, it is "
+"possible to \"lobby\" and participate in the creation of new modules through "
+"the communities some of these platforms provide. Also, it has to be noted "
+"that most of these platforms are in-profit platforms and the work by language "
+"communities remain uncompensated."
+msgstr ""
+"**Modül tabanlı:** Bu uygulamaları kullanmak, bir okulda veya kursta ders "
+"almaya benzer. Kullanıcılar, eğitimciler tarafından planlanmış ve modüllerden "
+"oluşan bir müfredatı izler. Öğrencilerin ilerlemelerini takip etmelerine, "
+"bildirim almalarına ve puan kazanmalarına olanak tanır. Dikkate değer bazı "
+"örnekler şunlardır: `Duolingo <https://www.duolingo.com/>`_, `Babbel <https://"
+"www.babbel.com/>`_, `uTalk <https://utalk.com/en/store>`_, `Master Any "
+"Language <https://www.masteranylanguage.com/>`_. Ne yazık ki dil "
+"topluluklarının tek başına bu platformlara yeni bir dil eklenmesine ve "
+"kurulmasına karar vermesi mümkün değildir. Ancak, bu platformlardan "
+"bazılarının oluşturduğu topluluklara katılmak ve bunlar aracılığıyla yeni "
+"modüllerin oluşturulması için “lobi” yapmak mümkündür. Bu platformların "
+"çoğunun kar amacı güden platformlar olduğu ve ekonomik anlamda dil "
+"topluluklarının çalışmalarının karşılanmadığı dikkate alınmalıdır."
 
-#: ../../2-Digital age.rst:154
+#: ../../2-Digital 279439c118344916ae071bbb2cb0d2bd
+#: a91a1b9bc055403f88c1c97b88454aea age.rst:154
 msgid "Content for learning Cree language in Master Any Language platform"
 msgstr "Kri dilini öğrenmek için *Master Any Language* platformunda bir içerik"
 
-#: ../../2-Digital age.rst:156 a2623b58a2be433aa571bc62918027b8
-msgid "**Game-based:** These applications feed the learner with “question and answer” pairs and can evaluate how well the person memorizes the pairing over time. This method is popular online for visual as well as auditory learners of languages, and also for many other areas of study such as math and science. `Memrise <https://www.memrise.com/>`_ may be the most compelling for indigenous and other under-resourced minority languages. It is an online educational platform that uses memory techniques such as flashcards, SRS (spaced repetition software) and visual aids to optimise language learning. Memrise has content available for over 170 languages, a much greater number than most other language-learning platforms. Notably, the site has an impressive, community-created selection of content for indigenous languages and dialects from around the globe such as Yup’ik (see first screenshot below), Cherokee (see second screenshot below), Algonquian, Alutiiq, Choctaw, Greenlandic, Inuktitut, Lakota, Nahuatl, Yucatec Maya, K’iche’, Quechua, Guarani, Ainu, Jeju and many other medium-sized tongues spoken in Europe, Africa, the Middle East, Asia and the Pacific. The Memrise platform has a DIY, democratic and grassroots feeling to it. The platform is innovative because: 1) users can follow existing courses and flashcard sets and seamlessly upload their own mnemonic aids to help recall words and phrases as they progress through a course; 2) the site provides a engaging way for users to connect with language content through repetition, little quizzes, short videos, funny images and recordings made by fluent speakers, and 3) the platform allows community users to easily create their own language courses that others can use as well. Similar platforms include: `AnkiApp <https://www.ankiapp.com/>`_, `Language Drops <https://languagedrops.com/languages>`_, and `MosaLingua <https://www.mosalingua.com/en/>`_."
-msgstr "**Oyun tabanlı:** Bu uygulamalar öğrenciye “soru-cevap” eşleştirmeleri verir ve kişinin zaman içinde eşleştirmeyi ne kadar iyi ezberlediğini değerlendirebilir. Bu yöntem, görsel ve işitsel yöntemlerle dil öğrenenler tarafından çevrimiçi popüler seçeneklerden biridir. Ayrıca matematik ve fen gibi diğer birçok çalışma alanı için de kullanılır. `Memrise <https://www.memrise.com/>`_, yerli dilleri ve diğer yetersiz kaynaklara sahip azınlık dilleri için en çekici uygulamalardan biri olabilir. Dil öğrenimini optimize etmek için, bilgi kartları, aralıklı tekrarlama ve görsel araçlar gibi hafıza tekniklerini kullanan çevrimiçi bir eğitim platformudur. Memrise’da, 170’in üzerinde dilde içerik bulunur, bu sayı diğer dil öğrenme platformlarının çoğundan çok daha yüksektir. Site, takdire değer şekilde, özellikle dünyanın dört bir yanında konuşulan yerli dilleri ve lehçeleri için, o dillerin toplulukları tarafından oluşturulmuş etkileyici bir içerik seçkisine sahiptir: Yupik (bkz alttaki ilk ekran görüntüsü), Çeroki (bkz alttaki ikinci ekran görüntüsü), Algonkin, Supik, Çoktav, Grönland, İnuit, Lakota, Nahuatl, Yukatek Maya, Kiçe, Keçuva, Guarani, Aynu, Jeju dilleri, ve Avrupa, Afrika, Orta Doğu, Asya ve Pasifik’te konuşulan diğer birçok orta ölçekli diller. Memrise, \"kendin yapçı\" (*DIY*), demokratik ve tabandan gelen bir platform hissi veriyor. Memrise yenilikçi bir platform; çünkü: 1) kullanıcılar hali hazırdaki kursları ve bilgi kartı setlerini takip edebiliyor ve bir kursta ilerlerken kelimeleri ve cümleleri hatırlamaya yardımcı olmak için kendi anımsatıcı araçlarını sorunsuz bir şekilde yükleyebiliyor; 2) site, tekrarlar, küçük testler, kısa videolar, eğlenceli görüntüler ve ileri seviye konuşmacılar tarafından hazırlanmış kayıtlar aracılığıyla kullanıcıların dil içeriğiyle bağlantı kurmaları için ilgi çekici bir yol sağlıyor; ve 3) platform, bir topluluğun kullanıcılarının kendi dillerinde, kolayca ve başkalarının da kullanabileceği dil kursları oluşturmalarına olanak tanıyor. Buna benzer platformlar şunlar: `AnkiApp <https://www.ankiapp.com/>`_, `Language Drops <https://languagedrops.com/languages>`_, ve `MosaLingua <https://www.mosalingua.com/en/>`_."
+#: ../../2-Digital a2623b58a2be433aa571bc62918027b8 age.rst:156
+msgid ""
+"**Game-based:** These applications feed the learner with “question and "
+"answer” pairs and can evaluate how well the person memorizes the pairing over "
+"time. This method is popular online for visual as well as auditory learners "
+"of languages, and also for many other areas of study such as math and "
+"science. `Memrise <https://www.memrise.com/>`_ may be the most compelling for "
+"indigenous and other under-resourced minority languages. It is an online "
+"educational platform that uses memory techniques such as flashcards, SRS "
+"(spaced repetition software) and visual aids to optimise language learning. "
+"Memrise has content available for over 170 languages, a much greater number "
+"than most other language-learning platforms. Notably, the site has an "
+"impressive, community-created selection of content for indigenous languages "
+"and dialects from around the globe such as Yup’ik (see first screenshot "
+"below), Cherokee (see second screenshot below), Algonquian, Alutiiq, Choctaw, "
+"Greenlandic, Inuktitut, Lakota, Nahuatl, Yucatec Maya, K’iche’, Quechua, "
+"Guarani, Ainu, Jeju and many other medium-sized tongues spoken in Europe, "
+"Africa, the Middle East, Asia and the Pacific. The Memrise platform has a "
+"DIY, democratic and grassroots feeling to it. The platform is innovative "
+"because: 1) users can follow existing courses and flashcard sets and "
+"seamlessly upload their own mnemonic aids to help recall words and phrases as "
+"they progress through a course; 2) the site provides a engaging way for users "
+"to connect with language content through repetition, little quizzes, short "
+"videos, funny images and recordings made by fluent speakers, and 3) the "
+"platform allows community users to easily create their own language courses "
+"that others can use as well. Similar platforms include: `AnkiApp <https://www."
+"ankiapp.com/>`_, `Language Drops <https://languagedrops.com/languages>`_, and "
+"`MosaLingua <https://www.mosalingua.com/en/>`_."
+msgstr ""
+"**Oyun tabanlı:** Bu uygulamalar öğrenciye “soru-cevap” eşleştirmeleri verir "
+"ve kişinin zaman içinde eşleştirmeyi ne kadar iyi ezberlediğini "
+"değerlendirebilir. Bu yöntem, görsel ve işitsel yöntemlerle dil öğrenenler "
+"tarafından çevrimiçi popüler seçeneklerden biridir. Ayrıca matematik ve fen "
+"gibi diğer birçok çalışma alanı için de kullanılır. `Memrise <https://www."
+"memrise.com/>`_, yerli dilleri ve diğer yetersiz kaynaklara sahip azınlık "
+"dilleri için en çekici uygulamalardan biri olabilir. Dil öğrenimini optimize "
+"etmek için, bilgi kartları, aralıklı tekrarlama ve görsel araçlar gibi hafıza "
+"tekniklerini kullanan çevrimiçi bir eğitim platformudur. Memrise’da, 170’in "
+"üzerinde dilde içerik bulunur, bu sayı diğer dil öğrenme platformlarının "
+"çoğundan çok daha yüksektir. Site, takdire değer şekilde, özellikle dünyanın "
+"dört bir yanında konuşulan yerli dilleri ve lehçeleri için, o dillerin "
+"toplulukları tarafından oluşturulmuş etkileyici bir içerik seçkisine "
+"sahiptir: Yupik (bkz alttaki ilk ekran görüntüsü), Çeroki (bkz alttaki ikinci "
+"ekran görüntüsü), Algonkin, Supik, Çoktav, Grönland, İnuit, Lakota, Nahuatl, "
+"Yukatek Maya, Kiçe, Keçuva, Guarani, Aynu, Jeju dilleri, ve Avrupa, Afrika, "
+"Orta Doğu, Asya ve Pasifik’te konuşulan diğer birçok orta ölçekli diller. "
+"Memrise, \"kendin yapçı\" (*DIY*), demokratik ve tabandan gelen bir platform "
+"hissi veriyor. Memrise yenilikçi bir platform; çünkü: 1) kullanıcılar hali "
+"hazırdaki kursları ve bilgi kartı setlerini takip edebiliyor ve bir kursta "
+"ilerlerken kelimeleri ve cümleleri hatırlamaya yardımcı olmak için kendi "
+"anımsatıcı araçlarını sorunsuz bir şekilde yükleyebiliyor; 2) site, "
+"tekrarlar, küçük testler, kısa videolar, eğlenceli görüntüler ve ileri seviye "
+"konuşmacılar tarafından hazırlanmış kayıtlar aracılığıyla kullanıcıların dil "
+"içeriğiyle bağlantı kurmaları için ilgi çekici bir yol sağlıyor; ve 3) "
+"platform, bir topluluğun kullanıcılarının kendi dillerinde, kolayca ve "
+"başkalarının da kullanabileceği dil kursları oluşturmalarına olanak tanıyor. "
+"Buna benzer platformlar şunlar: `AnkiApp <https://www.ankiapp.com/>`_, "
+"`Language Drops <https://languagedrops.com/languages>`_, ve `MosaLingua "
+"<https://www.mosalingua.com/en/>`_."
 
-#: ../../2-Digital age.rst:162
+#: ../../2-Digital 49a3aac1808a4971bef30e811551397f age.rst:162
+#: e678a8a0009f4edfa031303860b1ba4f
 msgid "Community created Quechua learning exercises in Memrise"
 msgstr "Memris’te topluluk tarafından oluşturulmuş Keçuva öğrenme alıştırmaları"
 
-#: ../../2-Digital age.rst:164 4c3bc01c00b14c85a5775fd307869828
-msgid "**Chat-based:** These apps allow learners to connect with spakers of the language they are interested in through a live interactive chat. This provides a stress-free and social environment for learners. Some examples like `HiNative <https://hinative.com>`_ and `HelloTalk <https://www.hellotalk.com/>`_ have recently exploded in popularity especially in Asian contries."
-msgstr "**Sohbet tabanlı:** Bu uygulamalar, öğrencilerin interaktif bir canlı sohbet aracılığıyla ilgilerini çeken dili konuşanlarla bağlantı kurmasına olanak tanır. Bu, öğrenciler için stressiz ve sosyal bir ortam sağlar. `HiNative <https://hinative.com>`_ ve `HelloTalk <https://www.hellotalk.com/>`_ gibi bazı örnekler son zamanlarda özellikle Asya ülkelerinde popülerlik kazandı."
+#: ../../2-Digital 4c3bc01c00b14c85a5775fd307869828 age.rst:164
+msgid ""
+"**Chat-based:** These apps allow learners to connect with spakers of the "
+"language they are interested in through a live interactive chat. This "
+"provides a stress-free and social environment for learners. Some examples "
+"like `HiNative <https://hinative.com>`_ and `HelloTalk <https://www.hellotalk."
+"com/>`_ have recently exploded in popularity especially in Asian contries."
+msgstr ""
+"**Sohbet tabanlı:** Bu uygulamalar, öğrencilerin interaktif bir canlı sohbet "
+"aracılığıyla ilgilerini çeken dili konuşanlarla bağlantı kurmasına olanak "
+"tanır. Bu, öğrenciler için stressiz ve sosyal bir ortam sağlar. `HiNative "
+"<https://hinative.com>`_ ve `HelloTalk <https://www.hellotalk.com/>`_ gibi "
+"bazı örnekler son zamanlarda özellikle Asya ülkelerinde popülerlik kazandı."
 
-#: ../../2-Digital age.rst:166 9b98dea3fa714b96a120279c5679d5f1
-msgid "**Online student-tutor platforms:** For those learners who prefer classic teacher-student relationship but do not have access to teachers in their vicinity, platforms like `iTalki <https://www.italki.com/>`_ and `Verbling <https://www.verbling.com/>`_ help setup online classes. This also contributes directly to the language community as it generates direct income for the teachers."
-msgstr "**Çevrimiçi öğrenci-öğretmen platformları:** Klasik öğretmen-öğrenci ilişkisini tercih eden ancak yakınlarda bir öğretmene erişimi olmayan öğrenciler için, `iTalki <https://www.italki.com/>`_ ve `Verbling <https://www.verbling.com/>`_ gibi platformlar çevrimiçi derslerin ayarlanmasına yardımcı olur. Bu aynı zamanda, öğretmenler için doğrudan gelir sağladığı için, doğrudan dil topluluğuna da katkıda bulunur."
+#: ../../2-Digital 9b98dea3fa714b96a120279c5679d5f1 age.rst:166
+msgid ""
+"**Online student-tutor platforms:** For those learners who prefer classic "
+"teacher-student relationship but do not have access to teachers in their "
+"vicinity, platforms like `iTalki <https://www.italki.com/>`_ and `Verbling "
+"<https://www.verbling.com/>`_ help setup online classes. This also "
+"contributes directly to the language community as it generates direct income "
+"for the teachers."
+msgstr ""
+"**Çevrimiçi öğrenci-öğretmen platformları:** Klasik öğretmen-öğrenci "
+"ilişkisini tercih eden ancak yakınlarda bir öğretmene erişimi olmayan "
+"öğrenciler için, `iTalki <https://www.italki.com/>`_ ve `Verbling <https://"
+"www.verbling.com/>`_ gibi platformlar çevrimiçi derslerin ayarlanmasına "
+"yardımcı olur. Bu aynı zamanda, öğretmenler için doğrudan gelir sağladığı "
+"için, doğrudan dil topluluğuna da katkıda bulunur."
 
-#: ../../2-Digital age.rst:175 8c5cf631961248fab2f0790c45d5b44b
+#: ../../2-Digital 8c5cf631961248fab2f0790c45d5b44b age.rst:175
 msgid "Sources"
 msgstr "Kaynaklar"
 
-#: ../../2-Digital age.rst:177 2adc4a4357ba413d97a876643b40da2e
-msgid "`Catalan wikipedia on Wikipedia <https://en.wikipedia.org/wiki/Catalan_Wikipedia>`_"
-msgstr "`Wikipedia’da Katalan Vikipedi <https://en.wikipedia.org/wiki/Catalan_Wikipedia>`_"
+#: ../../2-Digital 2adc4a4357ba413d97a876643b40da2e age.rst:177
+msgid ""
+"`Catalan wikipedia on Wikipedia <https://en.wikipedia.org/wiki/"
+"Catalan_Wikipedia>`_"
+msgstr ""
+"`Wikipedia’da Katalan Vikipedi <https://en.wikipedia.org/wiki/"
+"Catalan_Wikipedia>`_"
 
-#: ../../2-Digital age.rst:178 5c5b493b86d54a1eb1dde05f0834d7a1
-msgid "`How Technology Can Save Rapidly Dying Languages <https://www.vocativ.com/news/360216/apps-dying-languages/index.html>`_"
-msgstr "`How Technology Can Save Rapidly Dying Languages <https://www.vocativ.com/news/360216/apps-dying-languages/index.html>`_"
+#: ../../2-Digital 5c5b493b86d54a1eb1dde05f0834d7a1 age.rst:178
+msgid ""
+"`How Technology Can Save Rapidly Dying Languages <https://www.vocativ.com/"
+"news/360216/apps-dying-languages/index.html>`_"
+msgstr ""
+"`How Technology Can Save Rapidly Dying Languages <https://www.vocativ.com/"
+"news/360216/apps-dying-languages/index.html>`_"
 
-#: ../../2-Digital age.rst:179 2adc4a4357ba413d97a876643b40da2e
+#: ../../2-Digital 2adc4a4357ba413d97a876643b40da2e age.rst:179
 msgid "`Unicode on Wikipedia <https://en.wikipedia.org/wiki/Unicode>`_"
 msgstr "`Wikipedia’da Unicode <https://en.wikipedia.org/wiki/Unicode>`_"
 
@@ -280,14 +767,30 @@ msgstr "`Wikipedia’da Unicode <https://en.wikipedia.org/wiki/Unicode>`_"
 msgid "`Language sustainability toolkit <https://wikitongues.org/toolkit/>`_"
 msgstr "`Dil sürdürülebilirliği araç seti <https://wikitongues.org/toolkit/>`_"
 
-#: ../../2-Digital age.rst:181 9dd5b5f3feaa4bc593aec064454b9fe9
-msgid "`Learn Language Online by Living Tongues <https://livingtongues.org/learn-languages-online/>`_"
-msgstr "`Learn Language Online - Living Tongues <https://livingtongues.org/learn-languages-online/>`_"
+#: ../../2-Digital 9dd5b5f3feaa4bc593aec064454b9fe9 age.rst:181
+#, fuzzy
+msgid ""
+"`Learn Language Online by Living Tongues <https://livingtongues.org/learn-"
+"languages-online/?"
+"fbclid=IwAR3JGjK1puDmB5dUkpOvmPHhx4_yVG2VFPL5wHwHUEm4IrTEmWkVZag0chk>`_"
+msgstr ""
+"`Learn Language Online - Living Tongues <https://livingtongues.org/learn-"
+"languages-online/>`_"
 
-#: ../../2-Digital age.rst:182 066481d392cd4c088d39e27eb9ca5121
-msgid "`Computer assisted language learning in Wikipedia <https://en.wikipedia.org/wiki/Computer-assisted_language_learning#Human_language_technologies>`_"
-msgstr "`Wikipedia’da bilgisayar destekli dil öğrenimi <https://en.wikipedia.org/wiki/Computer-help_language_learning#Human_language_technologies>`_"
+#: ../../2-Digital 066481d392cd4c088d39e27eb9ca5121 age.rst:182
+msgid ""
+"`Computer assisted language learning in Wikipedia <https://en.wikipedia.org/"
+"wiki/Computer-assisted_language_learning#Human_language_technologies>`_"
+msgstr ""
+"`Wikipedia’da bilgisayar destekli dil öğrenimi <https://en.wikipedia.org/wiki/"
+"Computer-help_language_learning#Human_language_technologies>`_"
 
-#: ../../2-Digital age.rst:189 518bcd94161c4db09234544e7860d750
-msgid "This document was created with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union."
-msgstr "Bu yayın Avrupa Birliğinin maddi desteği ile hazırlanmıştır. İçerik tamamıyla Col·lectivaT ve SKAD’ın sorumluluğundadır ve Avrupa Birliği’nin görüşlerini yansıtmak zorunda değildir."
+#: ../../2-Digital 518bcd94161c4db09234544e7860d750 age.rst:189
+msgid ""
+"This document was created with the financial support of the European Union. "
+"The content of this website is the sole responsibility of Col·lectivaT and "
+"SKAD and does not necessarily reflect the views of the European Union."
+msgstr ""
+"Bu yayın Avrupa Birliğinin maddi desteği ile hazırlanmıştır. İçerik tamamıyla "
+"Col·lectivaT ve SKAD’ın sorumluluğundadır ve Avrupa Birliği’nin görüşlerini "
+"yansıtmak zorunda değildir."

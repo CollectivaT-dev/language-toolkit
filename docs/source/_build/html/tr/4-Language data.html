@@ -44,22 +44,22 @@
               <p class="caption" role="heading"><span class="caption-text">İçindekiler</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="1-Introduction.html">Giriş</a></li>
-<li class="toctree-l1"><a class="reference internal" href="2-Digital%20age.html">Diller ve dijital çağ</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2-Digital%20age.html">Diller ve Dijital Çağ</a></li>
 <li class="toctree-l1"><a class="reference internal" href="3-Datadriven%20language%20tech.html">Veriye dayalı dil teknolojileri</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Dil verileri</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#text-corpus">Metin korpusu</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#sourcing-text-corpora">Kaynak metin derlemi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#text-corpus">Metin derlemi</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#sourcing-text-corpora">Metin derlemlerine kaynak sağlama</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="#parallel-data-bitext">Paralel veri (bittext)</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#sourcing-parallel-data">Paralel veri sağlama</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#crowdsourcing-parallel-data-with-tatoeba-org">Crowdsourcing parallel data with Tatoeba.org</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#parallel-data-bitext">Paralel veri (bitext)</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#sourcing-parallel-data">Paralel veriye kaynak sağlama</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#crowdsourcing-parallel-data-with-tatoeba-org">Tatoeba.org ile kitle kaynaklı paralel veriler sağlama</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="#speech-corpus">Konuşma derlemi</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#common-voice">Common Voice</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#adding-a-language-to-common-voice">Common Voice’a dil ekleme</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#found-data">Bulumuş veriler</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#found-data">Bulunmuş veriler</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#sources">Kaynaklar</a></li>
 </ul>
 </li>
@@ -96,96 +96,96 @@
   <figure class="align-center" id="id2">
 <span id="data"></span><img alt="Türkiye ve Avrupa Birliği bayrakları" src="_images/ab_tr_en_color.jpg" />
 <figcaption>
-<p><span class="caption-text">Bu proje Avrupa Birliği tarafından finanse edilmektedir.</span><a class="headerlink" href="#id2" title="Bu resmin kalıcı bağlantısı"></a></p>
+<p><span class="caption-text">Bu proje Avrupa Birliği tarafından finanse edilmiştir.</span><a class="headerlink" href="#id2" title="Bu resmin kalıcı bağlantısı"></a></p>
 </figcaption>
 </figure>
 <section id="language-data">
 <h1>Dil verileri<a class="headerlink" href="#language-data" title="Bu başlık için kalıcı bağlantı"></a></h1>
-<p>Yapay zeka araçları, nesli tükenmekte olan ve azınlık dilleri için dil kaynağı oluşturma için yeni bir alan açar. Sözlük, dil bilgisi belgeleri, dil haritaları vb. gibi dilleri korumak için oluşturulan “klasik” dil kaynaklarıyla karşılaştırıldığında, bunlar daha az dilbilimsel uzmanlık gerektirir, ancak genellikle yalnızca büyük hacimlerde yararlıdır.</p>
-<p>Bu bölümde, bir önceki bölümde açıklanan yapay zeka tabanlı dil teknolojisinin oluşturulmasına güç veren veri türlerini açıklayacağız. Ayrıca, genellikle bu uygulamaların gerektirdiği büyük hacimli olmasalar bile, bunları toplamanın ve bunlardan en iyi şekilde yararlanmanın bazı yollarını ele alacağız.</p>
+<p>Yapay zeka (AI) araçları, tehlike altındaki diller ve azınlık dilleri için dil kaynağı oluşturma adına yeni bir alan açar. Sözlük, dil bilgisi belgeleri, dil haritaları vb. gibi dilleri korumak için oluşturulan “klasik” dil kaynaklarıyla karşılaştırıldığında, AI araçları daha az dilbilimsel uzmanlık gerektirir, ancak genellikle yalnızca büyük hacimlerde olduğunda yararlıdır.</p>
+<p>Bu bölümde, bir önceki bölümde anlattığımız yapay zeka tabanlı dil teknolojilerinin oluşturulmasını besleyen veri türlerini açıklayacağız. Ayrıca, genellikle bu uygulamaların gerektirdiği gibi büyük hacimli olmasalar bile, bu verileri toplamanın ve bunlardan en iyi şekilde yararlanmanın bazı yollarını ele alacağız.</p>
 <section id="text-corpus">
-<h2>Metin korpusu<a class="headerlink" href="#text-corpus" title="Bu başlık için kalıcı bağlantı"></a></h2>
-<p>In linguistics, a corpus (plural corpora) or text corpus is a language resource consisting of a large and structured set of texts in a language in digital format. They are useful in corpus linguistics for doing statistical analysis and hypothesis testing, checking occurrences or validating linguistic rules within a specific language territory. For language technology, they are an essential part in creating statistical language models that are used in applications such as optical character recognition, handwriting recognition, machine translation, spelling correction and assisted writing.</p>
-<p>Text corpora by themselves are of the type <em>unlabeled data</em>. That is, they are a mere collection of data (in this case text) without any annotations or labelling. Language models store the probabilities of sequences words in order to get an “understanding” for the language. Also, text corpora can be annotated with following information in order to create <em>labeled data</em> for different NLP tasks:</p>
+<h2>Metin derlemi<a class="headerlink" href="#text-corpus" title="Bu başlık için kalıcı bağlantı"></a></h2>
+<p>Dilbilimde, bir metin derlemi (İng. <em>text corpus</em>/<em>corpora</em>), bir dilde dijital formatta büyük ve yapılandırılmış bir metin kümesinden oluşan bir dil kaynağıdır. Derlem dilbiliminde (<em>corpus linguistics</em>) metin derlemlerinden, istatistiksel analiz yapmak ve hipotezi test etmek, oluşumları kontrol etmek veya belirli bir dil bölgesi içindeki dil kurallarını doğrulamak için faydalanılır. Dil teknolojileri açısından, optik karakter tanıma, el yazısı tanıma, makine çevirisi, yazım hataları düzeltme, bilgisayar destekli yazım gibi uygulamalarda kullanılan istatistiksel dil modellerinin oluşturulmasında önemli bir rol oynarlar.</p>
+<p>Metin derlemleri kendi başlarına <em>etiketlenmemiş veri</em> türündedir. Yani, sadece bir veri yığınıdır (bu durumda metin), herhangi bir açıklama veya etiket içermez. Dil modelleri, dille ilgili bir “fikir edinmek” için kelime dizilerinin olasılıklarını depolar. Ayrıca, farklı NLP görevleri için <em>etiketli veriler</em> oluşturmak amacıyla metin derlemlerine aşağıdaki açıklamalar eklenebilir:</p>
 <ul class="simple">
-<li><p><strong>Konuşma bölümü</strong> (İsim, fiil, Sıfat vb.)</p></li>
-<li><p><strong>Adlandırılan varlıklar</strong> (Kişi, konum, kişisel olarak tanımlanabilir bilgiler, kuruluş, zaman vb.)</p></li>
-<li><p><strong>Lemmas</strong> (kelimelerin kökleri, örneğin break for break)</p></li>
-<li><p><strong>Bağımlılık ve tümce yapısı</strong> (sözdizimsel ağaç)</p></li>
+<li><p><strong>Sözcük türü</strong> (İsim, fiil, Sıfat vb.)</p></li>
+<li><p><strong>Adlandırılmış varlıklar</strong> (Kişi, konum, kişisel olarak tanımlanabilir bilgiler, kurum, zaman vb.)</p></li>
+<li><p><strong>Lemma</strong> (kelime kökleri, ör. kırdı için kırmak gibi)</p></li>
+<li><p><strong>Bağımlılık ve öbek yapısı</strong> (sözdizimi ağacı)</p></li>
 </ul>
 <section id="sourcing-text-corpora">
-<h3>Kaynak metin derlemi<a class="headerlink" href="#sourcing-text-corpora" title="Bu başlık için kalıcı bağlantı"></a></h3>
-<p>The most common way of sourcing text corpora is through <em>crawling</em> the world wide web. This technique parses the whole web for collecting text in a certain language or many languages at once. Wikipedia <a class="reference external" href="https://en.wikipedia.org/wiki/Wikipedia:Database_download">publishes its content</a> in different languages which can be used to create text corpora. <a class="reference external" href="https://commoncrawl.org/">Common Crawl</a> initiative collects web site data and freely provides petabytes of data. OSCAR distributes this data classified into 166 languages.</p>
-<p>Kaynaklı diller tarafından kullanılan bir diğer yaygın kaynak ise kitaplardır. <a class="reference external" href="https://yknzhu.wixsite.com/mbweb">BookCorpus</a> web’den 74 Milyon cümle ve 984 Milyon kelime içeren 11.038 kitaptan oluşuyor ve büyük teknoloji şirketlerinin birçok etkili dil modelini desteklediği biliniyor.</p>
+<h3>Metin derlemlerine kaynak sağlama<a class="headerlink" href="#sourcing-text-corpora" title="Bu başlık için kalıcı bağlantı"></a></h3>
+<p>Metin derlemine kaynak sağlamanın en yaygın yolu, web’i <em>taramaktır</em>. Bu teknik, aynı anda belirli bir dilde veya birçok dilde metin toplamak için tüm web’i ayrıştırır (<em>parse</em>). Örneğin Wikipedia, içeriğini farklı dillerde <a class="reference external" href="https://en.wikipedia.org/wiki/Wikipedia:Database_download">yayınlar</a>, bu da bir metin derlemi oluşturmak için kullanılabilir. <a class="reference external" href="https://commoncrawl.org/">Common Crawl</a> inisiyatifi, web sitesi verilerini toplar ve halka petabaytlarca (1 PB=1024 terrabayt) veriyi ücretsiz olarak sağlar. OSCAR, bu verileri 166 dilde sınıflandırararak dağıtır.</p>
+<p>Kaynağı olan diller için kullanılan bir diğer yaygın kaynak ise kitaplardır. <a class="reference external" href="https://yknzhu.wixsite.com/mbweb">BookCorpus</a> web’den 74 Milyon cümle ve 984 Milyon kelime içeren 11.038 kitaptan oluşuyor ve büyük teknoloji şirketlerinin oluşturduğu birçok etki yaratan dil modelini desteklediği biliniyor.</p>
 <div class="admonition note">
 <p class="admonition-title">Not</p>
-<p>Language models that are created from data in the wild represent what they see, and nothing else. Language in the web and books contain as well biases, toxic language which eventually gets replicated in these models. For an analysis of potential risks of building language models out of big language corpora, refer to <a class="reference external" href="https://dl.acm.org/doi/abs/10.1145/3442188.3445922">this paper by Bender et al.</a></p>
+<p>Web’de ve kitaplardaki dil/üslup önyargı ya da toksik dil içerir. Buralarda açıkta bulunan verilerden oluşturulan dil modelleri, gördüklerini temsil etmekten başka bir şey yapmaz. Dolayısıyla bu üsluplar, modellerde yeniden üretilir. Büyük dil derlemlerinden dil modelleri oluşturmanın olası risklerinin analizi için, <a class="reference external" href="https://dl.acm.org/doi/abs/10.1145/3442188.3445922">Bender et al. tarafından yazılan bu makaleye</a> bakabilirsiniz.</p>
 </div>
 </section>
 </section>
 <section id="parallel-data-bitext">
-<h2>Paralel veri (bittext)<a class="headerlink" href="#parallel-data-bitext" title="Bu başlık için kalıcı bağlantı"></a></h2>
-<p>The type of data that is needed to build a machine translation system is parallel data, which consists of a collection of sentences in a language together with their translations. Historically, parallel data were sourced from translations in multilingual public spaces like United Nations, European Parliament. Now, the greatest resource of parallel text is the multilingual web.</p>
-<p>In order to train machine translation models it is not enough just to have translated documents. The texts need to be segmented to sentences and aligned. Parallel text alignment is the identification of the corresponding sentences in both sides of the parallel text. The resulting documents either have to correspond line by line or contain the original sentences and their translations in the same line. <a class="reference external" href="https://github.com/danielvarga/hunalign">Hunalign</a> helps in creating sentence alignments from translated documents. Translation memories (TMX files) also make great parallel data as they are already sentence segmented.</p>
+<h2>Paralel veri (bitext)<a class="headerlink" href="#parallel-data-bitext" title="Bu başlık için kalıcı bağlantı"></a></h2>
+<p>Paralel veri, bir makine çevirisi sistemi oluşturmak için ihtiyaç duyulan veri türüdür ve bir dildeki cümlelerin çevirileriyle birlikte bir araya gelmesinden oluşur. Tarihsel olarak paralel verilerin kaynağı Birleşmiş Milletler ya da Avrupa Parlamentosu gibi çok dilli kamusal alanlarda yapılan çeviriler olmuştur. Şu anda ise paralel metnin en büyük kaynağı çok dilli web’dir.</p>
+<p>Makine çevirisi modellerini eğitmek için sadece tercüme edilmiş belgelere sahip olmak yeterli değildir. Metinlerin cümlelere bölünmesi ve hizalanması gerekir. Paralel metin hizalama, paralel metnin her iki tarafında birbirine karşılık gelen cümlelerin tanımlanmasıdır. Ortaya çıkan belgeler ya satır satır karşılık gelmeli ya da orijinal cümleleri ve çevirilerini aynı satırda içermelidir. <a class="reference external" href="https://github.com/danielvarga/hunalign">Hunalign</a> çevrilmiş belgelerden cümle hizalamaları oluşturmaya yardımcı olur. TMX uzantılı çeviri hafızası dosyaları (<em>Translation Memories</em>) da hali hazırda cümle cümle segmentlere ayrılmış olduğu için iyi paralel veriler oluşturur.</p>
 <section id="sourcing-parallel-data">
-<h3>Paralel veri sağlama<a class="headerlink" href="#sourcing-parallel-data" title="Bu başlık için kalıcı bağlantı"></a></h3>
-<p><a class="reference external" href="https://opus.nlpl.eu/">OPUS</a> hemen hemen tüm kamuya açık paralel verilerin bir koleksiyonudur. MT modellerinin geliştirilmesi için birçok araştırmacının paralel verilerini veya kaynak verilerini yayınlaması için gidilecek noktadır.</p>
-<p>Paralel veriler için bazı yaygın kaynaklar şunlardır: - Çok dilli web siteleri (örneğin uluslararası haber kuruluşları), - Film altyazıları (bkz. <a class="reference external" href="https://opus.nlpl.eu/OpenSubtitles.php">OpenSubtitles</a>), - Kutsal metinler, - Parlamento işlemleri, - Yazılım yerelleştirme verileri.</p>
+<h3>Paralel veriye kaynak sağlama<a class="headerlink" href="#sourcing-parallel-data" title="Bu başlık için kalıcı bağlantı"></a></h3>
+<p><a class="reference external" href="https://opus.nlpl.eu/">OPUS</a> hemen hemen tüm kamuya açık paralel verilerin bir derlemesidir. Birçok araştırmacının, MT modelleri için kaynak verilerini toplamak veya paralel verilerini yayınlamak için başvurduğu ilk yerdir.</p>
+<p>Paralel veriler için bazı yaygın kaynaklar şunlardır: Çok dilli web siteleri (ör. uluslararası haber kuruluşları), film altyazıları (bkz. <a class="reference external" href="https://opus.nlpl.eu/OpenSubtitles.php">OpenSubtitles</a>), kutsal metinler, parlamento oturumları, yazılım yerelleştirme verileri.</p>
 </section>
 <section id="crowdsourcing-parallel-data-with-tatoeba-org">
-<h3>Crowdsourcing parallel data with Tatoeba.org<a class="headerlink" href="#crowdsourcing-parallel-data-with-tatoeba-org" title="Bu başlık için kalıcı bağlantı"></a></h3>
-<p>Tatoeba is a free collection of example sentences with translations geared towards foreign language learners. It is written and maintained by a community of volunteers through a model of open collaboration. It is hosted by Tatoeba Association, a French non-profit organization funded through donations. It currently holds 10,397,308 sentences in 412 supported languages.</p>
+<h3>Tatoeba.org ile kitle kaynaklı paralel veriler sağlama<a class="headerlink" href="#crowdsourcing-parallel-data-with-tatoeba-org" title="Bu başlık için kalıcı bağlantı"></a></h3>
+<p>Tatoeba, yabancı dil öğrenenlere yönelik hazırlanmış, çevirileri ile birlikte sunulan ücretsiz bir örnek cümleler veri tabanıdır. Açık ve ortak çalışma modeli aracılığıyla bir gönüllüler topluluğu tarafından yazılır ve sürdürülür. Bağışlarla finanse edilen kar amacı gütmeyen Fransız kuruluş Tatoeba Association tarafından sunulur. Şu anda 412 desteklenen dilde 10.397.308 cümle barındırır.</p>
 <figure class="align-center" id="id3">
 <img alt="Tatoeba’dan bir cümle ve çevirileri" src="_images/tatoeba.png" />
 <figcaption>
 <p><span class="caption-text">Tatoeba’dan bir cümle ve çevirileri</span><a class="headerlink" href="#id3" title="Bu resmin kalıcı bağlantısı"></a></p>
 </figcaption>
 </figure>
-<p>Kullanıcılar, onları kullanan cümleleri almak için herhangi bir dilde kelimeleri arayabilir. Tatoeba veri tabanındaki her cümle, diğer dillerdeki olası çevirilerinin yanında görüntülenir; Doğrudan ve dolaylı çeviriler birbirinden ayrılır. Cümleler, konu, lehçe veya kabalık gibi içerik için etiketlenir; ayrıca diğer kullanıcılardan ve kültürel notlardan gelen geri bildirimleri ve düzeltmeleri kolaylaştırmak için her birinin ayrı yorum dizileri vardır. Cümleler dil, etiket ve diğer kriterlere göre taranabilir.</p>
-<p>Kayıtlı kullanıcılar, hedef dilleri ana dilleri olmasa bile yeni cümleler ekleyebilir veya mevcut cümleleri çevirebilir veya düzeltebilir. Ancak, kullanıcıların kendi ana dillerinde veya en güçlü dillerinde orijinal cümleler veya çeviriler eklemeleri önerilir.</p>
-<p>Tatoeba veritabanının tamamı Creative Commons Attribution 2.0 lisansı altında yayınlanmaktadır. Ayrıca, <cite>indirmeler sayfasından &lt;https://tatoeba.org/en/downloads&gt;</cite> corpora bölümlerini tek dilli veya paralel biçimde indirmek çok kolaydır.</p>
+<p>Kullanıcılar, herhangi bir dilde kelimeleri arayabilir, bu kelimelerin geçtiği cümleleri bulabilirler. Tatoeba veri tabanındaki her cümle, yanında diğer dillerdeki olası çevirileriyle birlikte gösterilir; doğrudan ve dolaylı çeviriler birbirinden ayrılır. Cümle içerikleri konu, diyalekt veya müstehcenlik gibi etkiletlerle belirtilir; ayrıca kültürel notlar ve diğer kullanıcılardan gelen geri bildirimler ve düzeltmeleri kolaylaştırmak için her birinin ayrı yorum zincirleri bulunur. Cümleler dil, etiket ve başka kriterlere göre aranabilir.</p>
+<p>Kayıtlı kullanıcılar, hedef dil kendi ana dilleri olmasa bile yeni cümleler ekleyebilir veya mevcut cümleleri çevirebilir veya düzeltebilir. Ancak, kullanıcıların kendi ana dillerinde veya en iyi bildikleri dillerde orijinal cümleler veya çeviriler eklemeleri önerilir.</p>
+<p>Tatoeba veritabanının tamamı Creative Commons Atıf 2.0 lisansı altında yayınlanmaktadır. Ayrıca, <a class="reference external" href="https://tatoeba.org/en/downloads">downloads sayfasından</a> parça parça derlemleri tek dilli veya paralel biçimde indirmek çok kolaydır.</p>
 </section>
 </section>
 <section id="speech-corpus">
 <h2>Konuşma derlemi<a class="headerlink" href="#speech-corpus" title="Bu başlık için kalıcı bağlantı"></a></h2>
-<p>A speech corpus is a collection of speech audio files usually accompanied with their text transcriptions. In speech technology, speech corpora are used to create acoustic models for tasks like automatic speech recognition, text-to-speech synthesis and also speaker identification.</p>
-<p>Speech corpora can contain read (e.g. audiobooks, news, read numbers and words) or spontaneous speech (dialogues). Corpora adequeate for training ASR models contain samples from as many speakers as possible and in various acoustic settings (e.g. noisy, from far). In contrast, training data for TTS contains usually recordings from one speaker in an acoustically optimal setting.</p>
+<p>Bir konuşma derlemi (<em>speech corpus/corpora</em>), konuşma ses dosyalarının ve genellikle bunların metin transkripsiyonlarının bir toplamıdır. Konuşma teknolojisinde konuşma derlemleri otomatik konuşma tanıma, metin-konuşma sentezi veya konuşmacı tanımlama gibi görevler için akustik modeller oluşturmak için kullanılır.</p>
+<p>Konuşma derlemi okunmuş (ör. sesli kitaplar, haberler, okunmuş sayı veya kelimeler) veya doğal konuşmalar (diyaloglar) içerebilir. ASR (otomatik konuşma tanıma) modelleri eğitmeye uygun derlemler, mümkün olduğunca çok konuşmacıdan çeşitli akustik ortamlarda (ör. gürültülü, uzaktan) toplanan örnek konuşmaları içerir. Bunun tersine, TTS eğitim verileri çoğu zaman ideal akustik ortamda tek bir konuşmacıdan alınan kayıtlardan oluşur.</p>
 <p><a class="reference external" href="https://www.openslr.org/resources.php">OpenSLR</a> halka açık birçok konuşma derlemini listeler.</p>
 <section id="common-voice">
 <h3>Common Voice<a class="headerlink" href="#common-voice" title="Bu başlık için kalıcı bağlantı"></a></h3>
-<p><a class="reference external" href="https://commonvoice.mozilla.org/">Common Voice</a>, konuşma tanımayı herkes için erişilebilir kılmak için ücretsiz bir veritabanı oluşturmak amacıyla Mozilla tarafından başlatılan bir kitle kaynaklı projedir. Proje, mikrofonla örnek cümleler kaydeden ve diğer kullanıcıların kayıtlarını inceleyen gönüllüler tarafından destekleniyor. Seslendirilmiş örnekler, CC0 kamu malı lisansı (<a class="reference external" href="https://en.wikipedia.org/wiki/Public_domain">public domain</a>) altında düzenli aralıklarla yayınlanır. Bu lisans, geliştiricilerin veritabanını sesten metne uygulamalar için kısıtlama veya maliyet olmaksızın kullanabilmelerini sağlar.</p>
+<p><a class="reference external" href="https://commonvoice.mozilla.org/">Common Voice</a>, konuşma tanımayı herkes için erişilebilir kılmak için ücretsiz bir veritabanı oluşturmak amacıyla Mozilla tarafından başlatılan bir kitle kaynaklı projedir. Proje, mikrofonla örnek cümleler kaydeden ve diğer kullanıcıların kayıtlarını kontrol eden gönüllüler tarafından desteklenir. Seslendirilmiş örnekler, <a class="reference external" href="https://tr.wikipedia.org/wiki/Kamu_mal%C4%B1">CC0 kamu malı</a> (<a class="reference external" href="https://en.wikipedia.org/wiki/Public_domain">public domain</a>) lisansı altında düzenli aralıklarla yayınlanır. Bu lisans, geliştiricilerin veritabanını sesten-metne-çevirme uygulamaları için kısıtlama veya maliyet olmaksızın kullanabilmelerini sağlar.</p>
 <div class="admonition note">
 <p class="admonition-title">Not</p>
-<p>As of May 2022, Common Voice supports 63 languages with 68 new on the way. Check here the current list of languages: <a class="reference external" href="https://commonvoice.mozilla.org/en/languages">https://commonvoice.mozilla.org/en/languages</a>.</p>
+<p>Mayıs 2022 itibarıyla Common Voice 63 dili desteklemektedir, 68 yeni dil de desteklenme aşamasındadır. Mevcut dil listesine <a class="reference external" href="https://commonvoice.mozilla.org/en/languages">buradan</a> bakabilirsiniz.</p>
 </div>
 <figure class="align-center" id="id4">
-<img alt="Common Voice’a Kurmanci Kürtçe bir cümle kaydetme" src="_images/cv_kurmanji.png" />
+<img alt="Common Voice’ta Kurmanci Kürtçe bir cümle kaydetme" src="_images/cv_kurmanji.png" />
 <figcaption>
-<p><span class="caption-text">Common Voice’a Kurmanci Kürtçe bir cümle kaydetme</span><a class="headerlink" href="#id4" title="Bu resmin kalıcı bağlantısı"></a></p>
+<p><span class="caption-text">Common Voice’ta Kurmanci Kürtçe bir cümle kaydetme</span><a class="headerlink" href="#id4" title="Bu resmin kalıcı bağlantısı"></a></p>
 </figcaption>
 </figure>
 </section>
 <section id="adding-a-language-to-common-voice">
 <h3>Common Voice’a dil ekleme<a class="headerlink" href="#adding-a-language-to-common-voice" title="Bu başlık için kalıcı bağlantı"></a></h3>
-<p>Common Voice works as a community platform where each language has their own community. The procedure for adding a new language into Common Voice is as follows:</p>
+<p>Common Voice, her dilin kendi topluluğuna sahip olduğu bir topluluk platformu olarak çalışır. Common Voice’a yeni bir dilin eklenmesi prosedürü aşağıdaki gibidir:</p>
 <ol class="arabic simple">
-<li><p><strong>Find a community manager for the language</strong> (<a class="reference external" href="https://mozilla-l10n.github.io/localizer-documentation/community/l10n_community_roles.html">Information on roles</a>)</p></li>
-<li><p><strong>Localization request to Mozilla</strong> This is done using <a class="reference external" href="https://github.com/common-voice/common-voice/issues/new?assignees=phirework&amp;labels=&amp;template=language_request.md&amp;title=LOCALIZATION+REQUEST%3A+">this template</a> on their github page. This will start the localization process of Common Voice to the desired language by placing it on Pontoon.</p></li>
-<li><p><strong>Localization on Pontoon</strong> (<a class="reference external" href="https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/index.html">user manual</a>) Every string on Common Voice platform needs to be translated to the language respecting the style guide. In total there are 663 strings. Translations can be made by any speaker who registers to the platform, but they need to be reviewed by the community manager.</p></li>
-<li><p><strong>Sentence collection</strong> A minimum of 5000 public domain sentences needs to be collected and entered to <a class="reference external" href="https://commonvoice.mozilla.org/sentence-collector">Common Voice sentence collector</a>.</p></li>
-<li><p><strong>Reviewing sentences</strong> Each collected sentence needs to be reviewed manually by at least two users on sentence collector.</p></li>
-<li><p><strong>Wait for next CV release</strong> Once localization is complete and there are 5000 reviewed sentences, next CV release should contain your language. Releases are done done twice a month with schedules listed on <a class="reference external" href="https://github.com/common-voice/common-voice">their github repository</a>.</p></li>
+<li><p><strong>Dil için bir topluluk yöneticisi bulma</strong> (<a class="reference external" href="https://mozilla-l10n.github.io/localizer-documentation/community/l10n_community_roles.html">Roller hakkında bilgi</a>)</p></li>
+<li><p><strong>Mozilla’ya yerelleştirme isteği gönderme</strong> Bu, github sayfalarında <a class="reference external" href="https://github.com/common-voice/common-voice/issues/new?assignees=phirework&amp;labels=&amp;template=language_request.md&amp;title=LOCALIZATION+REQUEST%3A+">bu şablon</a> kullanılarak yapılır. Bu işlem, istenen dili Pontoon’a yerleştirmek suretiyle Common Voice’un bu dile yerelleştirme sürecini başlatacaktır.</p></li>
+<li><p><strong>Pontoon’da yerelleştirme süreci</strong> (<a class="reference external" href="https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/index.html">kullanım kılavuzu</a>). Common Voice platformundaki her dize, stil kılavuzuna uygun olarak yerelleştirilmek istenen dile çevrilmelidir. Toplam 663 dize bulunur. Çeviriler, platforma kaydolan ve o dili konuşan herhangi bir kullanıcı tarafından yapılabilir, ancak bu çevirilerin topluluk yöneticisi tarafından gözden geçirilmesi gerekir.</p></li>
+<li><p><strong>Cümle toplama</strong> En az 5000 kamu malı olan cümlenin toplanması ve <a class="reference external" href="https://commonvoice.mozilla.org/sentence-collector">Common Voice cümle toplayıcıya</a> girilmesi gerekir.</p></li>
+<li><p><strong>Cümlelerin gözden geçirilmesi</strong> Toplanan her cümle, cümle toplayıcıda en az iki kullanıcı tarafından manuel olarak kontrol edilmelidir.</p></li>
+<li><p><strong>Bir sonraki Common Voice sürümünü bekleme</strong> Yerelleştirme tamamlandığında ve 5000 cümlenin kontrolü bittiğinde, bir sonraki Common Voice sürümü dilinizi içerecektir. Sürümler ayda iki kez yapılır ve takvimleri <a class="reference external" href="https://github.com/common-voice/common-voice">github verihavuzunda</a> listelenir.</p></li>
 </ol>
 </section>
 <section id="found-data">
-<h3>Bulumuş veriler<a class="headerlink" href="#found-data" title="Bu başlık için kalıcı bağlantı"></a></h3>
-<p>It is also possible to source voice data from broadcast radio shows, movies and other recorded material like interviews. This type of data is called “found data” as it is not originally intended to serve for builing voice technology but it is <em>repurposed</em> to do so. Found data requires to be processed in order to obtain short audio segments and their transcriptions.</p>
+<h3>Bulunmuş veriler<a class="headerlink" href="#found-data" title="Bu başlık için kalıcı bağlantı"></a></h3>
+<p>Ayrıca, radyo programlarından, filmlerden ve röportajlar gibi kayıtlı materyallerden ses verileri elde etmek de mümkündür. Bu tür veriler, orijinal olarak ses teknolojisi oluşturmaya hizmet etmesi amaçlanmadığı için “bulunmuş veriler” olarak adlandırılır, ancak <em>başka bir amaca hizmet</em> etmek üzere uyarlanır. Bulunmuşn verilerin kısa ses segmentleri ve bunların transkripsiyonlarını elde etmek için işlenmesi gerekir.</p>
 </section>
 <section id="sources">
 <h3>Kaynaklar<a class="headerlink" href="#sources" title="Bu başlık için kalıcı bağlantı"></a></h3>
 <ul class="simple">
-<li><p><a class="reference external" href="https://en.wikipedia.org/wiki/Text_corpus">Wikipedia’daki metin derlemi</a></p></li>
-<li><p><a class="reference external" href="https://en.wikipedia.org/wiki/Tatoeba">Vikipedi’de Tatoeba</a></p></li>
+<li><p><a class="reference external" href="https://en.wikipedia.org/wiki/Text_corpus">Wikipedia’da metin derlemi</a></p></li>
+<li><p><a class="reference external" href="https://en.wikipedia.org/wiki/Tatoeba">Wikipedia’da Tatoeba</a></p></li>
 <li><p><a class="reference external" href="https://en.wikipedia.org/wiki/Speech_corpus">Wikipedia’da konuşma derlemi</a></p></li>
 <li><p><a class="reference external" href="https://en.wikipedia.org/wiki/Common_Voice">Wikipedia’da Common Voice</a></p></li>
 </ul>
@@ -193,7 +193,7 @@
 <figure class="align-center" id="id5">
 <img alt="_images/logos.png" src="_images/logos.png" />
 <figcaption>
-<p><span class="caption-text">Bu belge Avrupa Birliği’nin mali desteğiyle oluşturulmuştur. Bu web sitesinin içeriği yalnızca Col·lectivaT ve SKAD’ın sorumluluğundadır ve Avrupa Birliği’nin görüşlerini yansıtmayabilir.</span><a class="headerlink" href="#id5" title="Bu resmin kalıcı bağlantısı"></a></p>
+<p><span class="caption-text">Bu yayın Avrupa Birliğinin maddi desteği ile hazırlanmıştır. İçerik tamamıyla Col·lectivaT ve SKAD’ın sorumluluğundadır ve Avrupa Birliğinin görüşlerini yansıtmak zorunda değildir.</span><a class="headerlink" href="#id5" title="Bu resmin kalıcı bağlantısı"></a></p>
 </figcaption>
 </figure>
 </section>
