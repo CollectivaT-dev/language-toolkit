@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/CollectivaT-dev/Espanyol-Ladino-Translation/master/img/ab-tr.jpg"></p>
+
 # Toolkit for Minority/Low-resource Languages: Documentation
 
 This is the source of the online document that is hosted [here](https://language-toolkit.readthedocs.io/en/latest/). It is built using Sphinx and the repository was forked from "the template for the Read the Docs tutorial". 
@@ -60,3 +62,10 @@ Pushing the `.po` files will create the new versions of the readthedocs translat
 For more information read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
+
+---
+
+<p align="center"><img src="https://raw.githubusercontent.com/CollectivaT-dev/Espanyol-Ladino-Translation/master/img/logos.png"></p>
+
+
+This repo is developed as part of project "Judeo-Spanish: Connecting the two ends of the Mediterranean" carried out by Col·lectivaT and Sephardic Center of Istanbul within the framework of the “Grant Scheme for Common Cultural Heritage: Preservation and Dialogue between Turkey and the EU–II (CCH-II)” implemented by the Ministry of Culture and Tourism of the Republic of Turkey with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and does not necessarily reflect the views of the European Union. 
